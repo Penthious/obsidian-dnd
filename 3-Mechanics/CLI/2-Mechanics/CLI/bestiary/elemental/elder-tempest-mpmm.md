@@ -16,7 +16,7 @@ aliases: ["Elder Tempest"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200"
 ---
 # [Elder Tempest](2-Mechanics/CLI/bestiary/elemental/elder-tempest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200*  

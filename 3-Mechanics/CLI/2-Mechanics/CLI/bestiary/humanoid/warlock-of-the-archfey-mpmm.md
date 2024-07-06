@@ -16,7 +16,7 @@ aliases: ["Warlock of the Archfey"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219"
 ---
 # [Warlock of the Archfey](2-Mechanics/CLI/bestiary/humanoid/warlock-of-the-archfey-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  

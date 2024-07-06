@@ -12,7 +12,7 @@ aliases: ["Chief Nosnra"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 170
+BookSource: "Tales from the Yawning Portal p. 170"
 ---
 # [Chief Nosnra](2-Mechanics/CLI/bestiary/npc/chief-nosnra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  

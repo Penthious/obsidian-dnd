@@ -11,7 +11,7 @@ aliases: ["Infected Townsperson"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 139
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 139"
 ---
 # [Infected Townsperson](2-Mechanics/CLI/bestiary/humanoid/infected-townsperson-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 139*  

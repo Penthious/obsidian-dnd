@@ -12,7 +12,7 @@ aliases: ["Tashlyn Yafeera"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 200
+BookSource: "Waterdeep: Dragon Heist p. 200"
 ---
 # [Tashlyn Yafeera](2-Mechanics/CLI/bestiary/npc/tashlyn-yafeera-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 200*  

@@ -12,7 +12,7 @@ aliases: ["Jingle Jangle"]
 NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 70
+BookSource: "The Wild Beyond the Witchlight p. 70"
 ---
 # [Jingle Jangle](2-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 70*  

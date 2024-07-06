@@ -19,7 +19,7 @@ classes:
 aliases: ["Foresight"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 244. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 244. Available in the SRD and the Basic Rules."
 ---
 # Foresight
 *9th-level, Divination*  

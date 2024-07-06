@@ -8,7 +8,7 @@ tags:
 aliases: ["Hag Eye"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Monster Manual p. 177
+BookSource: "Monster Manual p. 177"
 ---
 # Hag Eye
 *Other, unknown (magic)*  

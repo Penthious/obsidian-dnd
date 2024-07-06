@@ -7,7 +7,7 @@ tags:
 aliases: ["Hermit"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 134
+BookSource: "Player's Handbook p. 134"
 ---
 # Hermit
 *Source: Player's Handbook p. 134*  

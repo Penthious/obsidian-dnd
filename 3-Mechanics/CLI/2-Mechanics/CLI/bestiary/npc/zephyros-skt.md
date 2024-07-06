@@ -12,7 +12,7 @@ aliases: ["Zephyros"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 33
+BookSource: "Storm King's Thunder p. 33"
 ---
 # [Zephyros](2-Mechanics/CLI/bestiary/npc/zephyros-skt.md)
 *Source: Storm King's Thunder p. 33*  

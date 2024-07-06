@@ -13,7 +13,7 @@ aliases: ["Wyvern"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 303, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 303, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Wyvern](2-Mechanics/CLI/bestiary/dragon/wyvern.md)
 *Source: Monster Manual p. 303, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

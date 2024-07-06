@@ -12,7 +12,7 @@ aliases: ["Khalessa Draga"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 149
+BookSource: "Out of the Abyss p. 149"
 ---
 # [Khalessa Draga](2-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md)
 *Source: Out of the Abyss p. 149*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Figurine of Wondrous Power, Onyx Dog"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 170. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 170. Available in the SRD."
 ---
 # Figurine of Wondrous Power, Onyx Dog
 *Wondrous Item, major, rare*  

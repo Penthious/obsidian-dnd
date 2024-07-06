@@ -13,7 +13,7 @@ aliases: ["Raggadragga"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 87
+BookSource: "Baldur's Gate: Descent Into Avernus p. 87"
 ---
 # [Raggadragga](2-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 87*  

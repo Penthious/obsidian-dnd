@@ -11,7 +11,7 @@ aliases: ["Young Griffon (Tiny)"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 163
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 163"
 ---
 # [Young Griffon (Tiny)](2-Mechanics/CLI/bestiary/monstrosity/young-griffon-tiny-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 163*  

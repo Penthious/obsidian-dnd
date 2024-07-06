@@ -12,7 +12,7 @@ aliases: ["F'yorl"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 183
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 183"
 ---
 # [F'yorl](2-Mechanics/CLI/bestiary/npc/fyorl-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 183*  

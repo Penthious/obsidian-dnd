@@ -21,7 +21,7 @@ classes:
 aliases: ["Warding Wind"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 170
+BookSource: "Xanathar's Guide to Everything p. 170"
 ---
 # Warding Wind
 *2nd-level, Evocation*  

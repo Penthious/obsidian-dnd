@@ -12,7 +12,7 @@ aliases: ["Emberosa"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 185
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 185"
 ---
 # [Emberosa](2-Mechanics/CLI/bestiary/npc/emberosa-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 185*  

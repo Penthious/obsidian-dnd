@@ -13,7 +13,7 @@ aliases: ["Strongheart"]
 NoteIcon: npc
 BestiaryType: humanoid (human, paladin)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 228
+BookSource: "The Wild Beyond the Witchlight p. 228"
 ---
 # [Strongheart](2-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 228*  

@@ -12,7 +12,7 @@ aliases: ["Augrek Brighthelm"]
 NoteIcon: npc
 BestiaryType: humanoid (Shield dwarf)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 247
+BookSource: "Storm King's Thunder p. 247"
 ---
 # [Augrek Brighthelm](2-Mechanics/CLI/bestiary/npc/augrek-brighthelm-skt.md)
 *Source: Storm King's Thunder p. 247*  

@@ -11,7 +11,7 @@ aliases: ["Drow Noble"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 196
+BookSource: "Out of the Abyss p. 196"
 ---
 # [Drow Noble](2-Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md)
 *Source: Out of the Abyss p. 196*  

@@ -12,7 +12,7 @@ aliases: ["Urstul Floxin"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 216
+BookSource: "Waterdeep: Dragon Heist p. 216"
 ---
 # [Urstul Floxin](2-Mechanics/CLI/bestiary/npc/urstul-floxin-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

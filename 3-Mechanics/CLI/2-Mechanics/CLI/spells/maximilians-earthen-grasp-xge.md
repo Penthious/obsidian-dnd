@@ -17,7 +17,7 @@ classes:
 aliases: ["Maximilian's Earthen Grasp"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 161
+BookSource: "Xanathar's Guide to Everything p. 161"
 ---
 # Maximilian's Earthen Grasp
 *2nd-level, Transmutation*  

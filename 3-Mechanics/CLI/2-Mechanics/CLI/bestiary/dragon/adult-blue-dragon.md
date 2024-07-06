@@ -13,7 +13,7 @@ aliases: ["Adult Blue Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 91, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 91, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Adult Blue Dragon](2-Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md)
 *Source: Monster Manual p. 91, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  

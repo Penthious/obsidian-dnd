@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Gem (Lapis lazuli)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 223
+BookSource: "Out of the Abyss p. 223"
 ---
 # Spell Gem (Lapis lazuli)
 *Wondrous Item, uncommon (attunement optional)*  

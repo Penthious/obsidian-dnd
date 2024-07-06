@@ -12,7 +12,7 @@ aliases: ["Marfulb"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 35
+BookSource: "The Rise of Tiamat p. 35"
 ---
 # [Marfulb](2-Mechanics/CLI/bestiary/npc/marfulb-rot.md)
 *Source: The Rise of Tiamat p. 35*  

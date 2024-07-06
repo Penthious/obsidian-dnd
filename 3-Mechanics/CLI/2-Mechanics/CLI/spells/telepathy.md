@@ -13,7 +13,7 @@ classes:
 aliases: ["Telepathy"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 281
+BookSource: "Player's Handbook p. 281"
 ---
 # Telepathy
 *8th-level, Evocation*  

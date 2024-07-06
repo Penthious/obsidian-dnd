@@ -8,7 +8,7 @@ tags:
 aliases: ["Storm Boomerang"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 223
+BookSource: "Princes of the Apocalypse p. 223"
 ---
 # Storm Boomerang
 *Ranged Weapon, uncommon*  

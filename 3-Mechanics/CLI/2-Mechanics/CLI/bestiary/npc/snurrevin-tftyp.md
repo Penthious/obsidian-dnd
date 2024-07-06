@@ -12,7 +12,7 @@ aliases: ["Snurrevin"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 53
+BookSource: "Tales from the Yawning Portal p. 53"
 ---
 # [Snurrevin](2-Mechanics/CLI/bestiary/npc/snurrevin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 53*  

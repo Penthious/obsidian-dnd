@@ -12,7 +12,7 @@ aliases: ["Morgantha"]
 NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 48
+BookSource: "Curse of Strahd p. 48"
 ---
 # [Morgantha](2-Mechanics/CLI/bestiary/npc/morgantha-cos.md)
 *Source: Curse of Strahd p. 48*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Stonespeaker Crystal"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 223
+BookSource: "Out of the Abyss p. 223"
 ---
 # Stonespeaker Crystal
 *Wondrous Item, rare (requires attunement)*  

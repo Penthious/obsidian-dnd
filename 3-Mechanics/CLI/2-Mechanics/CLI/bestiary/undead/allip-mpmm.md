@@ -13,7 +13,7 @@ aliases: ["Allip"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116"
 ---
 # [Allip](2-Mechanics/CLI/bestiary/undead/allip-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116*  

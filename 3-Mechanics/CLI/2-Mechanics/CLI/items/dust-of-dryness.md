@@ -9,7 +9,7 @@ tags:
 aliases: ["Dust of Dryness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 166. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 166. Available in the SRD."
 ---
 # Dust of Dryness
 *Wondrous Item, minor, uncommon*  

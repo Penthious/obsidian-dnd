@@ -7,7 +7,7 @@ tags:
 aliases: ["Electrum (ep)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 143
+BookSource: "Player's Handbook p. 143"
 ---
 # Electrum (ep)
 *Coinage*  

@@ -11,7 +11,7 @@ aliases: ["Unspeakable Horror"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 250
+BookSource: "Van Richten's Guide to Ravenloft p. 250"
 ---
 # [Unspeakable Horror](2-Mechanics/CLI/bestiary/monstrosity/unspeakable-horror-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 250*  

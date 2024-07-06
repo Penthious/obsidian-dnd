@@ -11,7 +11,7 @@ aliases: ["Yakfolk Warrior"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 244
+BookSource: "Storm King's Thunder p. 244"
 ---
 # [Yakfolk Warrior](2-Mechanics/CLI/bestiary/monstrosity/yakfolk-warrior-skt.md)
 *Source: Storm King's Thunder p. 244*  

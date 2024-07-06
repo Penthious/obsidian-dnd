@@ -13,7 +13,7 @@ aliases: ["Sahuagin Baron"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Monster Manual p. 264, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 264, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Journeys through the Radiant Citadel"
 ---
 # [Sahuagin Baron](2-Mechanics/CLI/bestiary/humanoid/sahuagin-baron.md)
 *Source: Monster Manual p. 264, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Journeys through the Radiant Citadel*  

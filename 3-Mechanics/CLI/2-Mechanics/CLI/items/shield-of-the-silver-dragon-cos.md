@@ -9,7 +9,7 @@ tags:
 aliases: ["Shield of the Silver Dragon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 68
+BookSource: "Curse of Strahd p. 68"
 ---
 # Shield of the Silver Dragon
 *Shield, major, rare*  

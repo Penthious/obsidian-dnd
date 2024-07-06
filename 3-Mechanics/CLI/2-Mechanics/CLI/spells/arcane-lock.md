@@ -17,7 +17,7 @@ classes:
 aliases: ["Arcane Lock"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 215. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 215. Available in the SRD and the Basic Rules."
 ---
 # Arcane Lock
 *2nd-level, Abjuration*  

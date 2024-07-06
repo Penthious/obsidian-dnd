@@ -13,7 +13,7 @@ aliases: ["Mimic"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 220, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 220, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Mimic](2-Mechanics/CLI/bestiary/monstrosity/mimic.md)
 *Source: Monster Manual p. 220, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.*  

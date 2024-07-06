@@ -9,7 +9,7 @@ tags:
 aliases: ["Brazier of Commanding Fire Elementals"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 156. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 156. Available in the SRD."
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous Item, major, rare*  

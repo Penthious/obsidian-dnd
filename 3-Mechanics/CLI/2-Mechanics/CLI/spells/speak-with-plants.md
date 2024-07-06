@@ -15,7 +15,7 @@ classes:
 aliases: ["Speak with Plants"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 277. Available in the SRD.
+BookSource: "Player's Handbook p. 277. Available in the SRD."
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

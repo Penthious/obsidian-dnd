@@ -11,7 +11,7 @@ aliases: ["Harpy Matriarch"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 237
+BookSource: "Ghosts of Saltmarsh p. 237"
 ---
 # [Harpy Matriarch](2-Mechanics/CLI/bestiary/monstrosity/harpy-matriarch-gos.md)
 *Source: Ghosts of Saltmarsh p. 237*  

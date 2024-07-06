@@ -11,7 +11,7 @@ aliases: ["Eternal Flame Guardian"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 200
+BookSource: "Princes of the Apocalypse p. 200"
 ---
 # [Eternal Flame Guardian](2-Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md)
 *Source: Princes of the Apocalypse p. 200*  

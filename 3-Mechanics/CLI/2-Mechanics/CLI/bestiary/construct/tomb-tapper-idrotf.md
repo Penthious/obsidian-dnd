@@ -11,7 +11,7 @@ aliases: ["Tomb Tapper"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 310
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 310"
 ---
 # [Tomb Tapper](2-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 310*  

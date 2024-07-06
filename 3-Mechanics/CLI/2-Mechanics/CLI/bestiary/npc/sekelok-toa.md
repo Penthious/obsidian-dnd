@@ -12,7 +12,7 @@ aliases: ["Sekelok"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 120
+BookSource: "Tomb of Annihilation p. 120"
 ---
 # [Sekelok](2-Mechanics/CLI/bestiary/npc/sekelok-toa.md)
 *Source: Tomb of Annihilation p. 120*  

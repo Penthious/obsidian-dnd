@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Devil's Tongue)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Sword Coast Adventurer's Guide p. 118
+BookSource: "Sword Coast Adventurer's Guide p. 118"
 ---
 # Tiefling (Devil's Tongue)
 *Source: Sword Coast Adventurer's Guide p. 118*  

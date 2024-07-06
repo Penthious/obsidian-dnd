@@ -23,7 +23,7 @@ classes:
 aliases: ["Suggestion"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 279. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 279. Available in the SRD and the Basic Rules."
 ---
 # Suggestion
 *2nd-level, Enchantment*  

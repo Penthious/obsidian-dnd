@@ -12,7 +12,7 @@ aliases: ["Eigeron's Ghost"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 129
+BookSource: "Storm King's Thunder p. 129"
 ---
 # [Eigeron's Ghost](2-Mechanics/CLI/bestiary/npc/eigerons-ghost-skt.md)
 *Source: Storm King's Thunder p. 129*  

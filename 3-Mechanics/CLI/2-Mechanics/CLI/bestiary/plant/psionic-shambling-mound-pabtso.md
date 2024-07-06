@@ -11,7 +11,7 @@ aliases: ["Psionic Shambling Mound"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 108
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 108"
 ---
 # [Psionic Shambling Mound](2-Mechanics/CLI/bestiary/plant/psionic-shambling-mound-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 108*  

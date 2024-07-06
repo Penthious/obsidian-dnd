@@ -11,7 +11,7 @@ aliases: ["Animated Staff"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 262
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 262"
 ---
 # [Animated Staff](2-Mechanics/CLI/bestiary/construct/animated-staff-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 262*  

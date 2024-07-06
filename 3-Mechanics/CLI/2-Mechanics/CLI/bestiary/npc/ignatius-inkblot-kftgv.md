@@ -12,7 +12,7 @@ aliases: ["Ignatius Inkblot"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 169
+BookSource: "Keys from the Golden Vault p. 169"
 ---
 # [Ignatius Inkblot](2-Mechanics/CLI/bestiary/npc/ignatius-inkblot-kftgv.md)
 *Source: Keys from the Golden Vault p. 169*  

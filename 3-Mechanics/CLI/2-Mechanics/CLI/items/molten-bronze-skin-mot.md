@@ -9,7 +9,7 @@ tags:
 aliases: ["Molten Bronze Skin"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 197
+BookSource: "Mythic Odysseys of Theros p. 197"
 ---
 # Molten Bronze Skin
 *Generic Variant, rare (requires attunement)*  

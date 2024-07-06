@@ -12,7 +12,7 @@ aliases: ["Othovir"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 255
+BookSource: "Storm King's Thunder p. 255"
 ---
 # [Othovir](2-Mechanics/CLI/bestiary/npc/othovir-skt.md)
 *Source: Storm King's Thunder p. 255*  

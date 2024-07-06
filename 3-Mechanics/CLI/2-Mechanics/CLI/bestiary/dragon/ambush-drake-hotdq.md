@@ -11,7 +11,7 @@ aliases: ["Ambush Drake"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 88
+BookSource: "Hoard of the Dragon Queen p. 88"
 ---
 # [Ambush Drake](2-Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 88*  

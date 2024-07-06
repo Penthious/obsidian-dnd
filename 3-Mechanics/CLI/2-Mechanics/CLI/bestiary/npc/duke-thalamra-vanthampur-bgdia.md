@@ -12,7 +12,7 @@ aliases: ["Duke Thalamra Vanthampur"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 38
+BookSource: "Baldur's Gate: Descent Into Avernus p. 38"
 ---
 # [Duke Thalamra Vanthampur](2-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 38*  

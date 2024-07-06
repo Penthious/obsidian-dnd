@@ -12,7 +12,7 @@ aliases: ["Hill Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 155, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 155, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Hill Giant](2-Mechanics/CLI/bestiary/giant/hill-giant.md)
 *Source: Monster Manual p. 155, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

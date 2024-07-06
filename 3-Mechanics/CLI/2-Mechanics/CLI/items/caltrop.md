@@ -7,7 +7,7 @@ tags:
 aliases: ["Caltrop"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 151. Available in the SRD and the Basic Rules."
 ---
 # Caltrop
 *Adventuring Gear*  

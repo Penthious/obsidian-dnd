@@ -12,7 +12,7 @@ aliases: ["Sanbalet"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 252
+BookSource: "Ghosts of Saltmarsh p. 252"
 ---
 # [Sanbalet](2-Mechanics/CLI/bestiary/npc/sanbalet-gos.md)
 *Source: Ghosts of Saltmarsh p. 252*  

@@ -14,7 +14,7 @@ aliases: ["Flail Snail"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144"
 ---
 # [Flail Snail](2-Mechanics/CLI/bestiary/elemental/flail-snail-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  

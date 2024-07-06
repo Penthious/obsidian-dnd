@@ -12,7 +12,7 @@ aliases: ["Young Wereraven"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 98
+BookSource: "Curse of Strahd p. 98"
 ---
 # [Young Wereraven](2-Mechanics/CLI/bestiary/humanoid/young-wereraven-cos.md)
 *Source: Curse of Strahd p. 98*  

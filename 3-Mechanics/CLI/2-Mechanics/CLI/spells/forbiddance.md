@@ -14,7 +14,7 @@ classes:
 aliases: ["Forbiddance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 243. Available in the SRD.
+BookSource: "Player's Handbook p. 243. Available in the SRD."
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  

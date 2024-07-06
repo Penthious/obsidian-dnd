@@ -12,7 +12,7 @@ aliases: ["Kurr"]
 NoteIcon: npc
 BestiaryType: fiend (gnoll)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 179
+BookSource: "Out of the Abyss p. 179"
 ---
 # [Kurr](2-Mechanics/CLI/bestiary/npc/kurr-oota.md)
 *Source: Out of the Abyss p. 179*  

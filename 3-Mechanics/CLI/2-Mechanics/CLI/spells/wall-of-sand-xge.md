@@ -15,7 +15,7 @@ classes:
 aliases: ["Wall of Sand"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 170
+BookSource: "Xanathar's Guide to Everything p. 170"
 ---
 # Wall of Sand
 *3rd-level, Evocation*  

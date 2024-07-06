@@ -9,7 +9,7 @@ tags:
 aliases: ["Immovable Rod"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 175. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 175. Available in the SRD."
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

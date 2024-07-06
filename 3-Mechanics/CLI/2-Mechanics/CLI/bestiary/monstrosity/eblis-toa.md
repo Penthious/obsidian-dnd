@@ -11,7 +11,7 @@ aliases: ["Eblis"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 219
+BookSource: "Tomb of Annihilation p. 219"
 ---
 # [Eblis](2-Mechanics/CLI/bestiary/monstrosity/eblis-toa.md)
 *Source: Tomb of Annihilation p. 219*  

@@ -12,7 +12,7 @@ aliases: ["Thavius Kreeg"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 42
+BookSource: "Baldur's Gate: Descent Into Avernus p. 42"
 ---
 # [Thavius Kreeg](2-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 42*  

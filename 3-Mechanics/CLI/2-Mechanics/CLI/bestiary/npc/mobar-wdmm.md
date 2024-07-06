@@ -13,7 +13,7 @@ aliases: ["Mobar"]
 NoteIcon: npc
 BestiaryType: humanoid (goblinoid, shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 77
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 77"
 ---
 # [Mobar](2-Mechanics/CLI/bestiary/npc/mobar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 77*  

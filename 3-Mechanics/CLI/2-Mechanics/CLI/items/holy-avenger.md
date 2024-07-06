@@ -10,7 +10,7 @@ tags:
 aliases: ["Holy Avenger"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 174. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 174. Available in the SRD."
 ---
 # Holy Avenger
 *Generic Variant, major, legendary (requires attunement by a paladin)*  

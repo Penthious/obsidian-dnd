@@ -11,7 +11,7 @@ aliases: ["Nightsea chil-liren"]
 NoteIcon: monster
 BestiaryType: humanoid (merfolk)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 177
+BookSource: "Journeys through the Radiant Citadel p. 177"
 ---
 # [Nightsea chil-liren](2-Mechanics/CLI/bestiary/humanoid/nightsea-chil-liren-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 177*  

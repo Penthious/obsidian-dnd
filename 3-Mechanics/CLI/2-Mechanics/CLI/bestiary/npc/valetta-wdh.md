@@ -12,7 +12,7 @@ aliases: ["Valetta"]
 NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 47
+BookSource: "Waterdeep: Dragon Heist p. 47"
 ---
 # [Valetta](2-Mechanics/CLI/bestiary/npc/valetta-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 47*  

@@ -11,7 +11,7 @@ aliases: ["Ancient Topaz Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 220
+BookSource: "Fizban's Treasury of Dragons p. 220"
 ---
 # [Ancient Topaz Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 220*  

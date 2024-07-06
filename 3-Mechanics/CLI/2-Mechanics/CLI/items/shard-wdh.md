@@ -7,7 +7,7 @@ tags:
 aliases: ["Shard"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 169
+BookSource: "Waterdeep: Dragon Heist p. 169"
 ---
 # Shard
 *Coinage*  

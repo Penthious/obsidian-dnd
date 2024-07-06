@@ -9,7 +9,7 @@ tags:
 aliases: ["Universal Solvent"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 209. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 209. Available in the SRD."
 ---
 # Universal Solvent
 *Wondrous Item, minor, legendary*  

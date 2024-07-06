@@ -12,7 +12,7 @@ aliases: ["Siren"]
 NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 243, Mythic Odysseys of Theros
+BookSource: "Tales from the Yawning Portal p. 243, Mythic Odysseys of Theros"
 ---
 # [Siren](2-Mechanics/CLI/bestiary/npc/siren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 243, Mythic Odysseys of Theros*  

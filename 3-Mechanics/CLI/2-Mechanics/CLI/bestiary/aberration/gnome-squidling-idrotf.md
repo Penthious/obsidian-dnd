@@ -11,7 +11,7 @@ aliases: ["Gnome Squidling"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 303
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 303"
 ---
 # [Gnome Squidling](2-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  

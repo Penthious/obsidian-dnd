@@ -8,7 +8,7 @@ tags:
 aliases: ["Loadstone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 228
+BookSource: "Tales from the Yawning Portal p. 228"
 ---
 # Loadstone
 *Wondrous Item, rare*  

@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Vrock"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Vrock](2-Mechanics/CLI/bestiary/fiend/reduced-threat-vrock-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

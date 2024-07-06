@@ -12,7 +12,7 @@ aliases: ["Rilago"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 147
+BookSource: "Keys from the Golden Vault p. 147"
 ---
 # [Rilago](2-Mechanics/CLI/bestiary/npc/rilago-kftgv.md)
 *Source: Keys from the Golden Vault p. 147*  

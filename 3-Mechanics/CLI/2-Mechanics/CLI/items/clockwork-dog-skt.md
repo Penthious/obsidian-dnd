@@ -8,7 +8,7 @@ tags:
 aliases: ["Clockwork Dog"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 44
+BookSource: "Storm King's Thunder p. 44"
 ---
 # Clockwork Dog
 *Other, unknown (magic)*  

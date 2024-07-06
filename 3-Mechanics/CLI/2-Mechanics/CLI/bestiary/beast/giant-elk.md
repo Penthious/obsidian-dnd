@@ -15,7 +15,7 @@ aliases: ["Giant Elk"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 325, Storm King's Thunder. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 325, Storm King's Thunder. Available in the SRD and the Basic Rules."
 ---
 # [Giant Elk](2-Mechanics/CLI/bestiary/beast/giant-elk.md)
 *Source: Monster Manual p. 325, Storm King's Thunder. Available in the SRD and the Basic Rules.*  

@@ -12,7 +12,7 @@ aliases: ["Alastrah"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 197
+BookSource: "Storm King's Thunder p. 197"
 ---
 # [Alastrah](2-Mechanics/CLI/bestiary/npc/alastrah-skt.md)
 *Source: Storm King's Thunder p. 197*  

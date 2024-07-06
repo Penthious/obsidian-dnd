@@ -18,7 +18,7 @@ aliases: ["Orc"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Monster Manual p. 246, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 246, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Orc](2-Mechanics/CLI/bestiary/humanoid/orc.md)
 *Source: Monster Manual p. 246, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

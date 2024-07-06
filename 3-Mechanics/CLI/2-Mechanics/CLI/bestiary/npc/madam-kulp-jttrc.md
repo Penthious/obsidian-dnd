@@ -12,7 +12,7 @@ aliases: ["Madam Kulp"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 27
+BookSource: "Journeys through the Radiant Citadel p. 27"
 ---
 # [Madam Kulp](2-Mechanics/CLI/bestiary/npc/madam-kulp-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 27*  

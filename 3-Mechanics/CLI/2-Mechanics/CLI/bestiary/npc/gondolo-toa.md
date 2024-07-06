@@ -12,7 +12,7 @@ aliases: ["Gondolo"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 34
+BookSource: "Tomb of Annihilation p. 34"
 ---
 # [Gondolo](2-Mechanics/CLI/bestiary/npc/gondolo-toa.md)
 *Source: Tomb of Annihilation p. 34*  

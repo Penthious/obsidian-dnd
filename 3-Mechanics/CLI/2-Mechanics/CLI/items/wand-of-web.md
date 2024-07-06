@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Web"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 212. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 212. Available in the SRD."
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

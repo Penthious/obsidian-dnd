@@ -15,7 +15,7 @@ classes:
 aliases: ["Compulsion"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 224. Available in the SRD.
+BookSource: "Player's Handbook p. 224. Available in the SRD."
 ---
 # Compulsion
 *4th-level, Enchantment*  

@@ -17,7 +17,7 @@ classes:
 aliases: ["Rime's Binding Ice"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Fizban's Treasury of Dragons p. 21
+BookSource: "Fizban's Treasury of Dragons p. 21"
 ---
 # Rime's Binding Ice
 *2nd-level, Evocation*  

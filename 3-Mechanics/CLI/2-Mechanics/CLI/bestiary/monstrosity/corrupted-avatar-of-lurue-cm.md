@@ -11,7 +11,7 @@ aliases: ["Corrupted Avatar of Lurue"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 123
+BookSource: "Candlekeep Mysteries p. 123"
 ---
 # [Corrupted Avatar of Lurue](2-Mechanics/CLI/bestiary/monstrosity/corrupted-avatar-of-lurue-cm.md)
 *Source: Candlekeep Mysteries p. 123*  

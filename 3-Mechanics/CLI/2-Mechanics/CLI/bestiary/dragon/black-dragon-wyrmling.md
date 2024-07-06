@@ -11,7 +11,7 @@ aliases: ["Black Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 88, Tales from the Yawning Portal. Available in the SRD.
+BookSource: "Monster Manual p. 88, Tales from the Yawning Portal. Available in the SRD."
 ---
 # [Black Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling.md)
 *Source: Monster Manual p. 88, Tales from the Yawning Portal. Available in the SRD.*  

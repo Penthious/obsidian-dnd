@@ -10,7 +10,7 @@ tags:
 aliases: ["Hat of Disguise"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 173. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 173. Available in the SRD."
 ---
 # Hat of Disguise
 *Wondrous Item, major, uncommon (requires attunement)*  

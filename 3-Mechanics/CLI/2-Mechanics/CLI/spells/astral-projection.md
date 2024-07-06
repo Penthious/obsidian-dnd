@@ -21,7 +21,7 @@ classes:
 aliases: ["Astral Projection"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 215. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 215. Available in the SRD and the Basic Rules."
 ---
 # Astral Projection
 *9th-level, Necromancy*  

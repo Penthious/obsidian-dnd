@@ -12,7 +12,7 @@ tags:
 aliases: ["Tinderstrike"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 224
+BookSource: "Princes of the Apocalypse p. 224"
 ---
 # Tinderstrike
 *Melee Weapon, legendary (requires attunement)*  

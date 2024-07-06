@@ -12,7 +12,7 @@ aliases: ["Sir Baric Nylef"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 249
+BookSource: "Storm King's Thunder p. 249"
 ---
 # [Sir Baric Nylef](2-Mechanics/CLI/bestiary/npc/sir-baric-nylef-skt.md)
 *Source: Storm King's Thunder p. 249*  

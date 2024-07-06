@@ -12,7 +12,7 @@ aliases: ["Lief Lipsiege"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 62
+BookSource: "Curse of Strahd p. 62"
 ---
 # [Lief Lipsiege](2-Mechanics/CLI/bestiary/npc/lief-lipsiege-cos.md)
 *Source: Curse of Strahd p. 62*  

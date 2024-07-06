@@ -11,7 +11,7 @@ aliases: ["Reindeer"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 107
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 107"
 ---
 # [Reindeer](2-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 107*  

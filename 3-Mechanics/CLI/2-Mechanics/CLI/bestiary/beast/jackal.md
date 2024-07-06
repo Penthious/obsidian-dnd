@@ -13,7 +13,7 @@ aliases: ["Jackal"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 331, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 331, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Jackal](2-Mechanics/CLI/bestiary/beast/jackal.md)
 *Source: Monster Manual p. 331, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

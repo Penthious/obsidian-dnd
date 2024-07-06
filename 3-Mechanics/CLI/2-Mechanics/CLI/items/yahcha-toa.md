@@ -7,7 +7,7 @@ tags:
 aliases: ["Yahcha"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 205
+BookSource: "Tomb of Annihilation p. 205"
 ---
 # Yahcha
 *Adventuring Gear*  

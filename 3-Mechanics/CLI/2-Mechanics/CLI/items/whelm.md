@@ -12,7 +12,7 @@ tags:
 aliases: ["Whelm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 218
+BookSource: "Dungeon Master's Guide p. 218"
 ---
 # Whelm
 *Melee Weapon, legendary (requires attunement by a dwarf)*  

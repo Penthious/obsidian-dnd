@@ -12,7 +12,7 @@ aliases: ["Tarul Var"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 244
+BookSource: "Tales from the Yawning Portal p. 244"
 ---
 # [Tarul Var](2-Mechanics/CLI/bestiary/npc/tarul-var-tftyp.md)
 *Source: Tales from the Yawning Portal p. 244*  

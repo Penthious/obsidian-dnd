@@ -11,7 +11,7 @@ aliases: ["Ashen Knight"]
 NoteIcon: monster
 BestiaryType: elemental (any race)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 158
+BookSource: "Keys from the Golden Vault p. 158"
 ---
 # [Ashen Knight](2-Mechanics/CLI/bestiary/elemental/ashen-knight-kftgv.md)
 *Source: Keys from the Golden Vault p. 158*  

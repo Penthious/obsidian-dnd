@@ -21,7 +21,7 @@ classes:
 aliases: ["Evard's Black Tentacles"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 238. Available in the SRD (as 'Black Tentacles').
+BookSource: "Player's Handbook p. 238. Available in the SRD (as 'Black Tentacles')."
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

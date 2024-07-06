@@ -8,7 +8,7 @@ tags:
 aliases: ["Cauldron of Plenty"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 314
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 314"
 ---
 # Cauldron of Plenty
 *Wondrous Item, rare*  

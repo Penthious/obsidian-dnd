@@ -12,7 +12,7 @@ aliases: ["Mud Mephit"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 216, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 216, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel"
 ---
 # [Mud Mephit](2-Mechanics/CLI/bestiary/elemental/mud-mephit.md)
 *Source: Monster Manual p. 216, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  

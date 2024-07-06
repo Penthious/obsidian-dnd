@@ -8,7 +8,7 @@ tags:
 aliases: ["Mask of the Beast"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 207
+BookSource: "Tomb of Annihilation p. 207"
 ---
 # Mask of the Beast
 *Wondrous Item, uncommon*  

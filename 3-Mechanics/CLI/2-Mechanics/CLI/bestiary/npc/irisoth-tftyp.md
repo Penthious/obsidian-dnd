@@ -12,7 +12,7 @@ aliases: ["Irisoth"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 157
+BookSource: "Tales from the Yawning Portal p. 157"
 ---
 # [Irisoth](2-Mechanics/CLI/bestiary/npc/irisoth-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

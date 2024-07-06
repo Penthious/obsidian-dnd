@@ -11,7 +11,7 @@ aliases: ["Emerald Enclave Scout"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 130
+BookSource: "Out of the Abyss p. 130"
 ---
 # [Emerald Enclave Scout](2-Mechanics/CLI/bestiary/humanoid/emerald-enclave-scout-oota.md)
 *Source: Out of the Abyss p. 130*  

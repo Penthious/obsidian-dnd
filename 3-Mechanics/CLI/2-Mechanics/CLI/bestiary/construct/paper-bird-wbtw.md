@@ -11,7 +11,7 @@ aliases: ["Paper Bird"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 166
+BookSource: "The Wild Beyond the Witchlight p. 166"
 ---
 # [Paper Bird](2-Mechanics/CLI/bestiary/construct/paper-bird-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 166*  

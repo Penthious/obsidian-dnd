@@ -11,7 +11,7 @@ aliases: ["Guardian Portrait"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 227
+BookSource: "Curse of Strahd p. 227"
 ---
 # [Guardian Portrait](2-Mechanics/CLI/bestiary/construct/guardian-portrait-cos.md)
 *Source: Curse of Strahd p. 227*  

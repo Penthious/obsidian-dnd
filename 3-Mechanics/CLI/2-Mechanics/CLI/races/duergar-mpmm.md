@@ -7,7 +7,7 @@ tags:
 aliases: ["Duergar"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 12
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 12"
 ---
 # Duergar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 12*  

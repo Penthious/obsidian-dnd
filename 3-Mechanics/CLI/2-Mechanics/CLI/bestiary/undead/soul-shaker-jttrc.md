@@ -11,7 +11,7 @@ aliases: ["Soul Shaker"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 47
+BookSource: "Journeys through the Radiant Citadel p. 47"
 ---
 # [Soul Shaker](2-Mechanics/CLI/bestiary/undead/soul-shaker-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 47*  

@@ -12,7 +12,7 @@ aliases: ["Piccolo"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 118
+BookSource: "Curse of Strahd p. 118"
 ---
 # [Piccolo](2-Mechanics/CLI/bestiary/npc/piccolo-cos.md)
 *Source: Curse of Strahd p. 118*  

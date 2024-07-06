@@ -12,7 +12,7 @@ aliases: ["Exethanter"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 189
+BookSource: "Curse of Strahd p. 189"
 ---
 # [Exethanter](2-Mechanics/CLI/bestiary/npc/exethanter-cos.md)
 *Source: Curse of Strahd p. 189*  

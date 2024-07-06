@@ -12,7 +12,7 @@ tags:
 aliases: ["Drown"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 224
+BookSource: "Princes of the Apocalypse p. 224"
 ---
 # Drown
 *Melee Weapon, legendary (requires attunement)*  

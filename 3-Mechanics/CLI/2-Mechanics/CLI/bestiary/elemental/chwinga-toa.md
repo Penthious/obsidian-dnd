@@ -11,7 +11,7 @@ aliases: ["Chwinga"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 216
+BookSource: "Tomb of Annihilation p. 216"
 ---
 # [Chwinga](2-Mechanics/CLI/bestiary/elemental/chwinga-toa.md)
 *Source: Tomb of Annihilation p. 216*  

@@ -11,7 +11,7 @@ aliases: ["Skeletal Alchemist"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 253
+BookSource: "Ghosts of Saltmarsh p. 253"
 ---
 # [Skeletal Alchemist](2-Mechanics/CLI/bestiary/undead/skeletal-alchemist-gos.md)
 *Source: Ghosts of Saltmarsh p. 253*  

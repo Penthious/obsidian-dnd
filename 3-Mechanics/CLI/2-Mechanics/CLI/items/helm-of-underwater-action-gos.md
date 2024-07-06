@@ -9,7 +9,7 @@ tags:
 aliases: ["Helm of Underwater Action"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Ghosts of Saltmarsh p. 229
+BookSource: "Ghosts of Saltmarsh p. 229"
 ---
 # Helm of Underwater Action
 *Wondrous Item, uncommon (requires attunement)*  

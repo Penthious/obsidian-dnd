@@ -12,7 +12,7 @@ aliases: ["Talisolvanar "Tally" Fellbranch"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 32
+BookSource: "Waterdeep: Dragon Heist p. 32"
 ---
 # [Talisolvanar "Tally" Fellbranch](2-Mechanics/CLI/bestiary/npc/talisolvanar-tally-fellbranch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

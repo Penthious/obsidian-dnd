@@ -8,7 +8,7 @@ tags:
 aliases: ["Barking Box"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 47
+BookSource: "Waterdeep: Dragon Heist p. 47"
 ---
 # Barking Box
 *Other, unknown*  

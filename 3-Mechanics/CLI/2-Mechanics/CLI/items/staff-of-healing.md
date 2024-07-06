@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Healing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 202. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 202. Available in the SRD."
 ---
 # Staff of Healing
 *Staff, major, rare (requires attunement by a bard, cleric, or druid)*  

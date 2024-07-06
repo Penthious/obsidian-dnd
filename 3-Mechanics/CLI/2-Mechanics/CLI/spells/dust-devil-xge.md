@@ -19,7 +19,7 @@ classes:
 aliases: ["Dust Devil"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 154
+BookSource: "Xanathar's Guide to Everything p. 154"
 ---
 # Dust Devil
 *2nd-level, Conjuration*  

@@ -21,7 +21,7 @@ classes:
 aliases: ["Kinetic Jaunt"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Strixhaven: A Curriculum of Chaos p. 37
+BookSource: "Strixhaven: A Curriculum of Chaos p. 37"
 ---
 # Kinetic Jaunt
 *2nd-level, Transmutation*  

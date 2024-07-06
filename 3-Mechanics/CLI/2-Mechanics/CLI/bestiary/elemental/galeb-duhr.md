@@ -13,7 +13,7 @@ aliases: ["Galeb Duhr"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 139, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 139, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Galeb Duhr](2-Mechanics/CLI/bestiary/elemental/galeb-duhr.md)
 *Source: Monster Manual p. 139, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

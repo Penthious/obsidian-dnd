@@ -11,7 +11,7 @@ aliases: ["Boneless"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 228
+BookSource: "Van Richten's Guide to Ravenloft p. 228"
 ---
 # [Boneless](2-Mechanics/CLI/bestiary/undead/boneless-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 228*  

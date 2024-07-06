@@ -13,7 +13,7 @@ aliases: ["Kansaldi Fire-Eyes"]
 NoteIcon: npc
 BestiaryType: humanoid (cleric, human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 203
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 203"
 ---
 # [Kansaldi Fire-Eyes](2-Mechanics/CLI/bestiary/npc/kansaldi-fire-eyes-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 203*  

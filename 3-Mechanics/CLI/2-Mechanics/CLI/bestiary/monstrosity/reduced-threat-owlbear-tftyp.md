@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Owlbear"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Owlbear](2-Mechanics/CLI/bestiary/monstrosity/reduced-threat-owlbear-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

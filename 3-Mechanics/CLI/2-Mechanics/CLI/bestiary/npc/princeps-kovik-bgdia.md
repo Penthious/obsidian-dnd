@@ -12,7 +12,7 @@ aliases: ["Princeps Kovik"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 91
+BookSource: "Baldur's Gate: Descent Into Avernus p. 91"
 ---
 # [Princeps Kovik](2-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 91*  

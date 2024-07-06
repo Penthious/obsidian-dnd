@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Scroll (4th Level)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 203. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 203. Available in the SRD and the Basic Rules."
 ---
 # Spell Scroll (4th Level)
 *Scroll, minor, rare*  

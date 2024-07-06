@@ -11,7 +11,7 @@ aliases: ["Dragonborn of Sardior"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 185
+BookSource: "Fizban's Treasury of Dragons p. 185"
 ---
 # [Dragonborn of Sardior](2-Mechanics/CLI/bestiary/humanoid/dragonborn-of-sardior-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 185*  

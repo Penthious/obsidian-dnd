@@ -25,7 +25,7 @@ classes:
 aliases: ["Tongues"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 283. Available in the SRD.
+BookSource: "Player's Handbook p. 283. Available in the SRD."
 ---
 # Tongues
 *3rd-level, Divination*  

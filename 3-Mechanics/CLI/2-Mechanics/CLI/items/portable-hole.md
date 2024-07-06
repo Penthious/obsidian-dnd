@@ -9,7 +9,7 @@ tags:
 aliases: ["Portable Hole"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 185. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 185. Available in the SRD."
 ---
 # Portable Hole
 *Wondrous Item, minor, rare*  

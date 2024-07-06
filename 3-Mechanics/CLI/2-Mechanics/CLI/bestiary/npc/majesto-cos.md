@@ -12,7 +12,7 @@ aliases: ["Majesto"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 115
+BookSource: "Curse of Strahd p. 115"
 ---
 # [Majesto](2-Mechanics/CLI/bestiary/npc/majesto-cos.md)
 *Source: Curse of Strahd p. 115*  

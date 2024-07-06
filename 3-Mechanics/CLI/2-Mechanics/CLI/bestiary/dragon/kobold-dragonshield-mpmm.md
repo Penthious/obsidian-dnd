@@ -15,7 +15,7 @@ aliases: ["Kobold Dragonshield"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165"
 ---
 # [Kobold Dragonshield](2-Mechanics/CLI/bestiary/dragon/kobold-dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  

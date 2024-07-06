@@ -23,7 +23,7 @@ classes:
 aliases: ["Borrowed Knowledge"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Strixhaven: A Curriculum of Chaos p. 37
+BookSource: "Strixhaven: A Curriculum of Chaos p. 37"
 ---
 # Borrowed Knowledge
 *2nd-level, Divination*  

@@ -18,7 +18,7 @@ aliases: ["Guard Drake"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91"
 ---
 # [Guard Drake](2-Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  

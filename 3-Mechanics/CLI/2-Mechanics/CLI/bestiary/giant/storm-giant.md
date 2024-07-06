@@ -13,7 +13,7 @@ aliases: ["Storm Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 156, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 156, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Storm Giant](2-Mechanics/CLI/bestiary/giant/storm-giant.md)
 *Source: Monster Manual p. 156, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  

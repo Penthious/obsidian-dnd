@@ -11,7 +11,7 @@ aliases: ["Living Iron Statue"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 241
+BookSource: "Ghosts of Saltmarsh p. 241"
 ---
 # [Living Iron Statue](2-Mechanics/CLI/bestiary/construct/living-iron-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 241*  

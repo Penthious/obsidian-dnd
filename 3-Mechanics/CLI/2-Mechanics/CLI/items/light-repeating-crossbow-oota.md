@@ -10,7 +10,7 @@ tags:
 aliases: ["Light Repeating Crossbow"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 224
+BookSource: "Out of the Abyss p. 224"
 ---
 # Light Repeating Crossbow
 *Ranged Weapon, unknown*  

@@ -12,7 +12,7 @@ aliases: ["Harshnag"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 120
+BookSource: "Storm King's Thunder p. 120"
 ---
 # [Harshnag](2-Mechanics/CLI/bestiary/npc/harshnag-skt.md)
 *Source: Storm King's Thunder p. 120*  

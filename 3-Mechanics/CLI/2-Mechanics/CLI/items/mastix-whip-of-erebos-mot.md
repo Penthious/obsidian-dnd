@@ -12,7 +12,7 @@ tags:
 aliases: ["Mastix, Whip of Erebos"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 201
+BookSource: "Mythic Odysseys of Theros p. 201"
 ---
 # Mastix, Whip of Erebos
 *Melee Weapon, artifact (requires attunement)*  

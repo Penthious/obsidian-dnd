@@ -11,7 +11,7 @@ aliases: ["Lemure"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 76, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus. Available in the SRD.
+BookSource: "Monster Manual p. 76, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Lemure](2-Mechanics/CLI/bestiary/fiend/lemure.md)
 *Source: Monster Manual p. 76, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  

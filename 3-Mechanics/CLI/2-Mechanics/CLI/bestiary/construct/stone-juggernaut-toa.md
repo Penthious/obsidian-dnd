@@ -11,7 +11,7 @@ aliases: ["Stone Juggernaut"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 231
+BookSource: "Tomb of Annihilation p. 231"
 ---
 # [Stone Juggernaut](2-Mechanics/CLI/bestiary/construct/stone-juggernaut-toa.md)
 *Source: Tomb of Annihilation p. 231*  

@@ -29,7 +29,7 @@ classes:
 aliases: ["Hold Monster"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 251. Available in the SRD.
+BookSource: "Player's Handbook p. 251. Available in the SRD."
 ---
 # Hold Monster
 *5th-level, Enchantment*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Elf (Drow)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 24
+BookSource: "Player's Handbook p. 24"
 ---
 # Elf (Drow)
 *Source: Player's Handbook p. 24*  

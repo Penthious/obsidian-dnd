@@ -12,7 +12,7 @@ aliases: ["Preeta Kreepa"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 56
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 56"
 ---
 # [Preeta Kreepa](2-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 56*  

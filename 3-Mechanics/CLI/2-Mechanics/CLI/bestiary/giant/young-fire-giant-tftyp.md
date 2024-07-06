@@ -11,7 +11,7 @@ aliases: ["Young Fire Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 192
+BookSource: "Tales from the Yawning Portal p. 192"
 ---
 # [Young Fire Giant](2-Mechanics/CLI/bestiary/giant/young-fire-giant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 192*  

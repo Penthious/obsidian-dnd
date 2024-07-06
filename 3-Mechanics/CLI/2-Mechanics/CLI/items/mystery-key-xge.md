@@ -9,7 +9,7 @@ tags:
 aliases: ["Mystery Key"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Mystery Key
 *Wondrous Item, minor, common*  

@@ -12,7 +12,7 @@ aliases: ["Ghelryn Foehammer"]
 NoteIcon: npc
 BestiaryType: humanoid (Shield dwarf)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 255
+BookSource: "Storm King's Thunder p. 255"
 ---
 # [Ghelryn Foehammer](2-Mechanics/CLI/bestiary/npc/ghelryn-foehammer-skt.md)
 *Source: Storm King's Thunder p. 255*  

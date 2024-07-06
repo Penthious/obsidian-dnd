@@ -12,7 +12,7 @@ aliases: ["Anastrasya Karelova"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 93
+BookSource: "Curse of Strahd p. 93"
 ---
 # [Anastrasya Karelova](2-Mechanics/CLI/bestiary/npc/anastrasya-karelova-cos.md)
 *Source: Curse of Strahd p. 93*  

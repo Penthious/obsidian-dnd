@@ -14,7 +14,7 @@ aliases: ["Young Kruthik"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211"
 ---
 # [Young Kruthik](2-Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  

@@ -12,7 +12,7 @@ aliases: ["Graz'zt"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 148, Mordenkainen's Tome of Foes p. 149
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 148, Mordenkainen's Tome of Foes p. 149"
 ---
 # [Graz'zt](2-Mechanics/CLI/bestiary/npc/grazzt-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148, Mordenkainen's Tome of Foes p. 149*  

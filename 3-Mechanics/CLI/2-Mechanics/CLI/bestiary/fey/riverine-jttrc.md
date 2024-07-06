@@ -11,7 +11,7 @@ aliases: ["Riverine"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 133
+BookSource: "Journeys through the Radiant Citadel p. 133"
 ---
 # [Riverine](2-Mechanics/CLI/bestiary/fey/riverine-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 133*  

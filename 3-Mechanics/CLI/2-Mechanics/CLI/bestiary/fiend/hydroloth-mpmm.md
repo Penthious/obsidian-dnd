@@ -11,7 +11,7 @@ aliases: ["Hydroloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249"
 ---
 # [Hydroloth](2-Mechanics/CLI/bestiary/fiend/hydroloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*  

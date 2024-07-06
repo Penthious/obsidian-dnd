@@ -9,7 +9,7 @@ tags:
 aliases: ["Giant Slayer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 172. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 172. Available in the SRD."
 ---
 # Giant Slayer
 *Generic Variant, major, rare*  

@@ -12,7 +12,7 @@ aliases: ["Banderhobb"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122"
 ---
 # [Banderhobb](2-Mechanics/CLI/bestiary/monstrosity/banderhobb-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*  

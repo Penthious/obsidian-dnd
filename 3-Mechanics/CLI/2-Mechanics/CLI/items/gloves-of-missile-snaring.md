@@ -10,7 +10,7 @@ tags:
 aliases: ["Gloves of Missile Snaring"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 172. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 172. Available in the SRD."
 ---
 # Gloves of Missile Snaring
 *Wondrous Item, major, uncommon (requires attunement)*  

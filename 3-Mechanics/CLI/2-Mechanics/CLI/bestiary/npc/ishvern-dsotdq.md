@@ -12,7 +12,7 @@ aliases: ["Ishvern"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 114
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 114"
 ---
 # [Ishvern](2-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 114*  

@@ -12,7 +12,7 @@ aliases: ["Oreioth"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 212
+BookSource: "Princes of the Apocalypse p. 212"
 ---
 # [Oreioth](2-Mechanics/CLI/bestiary/npc/oreioth-pota.md)
 *Source: Princes of the Apocalypse p. 212*  

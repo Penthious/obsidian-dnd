@@ -8,7 +8,7 @@ tags:
 aliases: ["Drow +3 Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Monster Manual p. 126
+BookSource: "Monster Manual p. 126"
 ---
 # Drow +3 Armor
 *Generic Variant, unknown (magic)*  

@@ -11,7 +11,7 @@ aliases: ["Chwinga"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 282
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 282"
 ---
 # [Chwinga](2-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 282*  

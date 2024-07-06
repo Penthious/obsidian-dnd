@@ -11,7 +11,7 @@ aliases: ["Giant White Moray Eel"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 216
+BookSource: "Ghosts of Saltmarsh p. 216"
 ---
 # [Giant White Moray Eel](2-Mechanics/CLI/bestiary/beast/giant-white-moray-eel-gos.md)
 *Source: Ghosts of Saltmarsh p. 216*  

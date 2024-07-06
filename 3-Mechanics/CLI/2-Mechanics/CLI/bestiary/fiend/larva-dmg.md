@@ -11,7 +11,7 @@ aliases: ["Larva (DMG)"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Dungeon Master's Guide p. 63, Baldur's Gate: Descent Into Avernus
+BookSource: "Dungeon Master's Guide p. 63, Baldur's Gate: Descent Into Avernus"
 ---
 # [Larva (DMG)](2-Mechanics/CLI/bestiary/fiend/larva-dmg.md)
 *Source: Dungeon Master's Guide p. 63, Baldur's Gate: Descent Into Avernus*  

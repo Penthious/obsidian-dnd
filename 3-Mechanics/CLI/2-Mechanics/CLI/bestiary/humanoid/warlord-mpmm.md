@@ -12,7 +12,7 @@ aliases: ["Warlord"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220"
 ---
 # [Warlord](2-Mechanics/CLI/bestiary/humanoid/warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  

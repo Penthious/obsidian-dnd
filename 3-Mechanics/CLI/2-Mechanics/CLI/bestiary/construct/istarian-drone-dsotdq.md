@@ -11,7 +11,7 @@ aliases: ["Istarian Drone"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 202
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 202"
 ---
 # [Istarian Drone](2-Mechanics/CLI/bestiary/construct/istarian-drone-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 202*  

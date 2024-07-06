@@ -12,7 +12,7 @@ aliases: ["Djeneba"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 173
+BookSource: "Journeys through the Radiant Citadel p. 173"
 ---
 # [Djeneba](2-Mechanics/CLI/bestiary/npc/djeneba-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 173*  

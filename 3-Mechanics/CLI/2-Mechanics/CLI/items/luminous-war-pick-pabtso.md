@@ -10,7 +10,7 @@ tags:
 aliases: ["Luminous War Pick"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 217
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 217"
 ---
 # Luminous War Pick
 *Melee Weapon, rare (requires attunement)*  

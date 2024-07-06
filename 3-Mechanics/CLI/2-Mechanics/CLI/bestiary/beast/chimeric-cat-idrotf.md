@@ -11,7 +11,7 @@ aliases: ["Chimeric Cat"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 246
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 246"
 ---
 # [Chimeric Cat](2-Mechanics/CLI/bestiary/beast/chimeric-cat-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  

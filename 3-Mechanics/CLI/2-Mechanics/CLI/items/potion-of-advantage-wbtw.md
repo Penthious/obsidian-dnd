@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Advantage"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 212
+BookSource: "The Wild Beyond the Witchlight p. 212"
 ---
 # Potion of Advantage
 *Potion, uncommon*  

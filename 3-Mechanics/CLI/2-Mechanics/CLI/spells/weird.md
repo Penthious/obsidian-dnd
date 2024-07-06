@@ -13,7 +13,7 @@ classes:
 aliases: ["Weird"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 288. Available in the SRD.
+BookSource: "Player's Handbook p. 288. Available in the SRD."
 ---
 # Weird
 *9th-level, Illusion*  

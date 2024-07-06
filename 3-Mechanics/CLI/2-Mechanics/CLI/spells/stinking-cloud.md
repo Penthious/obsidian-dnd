@@ -23,7 +23,7 @@ classes:
 aliases: ["Stinking Cloud"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 278. Available in the SRD.
+BookSource: "Player's Handbook p. 278. Available in the SRD."
 ---
 # Stinking Cloud
 *3rd-level, Conjuration*  

@@ -17,7 +17,7 @@ classes:
 aliases: ["Power Word Pain"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 163
+BookSource: "Xanathar's Guide to Everything p. 163"
 ---
 # Power Word Pain
 *7th-level, Enchantment*  

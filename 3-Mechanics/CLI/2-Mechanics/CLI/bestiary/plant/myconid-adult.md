@@ -12,7 +12,7 @@ aliases: ["Myconid Adult"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 232, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragons of Stormwreck Isle, Keys from the Golden Vault
+BookSource: "Monster Manual p. 232, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragons of Stormwreck Isle, Keys from the Golden Vault"
 ---
 # [Myconid Adult](2-Mechanics/CLI/bestiary/plant/myconid-adult.md)
 *Source: Monster Manual p. 232, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Dragons of Stormwreck Isle, Keys from the Golden Vault*  

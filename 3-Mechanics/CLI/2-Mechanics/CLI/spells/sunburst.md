@@ -19,7 +19,7 @@ classes:
 aliases: ["Sunburst"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 279. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 279. Available in the SRD and the Basic Rules."
 ---
 # Sunburst
 *8th-level, Evocation*  

@@ -12,7 +12,7 @@ aliases: ["Scarecrow"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 268, Curse of Strahd, Waterdeep: Dragon Heist, Candlekeep Mysteries, Keys from the Golden Vault
+BookSource: "Monster Manual p. 268, Curse of Strahd, Waterdeep: Dragon Heist, Candlekeep Mysteries, Keys from the Golden Vault"
 ---
 # [Scarecrow](2-Mechanics/CLI/bestiary/construct/scarecrow.md)
 *Source: Monster Manual p. 268, Curse of Strahd, Waterdeep: Dragon Heist, Candlekeep Mysteries, Keys from the Golden Vault*  

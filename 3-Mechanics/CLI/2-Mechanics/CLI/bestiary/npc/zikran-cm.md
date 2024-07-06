@@ -12,7 +12,7 @@ aliases: ["Zikran"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 145
+BookSource: "Candlekeep Mysteries p. 145"
 ---
 # [Zikran](2-Mechanics/CLI/bestiary/npc/zikran-cm.md)
 *Source: Candlekeep Mysteries p. 145*  

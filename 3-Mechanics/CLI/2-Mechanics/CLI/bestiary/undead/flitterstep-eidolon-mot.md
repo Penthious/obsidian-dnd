@@ -11,7 +11,7 @@ aliases: ["Flitterstep Eidolon"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 222
+BookSource: "Mythic Odysseys of Theros p. 222"
 ---
 # [Flitterstep Eidolon](2-Mechanics/CLI/bestiary/undead/flitterstep-eidolon-mot.md)
 *Source: Mythic Odysseys of Theros p. 222*  

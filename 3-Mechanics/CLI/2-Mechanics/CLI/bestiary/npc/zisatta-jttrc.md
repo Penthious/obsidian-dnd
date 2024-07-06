@@ -12,7 +12,7 @@ aliases: ["Zisatta"]
 NoteIcon: npc
 BestiaryType: humanoid (merfolk)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 177
+BookSource: "Journeys through the Radiant Citadel p. 177"
 ---
 # [Zisatta](2-Mechanics/CLI/bestiary/npc/zisatta-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 177*  

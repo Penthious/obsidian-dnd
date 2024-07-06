@@ -11,7 +11,7 @@ aliases: ["Fungal Servant"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 217
+BookSource: "Candlekeep Mysteries p. 217"
 ---
 # [Fungal Servant](2-Mechanics/CLI/bestiary/undead/fungal-servant-cm.md)
 *Source: Candlekeep Mysteries p. 217*  

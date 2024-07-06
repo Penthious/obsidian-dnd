@@ -12,7 +12,7 @@ aliases: ["Gazer"]
 NoteIcon: monster
 BestiaryType: aberration (beholder)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126"
 ---
 # [Gazer](2-Mechanics/CLI/bestiary/aberration/gazer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126*  

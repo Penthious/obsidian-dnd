@@ -12,7 +12,7 @@ aliases: ["Selenelion Twin"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 241
+BookSource: "The Wild Beyond the Witchlight p. 241"
 ---
 # [Selenelion Twin](2-Mechanics/CLI/bestiary/npc/selenelion-twin-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 241*  

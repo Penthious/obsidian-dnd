@@ -8,7 +8,7 @@ tags:
 aliases: ["Mirror of the Past"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 228
+BookSource: "Tales from the Yawning Portal p. 228"
 ---
 # Mirror of the Past
 *Wondrous Item, rare*  

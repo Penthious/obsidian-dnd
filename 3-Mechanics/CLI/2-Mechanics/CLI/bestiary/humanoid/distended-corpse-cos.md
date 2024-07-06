@@ -11,7 +11,7 @@ aliases: ["Distended Corpse"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 165
+BookSource: "Curse of Strahd p. 165"
 ---
 # [Distended Corpse](2-Mechanics/CLI/bestiary/humanoid/distended-corpse-cos.md)
 *Source: Curse of Strahd p. 165*  

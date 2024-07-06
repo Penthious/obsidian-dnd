@@ -12,7 +12,7 @@ aliases: ["Giant Sea Horse"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 328, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 328, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Giant Sea Horse](2-Mechanics/CLI/bestiary/beast/giant-sea-horse.md)
 *Source: Monster Manual p. 328, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

@@ -11,7 +11,7 @@ aliases: ["Death Slaad"]
 NoteIcon: monster
 BestiaryType: aberration (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 278, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen
+BookSource: "Monster Manual p. 278, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen"
 ---
 # [Death Slaad](2-Mechanics/CLI/bestiary/aberration/death-slaad.md)
 *Source: Monster Manual p. 278, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen*  

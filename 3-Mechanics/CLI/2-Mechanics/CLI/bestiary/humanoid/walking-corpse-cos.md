@@ -11,7 +11,7 @@ aliases: ["Walking Corpse"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 165
+BookSource: "Curse of Strahd p. 165"
 ---
 # [Walking Corpse](2-Mechanics/CLI/bestiary/humanoid/walking-corpse-cos.md)
 *Source: Curse of Strahd p. 165*  

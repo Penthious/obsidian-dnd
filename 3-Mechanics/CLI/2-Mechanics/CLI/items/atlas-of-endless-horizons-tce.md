@@ -9,7 +9,7 @@ tags:
 aliases: ["Atlas of Endless Horizons"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 120
+BookSource: "Tasha's Cauldron of Everything p. 120"
 ---
 # Atlas of Endless Horizons
 *Wondrous Item, rare (requires attunement by a wizard)*  

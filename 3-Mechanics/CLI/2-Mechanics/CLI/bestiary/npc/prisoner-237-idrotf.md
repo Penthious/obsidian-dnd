@@ -12,7 +12,7 @@ aliases: ["Prisoner 237"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 160
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 160"
 ---
 # [Prisoner 237](2-Mechanics/CLI/bestiary/npc/prisoner-237-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 160*  

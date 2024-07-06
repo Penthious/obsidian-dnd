@@ -13,7 +13,7 @@ aliases: ["Duergar Kavalrachni"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189"
 ---
 # [Duergar Kavalrachni](2-Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  

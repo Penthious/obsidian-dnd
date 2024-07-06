@@ -17,7 +17,7 @@ classes:
 aliases: ["Druidcraft"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 236. Available in the SRD.
+BookSource: "Player's Handbook p. 236. Available in the SRD."
 ---
 # Druidcraft
 *cantrip, Transmutation*  

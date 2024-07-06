@@ -21,7 +21,7 @@ classes:
 aliases: ["Slow"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 277. Available in the SRD.
+BookSource: "Player's Handbook p. 277. Available in the SRD."
 ---
 # Slow
 *3rd-level, Transmutation*  

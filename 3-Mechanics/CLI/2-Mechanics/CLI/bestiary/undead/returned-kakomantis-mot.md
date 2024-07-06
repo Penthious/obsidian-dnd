@@ -11,7 +11,7 @@ aliases: ["Returned Kakomantis"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 240
+BookSource: "Mythic Odysseys of Theros p. 240"
 ---
 # [Returned Kakomantis](2-Mechanics/CLI/bestiary/undead/returned-kakomantis-mot.md)
 *Source: Mythic Odysseys of Theros p. 240*  

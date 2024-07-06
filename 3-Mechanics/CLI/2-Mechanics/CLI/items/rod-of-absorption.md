@@ -10,7 +10,7 @@ tags:
 aliases: ["Rod of Absorption"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 195. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 195. Available in the SRD."
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  

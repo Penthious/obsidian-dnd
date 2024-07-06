@@ -8,7 +8,7 @@ tags:
 aliases: ["Pipe of Remembrance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Ghosts of Saltmarsh p. 229
+BookSource: "Ghosts of Saltmarsh p. 229"
 ---
 # Pipe of Remembrance
 *Wondrous Item, common*  

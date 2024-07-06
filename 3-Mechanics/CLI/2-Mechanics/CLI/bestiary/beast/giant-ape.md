@@ -12,7 +12,7 @@ aliases: ["Giant Ape"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 323, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 323, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Giant Ape](2-Mechanics/CLI/bestiary/beast/giant-ape.md)
 *Source: Monster Manual p. 323, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

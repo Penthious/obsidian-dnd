@@ -7,7 +7,7 @@ tags:
 aliases: ["Archaeologist"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Tomb of Annihilation p. 192
+BookSource: "Tomb of Annihilation p. 192"
 ---
 # Archaeologist
 *Source: Tomb of Annihilation p. 192*  

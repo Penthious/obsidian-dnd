@@ -21,7 +21,7 @@ classes:
 aliases: ["Calm Emotions"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 221. Available in the SRD.
+BookSource: "Player's Handbook p. 221. Available in the SRD."
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

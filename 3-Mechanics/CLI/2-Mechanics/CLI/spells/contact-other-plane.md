@@ -14,7 +14,7 @@ classes:
 aliases: ["Contact Other Plane"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 226. Available in the SRD.
+BookSource: "Player's Handbook p. 226. Available in the SRD."
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

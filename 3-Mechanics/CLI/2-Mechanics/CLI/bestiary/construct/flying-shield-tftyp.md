@@ -11,7 +11,7 @@ aliases: ["Flying Shield"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 224
+BookSource: "Tales from the Yawning Portal p. 224"
 ---
 # [Flying Shield](2-Mechanics/CLI/bestiary/construct/flying-shield-tftyp.md)
 *Source: Tales from the Yawning Portal p. 224*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Talisman of Pure Good"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 207. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 207. Available in the SRD."
 ---
 # Talisman of Pure Good
 *Wondrous Item, major, legendary (requires attunement by a creature of good alignment)*  

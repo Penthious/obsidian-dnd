@@ -7,7 +7,7 @@ tags:
 aliases: ["Gold locket with a painted portrait inside"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Gold locket with a painted portrait inside
 *Art object*  

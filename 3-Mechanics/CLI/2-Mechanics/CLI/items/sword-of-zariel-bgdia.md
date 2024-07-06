@@ -11,7 +11,7 @@ tags:
 aliases: ["Sword of Zariel"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 226
+BookSource: "Baldur's Gate: Descent Into Avernus p. 226"
 ---
 # Sword of Zariel
 *Melee Weapon, artifact (requires attunement by a creature the sword deems worthy)*  

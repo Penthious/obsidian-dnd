@@ -9,7 +9,7 @@ tags:
 aliases: ["Badge of the Watch"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 189
+BookSource: "Waterdeep: Dragon Heist p. 189"
 ---
 # Badge of the Watch
 *Wondrous Item, rare (requires attunement)*  

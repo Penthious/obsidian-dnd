@@ -9,7 +9,7 @@ tags:
 aliases: ["Manual of Flesh Golems"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 180. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 180. Available in the SRD."
 ---
 # Manual of Flesh Golems
 *Wondrous Item, major, very rare*  

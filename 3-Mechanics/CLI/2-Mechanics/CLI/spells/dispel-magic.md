@@ -43,7 +43,7 @@ classes:
 aliases: ["Dispel Magic"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 234. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 234. Available in the SRD and the Basic Rules."
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  

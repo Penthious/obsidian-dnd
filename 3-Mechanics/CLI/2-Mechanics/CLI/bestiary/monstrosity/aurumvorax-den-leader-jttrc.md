@@ -11,7 +11,7 @@ aliases: ["Aurumvorax Den Leader"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 105
+BookSource: "Journeys through the Radiant Citadel p. 105"
 ---
 # [Aurumvorax Den Leader](2-Mechanics/CLI/bestiary/monstrosity/aurumvorax-den-leader-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 105*  

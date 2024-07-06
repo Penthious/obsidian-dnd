@@ -10,7 +10,7 @@ tags:
 aliases: ["Stone of Good Luck"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 205. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 205. Available in the SRD."
 ---
 # Stone of Good Luck
 *Wondrous Item, major, uncommon (requires attunement)*  

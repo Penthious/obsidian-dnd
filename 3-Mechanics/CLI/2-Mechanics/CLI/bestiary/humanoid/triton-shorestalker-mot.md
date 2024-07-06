@@ -11,7 +11,7 @@ aliases: ["Triton Shorestalker"]
 NoteIcon: monster
 BestiaryType: humanoid (triton)
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 244
+BookSource: "Mythic Odysseys of Theros p. 244"
 ---
 # [Triton Shorestalker](2-Mechanics/CLI/bestiary/humanoid/triton-shorestalker-mot.md)
 *Source: Mythic Odysseys of Theros p. 244*  

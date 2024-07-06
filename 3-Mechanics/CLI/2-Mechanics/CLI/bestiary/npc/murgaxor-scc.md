@@ -13,7 +13,7 @@ aliases: ["Murgaxor"]
 NoteIcon: npc
 BestiaryType: humanoid (bullywug, warlock)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 180
+BookSource: "Strixhaven: A Curriculum of Chaos p. 180"
 ---
 # [Murgaxor](2-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 180*  

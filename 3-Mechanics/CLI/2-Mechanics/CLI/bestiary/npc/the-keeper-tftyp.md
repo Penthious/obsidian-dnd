@@ -12,7 +12,7 @@ aliases: ["The Keeper"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 173
+BookSource: "Tales from the Yawning Portal p. 173"
 ---
 # [The Keeper](2-Mechanics/CLI/bestiary/npc/the-keeper-tftyp.md)
 *Source: Tales from the Yawning Portal p. 173*  

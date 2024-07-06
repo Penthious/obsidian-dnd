@@ -12,7 +12,7 @@ aliases: ["Halaster Blackcloak"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 310
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 310"
 ---
 # [Halaster Blackcloak](2-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 310*  

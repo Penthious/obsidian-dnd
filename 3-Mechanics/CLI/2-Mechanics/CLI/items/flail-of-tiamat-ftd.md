@@ -10,7 +10,7 @@ tags:
 aliases: ["Flail of Tiamat"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 23
+BookSource: "Fizban's Treasury of Dragons p. 23"
 ---
 # Flail of Tiamat
 *Melee Weapon, legendary (requires attunement)*  

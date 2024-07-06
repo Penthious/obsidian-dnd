@@ -11,7 +11,7 @@ aliases: ["Sled Dog"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 27
+BookSource: "The Rise of Tiamat p. 27"
 ---
 # [Sled Dog](2-Mechanics/CLI/bestiary/beast/sled-dog-rot.md)
 *Source: The Rise of Tiamat p. 27*  

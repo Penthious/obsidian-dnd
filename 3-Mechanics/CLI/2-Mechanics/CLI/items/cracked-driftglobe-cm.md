@@ -8,7 +8,7 @@ tags:
 aliases: ["Cracked Driftglobe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 110
+BookSource: "Candlekeep Mysteries p. 110"
 ---
 # Cracked Driftglobe
 *Wondrous Item, uncommon*  

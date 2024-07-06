@@ -12,7 +12,7 @@ aliases: ["Belephaion"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 157
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 157"
 ---
 # [Belephaion](2-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 157*  

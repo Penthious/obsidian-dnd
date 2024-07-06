@@ -7,7 +7,7 @@ tags:
 aliases: ["Map or Scroll Case"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 151. Available in the SRD and the Basic Rules."
 ---
 # Map or Scroll Case
 *Adventuring Gear*  

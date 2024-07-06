@@ -14,7 +14,7 @@ aliases: ["Nilbog"]
 NoteIcon: monster
 BestiaryType: fey (goblinoid)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182"
 ---
 # [Nilbog](2-Mechanics/CLI/bestiary/fey/nilbog-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  

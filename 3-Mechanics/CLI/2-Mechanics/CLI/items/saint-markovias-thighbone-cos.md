@@ -9,7 +9,7 @@ tags:
 aliases: ["Saint Markovia's Thighbone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 222
+BookSource: "Curse of Strahd p. 222"
 ---
 # Saint Markovia's Thighbone
 *Melee Weapon, rare (requires attunement)*  

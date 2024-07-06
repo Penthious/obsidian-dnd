@@ -13,7 +13,7 @@ classes:
 aliases: ["Divine Favor"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 234. Available in the SRD.
+BookSource: "Player's Handbook p. 234. Available in the SRD."
 ---
 # Divine Favor
 *1st-level, Evocation*  

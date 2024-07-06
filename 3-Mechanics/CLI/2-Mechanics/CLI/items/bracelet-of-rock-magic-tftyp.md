@@ -9,7 +9,7 @@ tags:
 aliases: ["Bracelet of Rock Magic"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 228
+BookSource: "Tales from the Yawning Portal p. 228"
 ---
 # Bracelet of Rock Magic
 *Wondrous Item, very rare (requires attunement)*  

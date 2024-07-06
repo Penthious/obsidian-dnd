@@ -14,7 +14,7 @@ aliases: ["Giant Strider"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143"
 ---
 # [Giant Strider](2-Mechanics/CLI/bestiary/elemental/giant-strider-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  

@@ -11,7 +11,7 @@ aliases: ["Giant Subterranean Lizard"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 236
+BookSource: "Tales from the Yawning Portal p. 236"
 ---
 # [Giant Subterranean Lizard](2-Mechanics/CLI/bestiary/beast/giant-subterranean-lizard-tftyp.md)
 *Source: Tales from the Yawning Portal p. 236*  

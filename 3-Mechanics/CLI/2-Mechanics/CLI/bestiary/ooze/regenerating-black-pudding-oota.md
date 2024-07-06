@@ -11,7 +11,7 @@ aliases: ["Regenerating Black Pudding"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 211
+BookSource: "Out of the Abyss p. 211"
 ---
 # [Regenerating Black Pudding](2-Mechanics/CLI/bestiary/ooze/regenerating-black-pudding-oota.md)
 *Source: Out of the Abyss p. 211*  

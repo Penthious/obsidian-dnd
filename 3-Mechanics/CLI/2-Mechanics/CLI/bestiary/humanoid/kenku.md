@@ -13,7 +13,7 @@ aliases: ["Kenku"]
 NoteIcon: monster
 BestiaryType: humanoid (kenku)
 SourceType: Bestiary
-BookSource: Monster Manual p. 194, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 194, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel"
 ---
 # [Kenku](2-Mechanics/CLI/bestiary/humanoid/kenku.md)
 *Source: Monster Manual p. 194, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel*  

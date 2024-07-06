@@ -9,7 +9,7 @@ tags:
 aliases: ["Horseshoes of Speed"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 175. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 175. Available in the SRD."
 ---
 # Horseshoes of Speed
 *Wondrous Item, minor, rare*  

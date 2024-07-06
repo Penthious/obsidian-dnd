@@ -11,7 +11,7 @@ aliases: ["Death Knight"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 47, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen
+BookSource: "Monster Manual p. 47, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen"
 ---
 # [Death Knight](2-Mechanics/CLI/bestiary/undead/death-knight.md)
 *Source: Monster Manual p. 47, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen*  

@@ -11,7 +11,7 @@ aliases: ["Animated Stove"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 186
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 186"
 ---
 # [Animated Stove](2-Mechanics/CLI/bestiary/construct/animated-stove-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 186*  

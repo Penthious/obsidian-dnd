@@ -12,7 +12,7 @@ aliases: ["Nine-Fingers Keene"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 170
+BookSource: "Baldur's Gate: Descent Into Avernus p. 170"
 ---
 # [Nine-Fingers Keene](2-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 170*  

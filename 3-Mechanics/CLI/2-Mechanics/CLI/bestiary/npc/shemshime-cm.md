@@ -12,7 +12,7 @@ aliases: ["Shemshime"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 69
+BookSource: "Candlekeep Mysteries p. 69"
 ---
 # [Shemshime](2-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
 *Source: Candlekeep Mysteries p. 69*  

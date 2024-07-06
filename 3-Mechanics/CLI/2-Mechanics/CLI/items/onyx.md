@@ -7,7 +7,7 @@ tags:
 aliases: ["Onyx"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Onyx
 *Gemstone*  

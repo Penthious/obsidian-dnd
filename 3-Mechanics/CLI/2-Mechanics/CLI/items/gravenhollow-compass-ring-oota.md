@@ -8,7 +8,7 @@ tags:
 aliases: ["Gravenhollow Compass Ring"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 141
+BookSource: "Out of the Abyss p. 141"
 ---
 # Gravenhollow Compass Ring
 *Other, unknown (magic)*  

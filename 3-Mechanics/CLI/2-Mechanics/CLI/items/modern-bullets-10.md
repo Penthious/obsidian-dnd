@@ -7,7 +7,7 @@ tags:
 aliases: ["Modern Bullets (10)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Modern Bullets (10)
 *Ammunition (Firearm)*  

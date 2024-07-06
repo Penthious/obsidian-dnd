@@ -12,7 +12,7 @@ aliases: ["Tornscale"]
 NoteIcon: npc
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 90
+BookSource: "Princes of the Apocalypse p. 90"
 ---
 # [Tornscale](2-Mechanics/CLI/bestiary/npc/tornscale-pota.md)
 *Source: Princes of the Apocalypse p. 90*  

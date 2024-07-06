@@ -12,7 +12,7 @@ aliases: ["Beholder"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 28, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 28, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Beholder](2-Mechanics/CLI/bestiary/aberration/beholder.md)
 *Source: Monster Manual p. 28, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

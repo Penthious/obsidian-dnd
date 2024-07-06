@@ -11,7 +11,7 @@ aliases: ["Galvan Magen"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 301
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 301"
 ---
 # [Galvan Magen](2-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 301*  

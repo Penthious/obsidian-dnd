@@ -12,7 +12,7 @@ aliases: ["Ontharyx"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 115
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 115"
 ---
 # [Ontharyx](2-Mechanics/CLI/bestiary/npc/ontharyx-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  

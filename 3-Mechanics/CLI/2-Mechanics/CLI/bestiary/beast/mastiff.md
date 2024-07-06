@@ -14,7 +14,7 @@ aliases: ["Mastiff"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 332, Curse of Strahd, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 332, Curse of Strahd, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Mastiff](2-Mechanics/CLI/bestiary/beast/mastiff.md)
 *Source: Monster Manual p. 332, Curse of Strahd, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

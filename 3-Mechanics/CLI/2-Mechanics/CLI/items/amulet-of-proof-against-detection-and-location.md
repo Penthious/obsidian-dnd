@@ -10,7 +10,7 @@ tags:
 aliases: ["Amulet of Proof against Detection and Location"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 150. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 150. Available in the SRD."
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous Item, major, uncommon (requires attunement)*  

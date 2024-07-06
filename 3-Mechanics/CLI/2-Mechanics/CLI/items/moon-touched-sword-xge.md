@@ -9,7 +9,7 @@ tags:
 aliases: ["Moon-Touched Sword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Moon-Touched Sword
 *Generic Variant, minor, common*  

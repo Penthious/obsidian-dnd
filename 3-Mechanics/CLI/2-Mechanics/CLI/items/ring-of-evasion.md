@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Evasion"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 191. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 191. Available in the SRD and the Basic Rules."
 ---
 # Ring of Evasion
 *Ring, major, rare (requires attunement)*  

@@ -15,7 +15,7 @@ classes:
 aliases: ["Modify Memory"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 261. Available in the SRD.
+BookSource: "Player's Handbook p. 261. Available in the SRD."
 ---
 # Modify Memory
 *5th-level, Enchantment*  

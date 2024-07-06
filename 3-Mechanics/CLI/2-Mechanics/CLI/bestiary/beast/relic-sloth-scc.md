@@ -11,7 +11,7 @@ aliases: ["Relic Sloth"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 210
+BookSource: "Strixhaven: A Curriculum of Chaos p. 210"
 ---
 # [Relic Sloth](2-Mechanics/CLI/bestiary/beast/relic-sloth-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 210*  

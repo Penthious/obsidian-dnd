@@ -9,7 +9,7 @@ tags:
 aliases: ["Baba Yaga's Mortar and Pestle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 121
+BookSource: "Tasha's Cauldron of Everything p. 121"
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous Item, artifact (requires attunement)*  

@@ -13,7 +13,7 @@ aliases: ["Morkoth"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177"
 ---
 # [Morkoth](2-Mechanics/CLI/bestiary/aberration/morkoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  

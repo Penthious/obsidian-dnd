@@ -15,7 +15,7 @@ classes:
 aliases: ["Maddening Darkness"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 160
+BookSource: "Xanathar's Guide to Everything p. 160"
 ---
 # Maddening Darkness
 *8th-level, Evocation*  

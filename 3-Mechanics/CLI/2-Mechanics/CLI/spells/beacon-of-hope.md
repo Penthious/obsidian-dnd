@@ -19,7 +19,7 @@ classes:
 aliases: ["Beacon of Hope"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 217. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 217. Available in the SRD and the Basic Rules."
 ---
 # Beacon of Hope
 *3rd-level, Abjuration*  

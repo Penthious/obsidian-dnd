@@ -9,7 +9,7 @@ tags:
 aliases: ["Crossbow Bolt of Slaying"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 152. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 152. Available in the SRD."
 ---
 # Crossbow Bolt of Slaying
 *Ammunition, minor, very rare*  

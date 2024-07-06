@@ -11,7 +11,7 @@ aliases: ["Tabaxi Hunter"]
 NoteIcon: monster
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 232
+BookSource: "Tomb of Annihilation p. 232"
 ---
 # [Tabaxi Hunter](2-Mechanics/CLI/bestiary/humanoid/tabaxi-hunter-toa.md)
 *Source: Tomb of Annihilation p. 232*  

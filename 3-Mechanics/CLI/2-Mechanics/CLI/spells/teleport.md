@@ -17,7 +17,7 @@ classes:
 aliases: ["Teleport"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 281. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 281. Available in the SRD and the Basic Rules."
 ---
 # Teleport
 *7th-level, Conjuration*  

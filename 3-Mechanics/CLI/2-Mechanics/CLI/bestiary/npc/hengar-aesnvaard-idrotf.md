@@ -12,7 +12,7 @@ aliases: ["Hengar Aesnvaard"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 215
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 215"
 ---
 # [Hengar Aesnvaard](2-Mechanics/CLI/bestiary/npc/hengar-aesnvaard-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  

@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Fire"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 201. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 201. Available in the SRD."
 ---
 # Staff of Fire
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

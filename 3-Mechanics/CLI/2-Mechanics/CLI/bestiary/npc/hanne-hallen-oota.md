@@ -12,7 +12,7 @@ aliases: ["Hanne Hallen"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 171
+BookSource: "Out of the Abyss p. 171"
 ---
 # [Hanne Hallen](2-Mechanics/CLI/bestiary/npc/hanne-hallen-oota.md)
 *Source: Out of the Abyss p. 171*  

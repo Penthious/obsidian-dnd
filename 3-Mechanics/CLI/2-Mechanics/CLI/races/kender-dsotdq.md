@@ -7,7 +7,7 @@ tags:
 aliases: ["Kender"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 27
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 27"
 ---
 # Kender
 *Source: Dragonlance: Shadow of the Dragon Queen p. 27*  

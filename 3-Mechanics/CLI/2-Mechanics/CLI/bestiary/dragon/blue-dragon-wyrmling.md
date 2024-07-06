@@ -11,7 +11,7 @@ aliases: ["Blue Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 91, Mythic Odysseys of Theros, Dragons of Stormwreck Isle. Available in the SRD.
+BookSource: "Monster Manual p. 91, Mythic Odysseys of Theros, Dragons of Stormwreck Isle. Available in the SRD."
 ---
 # [Blue Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling.md)
 *Source: Monster Manual p. 91, Mythic Odysseys of Theros, Dragons of Stormwreck Isle. Available in the SRD.*  

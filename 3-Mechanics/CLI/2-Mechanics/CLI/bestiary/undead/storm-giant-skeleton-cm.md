@@ -11,7 +11,7 @@ aliases: ["Storm Giant Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 208
+BookSource: "Candlekeep Mysteries p. 208"
 ---
 # [Storm Giant Skeleton](2-Mechanics/CLI/bestiary/undead/storm-giant-skeleton-cm.md)
 *Source: Candlekeep Mysteries p. 208*  

@@ -15,7 +15,7 @@ aliases: ["Clockwork Stone Defender"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126"
 ---
 # [Clockwork Stone Defender](2-Mechanics/CLI/bestiary/construct/clockwork-stone-defender-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  

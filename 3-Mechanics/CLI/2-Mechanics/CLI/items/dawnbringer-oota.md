@@ -12,7 +12,7 @@ tags:
 aliases: ["Dawnbringer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 222
+BookSource: "Out of the Abyss p. 222"
 ---
 # Dawnbringer
 *Melee Weapon, legendary (requires attunement by a creature of non-evil alignment)*  

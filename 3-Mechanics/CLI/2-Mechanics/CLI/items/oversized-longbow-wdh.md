@@ -12,7 +12,7 @@ tags:
 aliases: ["Oversized Longbow"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 201
+BookSource: "Waterdeep: Dragon Heist p. 201"
 ---
 # Oversized Longbow
 *Ranged Weapon, unknown*  

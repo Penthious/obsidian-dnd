@@ -17,7 +17,7 @@ classes:
 aliases: ["Earthquake"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 236. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 236. Available in the SRD and the Basic Rules."
 ---
 # Earthquake
 *8th-level, Evocation*  

@@ -12,7 +12,7 @@ aliases: ["Spiderbait"]
 NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 31
+BookSource: "Out of the Abyss p. 31"
 ---
 # [Spiderbait](2-Mechanics/CLI/bestiary/npc/spiderbait-oota.md)
 *Source: Out of the Abyss p. 31*  

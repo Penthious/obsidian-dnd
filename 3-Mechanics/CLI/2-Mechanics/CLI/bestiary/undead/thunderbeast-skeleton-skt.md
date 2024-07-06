@@ -11,7 +11,7 @@ aliases: ["Thunderbeast Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 99
+BookSource: "Storm King's Thunder p. 99"
 ---
 # [Thunderbeast Skeleton](2-Mechanics/CLI/bestiary/undead/thunderbeast-skeleton-skt.md)
 *Source: Storm King's Thunder p. 99*  

@@ -12,7 +12,7 @@ aliases: ["Satyr"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Monster Manual p. 267, Storm King's Thunder, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 267, Storm King's Thunder, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Satyr](2-Mechanics/CLI/bestiary/fey/satyr.md)
 *Source: Monster Manual p. 267, Storm King's Thunder, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

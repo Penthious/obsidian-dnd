@@ -9,7 +9,7 @@ tags:
 aliases: ["Reveler's Concertina"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 134
+BookSource: "Tasha's Cauldron of Everything p. 134"
 ---
 # Reveler's Concertina
 *Instrument, rare (requires attunement by a bard)*  

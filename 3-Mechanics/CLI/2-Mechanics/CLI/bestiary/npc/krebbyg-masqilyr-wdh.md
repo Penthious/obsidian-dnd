@@ -12,7 +12,7 @@ aliases: ["Krebbyg Masq'il'yr"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 67
+BookSource: "Waterdeep: Dragon Heist p. 67"
 ---
 # [Krebbyg Masq'il'yr](2-Mechanics/CLI/bestiary/npc/krebbyg-masqilyr-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 67*  

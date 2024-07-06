@@ -12,7 +12,7 @@ aliases: ["Xolkin Alassandar"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 27
+BookSource: "Storm King's Thunder p. 27"
 ---
 # [Xolkin Alassandar](2-Mechanics/CLI/bestiary/npc/xolkin-alassandar-skt.md)
 *Source: Storm King's Thunder p. 27*  

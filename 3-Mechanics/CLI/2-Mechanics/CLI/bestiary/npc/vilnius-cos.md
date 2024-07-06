@@ -12,7 +12,7 @@ aliases: ["Vilnius"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 185
+BookSource: "Curse of Strahd p. 185"
 ---
 # [Vilnius](2-Mechanics/CLI/bestiary/npc/vilnius-cos.md)
 *Source: Curse of Strahd p. 185*  

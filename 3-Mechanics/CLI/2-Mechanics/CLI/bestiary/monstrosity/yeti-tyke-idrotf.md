@@ -11,7 +11,7 @@ aliases: ["Yeti Tyke"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 313
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 313"
 ---
 # [Yeti Tyke](2-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 313*  

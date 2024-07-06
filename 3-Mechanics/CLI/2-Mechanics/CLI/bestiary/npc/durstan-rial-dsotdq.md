@@ -12,7 +12,7 @@ aliases: ["Durstan Rial"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 97
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 97"
 ---
 # [Durstan Rial](2-Mechanics/CLI/bestiary/npc/durstan-rial-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 97*  

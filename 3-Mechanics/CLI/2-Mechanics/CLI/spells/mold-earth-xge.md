@@ -25,7 +25,7 @@ classes:
 aliases: ["Mold Earth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 162
+BookSource: "Xanathar's Guide to Everything p. 162"
 ---
 # Mold Earth
 *cantrip, Transmutation*  

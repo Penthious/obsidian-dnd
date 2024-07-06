@@ -11,7 +11,7 @@ aliases: ["Snowy Owlbear"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 309
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 309"
 ---
 # [Snowy Owlbear](2-Mechanics/CLI/bestiary/monstrosity/snowy-owlbear-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 309*  

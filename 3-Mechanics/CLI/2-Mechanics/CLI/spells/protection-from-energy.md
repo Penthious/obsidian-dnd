@@ -39,7 +39,7 @@ classes:
 aliases: ["Protection from Energy"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 270. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 270. Available in the SRD and the Basic Rules."
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

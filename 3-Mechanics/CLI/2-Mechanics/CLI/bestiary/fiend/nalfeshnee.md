@@ -11,7 +11,7 @@ aliases: ["Nalfeshnee"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 62, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 62, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Nalfeshnee](2-Mechanics/CLI/bestiary/fiend/nalfeshnee.md)
 *Source: Monster Manual p. 62, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD.*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Icewind Dale Trinket"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 263
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 263"
 ---
 # Icewind Dale Trinket
 *Adventuring Gear*  

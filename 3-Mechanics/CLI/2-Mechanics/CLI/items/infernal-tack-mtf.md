@@ -9,7 +9,7 @@ tags:
 aliases: ["Infernal Tack"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mordenkainen's Tome of Foes p. 167, Baldur's Gate: Descent Into Avernus p. 224, Mordenkainen Presents: Monsters of the Multiverse p. 190
+BookSource: "Mordenkainen's Tome of Foes p. 167, Baldur's Gate: Descent Into Avernus p. 224, Mordenkainen Presents: Monsters of the Multiverse p. 190"
 ---
 # Infernal Tack
 *Wondrous Item, legendary (requires attunement by a creature of evil alignment.)*  

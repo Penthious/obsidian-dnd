@@ -12,7 +12,7 @@ aliases: ["Nar'l Xibrindas"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 211
+BookSource: "Waterdeep: Dragon Heist p. 211"
 ---
 # [Nar'l Xibrindas](2-Mechanics/CLI/bestiary/npc/narl-xibrindas-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 211*  

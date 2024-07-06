@@ -12,7 +12,7 @@ aliases: ["Orvex Ocrammas"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 96
+BookSource: "Tomb of Annihilation p. 96"
 ---
 # [Orvex Ocrammas](2-Mechanics/CLI/bestiary/npc/orvex-ocrammas-toa.md)
 *Source: Tomb of Annihilation p. 96*  

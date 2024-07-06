@@ -12,7 +12,7 @@ aliases: ["Tartha"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 207
+BookSource: "Storm King's Thunder p. 207"
 ---
 # [Tartha](2-Mechanics/CLI/bestiary/npc/tartha-skt.md)
 *Source: Storm King's Thunder p. 207*  

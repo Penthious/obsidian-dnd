@@ -12,7 +12,7 @@ aliases: ["Nene"]
 NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 205
+BookSource: "Journeys through the Radiant Citadel p. 205"
 ---
 # [Nene](2-Mechanics/CLI/bestiary/npc/nene-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 205*  

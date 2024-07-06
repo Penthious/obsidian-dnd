@@ -11,7 +11,7 @@ aliases: ["Balor"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 55, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 55, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Balor](2-Mechanics/CLI/bestiary/fiend/balor.md)
 *Source: Monster Manual p. 55, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  

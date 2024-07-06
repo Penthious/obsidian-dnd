@@ -12,7 +12,7 @@ aliases: ["Tixie Tockworth"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 85
+BookSource: "Keys from the Golden Vault p. 85"
 ---
 # [Tixie Tockworth](2-Mechanics/CLI/bestiary/npc/tixie-tockworth-kftgv.md)
 *Source: Keys from the Golden Vault p. 85*  

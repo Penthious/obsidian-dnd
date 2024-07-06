@@ -12,7 +12,7 @@ aliases: ["Zikzokrishka"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 209
+BookSource: "Candlekeep Mysteries p. 209"
 ---
 # [Zikzokrishka](2-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md)
 *Source: Candlekeep Mysteries p. 209*  

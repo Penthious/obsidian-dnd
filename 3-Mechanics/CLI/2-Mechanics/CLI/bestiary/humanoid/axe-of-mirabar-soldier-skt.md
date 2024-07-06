@@ -11,7 +11,7 @@ aliases: ["Axe of Mirabar Soldier"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 98
+BookSource: "Storm King's Thunder p. 98"
 ---
 # [Axe of Mirabar Soldier](2-Mechanics/CLI/bestiary/humanoid/axe-of-mirabar-soldier-skt.md)
 *Source: Storm King's Thunder p. 98*  

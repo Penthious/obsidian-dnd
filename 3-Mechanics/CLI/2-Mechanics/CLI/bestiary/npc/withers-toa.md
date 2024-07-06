@@ -12,7 +12,7 @@ aliases: ["Withers"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 145
+BookSource: "Tomb of Annihilation p. 145"
 ---
 # [Withers](2-Mechanics/CLI/bestiary/npc/withers-toa.md)
 *Source: Tomb of Annihilation p. 145*  

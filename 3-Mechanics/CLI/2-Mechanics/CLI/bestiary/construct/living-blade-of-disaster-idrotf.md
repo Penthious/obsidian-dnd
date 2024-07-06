@@ -11,7 +11,7 @@ aliases: ["Living Blade of Disaster"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 299
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 299"
 ---
 # [Living Blade of Disaster](2-Mechanics/CLI/bestiary/construct/living-blade-of-disaster-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 299*  

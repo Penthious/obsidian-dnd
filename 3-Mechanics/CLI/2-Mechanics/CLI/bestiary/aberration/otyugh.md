@@ -12,7 +12,7 @@ aliases: ["Otyugh"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 248, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 248, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Otyugh](2-Mechanics/CLI/bestiary/aberration/otyugh.md)
 *Source: Monster Manual p. 248, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

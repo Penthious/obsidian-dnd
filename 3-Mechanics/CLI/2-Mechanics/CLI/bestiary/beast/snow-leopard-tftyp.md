@@ -11,7 +11,7 @@ aliases: ["Snow Leopard"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 183
+BookSource: "Tales from the Yawning Portal p. 183"
 ---
 # [Snow Leopard](2-Mechanics/CLI/bestiary/beast/snow-leopard-tftyp.md)
 *Source: Tales from the Yawning Portal p. 183*  

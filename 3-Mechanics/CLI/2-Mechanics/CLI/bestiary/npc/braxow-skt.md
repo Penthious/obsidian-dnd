@@ -12,7 +12,7 @@ aliases: ["Braxow"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 207
+BookSource: "Storm King's Thunder p. 207"
 ---
 # [Braxow](2-Mechanics/CLI/bestiary/npc/braxow-skt.md)
 *Source: Storm King's Thunder p. 207*  

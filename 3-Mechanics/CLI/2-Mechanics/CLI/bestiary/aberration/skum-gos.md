@@ -11,7 +11,7 @@ aliases: ["Skum"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 254
+BookSource: "Ghosts of Saltmarsh p. 254"
 ---
 # [Skum](2-Mechanics/CLI/bestiary/aberration/skum-gos.md)
 *Source: Ghosts of Saltmarsh p. 254*  

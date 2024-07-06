@@ -14,7 +14,7 @@ aliases: ["Ghast"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 148, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 148, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Ghast](2-Mechanics/CLI/bestiary/undead/ghast.md)
 *Source: Monster Manual p. 148, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

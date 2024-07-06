@@ -11,7 +11,7 @@ aliases: ["Yakfolk Priest"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 245
+BookSource: "Storm King's Thunder p. 245"
 ---
 # [Yakfolk Priest](2-Mechanics/CLI/bestiary/monstrosity/yakfolk-priest-skt.md)
 *Source: Storm King's Thunder p. 245*  

@@ -12,7 +12,7 @@ aliases: ["Talis the White"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 93
+BookSource: "Hoard of the Dragon Queen p. 93"
 ---
 # [Talis the White](2-Mechanics/CLI/bestiary/npc/talis-the-white-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 93*  

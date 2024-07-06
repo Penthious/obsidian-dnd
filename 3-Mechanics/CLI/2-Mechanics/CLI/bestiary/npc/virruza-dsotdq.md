@@ -12,7 +12,7 @@ aliases: ["Virruza"]
 NoteIcon: npc
 BestiaryType: aberration (shapechanger)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 119
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 119"
 ---
 # [Virruza](2-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 119*  

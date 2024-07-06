@@ -7,7 +7,7 @@ tags:
 aliases: ["Half-Elf (Moon Elf or Sun Elf Descent)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Sword Coast Adventurer's Guide p. 116
+BookSource: "Sword Coast Adventurer's Guide p. 116"
 ---
 # Half-Elf (Moon Elf or Sun Elf Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  

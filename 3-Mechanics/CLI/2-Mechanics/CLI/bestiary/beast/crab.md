@@ -12,7 +12,7 @@ aliases: ["Crab"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 320, Tomb of Annihilation, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 320, Tomb of Annihilation, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules."
 ---
 # [Crab](2-Mechanics/CLI/bestiary/beast/crab.md)
 *Source: Monster Manual p. 320, Tomb of Annihilation, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  

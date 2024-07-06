@@ -11,7 +11,7 @@ aliases: ["Tin Soldier"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 115
+BookSource: "The Wild Beyond the Witchlight p. 115"
 ---
 # [Tin Soldier](2-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 115*  

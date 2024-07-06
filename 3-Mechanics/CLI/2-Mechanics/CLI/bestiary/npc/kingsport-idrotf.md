@@ -12,7 +12,7 @@ aliases: ["Kingsport"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 243
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 243"
 ---
 # [Kingsport](2-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 243*  

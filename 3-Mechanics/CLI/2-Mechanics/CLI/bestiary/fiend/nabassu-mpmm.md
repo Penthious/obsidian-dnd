@@ -14,7 +14,7 @@ aliases: ["Nabassu"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135"
 ---
 # [Nabassu](2-Mechanics/CLI/bestiary/fiend/nabassu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Statuette of Augury"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 62
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 62"
 ---
 # Statuette of Augury
 *Wondrous Item, unknown (magic)*  

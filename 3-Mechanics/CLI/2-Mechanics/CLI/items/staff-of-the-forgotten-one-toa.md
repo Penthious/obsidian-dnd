@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of the Forgotten One"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 208
+BookSource: "Tomb of Annihilation p. 208"
 ---
 # Staff of the Forgotten One
 *Staff, artifact (requires attunement by a sorcerer, warlock, or wizard)*  

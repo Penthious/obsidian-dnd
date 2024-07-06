@@ -16,7 +16,7 @@ aliases: ["Manticore"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 213, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 213, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules."
 ---
 # [Manticore](2-Mechanics/CLI/bestiary/monstrosity/manticore.md)
 *Source: Monster Manual p. 213, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  

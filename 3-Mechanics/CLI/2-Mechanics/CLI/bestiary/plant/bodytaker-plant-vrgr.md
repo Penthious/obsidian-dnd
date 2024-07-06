@@ -11,7 +11,7 @@ aliases: ["Bodytaker Plant"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 226
+BookSource: "Van Richten's Guide to Ravenloft p. 226"
 ---
 # [Bodytaker Plant](2-Mechanics/CLI/bestiary/plant/bodytaker-plant-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 226*  

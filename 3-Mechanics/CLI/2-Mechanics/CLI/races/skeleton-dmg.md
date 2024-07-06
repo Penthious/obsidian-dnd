@@ -7,7 +7,7 @@ tags:
 aliases: ["Skeleton (DMG)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Dungeon Master's Guide p. 282
+BookSource: "Dungeon Master's Guide p. 282"
 ---
 # Skeleton (DMG)
 *Source: Dungeon Master's Guide p. 282*  

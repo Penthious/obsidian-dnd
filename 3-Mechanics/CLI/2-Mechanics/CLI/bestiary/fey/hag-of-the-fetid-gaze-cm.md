@@ -11,7 +11,7 @@ aliases: ["Hag of the Fetid Gaze"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 76
+BookSource: "Candlekeep Mysteries p. 76"
 ---
 # [Hag of the Fetid Gaze](2-Mechanics/CLI/bestiary/fey/hag-of-the-fetid-gaze-cm.md)
 *Source: Candlekeep Mysteries p. 76*  

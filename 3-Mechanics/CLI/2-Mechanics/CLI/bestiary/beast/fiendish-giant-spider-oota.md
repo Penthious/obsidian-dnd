@@ -11,7 +11,7 @@ aliases: ["Fiendish Giant Spider"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 97
+BookSource: "Out of the Abyss p. 97"
 ---
 # [Fiendish Giant Spider](2-Mechanics/CLI/bestiary/beast/fiendish-giant-spider-oota.md)
 *Source: Out of the Abyss p. 97*  

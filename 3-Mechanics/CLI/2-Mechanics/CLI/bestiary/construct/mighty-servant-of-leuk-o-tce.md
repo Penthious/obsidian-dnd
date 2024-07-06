@@ -11,7 +11,7 @@ aliases: ["Mighty Servant of Leuk-o"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 131
+BookSource: "Tasha's Cauldron of Everything p. 131"
 ---
 # [Mighty Servant of Leuk-o](2-Mechanics/CLI/bestiary/construct/mighty-servant-of-leuk-o-tce.md)
 *Source: Tasha's Cauldron of Everything p. 131*  

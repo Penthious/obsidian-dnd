@@ -10,7 +10,7 @@ tags:
 aliases: ["Robe of Scintillating Colors"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 194. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 194. Available in the SRD."
 ---
 # Robe of Scintillating Colors
 *Wondrous Item, major, very rare (requires attunement)*  

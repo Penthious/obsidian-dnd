@@ -12,7 +12,7 @@ aliases: ["Zalthar Shadowdusk"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 286
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 286"
 ---
 # [Zalthar Shadowdusk](2-Mechanics/CLI/bestiary/npc/zalthar-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 286*  

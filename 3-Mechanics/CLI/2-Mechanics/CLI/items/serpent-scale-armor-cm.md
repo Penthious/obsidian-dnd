@@ -8,7 +8,7 @@ tags:
 aliases: ["Serpent Scale Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 98
+BookSource: "Candlekeep Mysteries p. 98"
 ---
 # Serpent Scale Armor
 *Medium Armor, uncommon*  

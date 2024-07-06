@@ -9,7 +9,7 @@ tags:
 aliases: ["Gloves of Thievery"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 172
+BookSource: "Dungeon Master's Guide p. 172"
 ---
 # Gloves of Thievery
 *Wondrous Item, major, uncommon*  

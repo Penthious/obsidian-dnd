@@ -11,7 +11,7 @@ tags:
 aliases: ["Blade of Avernus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 150
+BookSource: "Baldur's Gate: Descent Into Avernus p. 150"
 ---
 # Blade of Avernus
 *Melee Weapon, artifact (requires attunement)*  

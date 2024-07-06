@@ -11,7 +11,7 @@ aliases: ["Witherbloom Professor of Growth"]
 NoteIcon: monster
 BestiaryType: humanoid (druid)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 223
+BookSource: "Strixhaven: A Curriculum of Chaos p. 223"
 ---
 # [Witherbloom Professor of Growth](2-Mechanics/CLI/bestiary/humanoid/witherbloom-professor-of-growth-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 223*  

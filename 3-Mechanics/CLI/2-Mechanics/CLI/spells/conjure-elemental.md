@@ -15,7 +15,7 @@ classes:
 aliases: ["Conjure Elemental"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 225. Available in the SRD.
+BookSource: "Player's Handbook p. 225. Available in the SRD."
 ---
 # Conjure Elemental
 *5th-level, Conjuration*  

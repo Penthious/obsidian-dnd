@@ -8,7 +8,7 @@ tags:
 aliases: ["Alchemy Jug (Blue)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 144
+BookSource: "Candlekeep Mysteries p. 144"
 ---
 # Alchemy Jug (Blue)
 *Wondrous Item, uncommon*  

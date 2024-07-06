@@ -11,7 +11,7 @@ aliases: ["Dwarf Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 123
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 123"
 ---
 # [Dwarf Skeleton](2-Mechanics/CLI/bestiary/undead/dwarf-skeleton-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 123*  

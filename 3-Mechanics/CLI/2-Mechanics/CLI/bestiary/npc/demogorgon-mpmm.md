@@ -12,7 +12,7 @@ aliases: ["Demogorgon"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 90, Mordenkainen's Tome of Foes p. 144
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 90, Mordenkainen's Tome of Foes p. 144"
 ---
 # [Demogorgon](2-Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 90, Mordenkainen's Tome of Foes p. 144*  

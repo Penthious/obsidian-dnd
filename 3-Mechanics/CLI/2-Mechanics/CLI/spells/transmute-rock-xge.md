@@ -15,7 +15,7 @@ classes:
 aliases: ["Transmute Rock"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 169
+BookSource: "Xanathar's Guide to Everything p. 169"
 ---
 # Transmute Rock
 *5th-level, Transmutation*  

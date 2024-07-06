@@ -11,7 +11,7 @@ aliases: ["Underworld Cerberus"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 215
+BookSource: "Mythic Odysseys of Theros p. 215"
 ---
 # [Underworld Cerberus](2-Mechanics/CLI/bestiary/monstrosity/underworld-cerberus-mot.md)
 *Source: Mythic Odysseys of Theros p. 215*  

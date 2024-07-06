@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarf (Mountain)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 20. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 20. Available in the Basic Rules."
 ---
 # Dwarf (Mountain)
 *Source: Player's Handbook p. 20. Available in the Basic Rules.*  

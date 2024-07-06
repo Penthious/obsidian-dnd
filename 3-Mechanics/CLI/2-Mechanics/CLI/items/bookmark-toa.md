@@ -12,7 +12,7 @@ tags:
 aliases: ["Bookmark"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 206
+BookSource: "Tomb of Annihilation p. 206"
 ---
 # Bookmark
 *Melee Weapon, legendary (requires attunement)*  

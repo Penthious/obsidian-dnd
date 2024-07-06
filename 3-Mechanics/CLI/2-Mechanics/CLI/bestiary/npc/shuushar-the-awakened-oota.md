@@ -12,7 +12,7 @@ aliases: ["Shuushar the Awakened"]
 NoteIcon: npc
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 7
+BookSource: "Out of the Abyss p. 7"
 ---
 # [Shuushar the Awakened](2-Mechanics/CLI/bestiary/npc/shuushar-the-awakened-oota.md)
 *Source: Out of the Abyss p. 7*  

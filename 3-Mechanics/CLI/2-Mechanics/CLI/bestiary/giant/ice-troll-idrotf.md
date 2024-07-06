@@ -11,7 +11,7 @@ aliases: ["Ice Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 295
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 295"
 ---
 # [Ice Troll](2-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 295*  

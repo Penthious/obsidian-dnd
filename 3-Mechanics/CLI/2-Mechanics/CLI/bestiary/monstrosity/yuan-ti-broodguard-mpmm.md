@@ -14,7 +14,7 @@ aliases: ["Yuan-ti Broodguard"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203"
 ---
 # [Yuan-ti Broodguard](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-broodguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*  

@@ -11,7 +11,7 @@ aliases: ["Kalaman Soldier"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 202
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 202"
 ---
 # [Kalaman Soldier](2-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 202*  

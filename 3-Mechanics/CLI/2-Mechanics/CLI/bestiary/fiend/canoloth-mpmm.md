@@ -14,7 +14,7 @@ aliases: ["Canoloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247"
 ---
 # [Canoloth](2-Mechanics/CLI/bestiary/fiend/canoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*  

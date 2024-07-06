@@ -8,7 +8,7 @@ tags:
 aliases: ["Flying Chariot"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 196
+BookSource: "Mythic Odysseys of Theros p. 196"
 ---
 # Flying Chariot
 *Wondrous Item, rare*  

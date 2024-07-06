@@ -15,7 +15,7 @@ aliases: ["Yuan-ti Malison (Type 5)"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 96, Tomb of Annihilation
+BookSource: "Volo's Guide to Monsters p. 96, Tomb of Annihilation"
 ---
 # [Yuan-ti Malison (Type 5)](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-5-vgm.md)
 *Source: Volo's Guide to Monsters p. 96, Tomb of Annihilation*  

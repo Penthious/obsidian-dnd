@@ -11,7 +11,7 @@ aliases: ["Giant Sea Eel"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 237
+BookSource: "Ghosts of Saltmarsh p. 237"
 ---
 # [Giant Sea Eel](2-Mechanics/CLI/bestiary/beast/giant-sea-eel-gos.md)
 *Source: Ghosts of Saltmarsh p. 237*  

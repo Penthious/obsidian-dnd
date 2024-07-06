@@ -12,7 +12,7 @@ aliases: ["Merrenoloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250"
 ---
 # [Merrenoloth](2-Mechanics/CLI/bestiary/fiend/merrenoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  

@@ -11,7 +11,7 @@ aliases: ["Flesh Meld"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 207
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 207"
 ---
 # [Flesh Meld](2-Mechanics/CLI/bestiary/aberration/flesh-meld-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 207*  

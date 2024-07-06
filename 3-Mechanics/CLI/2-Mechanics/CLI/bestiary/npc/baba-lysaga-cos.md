@@ -13,7 +13,7 @@ aliases: ["Baba Lysaga"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 228
+BookSource: "Curse of Strahd p. 228"
 ---
 # [Baba Lysaga](2-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)
 *Source: Curse of Strahd p. 228*  

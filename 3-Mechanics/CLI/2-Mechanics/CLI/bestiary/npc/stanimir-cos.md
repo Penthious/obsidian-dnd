@@ -12,7 +12,7 @@ aliases: ["Stanimir"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 20
+BookSource: "Curse of Strahd p. 20"
 ---
 # [Stanimir](2-Mechanics/CLI/bestiary/npc/stanimir-cos.md)
 *Source: Curse of Strahd p. 20*  

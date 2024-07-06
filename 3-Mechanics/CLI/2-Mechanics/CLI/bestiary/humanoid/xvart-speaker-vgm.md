@@ -13,7 +13,7 @@ aliases: ["Xvart Speaker"]
 NoteIcon: monster
 BestiaryType: humanoid (xvart)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 200
+BookSource: "Volo's Guide to Monsters p. 200"
 ---
 # [Xvart Speaker](2-Mechanics/CLI/bestiary/humanoid/xvart-speaker-vgm.md)
 *Source: Volo's Guide to Monsters p. 200*  

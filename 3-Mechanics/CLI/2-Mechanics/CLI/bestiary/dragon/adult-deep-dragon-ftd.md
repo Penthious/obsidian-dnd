@@ -11,7 +11,7 @@ aliases: ["Adult Deep Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 174
+BookSource: "Fizban's Treasury of Dragons p. 174"
 ---
 # [Adult Deep Dragon](2-Mechanics/CLI/bestiary/dragon/adult-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 174*  

@@ -11,7 +11,7 @@ aliases: ["Ice Devil"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 75, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 75, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Ice Devil](2-Mechanics/CLI/bestiary/fiend/ice-devil.md)
 *Source: Monster Manual p. 75, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  

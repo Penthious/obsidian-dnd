@@ -10,7 +10,7 @@ tags:
 aliases: ["Scarab of Protection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 199. Available in the SRD."
 ---
 # Scarab of Protection
 *Wondrous Item, major, legendary (requires attunement)*  

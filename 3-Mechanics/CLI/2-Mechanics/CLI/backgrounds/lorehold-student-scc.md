@@ -7,7 +7,7 @@ tags:
 aliases: ["Lorehold Student"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Strixhaven: A Curriculum of Chaos p. 31
+BookSource: "Strixhaven: A Curriculum of Chaos p. 31"
 ---
 # Lorehold Student
 *Source: Strixhaven: A Curriculum of Chaos p. 31*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Hexblood"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Van Richten's Guide to Ravenloft p. 18
+BookSource: "Van Richten's Guide to Ravenloft p. 18"
 ---
 # Hexblood
 *Source: Van Richten's Guide to Ravenloft p. 18*  

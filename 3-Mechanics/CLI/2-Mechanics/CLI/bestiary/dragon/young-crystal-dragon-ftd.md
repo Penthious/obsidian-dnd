@@ -11,7 +11,7 @@ aliases: ["Young Crystal Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 172
+BookSource: "Fizban's Treasury of Dragons p. 172"
 ---
 # [Young Crystal Dragon](2-Mechanics/CLI/bestiary/dragon/young-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  

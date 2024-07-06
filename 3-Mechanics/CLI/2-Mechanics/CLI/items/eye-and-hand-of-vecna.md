@@ -9,7 +9,7 @@ tags:
 aliases: ["Eye and Hand of Vecna"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 224
+BookSource: "Dungeon Master's Guide p. 224"
 ---
 # Eye and Hand of Vecna
 *Wondrous Item, artifact (requires attunement)*  

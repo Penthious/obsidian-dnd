@@ -11,7 +11,7 @@ aliases: ["Bullywug Royal"]
 NoteIcon: monster
 BestiaryType: humanoid (bullywug)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 232, The Wild Beyond the Witchlight
+BookSource: "Ghosts of Saltmarsh p. 232, The Wild Beyond the Witchlight"
 ---
 # [Bullywug Royal](2-Mechanics/CLI/bestiary/humanoid/bullywug-royal-gos.md)
 *Source: Ghosts of Saltmarsh p. 232, The Wild Beyond the Witchlight*  

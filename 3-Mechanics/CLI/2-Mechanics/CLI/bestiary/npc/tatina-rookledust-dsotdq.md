@@ -12,7 +12,7 @@ aliases: ["Tatina Rookledust"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 87
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 87"
 ---
 # [Tatina Rookledust](2-Mechanics/CLI/bestiary/npc/tatina-rookledust-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 87*  

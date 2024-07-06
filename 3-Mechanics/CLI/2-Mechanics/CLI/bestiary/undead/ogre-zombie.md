@@ -11,7 +11,7 @@ aliases: ["Ogre Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 316, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 316, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Ogre Zombie](2-Mechanics/CLI/bestiary/undead/ogre-zombie.md)
 *Source: Monster Manual p. 316, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

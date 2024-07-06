@@ -9,7 +9,7 @@ tags:
 aliases: ["+1 Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 152. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 152. Available in the SRD and the Basic Rules."
 ---
 # +1 Armor
 *Generic Variant, major, rare*  

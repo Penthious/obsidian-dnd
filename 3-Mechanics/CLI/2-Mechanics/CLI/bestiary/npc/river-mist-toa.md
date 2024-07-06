@@ -12,7 +12,7 @@ aliases: ["River Mist"]
 NoteIcon: npc
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 35
+BookSource: "Tomb of Annihilation p. 35"
 ---
 # [River Mist](2-Mechanics/CLI/bestiary/npc/river-mist-toa.md)
 *Source: Tomb of Annihilation p. 35*  

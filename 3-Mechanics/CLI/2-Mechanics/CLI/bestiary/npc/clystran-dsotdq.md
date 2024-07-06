@@ -12,7 +12,7 @@ aliases: ["Clystran"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 126
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 126"
 ---
 # [Clystran](2-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 126*  

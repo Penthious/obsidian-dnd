@@ -11,7 +11,7 @@ aliases: ["Hill Giant Servant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 170
+BookSource: "Tales from the Yawning Portal p. 170"
 ---
 # [Hill Giant Servant](2-Mechanics/CLI/bestiary/giant/hill-giant-servant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  

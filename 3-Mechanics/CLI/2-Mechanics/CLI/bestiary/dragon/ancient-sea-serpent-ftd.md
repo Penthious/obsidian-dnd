@@ -11,7 +11,7 @@ aliases: ["Ancient Sea Serpent"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 219
+BookSource: "Fizban's Treasury of Dragons p. 219"
 ---
 # [Ancient Sea Serpent](2-Mechanics/CLI/bestiary/dragon/ancient-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  

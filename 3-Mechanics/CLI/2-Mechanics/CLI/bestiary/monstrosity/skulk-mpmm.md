@@ -16,7 +16,7 @@ aliases: ["Skulk"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227"
 ---
 # [Skulk](2-Mechanics/CLI/bestiary/monstrosity/skulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  

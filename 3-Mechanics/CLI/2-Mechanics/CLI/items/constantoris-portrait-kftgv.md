@@ -9,7 +9,7 @@ tags:
 aliases: ["Constantori's Portrait"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Keys from the Golden Vault p. 101
+BookSource: "Keys from the Golden Vault p. 101"
 ---
 # Constantori's Portrait
 *Wondrous Item, very rare (requires attunement)*  

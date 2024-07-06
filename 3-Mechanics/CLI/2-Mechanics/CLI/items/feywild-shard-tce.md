@@ -9,7 +9,7 @@ tags:
 aliases: ["Feywild Shard"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 127
+BookSource: "Tasha's Cauldron of Everything p. 127"
 ---
 # Feywild Shard
 *Wondrous Item, uncommon (requires attunement by a sorcerer)*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Pipes of Haunting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 185. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 185. Available in the SRD."
 ---
 # Pipes of Haunting
 *Instrument, major, uncommon*  

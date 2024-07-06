@@ -9,7 +9,7 @@ tags:
 aliases: ["Lord's Ensemble"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 191
+BookSource: "Waterdeep: Dragon Heist p. 191"
 ---
 # Lord's Ensemble
 *Wondrous Item, very rare (requires attunement by a creature with a humanoid build)*  

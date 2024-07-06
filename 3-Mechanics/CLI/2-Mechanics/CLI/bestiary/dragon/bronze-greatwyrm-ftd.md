@@ -11,7 +11,7 @@ aliases: ["Bronze Greatwyrm"]
 NoteIcon: monster
 BestiaryType: dragon (metallic)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 208
+BookSource: "Fizban's Treasury of Dragons p. 208"
 ---
 # [Bronze Greatwyrm](2-Mechanics/CLI/bestiary/dragon/bronze-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  

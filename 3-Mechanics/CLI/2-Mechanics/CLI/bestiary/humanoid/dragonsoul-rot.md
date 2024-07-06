@@ -11,7 +11,7 @@ aliases: ["Dragonsoul"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 89
+BookSource: "The Rise of Tiamat p. 89"
 ---
 # [Dragonsoul](2-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md)
 *Source: The Rise of Tiamat p. 89*  

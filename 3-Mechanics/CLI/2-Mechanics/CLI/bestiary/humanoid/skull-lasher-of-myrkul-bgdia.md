@@ -11,7 +11,7 @@ aliases: ["Skull Lasher of Myrkul"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 234
+BookSource: "Baldur's Gate: Descent Into Avernus p. 234"
 ---
 # [Skull Lasher of Myrkul](2-Mechanics/CLI/bestiary/humanoid/skull-lasher-of-myrkul-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  

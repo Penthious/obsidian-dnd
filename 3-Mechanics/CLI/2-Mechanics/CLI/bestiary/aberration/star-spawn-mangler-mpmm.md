@@ -11,7 +11,7 @@ aliases: ["Star Spawn Mangler"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236"
 ---
 # [Star Spawn Mangler](2-Mechanics/CLI/bestiary/aberration/star-spawn-mangler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  

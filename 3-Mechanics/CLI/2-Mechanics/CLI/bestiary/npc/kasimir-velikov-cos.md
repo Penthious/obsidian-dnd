@@ -12,7 +12,7 @@ aliases: ["Kasimir Velikov"]
 NoteIcon: npc
 BestiaryType: humanoid (Dusk elf)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 233
+BookSource: "Curse of Strahd p. 233"
 ---
 # [Kasimir Velikov](2-Mechanics/CLI/bestiary/npc/kasimir-velikov-cos.md)
 *Source: Curse of Strahd p. 233*  

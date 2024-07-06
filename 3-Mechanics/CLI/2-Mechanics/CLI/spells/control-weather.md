@@ -19,7 +19,7 @@ classes:
 aliases: ["Control Weather"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 228. Available in the SRD.
+BookSource: "Player's Handbook p. 228. Available in the SRD."
 ---
 # Control Weather
 *8th-level, Transmutation*  

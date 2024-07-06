@@ -15,7 +15,7 @@ aliases: ["Goblin Boss"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Monster Manual p. 166, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 166, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Goblin Boss](2-Mechanics/CLI/bestiary/humanoid/goblin-boss.md)
 *Source: Monster Manual p. 166, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

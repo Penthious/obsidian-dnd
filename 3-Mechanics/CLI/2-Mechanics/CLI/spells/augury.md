@@ -22,7 +22,7 @@ classes:
 aliases: ["Augury"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 215. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 215. Available in the SRD and the Basic Rules."
 ---
 # Augury
 *2nd-level, Divination (ritual)*  

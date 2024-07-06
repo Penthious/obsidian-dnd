@@ -11,7 +11,7 @@ tags:
 aliases: ["Akmon, Hammer of Purphoros"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 198
+BookSource: "Mythic Odysseys of Theros p. 198"
 ---
 # Akmon, Hammer of Purphoros
 *Melee Weapon, artifact (requires attunement)*  

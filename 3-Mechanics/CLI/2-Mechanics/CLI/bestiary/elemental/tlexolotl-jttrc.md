@@ -11,7 +11,7 @@ aliases: ["Tlexolotl"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 119
+BookSource: "Journeys through the Radiant Citadel p. 119"
 ---
 # [Tlexolotl](2-Mechanics/CLI/bestiary/elemental/tlexolotl-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 119*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Professor Skant"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 315
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 315"
 ---
 # Professor Skant
 *Wondrous Item, rare*  

@@ -12,7 +12,7 @@ aliases: ["Strahd's Animated Armor"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 227
+BookSource: "Curse of Strahd p. 227"
 ---
 # [Strahd's Animated Armor](2-Mechanics/CLI/bestiary/npc/strahds-animated-armor-cos.md)
 *Source: Curse of Strahd p. 227*  

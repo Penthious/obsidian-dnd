@@ -11,7 +11,7 @@ aliases: ["Abyssal Chicken"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 97
+BookSource: "Baldur's Gate: Descent Into Avernus p. 97"
 ---
 # [Abyssal Chicken](2-Mechanics/CLI/bestiary/fiend/abyssal-chicken-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 97*  

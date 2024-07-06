@@ -11,7 +11,7 @@ aliases: ["Violet Fungus"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 48, Phandelver and Below: The Shattered Obelisk
+BookSource: "Dragons of Stormwreck Isle p. 48, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Violet Fungus](2-Mechanics/CLI/bestiary/plant/violet-fungus-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 48, Phandelver and Below: The Shattered Obelisk*  

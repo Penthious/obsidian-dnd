@@ -15,7 +15,7 @@ classes:
 aliases: ["Fizban's Platinum Shield"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Fizban's Treasury of Dragons p. 20
+BookSource: "Fizban's Treasury of Dragons p. 20"
 ---
 # Fizban's Platinum Shield
 *6th-level, Abjuration*  

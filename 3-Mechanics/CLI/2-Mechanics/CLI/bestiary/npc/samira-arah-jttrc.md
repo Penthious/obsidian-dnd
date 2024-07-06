@@ -12,7 +12,7 @@ aliases: ["Samira Arah"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 68
+BookSource: "Journeys through the Radiant Citadel p. 68"
 ---
 # [Samira Arah](2-Mechanics/CLI/bestiary/npc/samira-arah-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 68*  

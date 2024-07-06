@@ -14,7 +14,7 @@ aliases: ["Aurochs"]
 NoteIcon: monster
 BestiaryType: beast (cattle)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 207
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 207"
 ---
 # [Aurochs](2-Mechanics/CLI/bestiary/beast/aurochs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 207*  

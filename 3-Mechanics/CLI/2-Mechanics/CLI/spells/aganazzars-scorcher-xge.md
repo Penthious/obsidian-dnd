@@ -17,7 +17,7 @@ classes:
 aliases: ["Aganazzar's Scorcher"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 150
+BookSource: "Xanathar's Guide to Everything p. 150"
 ---
 # Aganazzar's Scorcher
 *2nd-level, Evocation*  

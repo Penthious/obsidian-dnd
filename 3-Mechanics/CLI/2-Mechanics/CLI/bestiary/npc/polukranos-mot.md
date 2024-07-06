@@ -12,7 +12,7 @@ aliases: ["Polukranos"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 231
+BookSource: "Mythic Odysseys of Theros p. 231"
 ---
 # [Polukranos](2-Mechanics/CLI/bestiary/npc/polukranos-mot.md)
 *Source: Mythic Odysseys of Theros p. 231*  

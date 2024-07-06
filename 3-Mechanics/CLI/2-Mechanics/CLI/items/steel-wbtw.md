@@ -11,7 +11,7 @@ tags:
 aliases: ["Steel"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 214
+BookSource: "The Wild Beyond the Witchlight p. 214"
 ---
 # Steel
 *Melee Weapon, very rare (requires attunement by a good-aligned creature)*  

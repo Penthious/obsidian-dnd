@@ -7,7 +7,7 @@ tags:
 aliases: ["Holy Symbol"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151
+BookSource: "Player's Handbook p. 151"
 ---
 # Holy Symbol
 *Spellcasting Focus*  

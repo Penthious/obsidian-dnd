@@ -11,7 +11,7 @@ aliases: ["Dullahan"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 233
+BookSource: "Van Richten's Guide to Ravenloft p. 233"
 ---
 # [Dullahan](2-Mechanics/CLI/bestiary/undead/dullahan-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 233*  

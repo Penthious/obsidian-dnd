@@ -12,7 +12,7 @@ aliases: ["Auril (First Form)"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 275
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 275"
 ---
 # [Auril (First Form)](2-Mechanics/CLI/bestiary/npc/auril-first-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 275*  

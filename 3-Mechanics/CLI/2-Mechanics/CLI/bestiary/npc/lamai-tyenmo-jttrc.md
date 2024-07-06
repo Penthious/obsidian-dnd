@@ -12,7 +12,7 @@ aliases: ["Lamai Tyenmo"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 20
+BookSource: "Journeys through the Radiant Citadel p. 20"
 ---
 # [Lamai Tyenmo](2-Mechanics/CLI/bestiary/npc/lamai-tyenmo-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 20*  

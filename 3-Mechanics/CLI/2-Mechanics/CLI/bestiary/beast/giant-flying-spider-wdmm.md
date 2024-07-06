@@ -11,7 +11,7 @@ aliases: ["Giant Flying Spider"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 150
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 150"
 ---
 # [Giant Flying Spider](2-Mechanics/CLI/bestiary/beast/giant-flying-spider-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 150*  

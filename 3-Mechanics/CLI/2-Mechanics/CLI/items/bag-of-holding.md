@@ -9,7 +9,7 @@ tags:
 aliases: ["Bag of Holding"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 153. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 153. Available in the SRD and the Basic Rules."
 ---
 # Bag of Holding
 *Wondrous Item, minor, uncommon*  

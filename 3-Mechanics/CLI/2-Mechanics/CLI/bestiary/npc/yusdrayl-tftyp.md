@@ -12,7 +12,7 @@ aliases: ["Yusdrayl"]
 NoteIcon: npc
 BestiaryType: humanoid (kobold)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 248
+BookSource: "Tales from the Yawning Portal p. 248"
 ---
 # [Yusdrayl](2-Mechanics/CLI/bestiary/npc/yusdrayl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 248*  

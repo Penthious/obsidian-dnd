@@ -12,7 +12,7 @@ aliases: ["Wood Woad"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198"
 ---
 # [Wood Woad](2-Mechanics/CLI/bestiary/plant/wood-woad-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  

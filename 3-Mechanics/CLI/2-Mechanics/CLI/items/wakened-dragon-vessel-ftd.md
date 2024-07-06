@@ -9,7 +9,7 @@ tags:
 aliases: ["Wakened Dragon Vessel"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 27
+BookSource: "Fizban's Treasury of Dragons p. 27"
 ---
 # Wakened Dragon Vessel
 *Wondrous Item, very rare (requires attunement)*  

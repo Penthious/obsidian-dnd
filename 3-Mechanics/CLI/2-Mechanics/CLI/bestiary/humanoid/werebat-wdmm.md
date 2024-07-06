@@ -12,7 +12,7 @@ aliases: ["Werebat"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid, shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 317
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 317"
 ---
 # [Werebat](2-Mechanics/CLI/bestiary/humanoid/werebat-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 317*  

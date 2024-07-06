@@ -7,7 +7,7 @@ tags:
 aliases: ["Silver chalice set with moonstones"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Silver chalice set with moonstones
 *Art object*  

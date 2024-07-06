@@ -11,7 +11,7 @@ aliases: ["Will-o'-Wells"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 61
+BookSource: "The Wild Beyond the Witchlight p. 61"
 ---
 # [Will-o'-Wells](2-Mechanics/CLI/bestiary/undead/will-o-wells-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 61*  

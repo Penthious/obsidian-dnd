@@ -13,7 +13,7 @@ aliases: ["Dukha Bhatiyali"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 124
+BookSource: "Journeys through the Radiant Citadel p. 124"
 ---
 # [Dukha Bhatiyali](2-Mechanics/CLI/bestiary/npc/dukha-bhatiyali-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 124*  

@@ -11,7 +11,7 @@ aliases: ["Egg Hunter Hatchling"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 193
+BookSource: "Fizban's Treasury of Dragons p. 193"
 ---
 # [Egg Hunter Hatchling](2-Mechanics/CLI/bestiary/monstrosity/egg-hunter-hatchling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 193*  

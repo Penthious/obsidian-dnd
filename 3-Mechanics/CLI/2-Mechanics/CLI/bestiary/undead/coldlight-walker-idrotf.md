@@ -11,7 +11,7 @@ aliases: ["Coldlight Walker"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 284
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 284"
 ---
 # [Coldlight Walker](2-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 284*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Ythryn Mythallar"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 316
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 316"
 ---
 # Ythryn Mythallar
 *Wondrous Item, legendary (requires attunement by a spellcaster)*  

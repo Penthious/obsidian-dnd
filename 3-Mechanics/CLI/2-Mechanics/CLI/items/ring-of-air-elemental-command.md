@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Air Elemental Command"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 190. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 190. Available in the SRD."
 ---
 # Ring of Air Elemental Command
 *Ring, major, legendary (requires attunement)*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Steel Wind Strike"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 166
+BookSource: "Xanathar's Guide to Everything p. 166"
 ---
 # Steel Wind Strike
 *5th-level, Conjuration*  

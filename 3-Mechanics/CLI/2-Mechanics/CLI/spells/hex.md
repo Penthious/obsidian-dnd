@@ -11,7 +11,7 @@ classes:
 aliases: ["Hex"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 251
+BookSource: "Player's Handbook p. 251"
 ---
 # Hex
 *1st-level, Enchantment*  

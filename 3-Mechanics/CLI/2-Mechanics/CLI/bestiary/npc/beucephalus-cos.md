@@ -12,7 +12,7 @@ aliases: ["Beucephalus"]
 NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 93
+BookSource: "Curse of Strahd p. 93"
 ---
 # [Beucephalus](2-Mechanics/CLI/bestiary/npc/beucephalus-cos.md)
 *Source: Curse of Strahd p. 93*  

@@ -11,7 +11,7 @@ aliases: ["Relentless Juggernaut"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 243
+BookSource: "Van Richten's Guide to Ravenloft p. 243"
 ---
 # [Relentless Juggernaut](2-Mechanics/CLI/bestiary/fiend/relentless-juggernaut-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 243*  

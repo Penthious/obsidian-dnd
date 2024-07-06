@@ -11,7 +11,7 @@ aliases: ["Icewind Kobold"]
 NoteIcon: monster
 BestiaryType: humanoid (kobold)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 296
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 296"
 ---
 # [Icewind Kobold](2-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 296*  

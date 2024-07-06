@@ -12,7 +12,7 @@ aliases: ["Orlekto"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 256
+BookSource: "Storm King's Thunder p. 256"
 ---
 # [Orlekto](2-Mechanics/CLI/bestiary/npc/orlekto-skt.md)
 *Source: Storm King's Thunder p. 256*  

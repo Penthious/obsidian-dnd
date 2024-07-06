@@ -11,7 +11,7 @@ aliases: ["Ultroloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Monster Manual p. 314, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 314, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel"
 ---
 # [Ultroloth](2-Mechanics/CLI/bestiary/fiend/ultroloth.md)
 *Source: Monster Manual p. 314, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel*  

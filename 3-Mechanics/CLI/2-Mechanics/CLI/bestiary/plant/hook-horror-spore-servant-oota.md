@@ -11,7 +11,7 @@ aliases: ["Hook Horror Spore Servant"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 68
+BookSource: "Out of the Abyss p. 68"
 ---
 # [Hook Horror Spore Servant](2-Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota.md)
 *Source: Out of the Abyss p. 68*  

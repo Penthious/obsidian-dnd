@@ -12,7 +12,7 @@ aliases: ["Jijibisha Manivarshi"]
 NoteIcon: npc
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 128
+BookSource: "Journeys through the Radiant Citadel p. 128"
 ---
 # [Jijibisha Manivarshi](2-Mechanics/CLI/bestiary/npc/jijibisha-manivarshi-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 128*  

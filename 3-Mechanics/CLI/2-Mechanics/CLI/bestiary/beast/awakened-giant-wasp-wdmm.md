@@ -11,7 +11,7 @@ aliases: ["Awakened Giant Wasp"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 72
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 72"
 ---
 # [Awakened Giant Wasp](2-Mechanics/CLI/bestiary/beast/awakened-giant-wasp-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 72*  

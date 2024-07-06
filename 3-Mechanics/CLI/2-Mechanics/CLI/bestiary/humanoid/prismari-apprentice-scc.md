@@ -11,7 +11,7 @@ aliases: ["Prismari Apprentice"]
 NoteIcon: monster
 BestiaryType: humanoid (sorcerer)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 205
+BookSource: "Strixhaven: A Curriculum of Chaos p. 205"
 ---
 # [Prismari Apprentice](2-Mechanics/CLI/bestiary/humanoid/prismari-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 205*  

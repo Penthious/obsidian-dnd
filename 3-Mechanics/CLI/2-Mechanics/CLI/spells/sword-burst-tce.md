@@ -23,7 +23,7 @@ classes:
 aliases: ["Sword Burst"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 115, Sword Coast Adventurer's Guide p. 143
+BookSource: "Tasha's Cauldron of Everything p. 115, Sword Coast Adventurer's Guide p. 143"
 ---
 # Sword Burst
 *cantrip, Conjuration*  

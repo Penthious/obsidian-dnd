@@ -13,7 +13,7 @@ aliases: ["Sythian Skalderang"]
 NoteIcon: npc
 BestiaryType: humanoid (bard, tiefling)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 117
+BookSource: "Keys from the Golden Vault p. 117"
 ---
 # [Sythian Skalderang](2-Mechanics/CLI/bestiary/npc/sythian-skalderang-kftgv.md)
 *Source: Keys from the Golden Vault p. 117*  

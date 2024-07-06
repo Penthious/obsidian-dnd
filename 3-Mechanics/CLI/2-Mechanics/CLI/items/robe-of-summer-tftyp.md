@@ -9,7 +9,7 @@ tags:
 aliases: ["Robe of Summer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Robe of Summer
 *Wondrous Item, rare (requires attunement)*  

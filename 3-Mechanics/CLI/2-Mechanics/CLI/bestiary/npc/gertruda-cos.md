@@ -12,7 +12,7 @@ aliases: ["Gertruda"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 68
+BookSource: "Curse of Strahd p. 68"
 ---
 # [Gertruda](2-Mechanics/CLI/bestiary/npc/gertruda-cos.md)
 *Source: Curse of Strahd p. 68*  

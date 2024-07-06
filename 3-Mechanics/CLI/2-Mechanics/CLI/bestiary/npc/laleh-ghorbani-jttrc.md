@@ -12,7 +12,7 @@ aliases: ["Laleh Ghorbani"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 156
+BookSource: "Journeys through the Radiant Citadel p. 156"
 ---
 # [Laleh Ghorbani](2-Mechanics/CLI/bestiary/npc/laleh-ghorbani-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 156*  

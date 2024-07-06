@@ -9,7 +9,7 @@ tags:
 aliases: ["Shadowfell Brand Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 134
+BookSource: "Tasha's Cauldron of Everything p. 134"
 ---
 # Shadowfell Brand Tattoo
 *Wondrous Item, rare (requires attunement)*  

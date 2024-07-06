@@ -12,7 +12,7 @@ aliases: ["Jarl Storvald"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 165
+BookSource: "Storm King's Thunder p. 165"
 ---
 # [Jarl Storvald](2-Mechanics/CLI/bestiary/npc/jarl-storvald-skt.md)
 *Source: Storm King's Thunder p. 165*  

@@ -12,7 +12,7 @@ aliases: ["Jenks"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 63
+BookSource: "Waterdeep: Dragon Heist p. 63"
 ---
 # [Jenks](2-Mechanics/CLI/bestiary/npc/jenks-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  

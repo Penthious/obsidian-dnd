@@ -12,7 +12,7 @@ aliases: ["Fel'rekt Lafeen"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 67
+BookSource: "Waterdeep: Dragon Heist p. 67"
 ---
 # [Fel'rekt Lafeen](2-Mechanics/CLI/bestiary/npc/felrekt-lafeen-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 67*  

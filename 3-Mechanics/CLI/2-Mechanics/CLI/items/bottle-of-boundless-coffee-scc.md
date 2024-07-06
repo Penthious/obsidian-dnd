@@ -8,7 +8,7 @@ tags:
 aliases: ["Bottle of Boundless Coffee"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 38
+BookSource: "Strixhaven: A Curriculum of Chaos p. 38"
 ---
 # Bottle of Boundless Coffee
 *Wondrous Item, common*  

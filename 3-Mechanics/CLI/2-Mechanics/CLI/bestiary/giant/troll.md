@@ -17,7 +17,7 @@ aliases: ["Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 291, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 291, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Troll](2-Mechanics/CLI/bestiary/giant/troll.md)
 *Source: Monster Manual p. 291, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

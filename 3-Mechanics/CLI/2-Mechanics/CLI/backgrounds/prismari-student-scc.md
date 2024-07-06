@@ -7,7 +7,7 @@ tags:
 aliases: ["Prismari Student"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Strixhaven: A Curriculum of Chaos p. 32
+BookSource: "Strixhaven: A Curriculum of Chaos p. 32"
 ---
 # Prismari Student
 *Source: Strixhaven: A Curriculum of Chaos p. 32*  

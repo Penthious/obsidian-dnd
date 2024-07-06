@@ -20,7 +20,7 @@ classes:
 aliases: ["Commune with Nature"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 224. Available in the SRD.
+BookSource: "Player's Handbook p. 224. Available in the SRD."
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  

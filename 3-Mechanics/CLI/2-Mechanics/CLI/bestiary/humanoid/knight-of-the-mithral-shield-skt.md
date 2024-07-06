@@ -11,7 +11,7 @@ aliases: ["Knight of the Mithral Shield"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 79
+BookSource: "Storm King's Thunder p. 79"
 ---
 # [Knight of the Mithral Shield](2-Mechanics/CLI/bestiary/humanoid/knight-of-the-mithral-shield-skt.md)
 *Source: Storm King's Thunder p. 79*  

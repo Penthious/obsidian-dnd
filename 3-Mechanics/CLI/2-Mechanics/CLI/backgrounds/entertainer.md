@@ -7,7 +7,7 @@ tags:
 aliases: ["Entertainer"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 130
+BookSource: "Player's Handbook p. 130"
 ---
 # Entertainer
 *Source: Player's Handbook p. 130*  

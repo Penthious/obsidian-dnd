@@ -12,7 +12,7 @@ aliases: ["Nixylanna Vidorant"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 130
+BookSource: "Keys from the Golden Vault p. 130"
 ---
 # [Nixylanna Vidorant](2-Mechanics/CLI/bestiary/npc/nixylanna-vidorant-kftgv.md)
 *Source: Keys from the Golden Vault p. 130*  

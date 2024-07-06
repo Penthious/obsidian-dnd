@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Entangle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Wand of Entangle
 *Wand, uncommon (requires attunement by a spellcaster)*  

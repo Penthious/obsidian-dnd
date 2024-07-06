@@ -12,7 +12,7 @@ aliases: ["Nellik"]
 NoteIcon: npc
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 193
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 193"
 ---
 # [Nellik](2-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 193*  

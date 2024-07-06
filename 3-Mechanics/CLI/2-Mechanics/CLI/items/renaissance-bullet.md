@@ -7,7 +7,7 @@ tags:
 aliases: ["Renaissance Bullet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Renaissance Bullet
 *Ammunition (Firearm)*  

@@ -12,7 +12,7 @@ aliases: ["Manshoon"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 209
+BookSource: "Waterdeep: Dragon Heist p. 209"
 ---
 # [Manshoon](2-Mechanics/CLI/bestiary/npc/manshoon-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 209*  

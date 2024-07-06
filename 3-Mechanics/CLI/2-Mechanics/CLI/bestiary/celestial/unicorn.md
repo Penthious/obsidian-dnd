@@ -12,7 +12,7 @@ aliases: ["Unicorn"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Monster Manual p. 294, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 294, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Unicorn](2-Mechanics/CLI/bestiary/celestial/unicorn.md)
 *Source: Monster Manual p. 294, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.*  

@@ -12,7 +12,7 @@ aliases: ["Treant"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 289, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 289, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Treant](2-Mechanics/CLI/bestiary/plant/treant.md)
 *Source: Monster Manual p. 289, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

@@ -11,7 +11,7 @@ aliases: ["Juvenile Eldritch Horror"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 24
+BookSource: "Keys from the Golden Vault p. 24"
 ---
 # [Juvenile Eldritch Horror](2-Mechanics/CLI/bestiary/monstrosity/juvenile-eldritch-horror-kftgv.md)
 *Source: Keys from the Golden Vault p. 24*  

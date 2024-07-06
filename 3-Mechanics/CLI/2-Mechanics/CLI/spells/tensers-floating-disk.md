@@ -16,7 +16,7 @@ classes:
 aliases: ["Tenser's Floating Disk"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 282. Available in the SRD (as 'Floating Disk').
+BookSource: "Player's Handbook p. 282. Available in the SRD (as 'Floating Disk')."
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

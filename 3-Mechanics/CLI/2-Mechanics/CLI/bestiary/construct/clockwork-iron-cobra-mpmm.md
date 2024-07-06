@@ -15,7 +15,7 @@ aliases: ["Clockwork Iron Cobra"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125"
 ---
 # [Clockwork Iron Cobra](2-Mechanics/CLI/bestiary/construct/clockwork-iron-cobra-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  

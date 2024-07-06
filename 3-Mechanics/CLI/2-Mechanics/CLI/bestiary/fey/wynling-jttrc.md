@@ -11,7 +11,7 @@ aliases: ["Wynling"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 33
+BookSource: "Journeys through the Radiant Citadel p. 33"
 ---
 # [Wynling](2-Mechanics/CLI/bestiary/fey/wynling-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 33*  

@@ -13,7 +13,7 @@ aliases: ["Neogi"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180"
 ---
 # [Neogi](2-Mechanics/CLI/bestiary/aberration/neogi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  

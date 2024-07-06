@@ -12,7 +12,7 @@ aliases: ["Warhorse"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 340, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 340, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules."
 ---
 # [Warhorse](2-Mechanics/CLI/bestiary/beast/warhorse.md)
 *Source: Monster Manual p. 340, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  

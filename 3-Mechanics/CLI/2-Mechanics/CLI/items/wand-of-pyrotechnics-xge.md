@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Pyrotechnics"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 140
+BookSource: "Xanathar's Guide to Everything p. 140"
 ---
 # Wand of Pyrotechnics
 *Wand, minor, common*  

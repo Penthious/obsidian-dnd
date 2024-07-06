@@ -11,7 +11,7 @@ aliases: ["Felbarren Dwarf"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 79
+BookSource: "Storm King's Thunder p. 79"
 ---
 # [Felbarren Dwarf](2-Mechanics/CLI/bestiary/humanoid/felbarren-dwarf-skt.md)
 *Source: Storm King's Thunder p. 79*  

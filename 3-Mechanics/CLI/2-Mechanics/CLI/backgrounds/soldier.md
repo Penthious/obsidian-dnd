@@ -7,7 +7,7 @@ tags:
 aliases: ["Soldier"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 140. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 140. Available in the Basic Rules."
 ---
 # Soldier
 *Source: Player's Handbook p. 140. Available in the Basic Rules.*  

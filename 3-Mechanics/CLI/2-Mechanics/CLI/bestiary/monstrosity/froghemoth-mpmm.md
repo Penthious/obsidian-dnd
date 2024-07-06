@@ -13,7 +13,7 @@ aliases: ["Froghemoth"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145"
 ---
 # [Froghemoth](2-Mechanics/CLI/bestiary/monstrosity/froghemoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145*  

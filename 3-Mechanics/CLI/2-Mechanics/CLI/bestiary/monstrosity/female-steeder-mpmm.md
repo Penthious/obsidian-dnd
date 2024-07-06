@@ -12,7 +12,7 @@ aliases: ["Female Steeder"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238"
 ---
 # [Female Steeder](2-Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  

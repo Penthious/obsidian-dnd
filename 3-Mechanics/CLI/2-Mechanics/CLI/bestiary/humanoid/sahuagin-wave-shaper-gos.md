@@ -11,7 +11,7 @@ aliases: ["Sahuagin Wave Shaper"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 251
+BookSource: "Ghosts of Saltmarsh p. 251"
 ---
 # [Sahuagin Wave Shaper](2-Mechanics/CLI/bestiary/humanoid/sahuagin-wave-shaper-gos.md)
 *Source: Ghosts of Saltmarsh p. 251*  

@@ -13,7 +13,7 @@ aliases: ["Ancient Gold Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 113. Available in the SRD.
+BookSource: "Monster Manual p. 113. Available in the SRD."
 ---
 # [Ancient Gold Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)
 *Source: Monster Manual p. 113. Available in the SRD.*  

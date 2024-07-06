@@ -15,7 +15,7 @@ aliases: ["Eagle"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 322, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 322, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Eagle](2-Mechanics/CLI/bestiary/beast/eagle.md)
 *Source: Monster Manual p. 322, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

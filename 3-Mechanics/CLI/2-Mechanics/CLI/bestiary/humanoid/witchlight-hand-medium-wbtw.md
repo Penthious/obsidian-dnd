@@ -11,7 +11,7 @@ aliases: ["Witchlight Hand (Medium)"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 27
+BookSource: "The Wild Beyond the Witchlight p. 27"
 ---
 # [Witchlight Hand (Medium)](2-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 27*  

@@ -11,7 +11,7 @@ aliases: ["Big Xorn"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 51
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 51"
 ---
 # [Big Xorn](2-Mechanics/CLI/bestiary/elemental/big-xorn-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 51*  

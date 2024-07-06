@@ -11,7 +11,7 @@ aliases: ["Quasit"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 63, Curse of Strahd, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 63, Curse of Strahd, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Quasit](2-Mechanics/CLI/bestiary/fiend/quasit.md)
 *Source: Monster Manual p. 63, Curse of Strahd, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

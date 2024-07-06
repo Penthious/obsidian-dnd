@@ -11,7 +11,7 @@ aliases: ["Adult Emerald Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 196
+BookSource: "Fizban's Treasury of Dragons p. 196"
 ---
 # [Adult Emerald Dragon](2-Mechanics/CLI/bestiary/dragon/adult-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 196*  

@@ -12,7 +12,7 @@ aliases: ["Jade Tigress"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 166
+BookSource: "Candlekeep Mysteries p. 166"
 ---
 # [Jade Tigress](2-Mechanics/CLI/bestiary/npc/jade-tigress-cm.md)
 *Source: Candlekeep Mysteries p. 166*  

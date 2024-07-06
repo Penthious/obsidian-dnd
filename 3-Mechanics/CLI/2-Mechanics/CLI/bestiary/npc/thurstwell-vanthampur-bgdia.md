@@ -12,7 +12,7 @@ aliases: ["Thurstwell Vanthampur"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 34
+BookSource: "Baldur's Gate: Descent Into Avernus p. 34"
 ---
 # [Thurstwell Vanthampur](2-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 34*  

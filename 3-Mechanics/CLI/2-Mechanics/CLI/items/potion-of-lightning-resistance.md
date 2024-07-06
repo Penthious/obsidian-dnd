@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Lightning Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD."
 ---
 # Potion of Lightning Resistance
 *Potion, minor, uncommon*  

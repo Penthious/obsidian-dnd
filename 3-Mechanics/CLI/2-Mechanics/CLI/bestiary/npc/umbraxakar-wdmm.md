@@ -12,7 +12,7 @@ aliases: ["Umbraxakar"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 241
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 241"
 ---
 # [Umbraxakar](2-Mechanics/CLI/bestiary/npc/umbraxakar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 241*  

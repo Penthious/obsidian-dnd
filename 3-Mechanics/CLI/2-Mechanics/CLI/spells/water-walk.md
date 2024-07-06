@@ -24,7 +24,7 @@ classes:
 aliases: ["Water Walk"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 287. Available in the SRD.
+BookSource: "Player's Handbook p. 287. Available in the SRD."
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  

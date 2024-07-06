@@ -15,7 +15,7 @@ aliases: ["Gnoll Fang of Yeenoghu"]
 NoteIcon: monster
 BestiaryType: fiend (gnoll)
 SourceType: Bestiary
-BookSource: Monster Manual p. 163, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Monster Manual p. 163, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Gnoll Fang of Yeenoghu](2-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md)
 *Source: Monster Manual p. 163, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden*  

@@ -13,7 +13,7 @@ tags:
 aliases: ["Dwarven Thrower"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 167. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 167. Available in the SRD."
 ---
 # Dwarven Thrower
 *Melee Weapon, major, very rare (requires attunement by a dwarf)*  

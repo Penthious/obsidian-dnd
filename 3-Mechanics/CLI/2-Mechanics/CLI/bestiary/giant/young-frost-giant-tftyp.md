@@ -11,7 +11,7 @@ aliases: ["Young Frost Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 187
+BookSource: "Tales from the Yawning Portal p. 187"
 ---
 # [Young Frost Giant](2-Mechanics/CLI/bestiary/giant/young-frost-giant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 187*  

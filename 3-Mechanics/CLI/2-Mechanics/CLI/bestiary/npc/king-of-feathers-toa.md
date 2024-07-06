@@ -12,7 +12,7 @@ aliases: ["King of Feathers"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 106
+BookSource: "Tomb of Annihilation p. 106"
 ---
 # [King of Feathers](2-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md)
 *Source: Tomb of Annihilation p. 106*  

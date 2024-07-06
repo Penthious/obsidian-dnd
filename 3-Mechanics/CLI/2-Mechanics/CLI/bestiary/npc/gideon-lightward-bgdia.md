@@ -12,7 +12,7 @@ aliases: ["Gideon Lightward"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 65
+BookSource: "Baldur's Gate: Descent Into Avernus p. 65"
 ---
 # [Gideon Lightward](2-Mechanics/CLI/bestiary/npc/gideon-lightward-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 65*  

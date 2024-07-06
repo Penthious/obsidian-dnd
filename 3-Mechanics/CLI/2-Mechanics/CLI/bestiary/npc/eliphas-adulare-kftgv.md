@@ -13,7 +13,7 @@ aliases: ["Eliphas Adulare"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 188
+BookSource: "Keys from the Golden Vault p. 188"
 ---
 # [Eliphas Adulare](2-Mechanics/CLI/bestiary/npc/eliphas-adulare-kftgv.md)
 *Source: Keys from the Golden Vault p. 188*  

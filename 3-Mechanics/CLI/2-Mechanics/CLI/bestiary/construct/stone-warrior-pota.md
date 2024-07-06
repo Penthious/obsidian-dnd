@@ -11,7 +11,7 @@ aliases: ["Stone Warrior"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 97
+BookSource: "Princes of the Apocalypse p. 97"
 ---
 # [Stone Warrior](2-Mechanics/CLI/bestiary/construct/stone-warrior-pota.md)
 *Source: Princes of the Apocalypse p. 97*  

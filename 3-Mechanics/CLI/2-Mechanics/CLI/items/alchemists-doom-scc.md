@@ -8,7 +8,7 @@ tags:
 aliases: ["Alchemist's Doom"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 179
+BookSource: "Strixhaven: A Curriculum of Chaos p. 179"
 ---
 # Alchemist's Doom
 *Adventuring Gear, unknown*  

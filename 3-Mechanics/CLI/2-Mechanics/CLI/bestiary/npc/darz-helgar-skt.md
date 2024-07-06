@@ -12,7 +12,7 @@ aliases: ["Darz Helgar"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 253
+BookSource: "Storm King's Thunder p. 253"
 ---
 # [Darz Helgar](2-Mechanics/CLI/bestiary/npc/darz-helgar-skt.md)
 *Source: Storm King's Thunder p. 253*  

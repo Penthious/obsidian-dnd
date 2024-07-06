@@ -10,7 +10,7 @@ tags:
 aliases: ["Luck Blade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 179. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 179. Available in the SRD."
 ---
 # Luck Blade
 *Generic Variant, major, legendary (requires attunement)*  

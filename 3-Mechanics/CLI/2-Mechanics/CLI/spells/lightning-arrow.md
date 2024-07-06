@@ -11,7 +11,7 @@ classes:
 aliases: ["Lightning Arrow"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 255
+BookSource: "Player's Handbook p. 255"
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  

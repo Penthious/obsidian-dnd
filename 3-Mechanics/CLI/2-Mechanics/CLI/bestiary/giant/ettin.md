@@ -14,7 +14,7 @@ aliases: ["Ettin"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 132, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 132, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Ettin](2-Mechanics/CLI/bestiary/giant/ettin.md)
 *Source: Monster Manual p. 132, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel. Available in the SRD.*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Frost Brand"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 171. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 171. Available in the SRD."
 ---
 # Frost Brand
 *Generic Variant, major, very rare (requires attunement)*  

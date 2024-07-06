@@ -15,7 +15,7 @@ aliases: ["Hyena"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 331, Princes of the Apocalypse, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 331, Princes of the Apocalypse, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Hyena](2-Mechanics/CLI/bestiary/beast/hyena.md)
 *Source: Monster Manual p. 331, Princes of the Apocalypse, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

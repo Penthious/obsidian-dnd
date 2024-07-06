@@ -11,7 +11,7 @@ aliases: ["Demilich"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 48, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 48, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel"
 ---
 # [Demilich](2-Mechanics/CLI/bestiary/undead/demilich.md)
 *Source: Monster Manual p. 48, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel*  

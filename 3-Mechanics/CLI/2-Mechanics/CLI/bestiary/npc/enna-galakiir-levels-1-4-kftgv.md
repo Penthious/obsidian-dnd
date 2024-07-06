@@ -12,7 +12,7 @@ aliases: ["Enna Galakiir (Levels 1-4)"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 8
+BookSource: "Keys from the Golden Vault p. 8"
 ---
 # [Enna Galakiir (Levels 1-4)](2-Mechanics/CLI/bestiary/npc/enna-galakiir-levels-1-4-kftgv.md)
 *Source: Keys from the Golden Vault p. 8*  

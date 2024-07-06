@@ -10,7 +10,7 @@ tags:
 aliases: ["Bracers of Archery"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 156. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 156. Available in the SRD."
 ---
 # Bracers of Archery
 *Wondrous Item, major, uncommon (requires attunement)*  

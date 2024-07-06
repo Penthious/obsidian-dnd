@@ -10,7 +10,7 @@ tags:
 aliases: ["Crystal Ball"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 159. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 159. Available in the SRD."
 ---
 # Crystal Ball
 *Wondrous Item, major, very rare (requires attunement)*  

@@ -17,7 +17,7 @@ classes:
 aliases: ["Animal Friendship"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 212. Available in the SRD.
+BookSource: "Player's Handbook p. 212. Available in the SRD."
 ---
 # Animal Friendship
 *1st-level, Enchantment*  

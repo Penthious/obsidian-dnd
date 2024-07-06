@@ -12,7 +12,7 @@ aliases: ["Serapio"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 61
+BookSource: "Journeys through the Radiant Citadel p. 61"
 ---
 # [Serapio](2-Mechanics/CLI/bestiary/npc/serapio-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 61*  

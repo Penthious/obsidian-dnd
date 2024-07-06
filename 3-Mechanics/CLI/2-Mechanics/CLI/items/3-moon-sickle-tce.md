@@ -10,7 +10,7 @@ tags:
 aliases: ["+3 Moon Sickle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 133
+BookSource: "Tasha's Cauldron of Everything p. 133"
 ---
 # +3 Moon Sickle
 *Melee Weapon, very rare (requires attunement by a druid or ranger)*  

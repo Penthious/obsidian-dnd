@@ -11,7 +11,7 @@ aliases: ["Fire Elemental Myrmidon"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203"
 ---
 # [Fire Elemental Myrmidon](2-Mechanics/CLI/bestiary/elemental/fire-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  

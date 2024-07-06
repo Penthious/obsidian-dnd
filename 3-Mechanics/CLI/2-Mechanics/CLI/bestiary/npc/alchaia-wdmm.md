@@ -12,7 +12,7 @@ aliases: ["Al'chaia"]
 NoteIcon: npc
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 218
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 218"
 ---
 # [Al'chaia](2-Mechanics/CLI/bestiary/npc/alchaia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 218*  

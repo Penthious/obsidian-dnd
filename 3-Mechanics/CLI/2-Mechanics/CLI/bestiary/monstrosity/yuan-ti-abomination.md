@@ -15,7 +15,7 @@ aliases: ["Yuan-ti Abomination"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries
+BookSource: "Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries"
 ---
 # [Yuan-ti Abomination](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md)
 *Source: Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries*  

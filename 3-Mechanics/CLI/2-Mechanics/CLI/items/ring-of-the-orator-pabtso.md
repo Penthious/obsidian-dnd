@@ -9,7 +9,7 @@ tags:
 aliases: ["Ring of the Orator"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 219
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 219"
 ---
 # Ring of the Orator
 *Ring, uncommon (requires attunement)*  

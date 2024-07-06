@@ -11,7 +11,7 @@ aliases: ["Reflection"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 158
+BookSource: "Tasha's Cauldron of Everything p. 158"
 ---
 # [Reflection](2-Mechanics/CLI/bestiary/fey/reflection-tce.md)
 *Source: Tasha's Cauldron of Everything p. 158*  

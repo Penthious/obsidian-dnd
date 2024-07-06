@@ -7,7 +7,7 @@ tags:
 aliases: ["Ceremonial electrum dagger with a black pearl in the pommel"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Ceremonial electrum dagger with a black pearl in the pommel
 *Art object*  

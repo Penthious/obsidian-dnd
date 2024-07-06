@@ -14,7 +14,7 @@ aliases: ["Green Hag"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Monster Manual p. 177, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 177, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Green Hag](2-Mechanics/CLI/bestiary/fey/green-hag.md)
 *Source: Monster Manual p. 177, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD.*  

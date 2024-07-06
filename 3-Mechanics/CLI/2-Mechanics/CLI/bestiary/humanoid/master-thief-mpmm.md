@@ -12,7 +12,7 @@ aliases: ["Master Thief"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216"
 ---
 # [Master Thief](2-Mechanics/CLI/bestiary/humanoid/master-thief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  

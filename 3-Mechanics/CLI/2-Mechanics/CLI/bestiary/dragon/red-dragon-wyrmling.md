@@ -11,7 +11,7 @@ aliases: ["Red Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 98, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 98, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Red Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling.md)
 *Source: Monster Manual p. 98, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

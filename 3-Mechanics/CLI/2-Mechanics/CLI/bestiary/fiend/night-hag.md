@@ -11,7 +11,7 @@ aliases: ["Night Hag"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Monster Manual p. 178, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 178, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Night Hag](2-Mechanics/CLI/bestiary/fiend/night-hag.md)
 *Source: Monster Manual p. 178, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.*  

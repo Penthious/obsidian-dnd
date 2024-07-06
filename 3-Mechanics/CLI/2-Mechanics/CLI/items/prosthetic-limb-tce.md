@@ -8,7 +8,7 @@ tags:
 aliases: ["Prosthetic Limb"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 134
+BookSource: "Tasha's Cauldron of Everything p. 134"
 ---
 # Prosthetic Limb
 *Wondrous Item, common*  

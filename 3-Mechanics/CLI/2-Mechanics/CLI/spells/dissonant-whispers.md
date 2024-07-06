@@ -15,7 +15,7 @@ classes:
 aliases: ["Dissonant Whispers"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 234
+BookSource: "Player's Handbook p. 234"
 ---
 # Dissonant Whispers
 *1st-level, Enchantment*  

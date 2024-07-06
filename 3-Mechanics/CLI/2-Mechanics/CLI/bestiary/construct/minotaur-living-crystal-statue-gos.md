@@ -11,7 +11,7 @@ aliases: ["Minotaur Living Crystal Statue"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 245
+BookSource: "Ghosts of Saltmarsh p. 245"
 ---
 # [Minotaur Living Crystal Statue](2-Mechanics/CLI/bestiary/construct/minotaur-living-crystal-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 245*  

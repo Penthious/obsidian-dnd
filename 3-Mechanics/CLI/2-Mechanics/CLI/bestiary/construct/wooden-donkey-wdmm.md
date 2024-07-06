@@ -11,7 +11,7 @@ aliases: ["Wooden Donkey"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 84
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 84"
 ---
 # [Wooden Donkey](2-Mechanics/CLI/bestiary/construct/wooden-donkey-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 84*  

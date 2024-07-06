@@ -23,7 +23,7 @@ classes:
 aliases: ["Nondetection"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 263. Available in the SRD.
+BookSource: "Player's Handbook p. 263. Available in the SRD."
 ---
 # Nondetection
 *3rd-level, Abjuration*  

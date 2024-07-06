@@ -20,7 +20,7 @@ classes:
 aliases: ["Phantom Steed"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 265. Available in the SRD.
+BookSource: "Player's Handbook p. 265. Available in the SRD."
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

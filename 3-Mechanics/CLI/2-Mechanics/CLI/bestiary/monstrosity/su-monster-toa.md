@@ -11,7 +11,7 @@ aliases: ["Su-monster"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 232
+BookSource: "Tomb of Annihilation p. 232"
 ---
 # [Su-monster](2-Mechanics/CLI/bestiary/monstrosity/su-monster-toa.md)
 *Source: Tomb of Annihilation p. 232*  

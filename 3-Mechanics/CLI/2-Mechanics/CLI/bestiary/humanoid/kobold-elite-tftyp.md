@@ -11,7 +11,7 @@ aliases: ["Kobold Elite"]
 NoteIcon: monster
 BestiaryType: humanoid (kobold)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 18
+BookSource: "Tales from the Yawning Portal p. 18"
 ---
 # [Kobold Elite](2-Mechanics/CLI/bestiary/humanoid/kobold-elite-tftyp.md)
 *Source: Tales from the Yawning Portal p. 18*  

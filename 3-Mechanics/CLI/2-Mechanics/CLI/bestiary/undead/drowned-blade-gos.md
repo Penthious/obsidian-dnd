@@ -11,7 +11,7 @@ aliases: ["Drowned Blade"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 235
+BookSource: "Ghosts of Saltmarsh p. 235"
 ---
 # [Drowned Blade](2-Mechanics/CLI/bestiary/undead/drowned-blade-gos.md)
 *Source: Ghosts of Saltmarsh p. 235*  

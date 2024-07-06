@@ -12,7 +12,7 @@ aliases: ["Kianna"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 42
+BookSource: "Journeys through the Radiant Citadel p. 42"
 ---
 # [Kianna](2-Mechanics/CLI/bestiary/npc/kianna-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 42*  

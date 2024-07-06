@@ -11,7 +11,7 @@ aliases: ["Brass Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 106. Available in the SRD.
+BookSource: "Monster Manual p. 106. Available in the SRD."
 ---
 # [Brass Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling.md)
 *Source: Monster Manual p. 106. Available in the SRD.*  

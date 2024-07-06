@@ -12,7 +12,7 @@ aliases: ["Faerie Dragon (Green)"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 133, Tomb of Annihilation
+BookSource: "Monster Manual p. 133, Tomb of Annihilation"
 ---
 # [Faerie Dragon (Green)](2-Mechanics/CLI/bestiary/dragon/faerie-dragon-green.md)
 *Source: Monster Manual p. 133, Tomb of Annihilation*  

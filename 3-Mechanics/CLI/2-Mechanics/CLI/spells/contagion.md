@@ -21,7 +21,7 @@ classes:
 aliases: ["Contagion"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 227. Available in the SRD.
+BookSource: "Player's Handbook p. 227. Available in the SRD."
 ---
 # Contagion
 *5th-level, Necromancy*  

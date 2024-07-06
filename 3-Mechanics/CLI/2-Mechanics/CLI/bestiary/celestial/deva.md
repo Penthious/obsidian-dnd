@@ -11,7 +11,7 @@ aliases: ["Deva"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Monster Manual p. 16, Waterdeep: Dungeon of the Mad Mage, Curse of Strahd, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 16, Waterdeep: Dungeon of the Mad Mage, Curse of Strahd, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Deva](2-Mechanics/CLI/bestiary/celestial/deva.md)
 *Source: Monster Manual p. 16, Waterdeep: Dungeon of the Mad Mage, Curse of Strahd, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.*  

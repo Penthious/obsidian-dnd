@@ -7,7 +7,7 @@ tags:
 aliases: ["Emerald"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Emerald
 *Gemstone*  

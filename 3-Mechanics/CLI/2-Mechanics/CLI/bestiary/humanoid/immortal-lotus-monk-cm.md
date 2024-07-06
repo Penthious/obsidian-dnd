@@ -11,7 +11,7 @@ aliases: ["Immortal Lotus Monk"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 165
+BookSource: "Candlekeep Mysteries p. 165"
 ---
 # [Immortal Lotus Monk](2-Mechanics/CLI/bestiary/humanoid/immortal-lotus-monk-cm.md)
 *Source: Candlekeep Mysteries p. 165*  

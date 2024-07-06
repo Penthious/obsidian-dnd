@@ -13,7 +13,7 @@ aliases: ["Skylla"]
 NoteIcon: npc
 BestiaryType: humanoid (human, warlock)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 220
+BookSource: "The Wild Beyond the Witchlight p. 220"
 ---
 # [Skylla](2-Mechanics/CLI/bestiary/npc/skylla-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 220*  

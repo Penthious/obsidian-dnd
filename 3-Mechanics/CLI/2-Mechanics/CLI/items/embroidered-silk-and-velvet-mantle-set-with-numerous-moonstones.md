@@ -7,7 +7,7 @@ tags:
 aliases: ["Embroidered silk and velvet mantle set with numerous moonstones"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Embroidered silk and velvet mantle set with numerous moonstones
 *Art object*  

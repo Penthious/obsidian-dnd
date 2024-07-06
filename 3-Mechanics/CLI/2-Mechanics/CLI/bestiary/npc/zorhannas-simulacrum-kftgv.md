@@ -12,7 +12,7 @@ aliases: ["Zorhanna's Simulacrum"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 184
+BookSource: "Keys from the Golden Vault p. 184"
 ---
 # [Zorhanna's Simulacrum](2-Mechanics/CLI/bestiary/npc/zorhannas-simulacrum-kftgv.md)
 *Source: Keys from the Golden Vault p. 184*  

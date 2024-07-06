@@ -15,7 +15,7 @@ classes:
 aliases: ["Guards and Wards"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 248. Available in the SRD.
+BookSource: "Player's Handbook p. 248. Available in the SRD."
 ---
 # Guards and Wards
 *6th-level, Abjuration*  

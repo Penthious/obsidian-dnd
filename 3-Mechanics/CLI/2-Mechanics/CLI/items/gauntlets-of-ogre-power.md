@@ -10,7 +10,7 @@ tags:
 aliases: ["Gauntlets of Ogre Power"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 171. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 171. Available in the SRD and the Basic Rules."
 ---
 # Gauntlets of Ogre Power
 *Wondrous Item, major, uncommon (requires attunement)*  

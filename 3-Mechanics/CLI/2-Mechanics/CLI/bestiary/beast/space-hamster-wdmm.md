@@ -11,7 +11,7 @@ aliases: ["Space Hamster"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 251
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 251"
 ---
 # [Space Hamster](2-Mechanics/CLI/bestiary/beast/space-hamster-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 251*  

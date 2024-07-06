@@ -11,7 +11,7 @@ tags:
 aliases: ["Ephixis, Bow of Nylea"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 200
+BookSource: "Mythic Odysseys of Theros p. 200"
 ---
 # Ephixis, Bow of Nylea
 *Ranged Weapon, artifact (requires attunement)*  

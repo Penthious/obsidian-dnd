@@ -11,7 +11,7 @@ aliases: ["Uthgardt Shaman"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 243
+BookSource: "Storm King's Thunder p. 243"
 ---
 # [Uthgardt Shaman](2-Mechanics/CLI/bestiary/humanoid/uthgardt-shaman-skt.md)
 *Source: Storm King's Thunder p. 243*  

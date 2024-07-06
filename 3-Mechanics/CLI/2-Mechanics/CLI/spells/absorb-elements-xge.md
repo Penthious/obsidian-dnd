@@ -23,7 +23,7 @@ classes:
 aliases: ["Absorb Elements"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 150
+BookSource: "Xanathar's Guide to Everything p. 150"
 ---
 # Absorb Elements
 *1st-level, Abjuration*  

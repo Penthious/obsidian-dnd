@@ -12,7 +12,7 @@ tags:
 aliases: ["Snicker-Snack"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 213
+BookSource: "The Wild Beyond the Witchlight p. 213"
 ---
 # Snicker-Snack
 *Melee Weapon, legendary (requires attunement by a non-evil creature)*  

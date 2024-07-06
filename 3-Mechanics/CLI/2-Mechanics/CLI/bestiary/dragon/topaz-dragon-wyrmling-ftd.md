@@ -11,7 +11,7 @@ aliases: ["Topaz Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 223
+BookSource: "Fizban's Treasury of Dragons p. 223"
 ---
 # [Topaz Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/topaz-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  

@@ -12,7 +12,7 @@ aliases: ["Hashutu"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 194
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 194"
 ---
 # [Hashutu](2-Mechanics/CLI/bestiary/npc/hashutu-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

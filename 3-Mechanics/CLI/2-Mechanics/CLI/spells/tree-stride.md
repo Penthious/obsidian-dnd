@@ -19,7 +19,7 @@ classes:
 aliases: ["Tree Stride"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 283. Available in the SRD.
+BookSource: "Player's Handbook p. 283. Available in the SRD."
 ---
 # Tree Stride
 *5th-level, Conjuration*  

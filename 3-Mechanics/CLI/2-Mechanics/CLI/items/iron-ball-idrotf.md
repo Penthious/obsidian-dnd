@@ -10,7 +10,7 @@ tags:
 aliases: ["Iron Ball"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 238
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 238"
 ---
 # Iron Ball
 *Ranged Weapon, unknown*  

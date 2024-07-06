@@ -11,7 +11,7 @@ aliases: ["Goliath Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid (goliath)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 292
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 292"
 ---
 # [Goliath Warrior](2-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 292*  

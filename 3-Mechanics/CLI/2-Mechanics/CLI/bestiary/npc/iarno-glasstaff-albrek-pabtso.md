@@ -13,7 +13,7 @@ aliases: ["Iarno "Glasstaff" Albrek"]
 NoteIcon: npc
 BestiaryType: humanoid (human, wizard)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 43
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 43"
 ---
 # [Iarno "Glasstaff" Albrek](2-Mechanics/CLI/bestiary/npc/iarno-glasstaff-albrek-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  

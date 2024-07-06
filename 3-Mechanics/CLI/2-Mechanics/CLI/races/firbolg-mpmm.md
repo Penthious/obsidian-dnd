@@ -7,7 +7,7 @@ tags:
 aliases: ["Firbolg"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 15
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 15"
 ---
 # Firbolg
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 15*  

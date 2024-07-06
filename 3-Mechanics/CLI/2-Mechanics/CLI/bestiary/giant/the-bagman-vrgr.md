@@ -11,7 +11,7 @@ aliases: ["The Bagman"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 225
+BookSource: "Van Richten's Guide to Ravenloft p. 225"
 ---
 # [The Bagman](2-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 225*  

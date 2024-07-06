@@ -9,7 +9,7 @@ tags:
 aliases: ["Quaal's Feather Token, Anchor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Anchor').
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Anchor')."
 ---
 # Quaal's Feather Token, Anchor
 *Wondrous Item, minor, rare*  

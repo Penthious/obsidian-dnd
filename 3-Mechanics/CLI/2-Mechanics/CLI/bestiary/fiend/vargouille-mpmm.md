@@ -14,7 +14,7 @@ aliases: ["Vargouille"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195"
 ---
 # [Vargouille](2-Mechanics/CLI/bestiary/fiend/vargouille-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195*  

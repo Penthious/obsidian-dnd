@@ -11,7 +11,7 @@ aliases: ["Telepathic Pentacle"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 244
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 244"
 ---
 # [Telepathic Pentacle](2-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 244*  

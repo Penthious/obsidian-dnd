@@ -12,7 +12,7 @@ aliases: ["Ruxithid the Chosen"]
 NoteIcon: npc
 BestiaryType: aberration (goblinoid)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 99
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 99"
 ---
 # [Ruxithid the Chosen](2-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 99*  

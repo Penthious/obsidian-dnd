@@ -12,7 +12,7 @@ aliases: ["Rictavio"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 238
+BookSource: "Curse of Strahd p. 238"
 ---
 # [Rictavio](2-Mechanics/CLI/bestiary/npc/rictavio-cos.md)
 *Source: Curse of Strahd p. 238*  

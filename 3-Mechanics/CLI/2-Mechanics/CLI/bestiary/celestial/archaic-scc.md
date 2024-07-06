@@ -11,7 +11,7 @@ aliases: ["Archaic"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 184
+BookSource: "Strixhaven: A Curriculum of Chaos p. 184"
 ---
 # [Archaic](2-Mechanics/CLI/bestiary/celestial/archaic-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 184*  

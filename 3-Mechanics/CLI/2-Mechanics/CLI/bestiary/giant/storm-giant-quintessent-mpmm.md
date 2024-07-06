@@ -15,7 +15,7 @@ aliases: ["Storm Giant Quintessent"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151"
 ---
 # [Storm Giant Quintessent](2-Mechanics/CLI/bestiary/giant/storm-giant-quintessent-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  

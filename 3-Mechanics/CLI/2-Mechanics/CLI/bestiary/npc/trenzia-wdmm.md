@@ -12,7 +12,7 @@ aliases: ["Trenzia"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 32
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 32"
 ---
 # [Trenzia](2-Mechanics/CLI/bestiary/npc/trenzia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 32*  

@@ -12,7 +12,7 @@ aliases: ["Avi"]
 NoteIcon: npc
 BestiaryType: humanoid (Water genasi)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 32
+BookSource: "Waterdeep: Dragon Heist p. 32"
 ---
 # [Avi](2-Mechanics/CLI/bestiary/npc/avi-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

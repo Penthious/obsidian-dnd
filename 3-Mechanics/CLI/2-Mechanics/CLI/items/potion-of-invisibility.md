@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Invisibility"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD and the Basic Rules."
 ---
 # Potion of Invisibility
 *Potion, minor, very rare*  

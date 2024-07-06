@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Hellfire)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Sword Coast Adventurer's Guide p. 118
+BookSource: "Sword Coast Adventurer's Guide p. 118"
 ---
 # Tiefling (Hellfire)
 *Source: Sword Coast Adventurer's Guide p. 118*  

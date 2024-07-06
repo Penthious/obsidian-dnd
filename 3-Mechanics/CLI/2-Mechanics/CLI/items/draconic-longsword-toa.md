@@ -10,7 +10,7 @@ tags:
 aliases: ["Draconic Longsword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 173
+BookSource: "Tomb of Annihilation p. 173"
 ---
 # Draconic Longsword
 *Melee Weapon, unknown (magic)*  

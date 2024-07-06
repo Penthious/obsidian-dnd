@@ -23,7 +23,7 @@ classes:
 aliases: ["Plane Shift"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 266. Available in the SRD.
+BookSource: "Player's Handbook p. 266. Available in the SRD."
 ---
 # Plane Shift
 *7th-level, Conjuration*  

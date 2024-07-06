@@ -12,7 +12,7 @@ aliases: ["Kostchtchie"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 105
+BookSource: "Baldur's Gate: Descent Into Avernus p. 105"
 ---
 # [Kostchtchie](2-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 105*  

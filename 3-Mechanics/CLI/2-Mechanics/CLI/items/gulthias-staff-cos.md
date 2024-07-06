@@ -10,7 +10,7 @@ tags:
 aliases: ["Gulthias Staff"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 221
+BookSource: "Curse of Strahd p. 221"
 ---
 # Gulthias Staff
 *Staff, rare (requires attunement)*  

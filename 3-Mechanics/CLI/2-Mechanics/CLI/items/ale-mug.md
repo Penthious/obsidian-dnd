@@ -7,7 +7,7 @@ tags:
 aliases: ["Ale (Mug)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 158. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 158. Available in the SRD and the Basic Rules."
 ---
 # Ale (Mug)
 *Food and Drink*  

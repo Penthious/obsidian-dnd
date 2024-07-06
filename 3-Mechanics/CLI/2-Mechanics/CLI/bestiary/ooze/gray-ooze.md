@@ -12,7 +12,7 @@ aliases: ["Gray Ooze"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Monster Manual p. 243, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 243, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Gray Ooze](2-Mechanics/CLI/bestiary/ooze/gray-ooze.md)
 *Source: Monster Manual p. 243, Curse of Strahd, Hoard of the Dragon Queen, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

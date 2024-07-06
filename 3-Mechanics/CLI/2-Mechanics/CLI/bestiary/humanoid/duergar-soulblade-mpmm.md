@@ -13,7 +13,7 @@ aliases: ["Duergar Soulblade"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190"
 ---
 # [Duergar Soulblade](2-Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*  

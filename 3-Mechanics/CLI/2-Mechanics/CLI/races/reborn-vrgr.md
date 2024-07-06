@@ -7,7 +7,7 @@ tags:
 aliases: ["Reborn"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Van Richten's Guide to Ravenloft p. 20
+BookSource: "Van Richten's Guide to Ravenloft p. 20"
 ---
 # Reborn
 *Source: Van Richten's Guide to Ravenloft p. 20*  

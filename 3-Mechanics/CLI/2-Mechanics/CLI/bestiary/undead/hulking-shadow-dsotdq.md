@@ -11,7 +11,7 @@ aliases: ["Hulking Shadow"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 174
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 174"
 ---
 # [Hulking Shadow](2-Mechanics/CLI/bestiary/undead/hulking-shadow-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 174*  

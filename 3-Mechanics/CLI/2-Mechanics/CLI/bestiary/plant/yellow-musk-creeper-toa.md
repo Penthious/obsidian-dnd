@@ -11,7 +11,7 @@ aliases: ["Yellow Musk Creeper"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 237
+BookSource: "Tomb of Annihilation p. 237"
 ---
 # [Yellow Musk Creeper](2-Mechanics/CLI/bestiary/plant/yellow-musk-creeper-toa.md)
 *Source: Tomb of Annihilation p. 237*  

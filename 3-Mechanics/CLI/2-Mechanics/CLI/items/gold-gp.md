@@ -7,7 +7,7 @@ tags:
 aliases: ["Gold (gp)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 143
+BookSource: "Player's Handbook p. 143"
 ---
 # Gold (gp)
 *Coinage*  

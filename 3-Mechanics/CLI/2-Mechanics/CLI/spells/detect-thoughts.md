@@ -23,7 +23,7 @@ classes:
 aliases: ["Detect Thoughts"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 231. Available in the SRD.
+BookSource: "Player's Handbook p. 231. Available in the SRD."
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

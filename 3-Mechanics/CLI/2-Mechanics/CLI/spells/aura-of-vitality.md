@@ -19,7 +19,7 @@ classes:
 aliases: ["Aura of Vitality"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 216
+BookSource: "Player's Handbook p. 216"
 ---
 # Aura of Vitality
 *3rd-level, Evocation*  

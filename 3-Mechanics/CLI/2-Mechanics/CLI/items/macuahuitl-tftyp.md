@@ -10,7 +10,7 @@ tags:
 aliases: ["Macuahuitl"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 70
+BookSource: "Tales from the Yawning Portal p. 70"
 ---
 # Macuahuitl
 *Melee Weapon, unknown (magic)*  

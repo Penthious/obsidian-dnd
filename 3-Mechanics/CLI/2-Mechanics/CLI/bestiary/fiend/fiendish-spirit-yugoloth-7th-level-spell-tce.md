@@ -11,7 +11,7 @@ aliases: ["Fiendish Spirit (Yugoloth, 7th-Level Spell)"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 112
+BookSource: "Tasha's Cauldron of Everything p. 112"
 ---
 # [Fiendish Spirit (Yugoloth, 7th-Level Spell)](2-Mechanics/CLI/bestiary/fiend/fiendish-spirit-yugoloth-7th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 112*  

@@ -27,7 +27,7 @@ classes:
 aliases: ["Infestation"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 158
+BookSource: "Xanathar's Guide to Everything p. 158"
 ---
 # Infestation
 *cantrip, Conjuration*  

@@ -11,7 +11,7 @@ aliases: ["Swarm of Scarabs"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 247
+BookSource: "Van Richten's Guide to Ravenloft p. 247"
 ---
 # [Swarm of Scarabs](2-Mechanics/CLI/bestiary/beast/swarm-of-scarabs-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 247*  

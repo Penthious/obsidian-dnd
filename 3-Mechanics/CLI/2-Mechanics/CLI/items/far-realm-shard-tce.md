@@ -9,7 +9,7 @@ tags:
 aliases: ["Far Realm Shard"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 127
+BookSource: "Tasha's Cauldron of Everything p. 127"
 ---
 # Far Realm Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

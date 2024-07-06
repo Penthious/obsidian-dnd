@@ -11,7 +11,7 @@ aliases: ["Lizardfolk Commoner"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 241
+BookSource: "Ghosts of Saltmarsh p. 241"
 ---
 # [Lizardfolk Commoner](2-Mechanics/CLI/bestiary/humanoid/lizardfolk-commoner-gos.md)
 *Source: Ghosts of Saltmarsh p. 241*  

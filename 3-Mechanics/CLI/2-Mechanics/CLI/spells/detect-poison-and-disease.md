@@ -20,7 +20,7 @@ classes:
 aliases: ["Detect Poison and Disease"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 231. Available in the SRD.
+BookSource: "Player's Handbook p. 231. Available in the SRD."
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

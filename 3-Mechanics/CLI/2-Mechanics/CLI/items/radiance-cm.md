@@ -9,7 +9,7 @@ tags:
 aliases: ["Radiance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 87
+BookSource: "Candlekeep Mysteries p. 87"
 ---
 # Radiance
 *Wand, unknown (magic) (requires attunement by a spellcaster)*  

@@ -13,7 +13,7 @@ aliases: ["Drow Matron Mother"]
 NoteIcon: monster
 BestiaryType: humanoid (cleric, elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186"
 ---
 # [Drow Matron Mother](2-Mechanics/CLI/bestiary/humanoid/drow-matron-mother-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186*  

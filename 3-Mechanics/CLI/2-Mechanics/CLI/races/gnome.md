@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnome"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 35. Available in the SRD.
+BookSource: "Player's Handbook p. 35. Available in the SRD."
 ---
 # Gnome
 *Source: Player's Handbook p. 35. Available in the SRD.*  

@@ -12,7 +12,7 @@ aliases: ["Adult Black Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 88, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Ghosts of Saltmarsh, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 88, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Ghosts of Saltmarsh, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Adult Black Dragon](2-Mechanics/CLI/bestiary/dragon/adult-black-dragon.md)
 *Source: Monster Manual p. 88, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Ghosts of Saltmarsh, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault. Available in the SRD.*  

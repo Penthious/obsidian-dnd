@@ -12,7 +12,7 @@ aliases: ["Xorn"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 304, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 304, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Xorn](2-Mechanics/CLI/bestiary/elemental/xorn.md)
 *Source: Monster Manual p. 304, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

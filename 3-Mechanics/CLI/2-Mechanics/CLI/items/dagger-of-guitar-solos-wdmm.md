@@ -11,7 +11,7 @@ tags:
 aliases: ["Dagger of Guitar Solos"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 228
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 228"
 ---
 # Dagger of Guitar Solos
 *Melee Weapon, unknown (magic)*  

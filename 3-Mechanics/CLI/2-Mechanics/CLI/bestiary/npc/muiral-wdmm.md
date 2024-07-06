@@ -12,7 +12,7 @@ aliases: ["Muiral"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 314
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 314"
 ---
 # [Muiral](2-Mechanics/CLI/bestiary/npc/muiral-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 314*  

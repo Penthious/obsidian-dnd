@@ -21,7 +21,7 @@ classes:
 aliases: ["Heroism"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 250. Available in the SRD.
+BookSource: "Player's Handbook p. 250. Available in the SRD."
 ---
 # Heroism
 *1st-level, Enchantment*  

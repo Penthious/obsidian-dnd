@@ -11,7 +11,7 @@ aliases: ["Hellwasp Grub"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 95
+BookSource: "Baldur's Gate: Descent Into Avernus p. 95"
 ---
 # [Hellwasp Grub](2-Mechanics/CLI/bestiary/beast/hellwasp-grub-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 95*  

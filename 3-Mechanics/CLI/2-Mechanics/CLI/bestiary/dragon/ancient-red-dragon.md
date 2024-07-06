@@ -13,7 +13,7 @@ aliases: ["Ancient Red Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 97, Storm King's Thunder, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 97, Storm King's Thunder, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Ancient Red Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-red-dragon.md)
 *Source: Monster Manual p. 97, Storm King's Thunder, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.*  

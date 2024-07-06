@@ -17,7 +17,7 @@ classes:
 aliases: ["Dream"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 236. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 236. Available in the SRD and the Basic Rules."
 ---
 # Dream
 *5th-level, Illusion*  

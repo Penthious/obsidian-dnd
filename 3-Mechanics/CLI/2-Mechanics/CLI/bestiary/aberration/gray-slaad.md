@@ -12,7 +12,7 @@ aliases: ["Gray Slaad"]
 NoteIcon: monster
 BestiaryType: aberration (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 277, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 277, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Gray Slaad](2-Mechanics/CLI/bestiary/aberration/gray-slaad.md)
 *Source: Monster Manual p. 277, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Monster Hunter's Pack"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209
+BookSource: "Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209"
 ---
 # Monster Hunter's Pack
 *Adventuring Gear*  

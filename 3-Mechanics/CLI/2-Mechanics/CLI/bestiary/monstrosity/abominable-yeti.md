@@ -12,7 +12,7 @@ aliases: ["Abominable Yeti"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 306, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries
+BookSource: "Monster Manual p. 306, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries"
 ---
 # [Abominable Yeti](2-Mechanics/CLI/bestiary/monstrosity/abominable-yeti.md)
 *Source: Monster Manual p. 306, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries*  

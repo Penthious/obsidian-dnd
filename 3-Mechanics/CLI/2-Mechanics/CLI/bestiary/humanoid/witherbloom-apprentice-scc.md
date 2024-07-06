@@ -11,7 +11,7 @@ aliases: ["Witherbloom Apprentice"]
 NoteIcon: monster
 BestiaryType: humanoid (druid)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 221
+BookSource: "Strixhaven: A Curriculum of Chaos p. 221"
 ---
 # [Witherbloom Apprentice](2-Mechanics/CLI/bestiary/humanoid/witherbloom-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 221*  

@@ -11,7 +11,7 @@ aliases: ["Mountain Goat"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 304
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 304"
 ---
 # [Mountain Goat](2-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 304*  

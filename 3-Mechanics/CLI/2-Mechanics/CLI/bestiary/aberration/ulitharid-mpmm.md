@@ -12,7 +12,7 @@ aliases: ["Ulitharid"]
 NoteIcon: monster
 BestiaryType: aberration (mind flayer)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175"
 ---
 # [Ulitharid](2-Mechanics/CLI/bestiary/aberration/ulitharid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*  

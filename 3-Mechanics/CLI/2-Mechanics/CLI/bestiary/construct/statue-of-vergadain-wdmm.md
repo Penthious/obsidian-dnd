@@ -11,7 +11,7 @@ aliases: ["Statue of Vergadain"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 202
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 202"
 ---
 # [Statue of Vergadain](2-Mechanics/CLI/bestiary/construct/statue-of-vergadain-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 202*  

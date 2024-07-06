@@ -15,7 +15,7 @@ classes:
 aliases: ["Banishing Smite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 216
+BookSource: "Player's Handbook p. 216"
 ---
 # Banishing Smite
 *5th-level, Abjuration*  

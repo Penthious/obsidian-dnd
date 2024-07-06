@@ -13,7 +13,7 @@ classes:
 aliases: ["Ensnaring Strike"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 237
+BookSource: "Player's Handbook p. 237"
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  

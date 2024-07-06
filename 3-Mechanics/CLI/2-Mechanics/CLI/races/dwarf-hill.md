@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarf (Hill)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 20. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 20. Available in the SRD and the Basic Rules."
 ---
 # Dwarf (Hill)
 *Source: Player's Handbook p. 20. Available in the SRD and the Basic Rules.*  

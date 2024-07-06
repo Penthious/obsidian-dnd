@@ -11,7 +11,7 @@ aliases: ["Snake Horror"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 46
+BookSource: "The Rise of Tiamat p. 46"
 ---
 # [Snake Horror](2-Mechanics/CLI/bestiary/construct/snake-horror-rot.md)
 *Source: The Rise of Tiamat p. 46*  

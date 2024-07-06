@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Birdcalls"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 139
+BookSource: "Xanathar's Guide to Everything p. 139"
 ---
 # Staff of Birdcalls
 *Staff, minor, common*  

@@ -11,7 +11,7 @@ aliases: ["Chardalyn Berserker"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 280
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 280"
 ---
 # [Chardalyn Berserker](2-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 280*  

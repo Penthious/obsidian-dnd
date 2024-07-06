@@ -10,7 +10,7 @@ tags:
 aliases: ["Vorpal Sword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 209. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 209. Available in the SRD."
 ---
 # Vorpal Sword
 *Generic Variant, major, legendary (requires attunement)*  

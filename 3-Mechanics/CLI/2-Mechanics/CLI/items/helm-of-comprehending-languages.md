@@ -9,7 +9,7 @@ tags:
 aliases: ["Helm of Comprehending Languages"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 173. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 173. Available in the SRD."
 ---
 # Helm of Comprehending Languages
 *Wondrous Item, minor, uncommon*  

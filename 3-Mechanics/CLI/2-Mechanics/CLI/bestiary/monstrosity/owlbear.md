@@ -12,7 +12,7 @@ aliases: ["Owlbear"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 249, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Dragons of Stormwreck Isle, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 249, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Dragons of Stormwreck Isle, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Owlbear](2-Mechanics/CLI/bestiary/monstrosity/owlbear.md)
 *Source: Monster Manual p. 249, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Dragons of Stormwreck Isle, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

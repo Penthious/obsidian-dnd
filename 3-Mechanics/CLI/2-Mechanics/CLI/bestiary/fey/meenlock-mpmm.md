@@ -14,7 +14,7 @@ aliases: ["Meenlock"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170"
 ---
 # [Meenlock](2-Mechanics/CLI/bestiary/fey/meenlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170*  

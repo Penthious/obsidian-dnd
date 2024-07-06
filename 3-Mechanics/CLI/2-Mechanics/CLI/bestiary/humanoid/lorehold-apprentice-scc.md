@@ -11,7 +11,7 @@ aliases: ["Lorehold Apprentice"]
 NoteIcon: monster
 BestiaryType: humanoid (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 197
+BookSource: "Strixhaven: A Curriculum of Chaos p. 197"
 ---
 # [Lorehold Apprentice](2-Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 197*  

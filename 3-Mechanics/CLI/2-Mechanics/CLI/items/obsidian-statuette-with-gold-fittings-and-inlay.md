@@ -7,7 +7,7 @@ tags:
 aliases: ["Obsidian statuette with gold fittings and inlay"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Obsidian statuette with gold fittings and inlay
 *Art object*  

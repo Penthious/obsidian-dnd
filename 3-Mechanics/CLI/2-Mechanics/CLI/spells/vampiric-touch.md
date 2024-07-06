@@ -23,7 +23,7 @@ classes:
 aliases: ["Vampiric Touch"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 285. Available in the SRD.
+BookSource: "Player's Handbook p. 285. Available in the SRD."
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

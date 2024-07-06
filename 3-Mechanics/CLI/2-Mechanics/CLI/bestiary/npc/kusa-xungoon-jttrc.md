@@ -12,7 +12,7 @@ aliases: ["Kusa Xungoon"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 20
+BookSource: "Journeys through the Radiant Citadel p. 20"
 ---
 # [Kusa Xungoon](2-Mechanics/CLI/bestiary/npc/kusa-xungoon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 20*  

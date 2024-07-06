@@ -12,7 +12,7 @@ aliases: ["Tem Temble"]
 NoteIcon: npc
 BestiaryType: humanoid (kender)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 213
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 213"
 ---
 # [Tem Temble](2-Mechanics/CLI/bestiary/npc/tem-temble-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  

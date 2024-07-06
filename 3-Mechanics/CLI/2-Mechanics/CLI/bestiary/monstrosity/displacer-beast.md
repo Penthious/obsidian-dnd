@@ -12,7 +12,7 @@ aliases: ["Displacer Beast"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 81, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault
+BookSource: "Monster Manual p. 81, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault"
 ---
 # [Displacer Beast](2-Mechanics/CLI/bestiary/monstrosity/displacer-beast.md)
 *Source: Monster Manual p. 81, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault*  

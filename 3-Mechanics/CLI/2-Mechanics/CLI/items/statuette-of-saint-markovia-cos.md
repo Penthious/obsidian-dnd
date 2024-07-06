@@ -8,7 +8,7 @@ tags:
 aliases: ["Statuette of Saint Markovia"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 152
+BookSource: "Curse of Strahd p. 152"
 ---
 # Statuette of Saint Markovia
 *Other, unknown (magic)*  

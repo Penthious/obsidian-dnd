@@ -9,7 +9,7 @@ tags:
 aliases: ["Cubic Gate"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 160. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 160. Available in the SRD."
 ---
 # Cubic Gate
 *Wondrous Item, major, legendary*  

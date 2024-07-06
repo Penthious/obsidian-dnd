@@ -16,7 +16,7 @@ aliases: ["Hobgoblin Warlord"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Monster Manual p. 187, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen
+BookSource: "Monster Manual p. 187, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen"
 ---
 # [Hobgoblin Warlord](2-Mechanics/CLI/bestiary/humanoid/hobgoblin-warlord.md)
 *Source: Monster Manual p. 187, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Dragonlance: Shadow of the Dragon Queen*  

@@ -11,7 +11,7 @@ aliases: ["Bearded Devil"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 70, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.
+BookSource: "Monster Manual p. 70, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [Bearded Devil](2-Mechanics/CLI/bestiary/fiend/bearded-devil.md)
 *Source: Monster Manual p. 70, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  

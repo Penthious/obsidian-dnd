@@ -11,7 +11,7 @@ aliases: ["Amber Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 186
+BookSource: "Curse of Strahd p. 186"
 ---
 # [Amber Golem](2-Mechanics/CLI/bestiary/construct/amber-golem-cos.md)
 *Source: Curse of Strahd p. 186*  

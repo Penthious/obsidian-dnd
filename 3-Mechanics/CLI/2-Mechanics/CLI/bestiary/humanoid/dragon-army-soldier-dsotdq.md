@@ -11,7 +11,7 @@ aliases: ["Dragon Army Soldier"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 200
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 200"
 ---
 # [Dragon Army Soldier](2-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 200*  

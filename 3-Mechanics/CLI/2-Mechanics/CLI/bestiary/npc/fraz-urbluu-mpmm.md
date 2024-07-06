@@ -12,7 +12,7 @@ aliases: ["Fraz-Urb'luu"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146"
 ---
 # [Fraz-Urb'luu](2-Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146*  

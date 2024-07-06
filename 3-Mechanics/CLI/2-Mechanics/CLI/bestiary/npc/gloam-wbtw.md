@@ -12,7 +12,7 @@ aliases: ["Gloam"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 93
+BookSource: "The Wild Beyond the Witchlight p. 93"
 ---
 # [Gloam](2-Mechanics/CLI/bestiary/npc/gloam-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 93*  

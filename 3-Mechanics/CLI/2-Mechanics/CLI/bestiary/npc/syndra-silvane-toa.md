@@ -12,7 +12,7 @@ aliases: ["Syndra Silvane"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 8
+BookSource: "Tomb of Annihilation p. 8"
 ---
 # [Syndra Silvane](2-Mechanics/CLI/bestiary/npc/syndra-silvane-toa.md)
 *Source: Tomb of Annihilation p. 8*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Blade of Disaster"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 106, Icewind Dale: Rime of the Frostmaiden p. 318
+BookSource: "Tasha's Cauldron of Everything p. 106, Icewind Dale: Rime of the Frostmaiden p. 318"
 ---
 # Blade of Disaster
 *9th-level, Conjuration*  

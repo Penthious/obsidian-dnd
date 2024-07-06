@@ -11,7 +11,7 @@ aliases: ["Nosferatu"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 239
+BookSource: "Van Richten's Guide to Ravenloft p. 239"
 ---
 # [Nosferatu](2-Mechanics/CLI/bestiary/undead/nosferatu-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 239*  

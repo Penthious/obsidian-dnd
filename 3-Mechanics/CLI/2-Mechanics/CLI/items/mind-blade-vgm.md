@@ -9,7 +9,7 @@ tags:
 aliases: ["Mind Blade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Volo's Guide to Monsters p. 81
+BookSource: "Volo's Guide to Monsters p. 81"
 ---
 # Mind Blade
 *Generic Variant, rare (requires attunement by a specific individual)*  

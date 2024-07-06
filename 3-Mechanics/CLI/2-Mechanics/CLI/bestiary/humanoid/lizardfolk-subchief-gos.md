@@ -11,7 +11,7 @@ aliases: ["Lizardfolk Subchief"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 242
+BookSource: "Ghosts of Saltmarsh p. 242"
 ---
 # [Lizardfolk Subchief](2-Mechanics/CLI/bestiary/humanoid/lizardfolk-subchief-gos.md)
 *Source: Ghosts of Saltmarsh p. 242*  

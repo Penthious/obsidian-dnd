@@ -11,7 +11,7 @@ aliases: ["Living Bigby's Hand"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 298
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 298"
 ---
 # [Living Bigby's Hand](2-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 298*  

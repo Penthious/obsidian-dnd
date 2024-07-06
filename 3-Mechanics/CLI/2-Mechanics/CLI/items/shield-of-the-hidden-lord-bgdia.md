@@ -9,7 +9,7 @@ tags:
 aliases: ["Shield of the Hidden Lord"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 225
+BookSource: "Baldur's Gate: Descent Into Avernus p. 225"
 ---
 # Shield of the Hidden Lord
 *Shield, legendary (requires attunement)*  

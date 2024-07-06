@@ -12,7 +12,7 @@ aliases: ["Isarr Kronenstrom"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 307
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 307"
 ---
 # [Isarr Kronenstrom](2-Mechanics/CLI/bestiary/npc/isarr-kronenstrom-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 307*  

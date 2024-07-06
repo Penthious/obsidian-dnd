@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Spell Turning"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 193. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 193. Available in the SRD."
 ---
 # Ring of Spell Turning
 *Ring, major, legendary (requires attunement)*  

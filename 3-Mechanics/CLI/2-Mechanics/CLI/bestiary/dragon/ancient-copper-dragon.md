@@ -12,7 +12,7 @@ aliases: ["Ancient Copper Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 110, Baldur's Gate: Descent Into Avernus. Available in the SRD.
+BookSource: "Monster Manual p. 110, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Ancient Copper Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon.md)
 *Source: Monster Manual p. 110, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  

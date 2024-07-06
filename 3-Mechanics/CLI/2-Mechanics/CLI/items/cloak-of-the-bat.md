@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloak of the Bat"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 159. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 159. Available in the SRD."
 ---
 # Cloak of the Bat
 *Wondrous Item, major, rare (requires attunement)*  

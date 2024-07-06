@@ -11,7 +11,7 @@ aliases: ["Hollyphant"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 237
+BookSource: "Baldur's Gate: Descent Into Avernus p. 237"
 ---
 # [Hollyphant](2-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 237*  

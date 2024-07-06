@@ -9,7 +9,7 @@ tags:
 aliases: ["Boots of Elvenkind"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 155. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 155. Available in the SRD."
 ---
 # Boots of Elvenkind
 *Wondrous Item, major, uncommon*  

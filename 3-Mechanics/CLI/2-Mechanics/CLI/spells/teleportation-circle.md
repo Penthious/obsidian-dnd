@@ -19,7 +19,7 @@ classes:
 aliases: ["Teleportation Circle"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 282. Available in the SRD.
+BookSource: "Player's Handbook p. 282. Available in the SRD."
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

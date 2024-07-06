@@ -12,7 +12,7 @@ tags:
 aliases: ["Automatic Rifle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Automatic Rifle
 *Ranged Weapon*  

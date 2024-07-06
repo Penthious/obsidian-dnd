@@ -11,7 +11,7 @@ aliases: ["Armored Saber-Toothed Tiger"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 115
+BookSource: "Curse of Strahd p. 115"
 ---
 # [Armored Saber-Toothed Tiger](2-Mechanics/CLI/bestiary/beast/armored-saber-toothed-tiger-cos.md)
 *Source: Curse of Strahd p. 115*  

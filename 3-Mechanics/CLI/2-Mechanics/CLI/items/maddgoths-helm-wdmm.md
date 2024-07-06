@@ -9,7 +9,7 @@ tags:
 aliases: ["Maddgoth's Helm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 103
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 103"
 ---
 # Maddgoth's Helm
 *Other, very rare (requires attunement by a humanoid)*  

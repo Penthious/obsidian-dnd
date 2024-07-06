@@ -12,7 +12,7 @@ aliases: ["Yuk Yuk"]
 NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 31
+BookSource: "Out of the Abyss p. 31"
 ---
 # [Yuk Yuk](2-Mechanics/CLI/bestiary/npc/yuk-yuk-oota.md)
 *Source: Out of the Abyss p. 31*  

@@ -11,7 +11,7 @@ aliases: ["Bozak Draconian"]
 NoteIcon: monster
 BestiaryType: monstrosity (sorcerer)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 198
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 198"
 ---
 # [Bozak Draconian](2-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 198*  

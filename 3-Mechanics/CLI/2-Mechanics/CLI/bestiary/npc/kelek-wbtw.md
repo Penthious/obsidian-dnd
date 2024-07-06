@@ -13,7 +13,7 @@ aliases: ["Kelek"]
 NoteIcon: npc
 BestiaryType: humanoid (human, sorcerer)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 219
+BookSource: "The Wild Beyond the Witchlight p. 219"
 ---
 # [Kelek](2-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 219*  

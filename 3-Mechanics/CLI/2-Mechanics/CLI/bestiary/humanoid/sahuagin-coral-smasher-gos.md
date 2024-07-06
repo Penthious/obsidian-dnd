@@ -11,7 +11,7 @@ aliases: ["Sahuagin Coral Smasher"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 249
+BookSource: "Ghosts of Saltmarsh p. 249"
 ---
 # [Sahuagin Coral Smasher](2-Mechanics/CLI/bestiary/humanoid/sahuagin-coral-smasher-gos.md)
 *Source: Ghosts of Saltmarsh p. 249*  

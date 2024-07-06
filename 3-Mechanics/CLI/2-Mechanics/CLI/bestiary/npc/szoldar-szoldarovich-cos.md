@@ -12,7 +12,7 @@ aliases: ["Szoldar Szoldarovich"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 100
+BookSource: "Curse of Strahd p. 100"
 ---
 # [Szoldar Szoldarovich](2-Mechanics/CLI/bestiary/npc/szoldar-szoldarovich-cos.md)
 *Source: Curse of Strahd p. 100*  

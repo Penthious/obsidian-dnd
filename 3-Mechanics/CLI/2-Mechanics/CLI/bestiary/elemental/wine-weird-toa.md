@@ -11,7 +11,7 @@ aliases: ["Wine Weird"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 141
+BookSource: "Tomb of Annihilation p. 141"
 ---
 # [Wine Weird](2-Mechanics/CLI/bestiary/elemental/wine-weird-toa.md)
 *Source: Tomb of Annihilation p. 141*  

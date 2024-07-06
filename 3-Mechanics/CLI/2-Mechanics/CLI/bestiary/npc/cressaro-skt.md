@@ -12,7 +12,7 @@ aliases: ["Cressaro"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 193
+BookSource: "Storm King's Thunder p. 193"
 ---
 # [Cressaro](2-Mechanics/CLI/bestiary/npc/cressaro-skt.md)
 *Source: Storm King's Thunder p. 193*  

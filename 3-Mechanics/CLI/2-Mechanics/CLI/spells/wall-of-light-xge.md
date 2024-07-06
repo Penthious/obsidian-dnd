@@ -15,7 +15,7 @@ classes:
 aliases: ["Wall of Light"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 170
+BookSource: "Xanathar's Guide to Everything p. 170"
 ---
 # Wall of Light
 *5th-level, Evocation*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Defense"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 220
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 220"
 ---
 # Staff of Defense
 *Melee Weapon, rare (requires attunement by a bard, sorcerer, warlock, or wizard)*  

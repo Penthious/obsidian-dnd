@@ -12,7 +12,7 @@ aliases: ["Steel Crane"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 164
+BookSource: "Candlekeep Mysteries p. 164"
 ---
 # [Steel Crane](2-Mechanics/CLI/bestiary/npc/steel-crane-cm.md)
 *Source: Candlekeep Mysteries p. 164*  

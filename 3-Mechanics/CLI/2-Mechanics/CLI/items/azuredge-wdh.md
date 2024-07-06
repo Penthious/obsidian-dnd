@@ -11,7 +11,7 @@ tags:
 aliases: ["Azuredge"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 189
+BookSource: "Waterdeep: Dragon Heist p. 189"
 ---
 # Azuredge
 *Melee Weapon, legendary (requires attunement)*  

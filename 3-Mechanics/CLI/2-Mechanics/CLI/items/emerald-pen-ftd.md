@@ -8,7 +8,7 @@ tags:
 aliases: ["Emerald Pen"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 23
+BookSource: "Fizban's Treasury of Dragons p. 23"
 ---
 # Emerald Pen
 *Wondrous Item, uncommon*  

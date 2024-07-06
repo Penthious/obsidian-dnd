@@ -10,7 +10,7 @@ tags:
 aliases: ["Necklace of Prayer Beads"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 182. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 182. Available in the SRD."
 ---
 # Necklace of Prayer Beads
 *Wondrous Item, major, rare (requires attunement by a cleric, druid, or paladin)*  

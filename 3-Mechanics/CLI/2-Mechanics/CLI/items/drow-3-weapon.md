@@ -8,7 +8,7 @@ tags:
 aliases: ["Drow +3 Weapon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Monster Manual p. 126
+BookSource: "Monster Manual p. 126"
 ---
 # Drow +3 Weapon
 *Generic Variant, unknown (magic)*  

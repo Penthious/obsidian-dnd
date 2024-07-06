@@ -12,7 +12,7 @@ aliases: ["Ignia"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 184
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 184"
 ---
 # [Ignia](2-Mechanics/CLI/bestiary/npc/ignia-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 184*  

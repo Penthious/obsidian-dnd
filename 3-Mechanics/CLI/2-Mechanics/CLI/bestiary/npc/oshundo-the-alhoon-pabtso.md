@@ -13,7 +13,7 @@ aliases: ["Oshundo the Alhoon"]
 NoteIcon: npc
 BestiaryType: undead (mind flayer, wizard)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 153
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 153"
 ---
 # [Oshundo the Alhoon](2-Mechanics/CLI/bestiary/npc/oshundo-the-alhoon-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 153*  

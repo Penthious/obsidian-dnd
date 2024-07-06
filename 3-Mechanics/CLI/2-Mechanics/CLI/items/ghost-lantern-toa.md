@@ -9,7 +9,7 @@ tags:
 aliases: ["Ghost Lantern"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 206
+BookSource: "Tomb of Annihilation p. 206"
 ---
 # Ghost Lantern
 *Wondrous Item, rare (requires attunement)*  

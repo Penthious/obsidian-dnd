@@ -19,7 +19,7 @@ classes:
 aliases: ["Nathair's Mischief"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Fizban's Treasury of Dragons p. 20
+BookSource: "Fizban's Treasury of Dragons p. 20"
 ---
 # Nathair's Mischief
 *2nd-level, Illusion*  

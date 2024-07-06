@@ -11,7 +11,7 @@ aliases: ["Emberhorn Minotaur"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 120
+BookSource: "Princes of the Apocalypse p. 120"
 ---
 # [Emberhorn Minotaur](2-Mechanics/CLI/bestiary/monstrosity/emberhorn-minotaur-pota.md)
 *Source: Princes of the Apocalypse p. 120*  

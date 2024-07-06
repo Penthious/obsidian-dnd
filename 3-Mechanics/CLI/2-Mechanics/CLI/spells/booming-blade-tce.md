@@ -23,7 +23,7 @@ classes:
 aliases: ["Booming Blade"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 106, Sword Coast Adventurer's Guide p. 142
+BookSource: "Tasha's Cauldron of Everything p. 106, Sword Coast Adventurer's Guide p. 142"
 ---
 # Booming Blade
 *cantrip, Evocation*  

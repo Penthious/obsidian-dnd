@@ -12,7 +12,7 @@ aliases: ["Victoro Cassalanter"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 218
+BookSource: "Waterdeep: Dragon Heist p. 218"
 ---
 # [Victoro Cassalanter](2-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 218*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Carrion Crawler Mucus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD (as 'Crawler Mucus (Contact)').
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD (as 'Crawler Mucus (Contact)')."
 ---
 # Carrion Crawler Mucus
 *Adventuring Gear, poison*  

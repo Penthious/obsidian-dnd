@@ -11,7 +11,7 @@ aliases: ["Flesh Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 169, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 169, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Flesh Golem](2-Mechanics/CLI/bestiary/construct/flesh-golem.md)
 *Source: Monster Manual p. 169, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

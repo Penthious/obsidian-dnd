@@ -9,7 +9,7 @@ tags:
 aliases: ["Keoghtom's Ointment"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 179. Available in the SRD and the Basic Rules (as 'Restorative Ointment').
+BookSource: "Dungeon Master's Guide p. 179. Available in the SRD and the Basic Rules (as 'Restorative Ointment')."
 ---
 # Keoghtom's Ointment
 *Wondrous Item, minor, uncommon*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Conjure Volley"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 226
+BookSource: "Player's Handbook p. 226"
 ---
 # Conjure Volley
 *5th-level, Conjuration*  

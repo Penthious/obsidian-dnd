@@ -11,7 +11,7 @@ aliases: ["Kender Skirmisher"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 204
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 204"
 ---
 # [Kender Skirmisher](2-Mechanics/CLI/bestiary/humanoid/kender-skirmisher-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 204*  

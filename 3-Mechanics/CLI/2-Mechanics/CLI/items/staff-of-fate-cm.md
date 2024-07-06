@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Fate"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 183
+BookSource: "Candlekeep Mysteries p. 183"
 ---
 # Staff of Fate
 *Melee Weapon, very rare (requires attunement)*  

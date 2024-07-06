@@ -9,7 +9,7 @@ tags:
 aliases: ["Ruby Weave Gem"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 24
+BookSource: "Fizban's Treasury of Dragons p. 24"
 ---
 # Ruby Weave Gem
 *Wondrous Item, legendary (requires attunement by a spellcaster)*  

@@ -11,7 +11,7 @@ aliases: ["Giant Coral Snake"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 236
+BookSource: "Ghosts of Saltmarsh p. 236"
 ---
 # [Giant Coral Snake](2-Mechanics/CLI/bestiary/beast/giant-coral-snake-gos.md)
 *Source: Ghosts of Saltmarsh p. 236*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Shield of Shouting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 116
+BookSource: "Tomb of Annihilation p. 116"
 ---
 # Shield of Shouting
 *Shield, unknown (magic)*  

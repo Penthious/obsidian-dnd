@@ -13,7 +13,7 @@ classes:
 aliases: ["Prayer of Healing"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 267. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 267. Available in the SRD and the Basic Rules."
 ---
 # Prayer of Healing
 *2nd-level, Evocation*  

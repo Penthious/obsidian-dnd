@@ -13,7 +13,7 @@ aliases: ["Giant Frog"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 325, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 325, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Giant Frog](2-Mechanics/CLI/bestiary/beast/giant-frog.md)
 *Source: Monster Manual p. 325, Hoard of the Dragon Queen, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

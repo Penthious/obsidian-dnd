@@ -11,7 +11,7 @@ classes:
 aliases: ["Cordon of Arrows"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 228
+BookSource: "Player's Handbook p. 228"
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  

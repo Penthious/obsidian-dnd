@@ -12,7 +12,7 @@ aliases: ["Renwick"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 66
+BookSource: "Princes of the Apocalypse p. 66"
 ---
 # [Renwick](2-Mechanics/CLI/bestiary/npc/renwick-pota.md)
 *Source: Princes of the Apocalypse p. 66*  

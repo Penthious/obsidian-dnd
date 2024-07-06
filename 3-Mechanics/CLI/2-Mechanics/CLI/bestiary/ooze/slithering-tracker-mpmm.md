@@ -13,7 +13,7 @@ aliases: ["Slithering Tracker"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191"
 ---
 # [Slithering Tracker](2-Mechanics/CLI/bestiary/ooze/slithering-tracker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*  

@@ -12,7 +12,7 @@ aliases: ["Brother Broumane"]
 NoteIcon: npc
 BestiaryType: humanoid (merfolk)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 178
+BookSource: "Journeys through the Radiant Citadel p. 178"
 ---
 # [Brother Broumane](2-Mechanics/CLI/bestiary/npc/brother-broumane-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 178*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Black Dragon Mask"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Hoard of the Dragon Queen p. 94
+BookSource: "Hoard of the Dragon Queen p. 94"
 ---
 # Black Dragon Mask
 *Wondrous Item, legendary (requires attunement)*  

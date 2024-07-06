@@ -9,7 +9,7 @@ tags:
 aliases: ["Pipe of Smoke Monsters"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Pipe of Smoke Monsters
 *Wondrous Item, minor, common*  

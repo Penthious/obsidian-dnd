@@ -12,7 +12,7 @@ aliases: ["Losser Mirklav"]
 NoteIcon: npc
 BestiaryType: humanoid (Lightfoot halfling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 85
+BookSource: "Waterdeep: Dragon Heist p. 85"
 ---
 # [Losser Mirklav](2-Mechanics/CLI/bestiary/npc/losser-mirklav-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 85*  

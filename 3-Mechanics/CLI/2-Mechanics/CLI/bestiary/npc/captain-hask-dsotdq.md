@@ -12,7 +12,7 @@ aliases: ["Captain Hask"]
 NoteIcon: npc
 BestiaryType: monstrosity (sorcerer)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 148
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 148"
 ---
 # [Captain Hask](2-Mechanics/CLI/bestiary/npc/captain-hask-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 148*  

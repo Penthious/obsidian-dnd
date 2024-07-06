@@ -7,7 +7,7 @@ tags:
 aliases: ["Chain Mail"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 145. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 145. Available in the SRD and the Basic Rules."
 ---
 # Chain Mail
 *Heavy Armor*  

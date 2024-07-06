@@ -11,7 +11,7 @@ aliases: ["Dread Warrior"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 233
+BookSource: "Tales from the Yawning Portal p. 233"
 ---
 # [Dread Warrior](2-Mechanics/CLI/bestiary/undead/dread-warrior-tftyp.md)
 *Source: Tales from the Yawning Portal p. 233*  

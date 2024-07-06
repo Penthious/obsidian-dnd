@@ -20,7 +20,7 @@ classes:
 aliases: ["Illusory Script"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 252. Available in the SRD.
+BookSource: "Player's Handbook p. 252. Available in the SRD."
 ---
 # Illusory Script
 *1st-level, Illusion (ritual)*  

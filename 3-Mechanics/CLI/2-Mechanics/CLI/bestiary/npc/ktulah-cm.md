@@ -12,7 +12,7 @@ aliases: ["K'Tulah"]
 NoteIcon: npc
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 64
+BookSource: "Candlekeep Mysteries p. 64"
 ---
 # [K'Tulah](2-Mechanics/CLI/bestiary/npc/ktulah-cm.md)
 *Source: Candlekeep Mysteries p. 64*  

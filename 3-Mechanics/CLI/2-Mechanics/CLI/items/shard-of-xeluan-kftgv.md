@@ -9,7 +9,7 @@ tags:
 aliases: ["Shard of Xeluan"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Keys from the Golden Vault p. 134
+BookSource: "Keys from the Golden Vault p. 134"
 ---
 # Shard of Xeluan
 *Wondrous Item, rare (requires attunement)*  

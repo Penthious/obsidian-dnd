@@ -11,7 +11,7 @@ aliases: ["Wood Elf"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 28
+BookSource: "Storm King's Thunder p. 28"
 ---
 # [Wood Elf](2-Mechanics/CLI/bestiary/humanoid/wood-elf-skt.md)
 *Source: Storm King's Thunder p. 28*  

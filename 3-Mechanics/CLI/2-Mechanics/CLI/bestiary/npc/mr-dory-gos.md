@@ -12,7 +12,7 @@ aliases: ["Mr. Dory"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 246
+BookSource: "Ghosts of Saltmarsh p. 246"
 ---
 # [Mr. Dory](2-Mechanics/CLI/bestiary/npc/mr-dory-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  

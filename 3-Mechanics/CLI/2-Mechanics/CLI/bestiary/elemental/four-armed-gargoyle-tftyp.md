@@ -11,7 +11,7 @@ aliases: ["Four-Armed Gargoyle"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 129
+BookSource: "Tales from the Yawning Portal p. 129"
 ---
 # [Four-Armed Gargoyle](2-Mechanics/CLI/bestiary/elemental/four-armed-gargoyle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 129*  

@@ -12,7 +12,7 @@ aliases: ["Yalaga Maladwyn"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 226
+BookSource: "Ghosts of Saltmarsh p. 226"
 ---
 # [Yalaga Maladwyn](2-Mechanics/CLI/bestiary/npc/yalaga-maladwyn-gos.md)
 *Source: Ghosts of Saltmarsh p. 226*  

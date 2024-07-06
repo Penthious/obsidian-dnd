@@ -18,7 +18,7 @@ aliases: ["Swarm of Spiders"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 338, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD.
+BookSource: "Monster Manual p. 338, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD."
 ---
 # [Swarm of Spiders](2-Mechanics/CLI/bestiary/beast/swarm-of-spiders.md)
 *Source: Monster Manual p. 338, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD.*  

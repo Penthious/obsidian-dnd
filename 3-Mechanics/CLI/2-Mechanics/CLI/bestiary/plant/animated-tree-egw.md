@@ -11,7 +11,7 @@ aliases: ["Animated Tree"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Explorer's Guide to Wildemount p. 130, Mythic Odysseys of Theros
+BookSource: "Explorer's Guide to Wildemount p. 130, Mythic Odysseys of Theros"
 ---
 # [Animated Tree](2-Mechanics/CLI/bestiary/plant/animated-tree-egw.md)
 *Source: Explorer's Guide to Wildemount p. 130, Mythic Odysseys of Theros*  

@@ -12,7 +12,7 @@ aliases: ["Ape"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 317, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 317, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Ape](2-Mechanics/CLI/bestiary/beast/ape.md)
 *Source: Monster Manual p. 317, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

@@ -12,7 +12,7 @@ aliases: ["Deathlock Mastermind"]
 NoteIcon: monster
 BestiaryType: undead (warlock)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129"
 ---
 # [Deathlock Mastermind](2-Mechanics/CLI/bestiary/undead/deathlock-mastermind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  

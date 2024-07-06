@@ -11,7 +11,7 @@ aliases: ["Warhorse Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 273, Curse of Strahd, Storm King's Thunder, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 273, Curse of Strahd, Storm King's Thunder, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Warhorse Skeleton](2-Mechanics/CLI/bestiary/undead/warhorse-skeleton.md)
 *Source: Monster Manual p. 273, Curse of Strahd, Storm King's Thunder, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

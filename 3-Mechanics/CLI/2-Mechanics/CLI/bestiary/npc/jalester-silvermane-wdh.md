@@ -12,7 +12,7 @@ aliases: ["Jalester Silvermane"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 205
+BookSource: "Waterdeep: Dragon Heist p. 205"
 ---
 # [Jalester Silvermane](2-Mechanics/CLI/bestiary/npc/jalester-silvermane-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  

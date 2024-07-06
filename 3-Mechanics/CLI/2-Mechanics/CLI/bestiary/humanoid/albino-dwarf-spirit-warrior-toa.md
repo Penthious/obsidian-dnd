@@ -11,7 +11,7 @@ aliases: ["Albino Dwarf Spirit Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 210
+BookSource: "Tomb of Annihilation p. 210"
 ---
 # [Albino Dwarf Spirit Warrior](2-Mechanics/CLI/bestiary/humanoid/albino-dwarf-spirit-warrior-toa.md)
 *Source: Tomb of Annihilation p. 210*  

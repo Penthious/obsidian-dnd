@@ -15,7 +15,7 @@ classes:
 aliases: ["Dispel Evil and Good"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 233. Available in the SRD.
+BookSource: "Player's Handbook p. 233. Available in the SRD."
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  

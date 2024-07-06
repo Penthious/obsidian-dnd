@@ -15,7 +15,7 @@ classes:
 aliases: ["Spirit Shroud"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 108
+BookSource: "Tasha's Cauldron of Everything p. 108"
 ---
 # Spirit Shroud
 *3rd-level, Necromancy*  

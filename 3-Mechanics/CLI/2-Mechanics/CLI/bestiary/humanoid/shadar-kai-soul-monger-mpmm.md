@@ -13,7 +13,7 @@ aliases: ["Shadar-kai Soul Monger"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226"
 ---
 # [Shadar-kai Soul Monger](2-Mechanics/CLI/bestiary/humanoid/shadar-kai-soul-monger-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*  

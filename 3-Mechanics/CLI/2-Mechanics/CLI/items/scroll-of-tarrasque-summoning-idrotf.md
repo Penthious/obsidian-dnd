@@ -8,7 +8,7 @@ tags:
 aliases: ["Scroll of Tarrasque Summoning"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 315
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 315"
 ---
 # Scroll of Tarrasque Summoning
 *Scroll, legendary*  

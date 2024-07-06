@@ -13,7 +13,7 @@ aliases: ["Prisoner 13"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf, monk)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 68
+BookSource: "Keys from the Golden Vault p. 68"
 ---
 # [Prisoner 13](2-Mechanics/CLI/bestiary/npc/prisoner-13-kftgv.md)
 *Source: Keys from the Golden Vault p. 68*  

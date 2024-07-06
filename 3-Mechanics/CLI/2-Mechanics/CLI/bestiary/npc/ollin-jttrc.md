@@ -12,7 +12,7 @@ aliases: ["Ollin"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 109
+BookSource: "Journeys through the Radiant Citadel p. 109"
 ---
 # [Ollin](2-Mechanics/CLI/bestiary/npc/ollin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 109*  

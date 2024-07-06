@@ -11,7 +11,7 @@ aliases: ["Koalinth Sergeant"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 239
+BookSource: "Ghosts of Saltmarsh p. 239"
 ---
 # [Koalinth Sergeant](2-Mechanics/CLI/bestiary/humanoid/koalinth-sergeant-gos.md)
 *Source: Ghosts of Saltmarsh p. 239*  

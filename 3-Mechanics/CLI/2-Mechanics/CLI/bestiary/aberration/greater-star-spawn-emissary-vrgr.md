@@ -11,7 +11,7 @@ aliases: ["Greater Star Spawn Emissary"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 245
+BookSource: "Van Richten's Guide to Ravenloft p. 245"
 ---
 # [Greater Star Spawn Emissary](2-Mechanics/CLI/bestiary/aberration/greater-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  

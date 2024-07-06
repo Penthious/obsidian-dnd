@@ -7,7 +7,7 @@ tags:
 aliases: ["Keelboat"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 119. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 119. Available in the SRD and the Basic Rules."
 ---
 # Keelboat
 *Ship, Vehicle (water)*  

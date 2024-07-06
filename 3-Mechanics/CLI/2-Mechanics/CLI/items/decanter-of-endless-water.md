@@ -9,7 +9,7 @@ tags:
 aliases: ["Decanter of Endless Water"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 161. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 161. Available in the SRD."
 ---
 # Decanter of Endless Water
 *Wondrous Item, minor, uncommon*  

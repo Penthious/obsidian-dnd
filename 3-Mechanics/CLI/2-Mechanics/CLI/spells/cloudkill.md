@@ -25,7 +25,7 @@ classes:
 aliases: ["Cloudkill"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 222. Available in the SRD.
+BookSource: "Player's Handbook p. 222. Available in the SRD."
 ---
 # Cloudkill
 *5th-level, Conjuration*  

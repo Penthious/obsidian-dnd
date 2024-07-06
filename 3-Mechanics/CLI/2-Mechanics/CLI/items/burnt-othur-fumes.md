@@ -8,7 +8,7 @@ tags:
 aliases: ["Burnt Othur Fumes"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Burnt Othur Fumes
 *Adventuring Gear, poison*  

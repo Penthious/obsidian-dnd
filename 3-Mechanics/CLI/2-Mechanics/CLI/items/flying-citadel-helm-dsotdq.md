@@ -9,7 +9,7 @@ tags:
 aliases: ["Flying Citadel Helm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 190
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 190"
 ---
 # Flying Citadel Helm
 *Wondrous Item, very rare (requires attunement by a spellcaster)*  

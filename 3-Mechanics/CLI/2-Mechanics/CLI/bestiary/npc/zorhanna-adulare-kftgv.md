@@ -12,7 +12,7 @@ aliases: ["Zorhanna Adulare"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 184
+BookSource: "Keys from the Golden Vault p. 184"
 ---
 # [Zorhanna Adulare](2-Mechanics/CLI/bestiary/npc/zorhanna-adulare-kftgv.md)
 *Source: Keys from the Golden Vault p. 184*  

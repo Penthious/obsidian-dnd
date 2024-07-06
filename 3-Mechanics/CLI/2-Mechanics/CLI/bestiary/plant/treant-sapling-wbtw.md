@@ -11,7 +11,7 @@ aliases: ["Treant Sapling"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 36
+BookSource: "The Wild Beyond the Witchlight p. 36"
 ---
 # [Treant Sapling](2-Mechanics/CLI/bestiary/plant/treant-sapling-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 36*  

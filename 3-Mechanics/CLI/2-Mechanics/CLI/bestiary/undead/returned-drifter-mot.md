@@ -11,7 +11,7 @@ aliases: ["Returned Drifter"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 240
+BookSource: "Mythic Odysseys of Theros p. 240"
 ---
 # [Returned Drifter](2-Mechanics/CLI/bestiary/undead/returned-drifter-mot.md)
 *Source: Mythic Odysseys of Theros p. 240*  

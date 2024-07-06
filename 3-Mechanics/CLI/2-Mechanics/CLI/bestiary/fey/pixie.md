@@ -12,7 +12,7 @@ aliases: ["Pixie"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Monster Manual p. 253, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Keys from the Golden Vault
+BookSource: "Monster Manual p. 253, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Keys from the Golden Vault"
 ---
 # [Pixie](2-Mechanics/CLI/bestiary/fey/pixie.md)
 *Source: Monster Manual p. 253, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Keys from the Golden Vault*  

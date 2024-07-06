@@ -12,7 +12,7 @@ aliases: ["Rust Monster"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 262, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.
+BookSource: "Monster Manual p. 262, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [Rust Monster](2-Mechanics/CLI/bestiary/monstrosity/rust-monster.md)
 *Source: Monster Manual p. 262, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  

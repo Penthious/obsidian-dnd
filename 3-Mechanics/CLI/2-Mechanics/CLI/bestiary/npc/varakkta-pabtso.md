@@ -12,7 +12,7 @@ aliases: ["Varakkta"]
 NoteIcon: npc
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 174
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 174"
 ---
 # [Varakkta](2-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  

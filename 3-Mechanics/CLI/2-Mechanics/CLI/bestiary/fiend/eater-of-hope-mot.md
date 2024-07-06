@@ -11,7 +11,7 @@ aliases: ["Eater of Hope"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 220
+BookSource: "Mythic Odysseys of Theros p. 220"
 ---
 # [Eater of Hope](2-Mechanics/CLI/bestiary/fiend/eater-of-hope-mot.md)
 *Source: Mythic Odysseys of Theros p. 220*  

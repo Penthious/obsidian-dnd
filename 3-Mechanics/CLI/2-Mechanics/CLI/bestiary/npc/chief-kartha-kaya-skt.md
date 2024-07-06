@@ -12,7 +12,7 @@ aliases: ["Chief Kartha-Kaya"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 173
+BookSource: "Storm King's Thunder p. 173"
 ---
 # [Chief Kartha-Kaya](2-Mechanics/CLI/bestiary/npc/chief-kartha-kaya-skt.md)
 *Source: Storm King's Thunder p. 173*  

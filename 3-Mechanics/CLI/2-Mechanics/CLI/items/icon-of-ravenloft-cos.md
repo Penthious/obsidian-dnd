@@ -9,7 +9,7 @@ tags:
 aliases: ["Icon of Ravenloft"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 222
+BookSource: "Curse of Strahd p. 222"
 ---
 # Icon of Ravenloft
 *Wondrous Item, legendary (requires attunement by a creature of good alignment)*  

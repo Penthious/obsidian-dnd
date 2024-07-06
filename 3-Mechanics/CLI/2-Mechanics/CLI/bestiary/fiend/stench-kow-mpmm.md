@@ -13,7 +13,7 @@ aliases: ["Stench Kow"]
 NoteIcon: monster
 BestiaryType: fiend (cattle)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208"
 ---
 # [Stench Kow](2-Mechanics/CLI/bestiary/fiend/stench-kow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  

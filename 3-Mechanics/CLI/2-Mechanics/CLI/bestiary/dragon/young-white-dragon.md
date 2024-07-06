@@ -12,7 +12,7 @@ aliases: ["Young White Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.
+BookSource: "Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [Young White Dragon](2-Mechanics/CLI/bestiary/dragon/young-white-dragon.md)
 *Source: Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  

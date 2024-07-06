@@ -12,7 +12,7 @@ aliases: ["Atiba-Pa"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 171
+BookSource: "Journeys through the Radiant Citadel p. 171"
 ---
 # [Atiba-Pa](2-Mechanics/CLI/bestiary/npc/atiba-pa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 171*  

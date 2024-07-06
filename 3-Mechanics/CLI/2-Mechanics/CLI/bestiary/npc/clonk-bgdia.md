@@ -12,7 +12,7 @@ aliases: ["Clonk"]
 NoteIcon: npc
 BestiaryType: humanoid (kenku)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 83
+BookSource: "Baldur's Gate: Descent Into Avernus p. 83"
 ---
 # [Clonk](2-Mechanics/CLI/bestiary/npc/clonk-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  

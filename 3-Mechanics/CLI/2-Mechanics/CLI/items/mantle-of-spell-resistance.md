@@ -10,7 +10,7 @@ tags:
 aliases: ["Mantle of Spell Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 180. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 180. Available in the SRD."
 ---
 # Mantle of Spell Resistance
 *Wondrous Item, major, rare (requires attunement)*  

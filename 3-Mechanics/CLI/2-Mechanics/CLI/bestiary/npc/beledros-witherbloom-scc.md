@@ -12,7 +12,7 @@ aliases: ["Beledros Witherbloom"]
 NoteIcon: npc
 BestiaryType: dragon (druid)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 186
+BookSource: "Strixhaven: A Curriculum of Chaos p. 186"
 ---
 # [Beledros Witherbloom](2-Mechanics/CLI/bestiary/npc/beledros-witherbloom-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 186*  

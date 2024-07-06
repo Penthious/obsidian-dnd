@@ -12,7 +12,7 @@ aliases: ["Skriss"]
 NoteIcon: npc
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 29
+BookSource: "Out of the Abyss p. 29"
 ---
 # [Skriss](2-Mechanics/CLI/bestiary/npc/skriss-oota.md)
 *Source: Out of the Abyss p. 29*  

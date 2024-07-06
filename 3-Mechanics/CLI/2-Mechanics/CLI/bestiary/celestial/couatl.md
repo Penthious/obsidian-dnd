@@ -15,7 +15,7 @@ aliases: ["Couatl"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Monster Manual p. 43, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.
+BookSource: "Monster Manual p. 43, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [Couatl](2-Mechanics/CLI/bestiary/celestial/couatl.md)
 *Source: Monster Manual p. 43, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  

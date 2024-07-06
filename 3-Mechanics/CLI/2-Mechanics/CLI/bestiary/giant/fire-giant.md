@@ -13,7 +13,7 @@ aliases: ["Fire Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Fire Giant](2-Mechanics/CLI/bestiary/giant/fire-giant.md)
 *Source: Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

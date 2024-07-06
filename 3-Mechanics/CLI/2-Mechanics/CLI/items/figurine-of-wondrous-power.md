@@ -8,7 +8,7 @@ tags:
 aliases: ["Figurine of Wondrous Power"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 169
+BookSource: "Dungeon Master's Guide p. 169"
 ---
 # Figurine of Wondrous Power
 *Wondrous Item, varies*  

@@ -12,7 +12,7 @@ aliases: ["Bosco Daggerhand"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 68
+BookSource: "Tomb of Annihilation p. 68"
 ---
 # [Bosco Daggerhand](2-Mechanics/CLI/bestiary/npc/bosco-daggerhand-toa.md)
 *Source: Tomb of Annihilation p. 68*  

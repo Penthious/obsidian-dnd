@@ -13,7 +13,7 @@ classes:
 aliases: ["Power Word Heal"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 266
+BookSource: "Player's Handbook p. 266"
 ---
 # Power Word Heal
 *9th-level, Evocation*  

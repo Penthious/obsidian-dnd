@@ -13,7 +13,7 @@ classes:
 aliases: ["Tenser's Transformation"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 168
+BookSource: "Xanathar's Guide to Everything p. 168"
 ---
 # Tenser's Transformation
 *6th-level, Transmutation*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Bones of the Earth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 150
+BookSource: "Xanathar's Guide to Everything p. 150"
 ---
 # Bones of the Earth
 *6th-level, Transmutation*  

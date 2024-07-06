@@ -7,7 +7,7 @@ tags:
 aliases: ["Calligrapher's Supplies"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154, Xanathar's Guide to Everything p. 79. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 154, Xanathar's Guide to Everything p. 79. Available in the SRD and the Basic Rules."
 ---
 # Calligrapher's Supplies
 *Artisan's Tools*  

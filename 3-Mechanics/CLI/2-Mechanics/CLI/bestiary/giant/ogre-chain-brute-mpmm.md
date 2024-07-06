@@ -14,7 +14,7 @@ aliases: ["Ogre Chain Brute"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221"
 ---
 # [Ogre Chain Brute](2-Mechanics/CLI/bestiary/giant/ogre-chain-brute-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  

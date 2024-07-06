@@ -9,7 +9,7 @@ tags:
 aliases: ["Knave's Eye Patch"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 191
+BookSource: "Waterdeep: Dragon Heist p. 191"
 ---
 # Knave's Eye Patch
 *Wondrous Item, rare (requires attunement)*  

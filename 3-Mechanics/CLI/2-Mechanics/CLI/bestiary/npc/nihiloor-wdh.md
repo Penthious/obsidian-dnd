@@ -12,7 +12,7 @@ aliases: ["Nihiloor"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 212
+BookSource: "Waterdeep: Dragon Heist p. 212"
 ---
 # [Nihiloor](2-Mechanics/CLI/bestiary/npc/nihiloor-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 212*  

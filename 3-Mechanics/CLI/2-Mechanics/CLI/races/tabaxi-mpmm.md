@@ -7,7 +7,7 @@ tags:
 aliases: ["Tabaxi"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 33
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 33"
 ---
 # Tabaxi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 33*  

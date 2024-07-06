@@ -12,7 +12,7 @@ aliases: ["Raggnar Redtooth"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 74
+BookSource: "Hoard of the Dragon Queen p. 74"
 ---
 # [Raggnar Redtooth](2-Mechanics/CLI/bestiary/npc/raggnar-redtooth-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 74*  

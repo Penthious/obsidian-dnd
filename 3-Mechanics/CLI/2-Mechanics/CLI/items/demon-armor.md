@@ -10,7 +10,7 @@ tags:
 aliases: ["Demon Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 165. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 165. Available in the SRD."
 ---
 # Demon Armor
 *Heavy Armor, major, very rare (requires attunement)*  

@@ -11,7 +11,7 @@ aliases: ["Glabrezu"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 58, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.
+BookSource: "Monster Manual p. 58, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Glabrezu](2-Mechanics/CLI/bestiary/fiend/glabrezu.md)
 *Source: Monster Manual p. 58, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  

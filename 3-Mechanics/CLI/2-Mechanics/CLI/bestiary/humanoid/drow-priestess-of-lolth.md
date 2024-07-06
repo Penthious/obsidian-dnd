@@ -12,7 +12,7 @@ aliases: ["Drow Priestess of Lolth"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Monster Manual p. 129, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh
+BookSource: "Monster Manual p. 129, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh"
 ---
 # [Drow Priestess of Lolth](2-Mechanics/CLI/bestiary/humanoid/drow-priestess-of-lolth.md)
 *Source: Monster Manual p. 129, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh*  

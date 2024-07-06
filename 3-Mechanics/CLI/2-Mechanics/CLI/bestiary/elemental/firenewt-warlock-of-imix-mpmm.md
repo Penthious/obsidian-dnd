@@ -14,7 +14,7 @@ aliases: ["Firenewt Warlock of Imix"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143"
 ---
 # [Firenewt Warlock of Imix](2-Mechanics/CLI/bestiary/elemental/firenewt-warlock-of-imix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  

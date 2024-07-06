@@ -11,7 +11,7 @@ aliases: ["Huge Giant Crab"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 103
+BookSource: "Tales from the Yawning Portal p. 103"
 ---
 # [Huge Giant Crab](2-Mechanics/CLI/bestiary/beast/huge-giant-crab-tftyp.md)
 *Source: Tales from the Yawning Portal p. 103*  

@@ -12,7 +12,7 @@ aliases: ["Alagarthas"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 144
+BookSource: "The Wild Beyond the Witchlight p. 144"
 ---
 # [Alagarthas](2-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 144*  

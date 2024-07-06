@@ -13,7 +13,7 @@ aliases: ["Hell Hound"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Monster Manual p. 182, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 182, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Hell Hound](2-Mechanics/CLI/bestiary/fiend/hell-hound.md)
 *Source: Monster Manual p. 182, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

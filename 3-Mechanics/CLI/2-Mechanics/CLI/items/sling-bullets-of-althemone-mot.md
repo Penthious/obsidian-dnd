@@ -8,7 +8,7 @@ tags:
 aliases: ["Sling Bullets of Althemone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 198
+BookSource: "Mythic Odysseys of Theros p. 198"
 ---
 # Sling Bullets of Althemone
 *Ammunition, very rare*  

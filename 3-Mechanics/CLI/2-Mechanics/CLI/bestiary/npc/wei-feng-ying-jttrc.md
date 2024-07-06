@@ -12,7 +12,7 @@ aliases: ["Wei Feng Ying"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 188
+BookSource: "Journeys through the Radiant Citadel p. 188"
 ---
 # [Wei Feng Ying](2-Mechanics/CLI/bestiary/npc/wei-feng-ying-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 188*  

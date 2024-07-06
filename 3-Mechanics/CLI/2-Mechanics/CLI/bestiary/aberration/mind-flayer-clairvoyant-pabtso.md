@@ -11,7 +11,7 @@ aliases: ["Mind Flayer Clairvoyant"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 209
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 209"
 ---
 # [Mind Flayer Clairvoyant](2-Mechanics/CLI/bestiary/aberration/mind-flayer-clairvoyant-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 209*  

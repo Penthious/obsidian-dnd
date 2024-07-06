@@ -8,7 +8,7 @@ tags:
 aliases: ["Nether Scroll of Azumar"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 210
+BookSource: "Candlekeep Mysteries p. 210"
 ---
 # Nether Scroll of Azumar
 *Scroll, legendary*  

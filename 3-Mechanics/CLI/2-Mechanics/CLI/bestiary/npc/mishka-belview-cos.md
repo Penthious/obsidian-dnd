@@ -12,7 +12,7 @@ aliases: ["Mishka Belview"]
 NoteIcon: npc
 BestiaryType: humanoid (mongrelfolk)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 150
+BookSource: "Curse of Strahd p. 150"
 ---
 # [Mishka Belview](2-Mechanics/CLI/bestiary/npc/mishka-belview-cos.md)
 *Source: Curse of Strahd p. 150*  

@@ -11,7 +11,7 @@ aliases: ["Duergar Darkhaft"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 226
+BookSource: "Out of the Abyss p. 226"
 ---
 # [Duergar Darkhaft](2-Mechanics/CLI/bestiary/humanoid/duergar-darkhaft-oota.md)
 *Source: Out of the Abyss p. 226*  

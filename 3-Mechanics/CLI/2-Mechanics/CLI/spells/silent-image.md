@@ -19,7 +19,7 @@ classes:
 aliases: ["Silent Image"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 276. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 276. Available in the SRD and the Basic Rules."
 ---
 # Silent Image
 *1st-level, Illusion*  

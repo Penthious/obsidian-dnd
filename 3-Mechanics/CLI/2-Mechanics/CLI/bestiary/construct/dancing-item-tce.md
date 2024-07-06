@@ -11,7 +11,7 @@ aliases: ["Dancing Item"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 29
+BookSource: "Tasha's Cauldron of Everything p. 29"
 ---
 # [Dancing Item](2-Mechanics/CLI/bestiary/construct/dancing-item-tce.md)
 *Source: Tasha's Cauldron of Everything p. 29*  

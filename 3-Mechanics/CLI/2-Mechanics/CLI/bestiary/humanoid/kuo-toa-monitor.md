@@ -12,7 +12,7 @@ aliases: ["Kuo-toa Monitor"]
 NoteIcon: monster
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
-BookSource: Monster Manual p. 198, Princes of the Apocalypse, Ghosts of Saltmarsh
+BookSource: "Monster Manual p. 198, Princes of the Apocalypse, Ghosts of Saltmarsh"
 ---
 # [Kuo-toa Monitor](2-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md)
 *Source: Monster Manual p. 198, Princes of the Apocalypse, Ghosts of Saltmarsh*  

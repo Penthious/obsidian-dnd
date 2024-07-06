@@ -12,7 +12,7 @@ aliases: ["Karavarix"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 183
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 183"
 ---
 # [Karavarix](2-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 183*  

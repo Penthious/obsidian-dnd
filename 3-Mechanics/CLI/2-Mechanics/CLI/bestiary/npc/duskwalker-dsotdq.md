@@ -12,7 +12,7 @@ aliases: ["Duskwalker"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 150
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 150"
 ---
 # [Duskwalker](2-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 150*  

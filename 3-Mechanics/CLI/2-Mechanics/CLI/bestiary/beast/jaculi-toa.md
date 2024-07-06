@@ -11,7 +11,7 @@ aliases: ["Jaculi"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 225
+BookSource: "Tomb of Annihilation p. 225"
 ---
 # [Jaculi](2-Mechanics/CLI/bestiary/beast/jaculi-toa.md)
 *Source: Tomb of Annihilation p. 225*  

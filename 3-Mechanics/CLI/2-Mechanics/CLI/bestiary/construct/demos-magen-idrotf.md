@@ -11,7 +11,7 @@ aliases: ["Demos Magen"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 300
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 300"
 ---
 # [Demos Magen](2-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 300*  

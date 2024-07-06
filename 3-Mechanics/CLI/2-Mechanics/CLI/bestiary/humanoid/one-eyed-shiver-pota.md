@@ -11,7 +11,7 @@ aliases: ["One-Eyed Shiver"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 207
+BookSource: "Princes of the Apocalypse p. 207"
 ---
 # [One-Eyed Shiver](2-Mechanics/CLI/bestiary/humanoid/one-eyed-shiver-pota.md)
 *Source: Princes of the Apocalypse p. 207*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Orb of Time"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Orb of Time
 *Wondrous Item, minor, common*  

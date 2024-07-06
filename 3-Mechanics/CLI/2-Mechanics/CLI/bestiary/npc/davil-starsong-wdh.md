@@ -12,7 +12,7 @@ aliases: ["Davil Starsong"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 199
+BookSource: "Waterdeep: Dragon Heist p. 199"
 ---
 # [Davil Starsong](2-Mechanics/CLI/bestiary/npc/davil-starsong-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 199*  

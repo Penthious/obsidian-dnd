@@ -7,7 +7,7 @@ tags:
 aliases: ["Silver and gold brooch"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Silver and gold brooch
 *Art object*  

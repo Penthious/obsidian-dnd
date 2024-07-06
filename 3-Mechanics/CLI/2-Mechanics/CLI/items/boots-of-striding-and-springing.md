@@ -10,7 +10,7 @@ tags:
 aliases: ["Boots of Striding and Springing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 156. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 156. Available in the SRD and the Basic Rules."
 ---
 # Boots of Striding and Springing
 *Wondrous Item, major, uncommon (requires attunement)*  

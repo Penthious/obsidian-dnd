@@ -9,7 +9,7 @@ tags:
 aliases: ["Demonomicon of Iggwilv"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 125
+BookSource: "Tasha's Cauldron of Everything p. 125"
 ---
 # Demonomicon of Iggwilv
 *Wondrous Item, artifact (requires attunement)*  

@@ -12,7 +12,7 @@ aliases: ["Vine Blight"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh
+BookSource: "Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh"
 ---
 # [Vine Blight](2-Mechanics/CLI/bestiary/plant/vine-blight.md)
 *Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Sending Stones"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199
+BookSource: "Dungeon Master's Guide p. 199"
 ---
 # Sending Stones
 *Wondrous Item, minor, uncommon*  

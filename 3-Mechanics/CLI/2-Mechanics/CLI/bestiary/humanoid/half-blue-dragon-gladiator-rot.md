@@ -11,7 +11,7 @@ aliases: ["Half-Blue Dragon Gladiator"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 55
+BookSource: "The Rise of Tiamat p. 55"
 ---
 # [Half-Blue Dragon Gladiator](2-Mechanics/CLI/bestiary/humanoid/half-blue-dragon-gladiator-rot.md)
 *Source: The Rise of Tiamat p. 55*  

@@ -11,7 +11,7 @@ aliases: ["Octopus"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 333, Storm King's Thunder, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 333, Storm King's Thunder, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Octopus](2-Mechanics/CLI/bestiary/beast/octopus.md)
 *Source: Monster Manual p. 333, Storm King's Thunder, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

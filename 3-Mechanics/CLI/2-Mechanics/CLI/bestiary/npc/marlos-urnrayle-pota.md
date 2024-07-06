@@ -12,7 +12,7 @@ aliases: ["Marlos Urnrayle"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 199
+BookSource: "Princes of the Apocalypse p. 199"
 ---
 # [Marlos Urnrayle](2-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md)
 *Source: Princes of the Apocalypse p. 199*  

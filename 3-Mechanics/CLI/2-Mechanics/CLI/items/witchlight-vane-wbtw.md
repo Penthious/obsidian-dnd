@@ -9,7 +9,7 @@ tags:
 aliases: ["Witchlight Vane"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 27
+BookSource: "The Wild Beyond the Witchlight p. 27"
 ---
 # Witchlight Vane
 *Wondrous Item, legendary (requires attunement by a mister light or his handpicked successor)*  

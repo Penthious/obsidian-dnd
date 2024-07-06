@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Viscid Globs"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 223
+BookSource: "Out of the Abyss p. 223"
 ---
 # Wand of Viscid Globs
 *Wand, rare (requires attunement)*  

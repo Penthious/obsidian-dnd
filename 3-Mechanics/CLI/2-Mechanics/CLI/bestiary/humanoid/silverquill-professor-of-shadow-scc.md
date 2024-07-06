@@ -11,7 +11,7 @@ aliases: ["Silverquill Professor of Shadow"]
 NoteIcon: monster
 BestiaryType: humanoid (bard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 215
+BookSource: "Strixhaven: A Curriculum of Chaos p. 215"
 ---
 # [Silverquill Professor of Shadow](2-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-shadow-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 215*  

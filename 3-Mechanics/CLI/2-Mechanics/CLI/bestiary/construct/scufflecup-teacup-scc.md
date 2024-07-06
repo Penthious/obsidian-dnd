@@ -11,7 +11,7 @@ aliases: ["Scufflecup Teacup"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 159
+BookSource: "Strixhaven: A Curriculum of Chaos p. 159"
 ---
 # [Scufflecup Teacup](2-Mechanics/CLI/bestiary/construct/scufflecup-teacup-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 159*  

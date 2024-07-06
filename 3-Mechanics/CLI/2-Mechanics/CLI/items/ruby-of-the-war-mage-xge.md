@@ -10,7 +10,7 @@ tags:
 aliases: ["Ruby of the War Mage"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Ruby of the War Mage
 *Wondrous Item, minor, common (requires attunement by a spellcaster)*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Matchless Pipe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 47
+BookSource: "Waterdeep: Dragon Heist p. 47"
 ---
 # Matchless Pipe
 *Other, unknown*  

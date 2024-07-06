@@ -12,7 +12,7 @@ aliases: ["Triceratops"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 80, Tomb of Annihilation. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 80, Tomb of Annihilation. Available in the SRD and the Basic Rules."
 ---
 # [Triceratops](2-Mechanics/CLI/bestiary/beast/triceratops.md)
 *Source: Monster Manual p. 80, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  

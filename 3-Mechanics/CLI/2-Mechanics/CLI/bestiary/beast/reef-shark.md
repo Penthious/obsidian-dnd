@@ -12,7 +12,7 @@ aliases: ["Reef Shark"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 336, Tomb of Annihilation, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 336, Tomb of Annihilation, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Reef Shark](2-Mechanics/CLI/bestiary/beast/reef-shark.md)
 *Source: Monster Manual p. 336, Tomb of Annihilation, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

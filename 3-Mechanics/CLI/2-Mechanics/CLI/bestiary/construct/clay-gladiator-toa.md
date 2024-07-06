@@ -11,7 +11,7 @@ aliases: ["Clay Gladiator"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 100
+BookSource: "Tomb of Annihilation p. 100"
 ---
 # [Clay Gladiator](2-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md)
 *Source: Tomb of Annihilation p. 100*  

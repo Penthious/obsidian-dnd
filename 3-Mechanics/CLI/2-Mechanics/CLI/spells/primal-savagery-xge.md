@@ -15,7 +15,7 @@ classes:
 aliases: ["Primal Savagery"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 163
+BookSource: "Xanathar's Guide to Everything p. 163"
 ---
 # Primal Savagery
 *cantrip, Transmutation*  

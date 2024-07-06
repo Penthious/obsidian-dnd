@@ -10,7 +10,7 @@ tags:
 aliases: ["Necklace of Adaptation"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 182. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 182. Available in the SRD."
 ---
 # Necklace of Adaptation
 *Wondrous Item, major, uncommon (requires attunement)*  

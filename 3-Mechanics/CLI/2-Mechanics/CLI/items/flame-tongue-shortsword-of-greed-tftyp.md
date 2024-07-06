@@ -12,7 +12,7 @@ tags:
 aliases: ["Flame Tongue Shortsword of Greed"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 179
+BookSource: "Tales from the Yawning Portal p. 179"
 ---
 # Flame Tongue Shortsword of Greed
 *Melee Weapon, unknown (magic) (requires attunement)*  

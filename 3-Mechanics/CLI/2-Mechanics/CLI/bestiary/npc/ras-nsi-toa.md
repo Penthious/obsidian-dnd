@@ -13,7 +13,7 @@ aliases: ["Ras Nsi"]
 NoteIcon: npc
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 230
+BookSource: "Tomb of Annihilation p. 230"
 ---
 # [Ras Nsi](2-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)
 *Source: Tomb of Annihilation p. 230*  

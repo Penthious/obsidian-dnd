@@ -12,7 +12,7 @@ aliases: ["Klauth"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 95
+BookSource: "Storm King's Thunder p. 95"
 ---
 # [Klauth](2-Mechanics/CLI/bestiary/npc/klauth-skt.md)
 *Source: Storm King's Thunder p. 95*  

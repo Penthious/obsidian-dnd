@@ -12,7 +12,7 @@ aliases: ["Shalvus Martholio"]
 NoteIcon: npc
 BestiaryType: humanoid (Turami human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 250
+BookSource: "Storm King's Thunder p. 250"
 ---
 # [Shalvus Martholio](2-Mechanics/CLI/bestiary/npc/shalvus-martholio-skt.md)
 *Source: Storm King's Thunder p. 250*  

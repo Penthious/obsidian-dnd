@@ -9,7 +9,7 @@ tags:
 aliases: ["Arrow of Slaying"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 152. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 152. Available in the SRD."
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  

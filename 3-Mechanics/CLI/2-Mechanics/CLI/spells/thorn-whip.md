@@ -17,7 +17,7 @@ classes:
 aliases: ["Thorn Whip"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 282
+BookSource: "Player's Handbook p. 282"
 ---
 # Thorn Whip
 *cantrip, Transmutation*  

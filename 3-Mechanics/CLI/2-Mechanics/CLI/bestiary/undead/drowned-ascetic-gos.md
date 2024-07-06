@@ -11,7 +11,7 @@ aliases: ["Drowned Ascetic"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 233
+BookSource: "Ghosts of Saltmarsh p. 233"
 ---
 # [Drowned Ascetic](2-Mechanics/CLI/bestiary/undead/drowned-ascetic-gos.md)
 *Source: Ghosts of Saltmarsh p. 233*  

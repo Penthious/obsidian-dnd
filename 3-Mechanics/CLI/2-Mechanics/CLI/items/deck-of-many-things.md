@@ -9,7 +9,7 @@ tags:
 aliases: ["Deck of Many Things"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 162. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 162. Available in the SRD."
 ---
 # Deck of Many Things
 *Wondrous Item, major, legendary*  

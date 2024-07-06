@@ -11,7 +11,7 @@ aliases: ["Monstrous Peryton"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 245
+BookSource: "Ghosts of Saltmarsh p. 245"
 ---
 # [Monstrous Peryton](2-Mechanics/CLI/bestiary/monstrosity/monstrous-peryton-gos.md)
 *Source: Ghosts of Saltmarsh p. 245*  

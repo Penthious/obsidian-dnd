@@ -12,7 +12,7 @@ aliases: ["Adult Green Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 94, The Rise of Tiamat, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 94, The Rise of Tiamat, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Adult Green Dragon](2-Mechanics/CLI/bestiary/dragon/adult-green-dragon.md)
 *Source: Monster Manual p. 94, The Rise of Tiamat, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD.*  

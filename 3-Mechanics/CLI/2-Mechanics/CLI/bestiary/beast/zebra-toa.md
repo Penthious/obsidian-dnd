@@ -11,7 +11,7 @@ aliases: ["Zebra"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 106
+BookSource: "Tomb of Annihilation p. 106"
 ---
 # [Zebra](2-Mechanics/CLI/bestiary/beast/zebra-toa.md)
 *Source: Tomb of Annihilation p. 106*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Bead of Refreshment"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Bead of Refreshment
 *Wondrous Item, minor, common*  

@@ -11,7 +11,7 @@ aliases: ["Molydeus"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134"
 ---
 # [Molydeus](2-Mechanics/CLI/bestiary/fiend/molydeus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  

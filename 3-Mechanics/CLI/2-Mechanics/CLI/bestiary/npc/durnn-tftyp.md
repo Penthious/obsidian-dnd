@@ -12,7 +12,7 @@ aliases: ["Durnn"]
 NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 25
+BookSource: "Tales from the Yawning Portal p. 25"
 ---
 # [Durnn](2-Mechanics/CLI/bestiary/npc/durnn-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  

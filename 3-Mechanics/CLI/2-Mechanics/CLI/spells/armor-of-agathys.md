@@ -13,7 +13,7 @@ classes:
 aliases: ["Armor of Agathys"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 215
+BookSource: "Player's Handbook p. 215"
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  

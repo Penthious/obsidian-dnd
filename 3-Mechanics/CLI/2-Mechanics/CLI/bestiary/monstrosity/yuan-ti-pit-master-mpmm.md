@@ -14,7 +14,7 @@ aliases: ["Yuan-ti Pit Master"]
 NoteIcon: monster
 BestiaryType: monstrosity (warlock)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206"
 ---
 # [Yuan-ti Pit Master](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-pit-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206*  

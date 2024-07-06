@@ -12,7 +12,7 @@ aliases: ["Grum'shar"]
 NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 29
+BookSource: "Waterdeep: Dragon Heist p. 29"
 ---
 # [Grum'shar](2-Mechanics/CLI/bestiary/npc/grumshar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 29*  

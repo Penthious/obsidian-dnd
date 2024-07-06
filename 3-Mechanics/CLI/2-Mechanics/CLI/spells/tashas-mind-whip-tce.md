@@ -13,7 +13,7 @@ classes:
 aliases: ["Tasha's Mind Whip"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 115
+BookSource: "Tasha's Cauldron of Everything p. 115"
 ---
 # Tasha's Mind Whip
 *2nd-level, Enchantment*  

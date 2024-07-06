@@ -13,7 +13,7 @@ aliases: ["Ringlerun"]
 NoteIcon: npc
 BestiaryType: humanoid (human, wizard)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 227
+BookSource: "The Wild Beyond the Witchlight p. 227"
 ---
 # [Ringlerun](2-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 227*  

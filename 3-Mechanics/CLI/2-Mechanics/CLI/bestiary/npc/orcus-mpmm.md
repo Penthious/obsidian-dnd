@@ -12,7 +12,7 @@ aliases: ["Orcus"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 204, Mordenkainen's Tome of Foes p. 153
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 204, Mordenkainen's Tome of Foes p. 153"
 ---
 # [Orcus](2-Mechanics/CLI/bestiary/npc/orcus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 204, Mordenkainen's Tome of Foes p. 153*  

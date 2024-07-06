@@ -12,7 +12,7 @@ aliases: ["King Hekaton"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 222
+BookSource: "Storm King's Thunder p. 222"
 ---
 # [King Hekaton](2-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md)
 *Source: Storm King's Thunder p. 222*  

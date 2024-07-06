@@ -19,7 +19,7 @@ aliases: ["Meazel"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214"
 ---
 # [Meazel](2-Mechanics/CLI/bestiary/monstrosity/meazel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  

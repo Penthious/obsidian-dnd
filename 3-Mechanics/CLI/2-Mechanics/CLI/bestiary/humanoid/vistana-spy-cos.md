@@ -11,7 +11,7 @@ aliases: ["Vistana Spy"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 28
+BookSource: "Curse of Strahd p. 28"
 ---
 # [Vistana Spy](2-Mechanics/CLI/bestiary/humanoid/vistana-spy-cos.md)
 *Source: Curse of Strahd p. 28*  

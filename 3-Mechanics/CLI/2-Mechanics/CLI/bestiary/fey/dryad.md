@@ -12,7 +12,7 @@ aliases: ["Dryad"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Monster Manual p. 121, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 121, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Dryad](2-Mechanics/CLI/bestiary/fey/dryad.md)
 *Source: Monster Manual p. 121, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.*  

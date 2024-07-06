@@ -15,7 +15,7 @@ classes:
 aliases: ["Far Step"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 155
+BookSource: "Xanathar's Guide to Everything p. 155"
 ---
 # Far Step
 *5th-level, Conjuration*  

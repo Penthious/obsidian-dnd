@@ -12,7 +12,7 @@ aliases: ["Kaarghaz"]
 NoteIcon: npc
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 45
+BookSource: "Tales from the Yawning Portal p. 45"
 ---
 # [Kaarghaz](2-Mechanics/CLI/bestiary/npc/kaarghaz-tftyp.md)
 *Source: Tales from the Yawning Portal p. 45*  

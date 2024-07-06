@@ -12,7 +12,7 @@ aliases: ["Gorvan Ironheart"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 151
+BookSource: "Tales from the Yawning Portal p. 151"
 ---
 # [Gorvan Ironheart](2-Mechanics/CLI/bestiary/npc/gorvan-ironheart-tftyp.md)
 *Source: Tales from the Yawning Portal p. 151*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Heart Weaver's Primer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 128
+BookSource: "Tasha's Cauldron of Everything p. 128"
 ---
 # Heart Weaver's Primer
 *Wondrous Item, rare (requires attunement by a wizard)*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Trinket"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 2
+BookSource: "Curse of Strahd p. 2"
 ---
 # Trinket
 *Adventuring Gear*  

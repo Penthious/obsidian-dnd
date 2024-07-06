@@ -7,7 +7,7 @@ tags:
 aliases: ["Ink (1-ounce bottle)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 150. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 150. Available in the SRD and the Basic Rules."
 ---
 # Ink (1-ounce bottle)
 *Adventuring Gear*  

@@ -12,7 +12,7 @@ aliases: ["Meloon Wardragon"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 210
+BookSource: "Waterdeep: Dragon Heist p. 210"
 ---
 # [Meloon Wardragon](2-Mechanics/CLI/bestiary/npc/meloon-wardragon-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 210*  

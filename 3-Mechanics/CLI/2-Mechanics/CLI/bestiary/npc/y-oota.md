@@ -12,7 +12,7 @@ aliases: ["Y"]
 NoteIcon: npc
 BestiaryType: humanoid (derro)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 29
+BookSource: "Out of the Abyss p. 29"
 ---
 # [Y](2-Mechanics/CLI/bestiary/npc/y-oota.md)
 *Source: Out of the Abyss p. 29*  

@@ -11,7 +11,7 @@ aliases: ["Crow"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 302
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 302"
 ---
 # [Crow](2-Mechanics/CLI/bestiary/beast/crow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 302*  

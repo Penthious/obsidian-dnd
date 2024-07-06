@@ -11,7 +11,7 @@ aliases: ["Conservatory Student"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 110
+BookSource: "Keys from the Golden Vault p. 110"
 ---
 # [Conservatory Student](2-Mechanics/CLI/bestiary/humanoid/conservatory-student-kftgv.md)
 *Source: Keys from the Golden Vault p. 110*  

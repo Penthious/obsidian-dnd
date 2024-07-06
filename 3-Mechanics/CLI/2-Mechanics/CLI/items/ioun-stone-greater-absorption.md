@@ -10,7 +10,7 @@ tags:
 aliases: ["Ioun Stone, Greater Absorption"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 176. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 176. Available in the SRD."
 ---
 # Ioun Stone, Greater Absorption
 *Wondrous Item, major, legendary (requires attunement)*  

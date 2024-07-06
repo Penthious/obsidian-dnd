@@ -14,7 +14,7 @@ aliases: ["Bugbear Chief"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Monster Manual p. 33, Tales from the Yawning Portal
+BookSource: "Monster Manual p. 33, Tales from the Yawning Portal"
 ---
 # [Bugbear Chief](2-Mechanics/CLI/bestiary/humanoid/bugbear-chief.md)
 *Source: Monster Manual p. 33, Tales from the Yawning Portal*  

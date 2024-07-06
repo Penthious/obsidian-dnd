@@ -11,7 +11,7 @@ aliases: ["Living Demiplane"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 299
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 299"
 ---
 # [Living Demiplane](2-Mechanics/CLI/bestiary/construct/living-demiplane-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 299*  

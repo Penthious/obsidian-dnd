@@ -7,7 +7,7 @@ tags:
 aliases: ["Acid (vial)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 148. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 148. Available in the SRD and the Basic Rules."
 ---
 # Acid (vial)
 *Adventuring Gear*  

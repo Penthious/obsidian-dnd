@@ -11,7 +11,7 @@ aliases: ["Lesser Mummy Lord"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 224
+BookSource: "Tales from the Yawning Portal p. 224"
 ---
 # [Lesser Mummy Lord](2-Mechanics/CLI/bestiary/undead/lesser-mummy-lord-tftyp.md)
 *Source: Tales from the Yawning Portal p. 224*  

@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Basilisk"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Basilisk](2-Mechanics/CLI/bestiary/monstrosity/reduced-threat-basilisk-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

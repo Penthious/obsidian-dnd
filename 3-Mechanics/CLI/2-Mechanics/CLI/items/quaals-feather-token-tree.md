@@ -9,7 +9,7 @@ tags:
 aliases: ["Quaal's Feather Token, Tree"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Tree').
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Tree')."
 ---
 # Quaal's Feather Token, Tree
 *Wondrous Item, minor, rare*  

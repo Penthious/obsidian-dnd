@@ -9,7 +9,7 @@ tags:
 aliases: ["Necklace of Fireballs"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 182. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 182. Available in the SRD."
 ---
 # Necklace of Fireballs
 *Wondrous Item, minor, rare*  

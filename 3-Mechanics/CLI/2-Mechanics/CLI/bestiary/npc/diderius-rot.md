@@ -12,7 +12,7 @@ aliases: ["Diderius"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 40
+BookSource: "The Rise of Tiamat p. 40"
 ---
 # [Diderius](2-Mechanics/CLI/bestiary/npc/diderius-rot.md)
 *Source: The Rise of Tiamat p. 40*  

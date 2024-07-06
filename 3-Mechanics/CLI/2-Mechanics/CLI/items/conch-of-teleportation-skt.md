@@ -9,7 +9,7 @@ tags:
 aliases: ["Conch of Teleportation"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 234
+BookSource: "Storm King's Thunder p. 234"
 ---
 # Conch of Teleportation
 *Wondrous Item, very rare (requires attunement)*  

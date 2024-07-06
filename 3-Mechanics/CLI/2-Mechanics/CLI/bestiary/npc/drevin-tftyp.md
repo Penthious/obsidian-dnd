@@ -12,7 +12,7 @@ aliases: ["Drevin"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 126
+BookSource: "Tales from the Yawning Portal p. 126"
 ---
 # [Drevin](2-Mechanics/CLI/bestiary/npc/drevin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 126*  

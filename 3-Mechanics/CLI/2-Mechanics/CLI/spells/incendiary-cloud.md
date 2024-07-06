@@ -15,7 +15,7 @@ classes:
 aliases: ["Incendiary Cloud"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 253. Available in the SRD.
+BookSource: "Player's Handbook p. 253. Available in the SRD."
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  

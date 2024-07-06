@@ -10,7 +10,7 @@ tags:
 aliases: ["Arrow-Catching Shield"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 152. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 152. Available in the SRD."
 ---
 # Arrow-Catching Shield
 *Shield, major, rare (requires attunement)*  

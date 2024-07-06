@@ -17,7 +17,7 @@ classes:
 aliases: ["Elemental Weapon"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 237
+BookSource: "Player's Handbook p. 237"
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  

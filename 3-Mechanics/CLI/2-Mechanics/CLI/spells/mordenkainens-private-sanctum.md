@@ -17,7 +17,7 @@ classes:
 aliases: ["Mordenkainen's Private Sanctum"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 262. Available in the SRD (as 'Private Sanctum').
+BookSource: "Player's Handbook p. 262. Available in the SRD (as 'Private Sanctum')."
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  

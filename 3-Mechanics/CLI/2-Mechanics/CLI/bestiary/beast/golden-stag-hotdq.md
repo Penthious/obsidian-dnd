@@ -11,7 +11,7 @@ aliases: ["Golden Stag"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 35
+BookSource: "Hoard of the Dragon Queen p. 35"
 ---
 # [Golden Stag](2-Mechanics/CLI/bestiary/beast/golden-stag-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 35*  

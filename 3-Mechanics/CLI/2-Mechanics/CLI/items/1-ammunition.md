@@ -9,7 +9,7 @@ tags:
 aliases: ["+1 Ammunition"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 150. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 150. Available in the SRD."
 ---
 # +1 Ammunition
 *Generic Variant, minor, uncommon*  

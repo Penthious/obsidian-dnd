@@ -23,7 +23,7 @@ classes:
 aliases: ["Flame Arrows"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 156
+BookSource: "Xanathar's Guide to Everything p. 156"
 ---
 # Flame Arrows
 *3rd-level, Transmutation*  

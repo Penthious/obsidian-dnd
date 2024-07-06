@@ -11,7 +11,7 @@ aliases: ["Drow Commander"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 209
+BookSource: "Tales from the Yawning Portal p. 209"
 ---
 # [Drow Commander](2-Mechanics/CLI/bestiary/humanoid/drow-commander-tftyp.md)
 *Source: Tales from the Yawning Portal p. 209*  

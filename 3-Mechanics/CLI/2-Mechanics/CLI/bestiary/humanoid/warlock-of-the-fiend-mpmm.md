@@ -15,7 +15,7 @@ aliases: ["Warlock of the Fiend"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219"
 ---
 # [Warlock of the Fiend](2-Mechanics/CLI/bestiary/humanoid/warlock-of-the-fiend-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  

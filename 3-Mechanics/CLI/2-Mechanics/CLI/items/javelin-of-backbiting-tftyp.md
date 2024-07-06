@@ -10,7 +10,7 @@ tags:
 aliases: ["Javelin of Backbiting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Javelin of Backbiting
 *Melee Weapon, very rare (requires attunement)*  

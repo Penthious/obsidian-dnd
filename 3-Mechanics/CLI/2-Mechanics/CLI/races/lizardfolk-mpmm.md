@@ -7,7 +7,7 @@ tags:
 aliases: ["Lizardfolk"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 26
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 26"
 ---
 # Lizardfolk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 26*  

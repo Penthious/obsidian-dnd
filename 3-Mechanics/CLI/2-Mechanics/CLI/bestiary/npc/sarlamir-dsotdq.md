@@ -12,7 +12,7 @@ aliases: ["Sarlamir"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 102
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 102"
 ---
 # [Sarlamir](2-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 102*  

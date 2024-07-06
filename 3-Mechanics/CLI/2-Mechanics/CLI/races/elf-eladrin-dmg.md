@@ -7,7 +7,7 @@ tags:
 aliases: ["Elf (Eladrin) (DMG)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Dungeon Master's Guide p. 286
+BookSource: "Dungeon Master's Guide p. 286"
 ---
 # Elf (Eladrin) (DMG)
 *Source: Dungeon Master's Guide p. 286*  

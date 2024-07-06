@@ -31,7 +31,7 @@ classes:
 aliases: ["Freedom of Movement"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 244. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 244. Available in the SRD and the Basic Rules."
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

@@ -11,7 +11,7 @@ aliases: ["Satyr Thornbearer"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 243
+BookSource: "Mythic Odysseys of Theros p. 243"
 ---
 # [Satyr Thornbearer](2-Mechanics/CLI/bestiary/fey/satyr-thornbearer-mot.md)
 *Source: Mythic Odysseys of Theros p. 243*  

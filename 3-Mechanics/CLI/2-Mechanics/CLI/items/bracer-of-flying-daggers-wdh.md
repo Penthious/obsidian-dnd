@@ -9,7 +9,7 @@ tags:
 aliases: ["Bracer of Flying Daggers"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 190
+BookSource: "Waterdeep: Dragon Heist p. 190"
 ---
 # Bracer of Flying Daggers
 *Wondrous Item, rare (requires attunement)*  

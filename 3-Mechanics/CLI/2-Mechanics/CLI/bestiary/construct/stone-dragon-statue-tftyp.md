@@ -11,7 +11,7 @@ aliases: ["Stone Dragon Statue"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 85
+BookSource: "Tales from the Yawning Portal p. 85"
 ---
 # [Stone Dragon Statue](2-Mechanics/CLI/bestiary/construct/stone-dragon-statue-tftyp.md)
 *Source: Tales from the Yawning Portal p. 85*  

@@ -12,7 +12,7 @@ aliases: ["Lady Gondafrey"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 152
+BookSource: "Waterdeep: Dragon Heist p. 152"
 ---
 # [Lady Gondafrey](2-Mechanics/CLI/bestiary/npc/lady-gondafrey-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 152*  

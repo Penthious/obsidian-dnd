@@ -12,7 +12,7 @@ aliases: ["Yalah Gralhund"]
 NoteIcon: npc
 BestiaryType: humanoid (Tethyrian human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 220
+BookSource: "Waterdeep: Dragon Heist p. 220"
 ---
 # [Yalah Gralhund](2-Mechanics/CLI/bestiary/npc/yalah-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

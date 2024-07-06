@@ -10,7 +10,7 @@ tags:
 aliases: ["Charlatan's Die"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Charlatan's Die
 *Wondrous Item, minor, common (requires attunement)*  

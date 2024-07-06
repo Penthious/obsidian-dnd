@@ -11,7 +11,7 @@ aliases: ["Awakened White Moose"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 82
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 82"
 ---
 # [Awakened White Moose](2-Mechanics/CLI/bestiary/beast/awakened-white-moose-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 82*  

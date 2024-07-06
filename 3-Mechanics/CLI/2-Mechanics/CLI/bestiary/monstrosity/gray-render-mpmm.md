@@ -13,7 +13,7 @@ aliases: ["Gray Render"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209"
 ---
 # [Gray Render](2-Mechanics/CLI/bestiary/monstrosity/gray-render-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  

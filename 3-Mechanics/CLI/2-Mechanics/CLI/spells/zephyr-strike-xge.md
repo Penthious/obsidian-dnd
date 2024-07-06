@@ -11,7 +11,7 @@ classes:
 aliases: ["Zephyr Strike"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 171
+BookSource: "Xanathar's Guide to Everything p. 171"
 ---
 # Zephyr Strike
 *1st-level, Transmutation*  

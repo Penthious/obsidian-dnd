@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Polymorph"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 211. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 211. Available in the SRD."
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  

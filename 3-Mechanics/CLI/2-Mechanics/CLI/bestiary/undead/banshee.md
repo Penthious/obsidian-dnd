@@ -13,7 +13,7 @@ aliases: ["Banshee"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 23, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.
+BookSource: "Monster Manual p. 23, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules."
 ---
 # [Banshee](2-Mechanics/CLI/bestiary/undead/banshee.md)
 *Source: Monster Manual p. 23, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.*  

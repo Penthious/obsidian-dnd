@@ -12,7 +12,7 @@ tags:
 aliases: ["Sword of Answering (Replier)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 206
+BookSource: "Dungeon Master's Guide p. 206"
 ---
 # Sword of Answering (Replier)
 *Melee Weapon, major, legendary (requires attunement by a neutral creature)*  

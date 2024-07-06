@@ -12,7 +12,7 @@ aliases: ["Countess Sansuri"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 192
+BookSource: "Storm King's Thunder p. 192"
 ---
 # [Countess Sansuri](2-Mechanics/CLI/bestiary/npc/countess-sansuri-skt.md)
 *Source: Storm King's Thunder p. 192*  

@@ -11,7 +11,7 @@ aliases: ["Beast of the Land"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 61
+BookSource: "Tasha's Cauldron of Everything p. 61"
 ---
 # [Beast of the Land](2-Mechanics/CLI/bestiary/beast/beast-of-the-land-tce.md)
 *Source: Tasha's Cauldron of Everything p. 61*  

@@ -12,7 +12,7 @@ aliases: ["Hook Horror"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 189, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 189, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Hook Horror](2-Mechanics/CLI/bestiary/monstrosity/hook-horror.md)
 *Source: Monster Manual p. 189, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

@@ -13,7 +13,7 @@ aliases: ["Grick"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 173, Curse of Strahd, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 173, Curse of Strahd, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Grick](2-Mechanics/CLI/bestiary/monstrosity/grick.md)
 *Source: Monster Manual p. 173, Curse of Strahd, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

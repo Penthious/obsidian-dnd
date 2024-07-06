@@ -12,7 +12,7 @@ aliases: ["Grandlejaw"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 121
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 121"
 ---
 # [Grandlejaw](2-Mechanics/CLI/bestiary/npc/grandlejaw-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  

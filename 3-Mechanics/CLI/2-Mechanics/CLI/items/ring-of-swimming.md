@@ -9,7 +9,7 @@ tags:
 aliases: ["Ring of Swimming"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 193. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 193. Available in the SRD."
 ---
 # Ring of Swimming
 *Ring, minor, uncommon*  

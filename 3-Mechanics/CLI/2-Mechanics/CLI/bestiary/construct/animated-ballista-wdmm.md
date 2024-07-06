@@ -11,7 +11,7 @@ aliases: ["Animated Ballista"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 39
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 39"
 ---
 # [Animated Ballista](2-Mechanics/CLI/bestiary/construct/animated-ballista-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 39*  

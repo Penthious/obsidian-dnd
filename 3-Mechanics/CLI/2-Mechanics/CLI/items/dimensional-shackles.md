@@ -9,7 +9,7 @@ tags:
 aliases: ["Dimensional Shackles"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 165. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 165. Available in the SRD."
 ---
 # Dimensional Shackles
 *Wondrous Item, major, rare*  

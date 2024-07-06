@@ -15,7 +15,7 @@ classes:
 aliases: ["Mordenkainen's Magnificent Mansion"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 261. Available in the SRD (as 'Magnificent Mansion').
+BookSource: "Player's Handbook p. 261. Available in the SRD (as 'Magnificent Mansion')."
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

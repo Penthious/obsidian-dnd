@@ -12,7 +12,7 @@ aliases: ["Succubus"]
 NoteIcon: monster
 BestiaryType: fiend (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 285, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 285, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Succubus](2-Mechanics/CLI/bestiary/fiend/succubus.md)
 *Source: Monster Manual p. 285, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  

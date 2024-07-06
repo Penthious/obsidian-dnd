@@ -7,7 +7,7 @@ tags:
 aliases: ["Jade game board with solid gold playing pieces"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Jade game board with solid gold playing pieces
 *Art object*  

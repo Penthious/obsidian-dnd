@@ -12,7 +12,7 @@ aliases: ["Rumpadump"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 72
+BookSource: "Out of the Abyss p. 72"
 ---
 # [Rumpadump](2-Mechanics/CLI/bestiary/npc/rumpadump-oota.md)
 *Source: Out of the Abyss p. 72*  

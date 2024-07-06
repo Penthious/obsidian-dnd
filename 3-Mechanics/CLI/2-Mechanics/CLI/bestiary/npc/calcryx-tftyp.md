@@ -12,7 +12,7 @@ aliases: ["Calcryx"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 23
+BookSource: "Tales from the Yawning Portal p. 23"
 ---
 # [Calcryx](2-Mechanics/CLI/bestiary/npc/calcryx-tftyp.md)
 *Source: Tales from the Yawning Portal p. 23*  

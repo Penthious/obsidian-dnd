@@ -9,7 +9,7 @@ tags:
 aliases: ["Bag of Devouring"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 153. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 153. Available in the SRD."
 ---
 # Bag of Devouring
 *Wondrous Item, minor, very rare*  

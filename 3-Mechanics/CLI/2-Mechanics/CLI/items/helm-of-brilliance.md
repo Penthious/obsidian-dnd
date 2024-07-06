@@ -10,7 +10,7 @@ tags:
 aliases: ["Helm of Brilliance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 173. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 173. Available in the SRD."
 ---
 # Helm of Brilliance
 *Wondrous Item, major, very rare (requires attunement)*  

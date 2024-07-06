@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Longevity"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188
+BookSource: "Dungeon Master's Guide p. 188"
 ---
 # Potion of Longevity
 *Potion, minor, very rare*  

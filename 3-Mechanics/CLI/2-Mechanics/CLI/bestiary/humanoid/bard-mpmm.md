@@ -12,7 +12,7 @@ aliases: ["Bard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211"
 ---
 # [Bard](2-Mechanics/CLI/bestiary/humanoid/bard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*  

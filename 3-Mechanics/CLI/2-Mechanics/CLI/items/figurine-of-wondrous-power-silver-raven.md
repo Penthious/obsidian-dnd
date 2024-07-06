@@ -9,7 +9,7 @@ tags:
 aliases: ["Figurine of Wondrous Power, Silver Raven"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 170. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 170. Available in the SRD."
 ---
 # Figurine of Wondrous Power, Silver Raven
 *Wondrous Item, major, uncommon*  

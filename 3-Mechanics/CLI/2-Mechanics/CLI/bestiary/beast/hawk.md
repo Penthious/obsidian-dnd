@@ -11,7 +11,7 @@ aliases: ["Hawk"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 330, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 330, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Hawk](2-Mechanics/CLI/bestiary/beast/hawk.md)
 *Source: Monster Manual p. 330, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

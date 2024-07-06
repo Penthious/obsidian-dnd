@@ -12,7 +12,7 @@ aliases: ["Young Green Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 94, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 94, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Young Green Dragon](2-Mechanics/CLI/bestiary/dragon/young-green-dragon.md)
 *Source: Monster Manual p. 94, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

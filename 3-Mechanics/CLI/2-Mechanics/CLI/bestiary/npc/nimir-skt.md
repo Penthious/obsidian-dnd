@@ -12,7 +12,7 @@ aliases: ["Nimir"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 256
+BookSource: "Storm King's Thunder p. 256"
 ---
 # [Nimir](2-Mechanics/CLI/bestiary/npc/nimir-skt.md)
 *Source: Storm King's Thunder p. 256*  

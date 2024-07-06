@@ -9,7 +9,7 @@ tags:
 aliases: ["Sphere of Annihilation"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 201. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 201. Available in the SRD."
 ---
 # Sphere of Annihilation
 *Wondrous Item, major, legendary*  

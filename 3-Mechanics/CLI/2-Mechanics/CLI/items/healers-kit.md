@@ -7,7 +7,7 @@ tags:
 aliases: ["Healer's Kit"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 151. Available in the SRD and the Basic Rules."
 ---
 # Healer's Kit
 *Adventuring Gear*  

@@ -17,7 +17,7 @@ classes:
 aliases: ["Forcecage"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 243. Available in the SRD.
+BookSource: "Player's Handbook p. 243. Available in the SRD."
 ---
 # Forcecage
 *7th-level, Evocation*  

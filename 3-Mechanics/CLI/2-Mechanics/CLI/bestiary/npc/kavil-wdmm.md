@@ -12,7 +12,7 @@ aliases: ["Kavil"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 205
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 205"
 ---
 # [Kavil](2-Mechanics/CLI/bestiary/npc/kavil-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 205*  

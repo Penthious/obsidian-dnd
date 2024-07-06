@@ -12,7 +12,7 @@ aliases: ["Krull"]
 NoteIcon: npc
 BestiaryType: humanoid (tortle)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 110
+BookSource: "Baldur's Gate: Descent Into Avernus p. 110"
 ---
 # [Krull](2-Mechanics/CLI/bestiary/npc/krull-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 110*  

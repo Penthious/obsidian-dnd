@@ -14,7 +14,7 @@ aliases: ["Bodak"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127"
 ---
 # [Bodak](2-Mechanics/CLI/bestiary/undead/bodak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  

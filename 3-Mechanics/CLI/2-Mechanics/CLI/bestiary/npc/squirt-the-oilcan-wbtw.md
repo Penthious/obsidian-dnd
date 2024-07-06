@@ -12,7 +12,7 @@ aliases: ["Squirt the Oilcan"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 110
+BookSource: "The Wild Beyond the Witchlight p. 110"
 ---
 # [Squirt the Oilcan](2-Mechanics/CLI/bestiary/npc/squirt-the-oilcan-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 110*  

@@ -12,7 +12,7 @@ aliases: ["Vaasha"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 256
+BookSource: "Storm King's Thunder p. 256"
 ---
 # [Vaasha](2-Mechanics/CLI/bestiary/npc/vaasha-skt.md)
 *Source: Storm King's Thunder p. 256*  

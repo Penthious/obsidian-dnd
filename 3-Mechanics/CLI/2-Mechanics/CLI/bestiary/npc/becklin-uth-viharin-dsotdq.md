@@ -12,7 +12,7 @@ aliases: ["Becklin Uth Viharin"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 55
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 55"
 ---
 # [Becklin Uth Viharin](2-Mechanics/CLI/bestiary/npc/becklin-uth-viharin-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 55*  

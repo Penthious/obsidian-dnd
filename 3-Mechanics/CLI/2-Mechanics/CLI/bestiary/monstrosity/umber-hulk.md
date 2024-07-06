@@ -12,7 +12,7 @@ aliases: ["Umber Hulk"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 292, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 292, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Umber Hulk](2-Mechanics/CLI/bestiary/monstrosity/umber-hulk.md)
 *Source: Monster Manual p. 292, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk*  

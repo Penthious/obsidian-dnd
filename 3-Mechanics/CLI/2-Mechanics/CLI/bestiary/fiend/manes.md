@@ -11,7 +11,7 @@ aliases: ["Manes"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 60, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight
+BookSource: "Monster Manual p. 60, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight"
 ---
 # [Manes](2-Mechanics/CLI/bestiary/fiend/manes.md)
 *Source: Monster Manual p. 60, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight*  

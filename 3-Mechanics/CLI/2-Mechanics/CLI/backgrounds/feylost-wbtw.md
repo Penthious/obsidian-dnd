@@ -7,7 +7,7 @@ tags:
 aliases: ["Feylost"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: The Wild Beyond the Witchlight p. 9
+BookSource: "The Wild Beyond the Witchlight p. 9"
 ---
 # Feylost
 *Source: The Wild Beyond the Witchlight p. 9*  

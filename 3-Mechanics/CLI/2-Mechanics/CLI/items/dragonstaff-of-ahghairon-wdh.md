@@ -10,7 +10,7 @@ tags:
 aliases: ["Dragonstaff of Ahghairon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 191
+BookSource: "Waterdeep: Dragon Heist p. 191"
 ---
 # Dragonstaff of Ahghairon
 *Staff, legendary (requires attunement)*  

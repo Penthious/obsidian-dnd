@@ -12,7 +12,7 @@ aliases: ["Narth Tezrin"]
 NoteIcon: npc
 BestiaryType: humanoid (Tethyrian human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 254
+BookSource: "Storm King's Thunder p. 254"
 ---
 # [Narth Tezrin](2-Mechanics/CLI/bestiary/npc/narth-tezrin-skt.md)
 *Source: Storm King's Thunder p. 254*  

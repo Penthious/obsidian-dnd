@@ -8,7 +8,7 @@ tags:
 aliases: ["Spiked Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Sword Coast Adventurer's Guide p. 121
+BookSource: "Sword Coast Adventurer's Guide p. 121"
 ---
 # Spiked Armor
 *Medium Armor, unknown*  

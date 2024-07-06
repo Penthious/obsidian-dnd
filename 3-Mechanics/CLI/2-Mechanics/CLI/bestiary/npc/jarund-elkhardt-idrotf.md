@@ -12,7 +12,7 @@ aliases: ["Jarund Elkhardt"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 305
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 305"
 ---
 # [Jarund Elkhardt](2-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 305*  

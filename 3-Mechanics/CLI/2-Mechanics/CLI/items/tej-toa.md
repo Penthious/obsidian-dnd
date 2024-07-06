@@ -7,7 +7,7 @@ tags:
 aliases: ["Tej"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 32
+BookSource: "Tomb of Annihilation p. 32"
 ---
 # Tej
 *Food and Drink*  

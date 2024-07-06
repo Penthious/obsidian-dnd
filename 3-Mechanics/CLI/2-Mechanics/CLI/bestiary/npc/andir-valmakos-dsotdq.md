@@ -12,7 +12,7 @@ aliases: ["Andir Valmakos"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 210
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 210"
 ---
 # [Andir Valmakos](2-Mechanics/CLI/bestiary/npc/andir-valmakos-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 210*  

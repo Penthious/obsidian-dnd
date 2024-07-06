@@ -12,7 +12,7 @@ aliases: ["Grutha"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 170
+BookSource: "Tales from the Yawning Portal p. 170"
 ---
 # [Grutha](2-Mechanics/CLI/bestiary/npc/grutha-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  

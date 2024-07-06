@@ -12,7 +12,7 @@ aliases: ["Melissara Shadowdusk"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 281
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 281"
 ---
 # [Melissara Shadowdusk](2-Mechanics/CLI/bestiary/npc/melissara-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 281*  

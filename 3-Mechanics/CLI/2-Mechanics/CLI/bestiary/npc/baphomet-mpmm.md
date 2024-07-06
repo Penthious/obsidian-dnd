@@ -12,7 +12,7 @@ aliases: ["Baphomet"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143"
 ---
 # [Baphomet](2-Mechanics/CLI/bestiary/npc/baphomet-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143*  

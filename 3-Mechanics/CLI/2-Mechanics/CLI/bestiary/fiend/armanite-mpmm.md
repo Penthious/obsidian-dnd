@@ -12,7 +12,7 @@ aliases: ["Armanite"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131"
 ---
 # [Armanite](2-Mechanics/CLI/bestiary/fiend/armanite-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  

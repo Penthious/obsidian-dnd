@@ -12,7 +12,7 @@ aliases: ["Tanazir Quandrix"]
 NoteIcon: npc
 BestiaryType: dragon (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 218
+BookSource: "Strixhaven: A Curriculum of Chaos p. 218"
 ---
 # [Tanazir Quandrix](2-Mechanics/CLI/bestiary/npc/tanazir-quandrix-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 218*  

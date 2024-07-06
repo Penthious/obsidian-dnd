@@ -7,7 +7,7 @@ tags:
 aliases: ["Feywild Trinket"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 7
+BookSource: "The Wild Beyond the Witchlight p. 7"
 ---
 # Feywild Trinket
 *Adventuring Gear*  

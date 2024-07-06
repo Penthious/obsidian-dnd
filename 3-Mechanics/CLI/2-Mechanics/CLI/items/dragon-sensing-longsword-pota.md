@@ -10,7 +10,7 @@ tags:
 aliases: ["Dragon Sensing Longsword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 90
+BookSource: "Princes of the Apocalypse p. 90"
 ---
 # Dragon Sensing Longsword
 *Melee Weapon, unknown (magic)*  

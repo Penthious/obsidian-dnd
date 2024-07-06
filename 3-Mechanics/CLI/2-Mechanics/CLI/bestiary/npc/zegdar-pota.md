@@ -12,7 +12,7 @@ aliases: ["Zegdar"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 120
+BookSource: "Princes of the Apocalypse p. 120"
 ---
 # [Zegdar](2-Mechanics/CLI/bestiary/npc/zegdar-pota.md)
 *Source: Princes of the Apocalypse p. 120*  

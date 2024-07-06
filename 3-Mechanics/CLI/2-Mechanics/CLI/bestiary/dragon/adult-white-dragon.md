@@ -12,7 +12,7 @@ aliases: ["Adult White Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 101, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.
+BookSource: "Monster Manual p. 101, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Adult White Dragon](2-Mechanics/CLI/bestiary/dragon/adult-white-dragon.md)
 *Source: Monster Manual p. 101, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  

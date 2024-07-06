@@ -12,7 +12,7 @@ aliases: ["Nurvureem, The Dark Lady"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 180
+BookSource: "Princes of the Apocalypse p. 180"
 ---
 # [Nurvureem, The Dark Lady](2-Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md)
 *Source: Princes of the Apocalypse p. 180*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Tangler Grenade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 244
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 244"
 ---
 # Tangler Grenade
 *Other*  

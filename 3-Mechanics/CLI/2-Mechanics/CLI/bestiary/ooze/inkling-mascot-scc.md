@@ -11,7 +11,7 @@ aliases: ["Inkling Mascot"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 195
+BookSource: "Strixhaven: A Curriculum of Chaos p. 195"
 ---
 # [Inkling Mascot](2-Mechanics/CLI/bestiary/ooze/inkling-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 195*  

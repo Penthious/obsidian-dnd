@@ -11,7 +11,7 @@ aliases: ["Nightmare"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Monster Manual p. 235, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Curse of Strahd. Available in the SRD.
+BookSource: "Monster Manual p. 235, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Curse of Strahd. Available in the SRD."
 ---
 # [Nightmare](2-Mechanics/CLI/bestiary/fiend/nightmare.md)
 *Source: Monster Manual p. 235, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Curse of Strahd. Available in the SRD.*  

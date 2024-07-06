@@ -12,7 +12,7 @@ aliases: ["Captain Othelstan"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 89
+BookSource: "Hoard of the Dragon Queen p. 89"
 ---
 # [Captain Othelstan](2-Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 89*  

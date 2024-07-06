@@ -9,7 +9,7 @@ tags:
 aliases: ["Opal of the Ild Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 235
+BookSource: "Storm King's Thunder p. 235"
 ---
 # Opal of the Ild Rune
 *Wondrous Item, rare (requires attunement)*  

@@ -12,7 +12,7 @@ aliases: ["The Weevil"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 114
+BookSource: "Storm King's Thunder p. 114"
 ---
 # [The Weevil](2-Mechanics/CLI/bestiary/npc/the-weevil-skt.md)
 *Source: Storm King's Thunder p. 114*  

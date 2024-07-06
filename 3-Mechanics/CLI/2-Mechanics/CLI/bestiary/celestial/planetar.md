@@ -11,7 +11,7 @@ aliases: ["Planetar"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Monster Manual p. 17, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 17, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Planetar](2-Mechanics/CLI/bestiary/celestial/planetar.md)
 *Source: Monster Manual p. 17, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel. Available in the SRD.*  

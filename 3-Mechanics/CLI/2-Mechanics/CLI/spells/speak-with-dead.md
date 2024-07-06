@@ -25,7 +25,7 @@ classes:
 aliases: ["Speak with Dead"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 277. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 277. Available in the SRD and the Basic Rules."
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

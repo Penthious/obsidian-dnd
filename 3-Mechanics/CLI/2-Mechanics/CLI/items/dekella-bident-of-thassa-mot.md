@@ -12,7 +12,7 @@ tags:
 aliases: ["Dekella, Bident of Thassa"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 199
+BookSource: "Mythic Odysseys of Theros p. 199"
 ---
 # Dekella, Bident of Thassa
 *Melee Weapon, artifact (requires attunement)*  

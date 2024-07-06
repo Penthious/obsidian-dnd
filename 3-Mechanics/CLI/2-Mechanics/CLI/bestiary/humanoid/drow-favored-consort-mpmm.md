@@ -13,7 +13,7 @@ aliases: ["Drow Favored Consort"]
 NoteIcon: monster
 BestiaryType: humanoid (elf, wizard)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183"
 ---
 # [Drow Favored Consort](2-Mechanics/CLI/bestiary/humanoid/drow-favored-consort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*  

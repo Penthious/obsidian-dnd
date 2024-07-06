@@ -15,7 +15,7 @@ classes:
 aliases: ["Call Lightning"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 220. Available in the SRD.
+BookSource: "Player's Handbook p. 220. Available in the SRD."
 ---
 # Call Lightning
 *3rd-level, Conjuration*  

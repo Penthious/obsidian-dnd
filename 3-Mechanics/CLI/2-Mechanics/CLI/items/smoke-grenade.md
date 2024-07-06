@@ -7,7 +7,7 @@ tags:
 aliases: ["Smoke Grenade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Smoke Grenade
 *Explosive*  

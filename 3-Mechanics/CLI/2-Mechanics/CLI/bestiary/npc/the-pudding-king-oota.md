@@ -13,7 +13,7 @@ aliases: ["The Pudding King"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome, shapechanger)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 233
+BookSource: "Out of the Abyss p. 233"
 ---
 # [The Pudding King](2-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)
 *Source: Out of the Abyss p. 233*  

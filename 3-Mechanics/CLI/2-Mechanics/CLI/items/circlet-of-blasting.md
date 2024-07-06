@@ -9,7 +9,7 @@ tags:
 aliases: ["Circlet of Blasting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 158. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 158. Available in the SRD."
 ---
 # Circlet of Blasting
 *Wondrous Item, major, uncommon*  

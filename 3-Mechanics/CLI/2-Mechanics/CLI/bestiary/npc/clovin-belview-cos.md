@@ -12,7 +12,7 @@ aliases: ["Clovin Belview"]
 NoteIcon: npc
 BestiaryType: humanoid (mongrelfolk)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 147
+BookSource: "Curse of Strahd p. 147"
 ---
 # [Clovin Belview](2-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md)
 *Source: Curse of Strahd p. 147*  

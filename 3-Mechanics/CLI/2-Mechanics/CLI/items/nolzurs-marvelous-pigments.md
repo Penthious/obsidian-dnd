@@ -9,7 +9,7 @@ tags:
 aliases: ["Nolzur's Marvelous Pigments"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 183. Available in the SRD (as 'Marvelous Pigments').
+BookSource: "Dungeon Master's Guide p. 183. Available in the SRD (as 'Marvelous Pigments')."
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous Item, minor, very rare*  

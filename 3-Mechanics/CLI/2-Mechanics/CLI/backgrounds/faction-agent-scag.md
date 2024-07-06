@@ -7,7 +7,7 @@ tags:
 aliases: ["Faction Agent"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 147
+BookSource: "Sword Coast Adventurer's Guide p. 147"
 ---
 # Faction Agent
 *Source: Sword Coast Adventurer's Guide p. 147*  

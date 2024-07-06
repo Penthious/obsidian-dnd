@@ -33,7 +33,7 @@ classes:
 aliases: ["Blight"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 219. Available in the SRD.
+BookSource: "Player's Handbook p. 219. Available in the SRD."
 ---
 # Blight
 *4th-level, Necromancy*  

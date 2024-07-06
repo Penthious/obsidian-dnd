@@ -12,7 +12,7 @@ aliases: ["Zress Orlezziir"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 136
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 136"
 ---
 # [Zress Orlezziir](2-Mechanics/CLI/bestiary/npc/zress-orlezziir-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 136*  

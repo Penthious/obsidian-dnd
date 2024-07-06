@@ -7,7 +7,7 @@ tags:
 aliases: ["Baldur's Gate Urchin"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Baldur's Gate: Descent Into Avernus p. 204
+BookSource: "Baldur's Gate: Descent Into Avernus p. 204"
 ---
 # Baldur's Gate Urchin
 *Source: Baldur's Gate: Descent Into Avernus p. 204*  

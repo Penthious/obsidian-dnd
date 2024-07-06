@@ -12,7 +12,7 @@ aliases: ["Sylvira Savikas"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 46
+BookSource: "Baldur's Gate: Descent Into Avernus p. 46"
 ---
 # [Sylvira Savikas](2-Mechanics/CLI/bestiary/npc/sylvira-savikas-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 46*  

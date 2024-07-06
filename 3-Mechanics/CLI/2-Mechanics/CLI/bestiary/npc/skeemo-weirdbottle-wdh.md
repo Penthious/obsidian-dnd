@@ -12,7 +12,7 @@ aliases: ["Skeemo Weirdbottle"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 200
+BookSource: "Waterdeep: Dragon Heist p. 200"
 ---
 # [Skeemo Weirdbottle](2-Mechanics/CLI/bestiary/npc/skeemo-weirdbottle-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 200*  

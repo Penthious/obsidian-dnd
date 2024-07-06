@@ -11,7 +11,7 @@ aliases: ["Fire Giant Royal Headsman"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 201
+BookSource: "Tales from the Yawning Portal p. 201"
 ---
 # [Fire Giant Royal Headsman](2-Mechanics/CLI/bestiary/giant/fire-giant-royal-headsman-tftyp.md)
 *Source: Tales from the Yawning Portal p. 201*  

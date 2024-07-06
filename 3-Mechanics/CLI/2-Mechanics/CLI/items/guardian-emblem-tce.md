@@ -9,7 +9,7 @@ tags:
 aliases: ["Guardian Emblem"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 128
+BookSource: "Tasha's Cauldron of Everything p. 128"
 ---
 # Guardian Emblem
 *Wondrous Item, uncommon (requires attunement by a cleric or paladin)*  

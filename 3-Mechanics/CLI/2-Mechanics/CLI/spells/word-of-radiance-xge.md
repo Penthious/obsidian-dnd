@@ -13,7 +13,7 @@ classes:
 aliases: ["Word of Radiance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 171
+BookSource: "Xanathar's Guide to Everything p. 171"
 ---
 # Word of Radiance
 *cantrip, Evocation*  

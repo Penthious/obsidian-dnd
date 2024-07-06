@@ -9,7 +9,7 @@ tags:
 aliases: ["Manual of Bodily Health"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 180. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 180. Available in the SRD."
 ---
 # Manual of Bodily Health
 *Wondrous Item, major, very rare*  

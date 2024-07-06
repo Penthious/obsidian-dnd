@@ -16,7 +16,7 @@ aliases: ["Barghest"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123"
 ---
 # [Barghest](2-Mechanics/CLI/bestiary/fiend/barghest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*  

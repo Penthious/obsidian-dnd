@@ -9,7 +9,7 @@ tags:
 aliases: ["Alchemy Jug"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 150
+BookSource: "Dungeon Master's Guide p. 150"
 ---
 # Alchemy Jug
 *Wondrous Item, minor, uncommon*  

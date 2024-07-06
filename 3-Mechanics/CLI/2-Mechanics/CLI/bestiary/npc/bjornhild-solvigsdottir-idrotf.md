@@ -12,7 +12,7 @@ aliases: ["Bjornhild Solvigsdottir"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 306
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 306"
 ---
 # [Bjornhild Solvigsdottir](2-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 306*  

@@ -12,7 +12,7 @@ aliases: ["Narbeck Horn"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 114
+BookSource: "Storm King's Thunder p. 114"
 ---
 # [Narbeck Horn](2-Mechanics/CLI/bestiary/npc/narbeck-horn-skt.md)
 *Source: Storm King's Thunder p. 114*  

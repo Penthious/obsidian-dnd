@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Frost"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 202. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 202. Available in the SRD."
 ---
 # Staff of Frost
 *Staff, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

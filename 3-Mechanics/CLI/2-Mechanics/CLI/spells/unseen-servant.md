@@ -20,7 +20,7 @@ classes:
 aliases: ["Unseen Servant"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 284. Available in the SRD.
+BookSource: "Player's Handbook p. 284. Available in the SRD."
 ---
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  

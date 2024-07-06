@@ -9,7 +9,7 @@ tags:
 aliases: ["Bell Branch"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 122
+BookSource: "Tasha's Cauldron of Everything p. 122"
 ---
 # Bell Branch
 *Wondrous Item, rare (requires attunement by a druid or warlock)*  

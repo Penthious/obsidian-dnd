@@ -14,7 +14,7 @@ aliases: ["Elk"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 322, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 322, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Elk](2-Mechanics/CLI/bestiary/beast/elk.md)
 *Source: Monster Manual p. 322, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

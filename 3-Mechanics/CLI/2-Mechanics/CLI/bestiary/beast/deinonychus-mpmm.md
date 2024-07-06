@@ -14,7 +14,7 @@ aliases: ["Deinonychus"]
 NoteIcon: monster
 BestiaryType: beast (dinosaur)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139"
 ---
 # [Deinonychus](2-Mechanics/CLI/bestiary/beast/deinonychus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  

@@ -12,7 +12,7 @@ aliases: ["Willifort Crowelle"]
 NoteIcon: npc
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 62
+BookSource: "Waterdeep: Dragon Heist p. 62"
 ---
 # [Willifort Crowelle](2-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 62*  

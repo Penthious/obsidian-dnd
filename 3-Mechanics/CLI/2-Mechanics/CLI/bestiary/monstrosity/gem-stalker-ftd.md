@@ -11,7 +11,7 @@ aliases: ["Gem Stalker"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 202
+BookSource: "Fizban's Treasury of Dragons p. 202"
 ---
 # [Gem Stalker](2-Mechanics/CLI/bestiary/monstrosity/gem-stalker-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 202*  

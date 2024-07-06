@@ -12,7 +12,7 @@ aliases: ["Isendraug"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 164
+BookSource: "Storm King's Thunder p. 164"
 ---
 # [Isendraug](2-Mechanics/CLI/bestiary/npc/isendraug-skt.md)
 *Source: Storm King's Thunder p. 164*  

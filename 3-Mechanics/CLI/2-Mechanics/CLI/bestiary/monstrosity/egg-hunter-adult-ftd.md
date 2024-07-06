@@ -11,7 +11,7 @@ aliases: ["Egg Hunter Adult"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 193
+BookSource: "Fizban's Treasury of Dragons p. 193"
 ---
 # [Egg Hunter Adult](2-Mechanics/CLI/bestiary/monstrosity/egg-hunter-adult-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 193*  

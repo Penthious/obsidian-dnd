@@ -11,7 +11,7 @@ aliases: ["Black Gauntlet of Bane"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 235
+BookSource: "Baldur's Gate: Descent Into Avernus p. 235"
 ---
 # [Black Gauntlet of Bane](2-Mechanics/CLI/bestiary/humanoid/black-gauntlet-of-bane-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 235*  

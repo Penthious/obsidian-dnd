@@ -17,7 +17,7 @@ aliases: ["Zaratan"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201"
 ---
 # [Zaratan](2-Mechanics/CLI/bestiary/elemental/zaratan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201*  

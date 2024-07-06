@@ -12,7 +12,7 @@ aliases: ["Geryon"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 136, Mordenkainen's Tome of Foes p. 173
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 136, Mordenkainen's Tome of Foes p. 173"
 ---
 # [Geryon](2-Mechanics/CLI/bestiary/npc/geryon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136, Mordenkainen's Tome of Foes p. 173*  

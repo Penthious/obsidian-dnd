@@ -12,7 +12,7 @@ aliases: ["Quenthel Baenre"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 204
+BookSource: "Out of the Abyss p. 204"
 ---
 # [Quenthel Baenre](2-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md)
 *Source: Out of the Abyss p. 204*  

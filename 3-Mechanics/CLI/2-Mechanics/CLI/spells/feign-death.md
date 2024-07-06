@@ -26,7 +26,7 @@ classes:
 aliases: ["Feign Death"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 240
+BookSource: "Player's Handbook p. 240"
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  

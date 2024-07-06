@@ -12,7 +12,7 @@ aliases: ["Yuan-ti Priest"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 118
+BookSource: "Tomb of Annihilation p. 118"
 ---
 # [Yuan-ti Priest](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-priest-toa.md)
 *Source: Tomb of Annihilation p. 118*  

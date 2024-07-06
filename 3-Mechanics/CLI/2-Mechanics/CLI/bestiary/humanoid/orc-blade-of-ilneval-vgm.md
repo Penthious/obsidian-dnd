@@ -16,7 +16,7 @@ aliases: ["Orc Blade of Ilneval"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 183
+BookSource: "Volo's Guide to Monsters p. 183"
 ---
 # [Orc Blade of Ilneval](2-Mechanics/CLI/bestiary/humanoid/orc-blade-of-ilneval-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  

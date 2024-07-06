@@ -11,7 +11,7 @@ aliases: ["Gallows Speaker"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 234
+BookSource: "Van Richten's Guide to Ravenloft p. 234"
 ---
 # [Gallows Speaker](2-Mechanics/CLI/bestiary/undead/gallows-speaker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 234*  

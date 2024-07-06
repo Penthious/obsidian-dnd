@@ -21,7 +21,7 @@ classes:
 aliases: ["Shocking Grasp"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 275. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 275. Available in the SRD and the Basic Rules."
 ---
 # Shocking Grasp
 *cantrip, Evocation*  

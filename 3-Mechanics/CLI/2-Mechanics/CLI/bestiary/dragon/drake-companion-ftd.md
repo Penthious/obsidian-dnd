@@ -11,7 +11,7 @@ aliases: ["Drake Companion"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 15
+BookSource: "Fizban's Treasury of Dragons p. 15"
 ---
 # [Drake Companion](2-Mechanics/CLI/bestiary/dragon/drake-companion-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 15*  

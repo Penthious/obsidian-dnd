@@ -19,7 +19,7 @@ classes:
 aliases: ["Mind Spike"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 162
+BookSource: "Xanathar's Guide to Everything p. 162"
 ---
 # Mind Spike
 *2nd-level, Divination*  

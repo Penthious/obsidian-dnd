@@ -12,7 +12,7 @@ aliases: ["Mwaxanaré"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 228
+BookSource: "Tomb of Annihilation p. 228"
 ---
 # [Mwaxanaré](2-Mechanics/CLI/bestiary/npc/mwaxanare-toa.md)
 *Source: Tomb of Annihilation p. 228*  

@@ -13,7 +13,7 @@ aliases: ["Ancient Blue Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 90, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 90, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Ancient Blue Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)
 *Source: Monster Manual p. 90, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD.*  

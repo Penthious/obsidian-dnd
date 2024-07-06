@@ -27,7 +27,7 @@ classes:
 aliases: ["Magic Circle"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 256. Available in the SRD.
+BookSource: "Player's Handbook p. 256. Available in the SRD."
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

@@ -15,7 +15,7 @@ classes:
 aliases: ["Programmed Illusion"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 269. Available in the SRD.
+BookSource: "Player's Handbook p. 269. Available in the SRD."
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

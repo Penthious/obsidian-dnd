@@ -23,7 +23,7 @@ classes:
 aliases: ["Jump"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 254. Available in the SRD.
+BookSource: "Player's Handbook p. 254. Available in the SRD."
 ---
 # Jump
 *1st-level, Transmutation*  

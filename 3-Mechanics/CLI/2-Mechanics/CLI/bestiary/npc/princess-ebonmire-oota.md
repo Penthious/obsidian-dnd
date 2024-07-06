@@ -12,7 +12,7 @@ aliases: ["Princess Ebonmire"]
 NoteIcon: npc
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 111
+BookSource: "Out of the Abyss p. 111"
 ---
 # [Princess Ebonmire](2-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md)
 *Source: Out of the Abyss p. 111*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Ryath Root"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 205
+BookSource: "Tomb of Annihilation p. 205"
 ---
 # Ryath Root
 *Adventuring Gear, unknown*  

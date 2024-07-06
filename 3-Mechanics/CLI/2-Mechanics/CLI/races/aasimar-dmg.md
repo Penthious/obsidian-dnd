@@ -7,7 +7,7 @@ tags:
 aliases: ["Aasimar (DMG)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Dungeon Master's Guide p. 286
+BookSource: "Dungeon Master's Guide p. 286"
 ---
 # Aasimar (DMG)
 *Source: Dungeon Master's Guide p. 286*  

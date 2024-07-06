@@ -11,7 +11,7 @@ aliases: ["Fiendish Auger"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 206
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 206"
 ---
 # [Fiendish Auger](2-Mechanics/CLI/bestiary/construct/fiendish-auger-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  

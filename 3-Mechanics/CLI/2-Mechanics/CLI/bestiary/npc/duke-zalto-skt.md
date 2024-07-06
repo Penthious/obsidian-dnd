@@ -12,7 +12,7 @@ aliases: ["Duke Zalto"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 184
+BookSource: "Storm King's Thunder p. 184"
 ---
 # [Duke Zalto](2-Mechanics/CLI/bestiary/npc/duke-zalto-skt.md)
 *Source: Storm King's Thunder p. 184*  

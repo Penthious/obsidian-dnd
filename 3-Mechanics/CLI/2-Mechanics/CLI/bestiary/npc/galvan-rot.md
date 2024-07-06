@@ -12,7 +12,7 @@ aliases: ["Galvan"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 9
+BookSource: "The Rise of Tiamat p. 9"
 ---
 # [Galvan](2-Mechanics/CLI/bestiary/npc/galvan-rot.md)
 *Source: The Rise of Tiamat p. 9*  

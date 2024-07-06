@@ -11,7 +11,7 @@ aliases: ["Pentadrone"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 226, Tomb of Annihilation, Keys from the Golden Vault
+BookSource: "Monster Manual p. 226, Tomb of Annihilation, Keys from the Golden Vault"
 ---
 # [Pentadrone](2-Mechanics/CLI/bestiary/construct/pentadrone.md)
 *Source: Monster Manual p. 226, Tomb of Annihilation, Keys from the Golden Vault*  

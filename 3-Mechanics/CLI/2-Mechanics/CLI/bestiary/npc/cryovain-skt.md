@@ -12,7 +12,7 @@ aliases: ["Cryovain"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 165
+BookSource: "Storm King's Thunder p. 165"
 ---
 # [Cryovain](2-Mechanics/CLI/bestiary/npc/cryovain-skt.md)
 *Source: Storm King's Thunder p. 165*  

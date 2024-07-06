@@ -9,7 +9,7 @@ tags:
 aliases: ["Slumbering Dragon's Wrath Weapon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 25
+BookSource: "Fizban's Treasury of Dragons p. 25"
 ---
 # Slumbering Dragon's Wrath Weapon
 *Generic Variant, uncommon (requires attunement)*  

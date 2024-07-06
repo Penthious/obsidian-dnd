@@ -11,7 +11,7 @@ aliases: ["Bakunawa"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 147
+BookSource: "Journeys through the Radiant Citadel p. 147"
 ---
 # [Bakunawa](2-Mechanics/CLI/bestiary/dragon/bakunawa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 147*  

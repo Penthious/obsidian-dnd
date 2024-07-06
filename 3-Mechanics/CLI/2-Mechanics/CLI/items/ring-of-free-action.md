@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Free Action"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 191. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 191. Available in the SRD."
 ---
 # Ring of Free Action
 *Ring, major, rare (requires attunement)*  

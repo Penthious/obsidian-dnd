@@ -12,7 +12,7 @@ aliases: ["Nimira"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 54
+BookSource: "Tales from the Yawning Portal p. 54"
 ---
 # [Nimira](2-Mechanics/CLI/bestiary/npc/nimira-tftyp.md)
 *Source: Tales from the Yawning Portal p. 54*  

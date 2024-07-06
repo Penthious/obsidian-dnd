@@ -12,7 +12,7 @@ aliases: ["Adult Copper Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 112, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 112, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Adult Copper Dragon](2-Mechanics/CLI/bestiary/dragon/adult-copper-dragon.md)
 *Source: Monster Manual p. 112, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD.*  

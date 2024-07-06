@@ -13,7 +13,7 @@ aliases: ["Zuleika Toranescu"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 204
+BookSource: "Curse of Strahd p. 204"
 ---
 # [Zuleika Toranescu](2-Mechanics/CLI/bestiary/npc/zuleika-toranescu-cos.md)
 *Source: Curse of Strahd p. 204*  

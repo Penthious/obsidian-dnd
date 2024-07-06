@@ -9,7 +9,7 @@ tags:
 aliases: ["Horn of Silent Alarm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 137
+BookSource: "Xanathar's Guide to Everything p. 137"
 ---
 # Horn of Silent Alarm
 *Wondrous Item, minor, common*  

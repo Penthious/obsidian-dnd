@@ -9,7 +9,7 @@ tags:
 aliases: ["Kagonesti Forest Shroud"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 190
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 190"
 ---
 # Kagonesti Forest Shroud
 *Wondrous Item, rare (requires attunement)*  

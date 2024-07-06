@@ -17,7 +17,7 @@ classes:
 aliases: ["Summon Lesser Demons"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 167
+BookSource: "Xanathar's Guide to Everything p. 167"
 ---
 # Summon Lesser Demons
 *3rd-level, Conjuration*  

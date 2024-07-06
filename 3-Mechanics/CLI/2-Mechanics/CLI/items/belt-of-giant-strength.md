@@ -9,7 +9,7 @@ tags:
 aliases: ["Belt of Giant Strength"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 155
+BookSource: "Dungeon Master's Guide p. 155"
 ---
 # Belt of Giant Strength
 *Wondrous Item, varies (requires attunement)*  

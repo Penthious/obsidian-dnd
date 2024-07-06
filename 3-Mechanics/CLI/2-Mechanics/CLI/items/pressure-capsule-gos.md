@@ -8,7 +8,7 @@ tags:
 aliases: ["Pressure Capsule"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Ghosts of Saltmarsh p. 229
+BookSource: "Ghosts of Saltmarsh p. 229"
 ---
 # Pressure Capsule
 *Wondrous Item, common*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Eldritch Staff"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 209
+BookSource: "The Wild Beyond the Witchlight p. 209"
 ---
 # Eldritch Staff
 *Melee Weapon, very rare (requires attunement)*  

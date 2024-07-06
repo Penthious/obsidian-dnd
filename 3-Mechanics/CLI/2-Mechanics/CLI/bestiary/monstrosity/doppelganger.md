@@ -13,7 +13,7 @@ aliases: ["Doppelganger"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 82, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 82, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Doppelganger](2-Mechanics/CLI/bestiary/monstrosity/doppelganger.md)
 *Source: Monster Manual p. 82, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

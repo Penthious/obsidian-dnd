@@ -11,7 +11,7 @@ aliases: ["Spirit Statue Mascot"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 216
+BookSource: "Strixhaven: A Curriculum of Chaos p. 216"
 ---
 # [Spirit Statue Mascot](2-Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 216*  

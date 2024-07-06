@@ -12,7 +12,7 @@ aliases: ["Rabbithead"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 295
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 295"
 ---
 # [Rabbithead](2-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 295*  

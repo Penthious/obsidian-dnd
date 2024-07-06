@@ -12,7 +12,7 @@ aliases: ["Maegla Tarnlar"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 25
+BookSource: "Princes of the Apocalypse p. 25"
 ---
 # [Maegla Tarnlar](2-Mechanics/CLI/bestiary/npc/maegla-tarnlar-pota.md)
 *Source: Princes of the Apocalypse p. 25*  

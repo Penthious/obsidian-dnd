@@ -12,7 +12,7 @@ aliases: ["Nythalyn Henlifel"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 114
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 114"
 ---
 # [Nythalyn Henlifel](2-Mechanics/CLI/bestiary/npc/nythalyn-henlifel-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  

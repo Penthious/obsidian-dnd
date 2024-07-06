@@ -12,7 +12,7 @@ aliases: ["Zuggtmoy"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157"
 ---
 # [Zuggtmoy](2-Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157*  

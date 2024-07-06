@@ -11,7 +11,7 @@ aliases: ["Chasme"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 57, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault
+BookSource: "Monster Manual p. 57, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault"
 ---
 # [Chasme](2-Mechanics/CLI/bestiary/fiend/chasme.md)
 *Source: Monster Manual p. 57, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault*  

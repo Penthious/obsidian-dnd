@@ -11,7 +11,7 @@ aliases: ["Marut"]
 NoteIcon: monster
 BestiaryType: construct (inevitable)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213"
 ---
 # [Marut](2-Mechanics/CLI/bestiary/construct/marut-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*  

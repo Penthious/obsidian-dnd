@@ -7,7 +7,7 @@ tags:
 aliases: ["Halfling (Stout)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 28. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 28. Available in the Basic Rules."
 ---
 # Halfling (Stout)
 *Source: Player's Handbook p. 28. Available in the Basic Rules.*  

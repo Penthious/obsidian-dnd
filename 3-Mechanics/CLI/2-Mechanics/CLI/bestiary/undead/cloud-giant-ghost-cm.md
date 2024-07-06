@@ -11,7 +11,7 @@ aliases: ["Cloud Giant Ghost"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 146
+BookSource: "Candlekeep Mysteries p. 146"
 ---
 # [Cloud Giant Ghost](2-Mechanics/CLI/bestiary/undead/cloud-giant-ghost-cm.md)
 *Source: Candlekeep Mysteries p. 146*  

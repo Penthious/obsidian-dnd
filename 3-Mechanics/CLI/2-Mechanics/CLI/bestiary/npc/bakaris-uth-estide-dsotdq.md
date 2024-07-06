@@ -12,7 +12,7 @@ aliases: ["Bakaris Uth Estide"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 54
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 54"
 ---
 # [Bakaris Uth Estide](2-Mechanics/CLI/bestiary/npc/bakaris-uth-estide-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 54*  

@@ -23,7 +23,7 @@ classes:
 aliases: ["Web"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 287. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 287. Available in the SRD and the Basic Rules."
 ---
 # Web
 *2nd-level, Conjuration*  

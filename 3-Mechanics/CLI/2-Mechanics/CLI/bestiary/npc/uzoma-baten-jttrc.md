@@ -12,7 +12,7 @@ aliases: ["Uzoma Baten"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 94
+BookSource: "Journeys through the Radiant Citadel p. 94"
 ---
 # [Uzoma Baten](2-Mechanics/CLI/bestiary/npc/uzoma-baten-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 94*  

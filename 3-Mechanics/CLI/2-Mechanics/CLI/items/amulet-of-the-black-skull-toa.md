@@ -9,7 +9,7 @@ tags:
 aliases: ["Amulet of the Black Skull"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 206
+BookSource: "Tomb of Annihilation p. 206"
 ---
 # Amulet of the Black Skull
 *Wondrous Item, very rare (requires attunement)*  

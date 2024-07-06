@@ -7,7 +7,7 @@ tags:
 aliases: ["Genasi (Water)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 17
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 17"
 ---
 # Genasi (Water)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  

@@ -13,7 +13,7 @@ aliases: ["Sahuagin Priestess"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Monster Manual p. 264, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus
+BookSource: "Monster Manual p. 264, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus"
 ---
 # [Sahuagin Priestess](2-Mechanics/CLI/bestiary/humanoid/sahuagin-priestess.md)
 *Source: Monster Manual p. 264, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  

@@ -12,7 +12,7 @@ aliases: ["Adult Blue Dracolich"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 84, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 84, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Journeys through the Radiant Citadel"
 ---
 # [Adult Blue Dracolich](2-Mechanics/CLI/bestiary/undead/adult-blue-dracolich.md)
 *Source: Monster Manual p. 84, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Journeys through the Radiant Citadel*  

@@ -13,7 +13,7 @@ aliases: ["Oinoloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251"
 ---
 # [Oinoloth](2-Mechanics/CLI/bestiary/fiend/oinoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*  

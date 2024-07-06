@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Fire Breath"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 187
+BookSource: "Dungeon Master's Guide p. 187"
 ---
 # Potion of Fire Breath
 *Potion, minor, uncommon*  

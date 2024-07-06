@@ -11,7 +11,7 @@ aliases: ["Kamadan"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 225
+BookSource: "Tomb of Annihilation p. 225"
 ---
 # [Kamadan](2-Mechanics/CLI/bestiary/monstrosity/kamadan-toa.md)
 *Source: Tomb of Annihilation p. 225*  

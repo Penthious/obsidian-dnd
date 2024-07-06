@@ -11,7 +11,7 @@ aliases: ["Cogwork Archivist"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 188
+BookSource: "Strixhaven: A Curriculum of Chaos p. 188"
 ---
 # [Cogwork Archivist](2-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 188*  

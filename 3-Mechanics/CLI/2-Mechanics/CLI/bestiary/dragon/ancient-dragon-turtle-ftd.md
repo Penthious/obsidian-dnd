@@ -11,7 +11,7 @@ aliases: ["Ancient Dragon Turtle"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 191
+BookSource: "Fizban's Treasury of Dragons p. 191"
 ---
 # [Ancient Dragon Turtle](2-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 191*  

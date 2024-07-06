@@ -17,7 +17,7 @@ classes:
 aliases: ["Cause Fear"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 151
+BookSource: "Xanathar's Guide to Everything p. 151"
 ---
 # Cause Fear
 *1st-level, Necromancy*  

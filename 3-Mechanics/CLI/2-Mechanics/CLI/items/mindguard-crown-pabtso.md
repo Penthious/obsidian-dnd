@@ -9,7 +9,7 @@ tags:
 aliases: ["Mindguard Crown"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 218
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 218"
 ---
 # Mindguard Crown
 *Wondrous Item, very rare (requires attunement)*  

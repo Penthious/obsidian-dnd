@@ -12,7 +12,7 @@ aliases: ["Hellenhild"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 207
+BookSource: "Storm King's Thunder p. 207"
 ---
 # [Hellenhild](2-Mechanics/CLI/bestiary/npc/hellenhild-skt.md)
 *Source: Storm King's Thunder p. 207*  

@@ -12,7 +12,7 @@ aliases: ["Vellynne Harpell"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 273
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 273"
 ---
 # [Vellynne Harpell](2-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 273*  

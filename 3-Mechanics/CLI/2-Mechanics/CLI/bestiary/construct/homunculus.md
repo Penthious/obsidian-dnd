@@ -11,7 +11,7 @@ aliases: ["Homunculus"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 188, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 188, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Homunculus](2-Mechanics/CLI/bestiary/construct/homunculus.md)
 *Source: Monster Manual p. 188, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Candlekeep Mysteries, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

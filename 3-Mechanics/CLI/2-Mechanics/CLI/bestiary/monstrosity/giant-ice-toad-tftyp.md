@@ -11,7 +11,7 @@ aliases: ["Giant Ice Toad"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 235
+BookSource: "Tales from the Yawning Portal p. 235"
 ---
 # [Giant Ice Toad](2-Mechanics/CLI/bestiary/monstrosity/giant-ice-toad-tftyp.md)
 *Source: Tales from the Yawning Portal p. 235*  

@@ -12,7 +12,7 @@ aliases: ["Moloch"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 183, Mordenkainen's Tome of Foes p. 177
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 183, Mordenkainen's Tome of Foes p. 177"
 ---
 # [Moloch](2-Mechanics/CLI/bestiary/npc/moloch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183, Mordenkainen's Tome of Foes p. 177*  

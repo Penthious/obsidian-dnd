@@ -13,7 +13,7 @@ aliases: ["Sea Hag"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Monster Manual p. 179, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 179, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Sea Hag](2-Mechanics/CLI/bestiary/fey/sea-hag.md)
 *Source: Monster Manual p. 179, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel. Available in the SRD.*  

@@ -13,7 +13,7 @@ aliases: ["Hadrosaurus"]
 NoteIcon: monster
 BestiaryType: beast (dinosaur)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140"
 ---
 # [Hadrosaurus](2-Mechanics/CLI/bestiary/beast/hadrosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  

@@ -12,7 +12,7 @@ aliases: ["Tiamat"]
 NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus
+BookSource: "The Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus"
 ---
 # [Tiamat](2-Mechanics/CLI/bestiary/npc/tiamat-rot.md)
 *Source: The Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus*  

@@ -12,7 +12,7 @@ aliases: ["Amidor the Dandelion"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 135
+BookSource: "The Wild Beyond the Witchlight p. 135"
 ---
 # [Amidor the Dandelion](2-Mechanics/CLI/bestiary/npc/amidor-the-dandelion-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 135*  

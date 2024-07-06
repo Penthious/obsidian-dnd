@@ -12,7 +12,7 @@ aliases: ["Ireena Kolyana"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 44
+BookSource: "Curse of Strahd p. 44"
 ---
 # [Ireena Kolyana](2-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md)
 *Source: Curse of Strahd p. 44*  

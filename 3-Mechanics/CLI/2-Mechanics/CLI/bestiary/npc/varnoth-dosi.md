@@ -12,7 +12,7 @@ aliases: ["Varnoth"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 47
+BookSource: "Dragons of Stormwreck Isle p. 47"
 ---
 # [Varnoth](2-Mechanics/CLI/bestiary/npc/varnoth-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Armor of Gleaming"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Armor of Gleaming
 *Generic Variant, minor, common*  

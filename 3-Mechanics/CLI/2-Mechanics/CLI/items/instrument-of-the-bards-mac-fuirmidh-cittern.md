@@ -10,7 +10,7 @@ tags:
 aliases: ["Instrument of the Bards, Mac-Fuirmidh Cittern"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 176
+BookSource: "Dungeon Master's Guide p. 176"
 ---
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Instrument, major, uncommon (requires attunement by a bard)*  

@@ -14,7 +14,7 @@ aliases: ["Venom Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245"
 ---
 # [Venom Troll](2-Mechanics/CLI/bestiary/giant/venom-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245*  

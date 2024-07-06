@@ -11,7 +11,7 @@ aliases: ["Fey Spirit (9th-level Spell)"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 112
+BookSource: "Tasha's Cauldron of Everything p. 112"
 ---
 # [Fey Spirit (9th-level Spell)](2-Mechanics/CLI/bestiary/fey/fey-spirit-9th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 112*  

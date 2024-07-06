@@ -9,7 +9,7 @@ tags:
 aliases: ["Efreeti Bottle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 167. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 167. Available in the SRD."
 ---
 # Efreeti Bottle
 *Wondrous Item, major, very rare*  

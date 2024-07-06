@@ -11,7 +11,7 @@ aliases: ["Fractal Mascot"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 192
+BookSource: "Strixhaven: A Curriculum of Chaos p. 192"
 ---
 # [Fractal Mascot](2-Mechanics/CLI/bestiary/construct/fractal-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 192*  

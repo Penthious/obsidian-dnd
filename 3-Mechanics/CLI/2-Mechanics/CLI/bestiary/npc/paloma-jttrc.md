@@ -12,7 +12,7 @@ aliases: ["Paloma"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 52
+BookSource: "Journeys through the Radiant Citadel p. 52"
 ---
 # [Paloma](2-Mechanics/CLI/bestiary/npc/paloma-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 52*  

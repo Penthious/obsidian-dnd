@@ -15,7 +15,7 @@ classes:
 aliases: ["Holy Weapon"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 157
+BookSource: "Xanathar's Guide to Everything p. 157"
 ---
 # Holy Weapon
 *5th-level, Evocation*  

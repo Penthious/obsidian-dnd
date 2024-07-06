@@ -15,7 +15,7 @@ aliases: ["Wastrilith"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139"
 ---
 # [Wastrilith](2-Mechanics/CLI/bestiary/fiend/wastrilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139*  

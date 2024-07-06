@@ -12,7 +12,7 @@ aliases: ["Sildar Hallwinter"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 22
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 22"
 ---
 # [Sildar Hallwinter](2-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 22*  

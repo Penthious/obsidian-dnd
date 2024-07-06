@@ -9,7 +9,7 @@ tags:
 aliases: ["Pennant of the Vind Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 235
+BookSource: "Storm King's Thunder p. 235"
 ---
 # Pennant of the Vind Rune
 *Wondrous Item, very rare (requires attunement)*  

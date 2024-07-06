@@ -9,7 +9,7 @@ tags:
 aliases: ["Elemental Gem, Yellow Diamond"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 167. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 167. Available in the SRD."
 ---
 # Elemental Gem, Yellow Diamond
 *Wondrous Item, minor, uncommon*  

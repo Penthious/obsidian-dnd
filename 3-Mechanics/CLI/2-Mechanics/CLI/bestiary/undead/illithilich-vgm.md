@@ -12,7 +12,7 @@ aliases: ["Illithilich"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 172
+BookSource: "Volo's Guide to Monsters p. 172"
 ---
 # [Illithilich](2-Mechanics/CLI/bestiary/undead/illithilich-vgm.md)
 *Source: Volo's Guide to Monsters p. 172*  

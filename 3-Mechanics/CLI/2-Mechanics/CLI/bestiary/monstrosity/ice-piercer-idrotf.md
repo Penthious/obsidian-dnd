@@ -11,7 +11,7 @@ aliases: ["Ice Piercer"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 226
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 226"
 ---
 # [Ice Piercer](2-Mechanics/CLI/bestiary/monstrosity/ice-piercer-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 226*  

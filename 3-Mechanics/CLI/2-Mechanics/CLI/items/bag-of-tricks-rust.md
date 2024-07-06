@@ -9,7 +9,7 @@ tags:
 aliases: ["Bag of Tricks, Rust"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 154. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 154. Available in the SRD."
 ---
 # Bag of Tricks, Rust
 *Wondrous Item, major, uncommon*  

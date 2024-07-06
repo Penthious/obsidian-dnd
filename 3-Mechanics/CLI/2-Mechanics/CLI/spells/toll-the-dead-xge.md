@@ -25,7 +25,7 @@ classes:
 aliases: ["Toll the Dead"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 169
+BookSource: "Xanathar's Guide to Everything p. 169"
 ---
 # Toll the Dead
 *cantrip, Necromancy*  

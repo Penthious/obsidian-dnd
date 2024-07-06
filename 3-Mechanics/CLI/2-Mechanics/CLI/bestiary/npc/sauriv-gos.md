@@ -12,7 +12,7 @@ aliases: ["Sauriv"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 79
+BookSource: "Ghosts of Saltmarsh p. 79"
 ---
 # [Sauriv](2-Mechanics/CLI/bestiary/npc/sauriv-gos.md)
 *Source: Ghosts of Saltmarsh p. 79*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Hunger of Hadar"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 251
+BookSource: "Player's Handbook p. 251"
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Noble (Knight) (Variant)"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 136
+BookSource: "Player's Handbook p. 136"
 ---
 # Noble (Knight) (Variant)
 *Source: Player's Handbook p. 136*  

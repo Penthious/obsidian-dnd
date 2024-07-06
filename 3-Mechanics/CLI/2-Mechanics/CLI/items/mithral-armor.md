@@ -9,7 +9,7 @@ tags:
 aliases: ["Mithral Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 182. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 182. Available in the SRD."
 ---
 # Mithral Armor
 *Generic Variant, minor, uncommon*  

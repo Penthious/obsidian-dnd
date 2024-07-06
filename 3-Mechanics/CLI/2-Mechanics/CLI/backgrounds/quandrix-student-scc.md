@@ -7,7 +7,7 @@ tags:
 aliases: ["Quandrix Student"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Strixhaven: A Curriculum of Chaos p. 33
+BookSource: "Strixhaven: A Curriculum of Chaos p. 33"
 ---
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  

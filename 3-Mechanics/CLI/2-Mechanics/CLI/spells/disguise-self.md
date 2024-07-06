@@ -25,7 +25,7 @@ classes:
 aliases: ["Disguise Self"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 233. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 233. Available in the SRD and the Basic Rules."
 ---
 # Disguise Self
 *1st-level, Illusion*  

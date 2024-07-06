@@ -7,7 +7,7 @@ tags:
 aliases: ["Gold dragon comb set with red garnets as eyes"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Gold dragon comb set with red garnets as eyes
 *Art object*  

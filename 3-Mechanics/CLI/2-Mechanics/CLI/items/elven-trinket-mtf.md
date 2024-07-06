@@ -7,7 +7,7 @@ tags:
 aliases: ["Elven Trinket"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mordenkainen's Tome of Foes p. 64
+BookSource: "Mordenkainen's Tome of Foes p. 64"
 ---
 # Elven Trinket
 *Adventuring Gear*  

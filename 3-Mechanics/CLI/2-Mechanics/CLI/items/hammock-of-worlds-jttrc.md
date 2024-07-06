@@ -8,7 +8,7 @@ tags:
 aliases: ["Hammock of Worlds"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Journeys through the Radiant Citadel p. 214
+BookSource: "Journeys through the Radiant Citadel p. 214"
 ---
 # Hammock of Worlds
 *Wondrous Item, legendary*  

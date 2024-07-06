@@ -7,7 +7,7 @@ tags:
 aliases: ["Owlin"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Strixhaven: A Curriculum of Chaos p. 29
+BookSource: "Strixhaven: A Curriculum of Chaos p. 29"
 ---
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  

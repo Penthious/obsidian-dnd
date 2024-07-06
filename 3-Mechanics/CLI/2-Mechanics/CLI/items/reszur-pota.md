@@ -11,7 +11,7 @@ tags:
 aliases: ["Reszur"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 157
+BookSource: "Princes of the Apocalypse p. 157"
 ---
 # Reszur
 *Melee Weapon, uncommon*  

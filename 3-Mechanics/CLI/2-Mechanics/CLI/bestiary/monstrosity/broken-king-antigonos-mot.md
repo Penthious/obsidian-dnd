@@ -11,7 +11,7 @@ aliases: ["Broken King Antigonos"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 189
+BookSource: "Mythic Odysseys of Theros p. 189"
 ---
 # [Broken King Antigonos](2-Mechanics/CLI/bestiary/monstrosity/broken-king-antigonos-mot.md)
 *Source: Mythic Odysseys of Theros p. 189*  

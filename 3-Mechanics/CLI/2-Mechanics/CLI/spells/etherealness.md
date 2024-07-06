@@ -23,7 +23,7 @@ classes:
 aliases: ["Etherealness"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 238. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 238. Available in the SRD and the Basic Rules."
 ---
 # Etherealness
 *7th-level, Transmutation*  

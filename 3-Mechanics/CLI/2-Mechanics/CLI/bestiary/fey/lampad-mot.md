@@ -11,7 +11,7 @@ aliases: ["Lampad"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 235
+BookSource: "Mythic Odysseys of Theros p. 235"
 ---
 # [Lampad](2-Mechanics/CLI/bestiary/fey/lampad-mot.md)
 *Source: Mythic Odysseys of Theros p. 235*  

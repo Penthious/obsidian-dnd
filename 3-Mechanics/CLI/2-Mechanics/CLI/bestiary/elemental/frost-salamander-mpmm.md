@@ -12,7 +12,7 @@ aliases: ["Frost Salamander"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223"
 ---
 # [Frost Salamander](2-Mechanics/CLI/bestiary/elemental/frost-salamander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223*  

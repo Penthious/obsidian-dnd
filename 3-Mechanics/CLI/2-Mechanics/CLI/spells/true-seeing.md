@@ -23,7 +23,7 @@ classes:
 aliases: ["True Seeing"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 284. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 284. Available in the SRD and the Basic Rules."
 ---
 # True Seeing
 *6th-level, Divination*  

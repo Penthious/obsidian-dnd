@@ -14,7 +14,7 @@ aliases: ["Githzerai Enlightened"]
 NoteIcon: monster
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208"
 ---
 # [Githzerai Enlightened](2-Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*  

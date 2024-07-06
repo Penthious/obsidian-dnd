@@ -12,7 +12,7 @@ aliases: ["Glabbagool"]
 NoteIcon: npc
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 35
+BookSource: "Out of the Abyss p. 35"
 ---
 # [Glabbagool](2-Mechanics/CLI/bestiary/npc/glabbagool-oota.md)
 *Source: Out of the Abyss p. 35*  

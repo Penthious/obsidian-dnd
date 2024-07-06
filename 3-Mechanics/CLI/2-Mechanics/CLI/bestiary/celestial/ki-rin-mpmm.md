@@ -15,7 +15,7 @@ aliases: ["Ki-rin"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163"
 ---
 # [Ki-rin](2-Mechanics/CLI/bestiary/celestial/ki-rin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  

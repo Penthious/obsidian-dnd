@@ -17,7 +17,7 @@ classes:
 aliases: ["Summon Greater Demon"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 166
+BookSource: "Xanathar's Guide to Everything p. 166"
 ---
 # Summon Greater Demon
 *4th-level, Conjuration*  

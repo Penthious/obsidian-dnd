@@ -17,7 +17,7 @@ classes:
 aliases: ["Finger of Death"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 241. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 241. Available in the SRD and the Basic Rules."
 ---
 # Finger of Death
 *7th-level, Necromancy*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Instrument of the Bards, Cli Lyre"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 176
+BookSource: "Dungeon Master's Guide p. 176"
 ---
 # Instrument of the Bards, Cli Lyre
 *Instrument, major, rare (requires attunement by a bard)*  

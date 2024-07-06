@@ -9,7 +9,7 @@ tags:
 aliases: ["Manual of Golems"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 180
+BookSource: "Dungeon Master's Guide p. 180"
 ---
 # Manual of Golems
 *Wondrous Item, major, very rare*  

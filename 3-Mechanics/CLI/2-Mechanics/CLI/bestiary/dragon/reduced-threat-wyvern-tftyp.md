@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Wyvern"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Wyvern](2-Mechanics/CLI/bestiary/dragon/reduced-threat-wyvern-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

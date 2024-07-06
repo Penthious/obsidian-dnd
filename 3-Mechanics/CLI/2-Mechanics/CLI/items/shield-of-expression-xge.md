@@ -9,7 +9,7 @@ tags:
 aliases: ["Shield of Expression"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 139
+BookSource: "Xanathar's Guide to Everything p. 139"
 ---
 # Shield of Expression
 *Shield, minor, common*  

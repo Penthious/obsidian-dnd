@@ -19,7 +19,7 @@ classes:
 aliases: ["Watery Sphere"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 170
+BookSource: "Xanathar's Guide to Everything p. 170"
 ---
 # Watery Sphere
 *4th-level, Conjuration*  

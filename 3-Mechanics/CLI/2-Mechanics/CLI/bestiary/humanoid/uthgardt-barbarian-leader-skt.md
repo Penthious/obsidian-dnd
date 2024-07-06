@@ -11,7 +11,7 @@ aliases: ["Uthgardt Barbarian Leader"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 86
+BookSource: "Storm King's Thunder p. 86"
 ---
 # [Uthgardt Barbarian Leader](2-Mechanics/CLI/bestiary/humanoid/uthgardt-barbarian-leader-skt.md)
 *Source: Storm King's Thunder p. 86*  

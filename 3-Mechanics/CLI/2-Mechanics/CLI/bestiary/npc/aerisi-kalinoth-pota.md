@@ -12,7 +12,7 @@ aliases: ["Aerisi Kalinoth"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 192
+BookSource: "Princes of the Apocalypse p. 192"
 ---
 # [Aerisi Kalinoth](2-Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota.md)
 *Source: Princes of the Apocalypse p. 192*  

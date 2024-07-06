@@ -11,7 +11,7 @@ aliases: ["Swarm of Gremishkas"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 235
+BookSource: "Van Richten's Guide to Ravenloft p. 235"
 ---
 # [Swarm of Gremishkas](2-Mechanics/CLI/bestiary/monstrosity/swarm-of-gremishkas-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 235*  

@@ -13,7 +13,7 @@ aliases: ["Turvy"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 8
+BookSource: "Out of the Abyss p. 8"
 ---
 # [Turvy](2-Mechanics/CLI/bestiary/npc/turvy-oota.md)
 *Source: Out of the Abyss p. 8*  

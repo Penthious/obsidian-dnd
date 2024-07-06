@@ -29,7 +29,7 @@ classes:
 aliases: ["Create Bonfire"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 152
+BookSource: "Xanathar's Guide to Everything p. 152"
 ---
 # Create Bonfire
 *cantrip, Conjuration*  

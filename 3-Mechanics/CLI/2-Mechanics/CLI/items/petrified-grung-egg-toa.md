@@ -9,7 +9,7 @@ tags:
 aliases: ["Petrified Grung Egg"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 144
+BookSource: "Tomb of Annihilation p. 144"
 ---
 # Petrified Grung Egg
 *Other, unknown (magic) (requires attunement by a spellcaster)*  

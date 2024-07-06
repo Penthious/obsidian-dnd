@@ -7,7 +7,7 @@ tags:
 aliases: ["Painter's Supplies"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the SRD and the Basic Rules."
 ---
 # Painter's Supplies
 *Artisan's Tools*  

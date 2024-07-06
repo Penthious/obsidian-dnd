@@ -11,7 +11,7 @@ aliases: ["Drow Bandit"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 194
+BookSource: "Out of the Abyss p. 194"
 ---
 # [Drow Bandit](2-Mechanics/CLI/bestiary/humanoid/drow-bandit-oota.md)
 *Source: Out of the Abyss p. 194*  

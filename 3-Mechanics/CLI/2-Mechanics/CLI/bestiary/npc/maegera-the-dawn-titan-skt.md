@@ -12,7 +12,7 @@ aliases: ["Maegera the Dawn Titan"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 241
+BookSource: "Storm King's Thunder p. 241"
 ---
 # [Maegera the Dawn Titan](2-Mechanics/CLI/bestiary/npc/maegera-the-dawn-titan-skt.md)
 *Source: Storm King's Thunder p. 241*  

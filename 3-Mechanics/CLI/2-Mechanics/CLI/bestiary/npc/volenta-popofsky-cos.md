@@ -12,7 +12,7 @@ aliases: ["Volenta Popofsky"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 93
+BookSource: "Curse of Strahd p. 93"
 ---
 # [Volenta Popofsky](2-Mechanics/CLI/bestiary/npc/volenta-popofsky-cos.md)
 *Source: Curse of Strahd p. 93*  

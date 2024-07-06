@@ -17,7 +17,7 @@ classes:
 aliases: ["Find the Path"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 240. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 240. Available in the SRD and the Basic Rules."
 ---
 # Find the Path
 *6th-level, Divination*  

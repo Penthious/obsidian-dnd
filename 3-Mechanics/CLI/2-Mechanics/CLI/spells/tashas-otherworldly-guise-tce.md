@@ -11,7 +11,7 @@ classes:
 aliases: ["Tasha's Otherworldly Guise"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 116
+BookSource: "Tasha's Cauldron of Everything p. 116"
 ---
 # Tasha's Otherworldly Guise
 *6th-level, Transmutation*  

@@ -11,7 +11,7 @@ aliases: ["Wood Elf Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 187
+BookSource: "Candlekeep Mysteries p. 187"
 ---
 # [Wood Elf Wizard](2-Mechanics/CLI/bestiary/humanoid/wood-elf-wizard-cm.md)
 *Source: Candlekeep Mysteries p. 187*  

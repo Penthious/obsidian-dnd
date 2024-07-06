@@ -11,7 +11,7 @@ aliases: ["Dragon Chosen"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 189
+BookSource: "Fizban's Treasury of Dragons p. 189"
 ---
 # [Dragon Chosen](2-Mechanics/CLI/bestiary/humanoid/dragon-chosen-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 189*  

@@ -12,7 +12,7 @@ aliases: ["Traxigor"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 50
+BookSource: "Baldur's Gate: Descent Into Avernus p. 50"
 ---
 # [Traxigor](2-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 50*  

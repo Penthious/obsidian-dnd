@@ -11,7 +11,7 @@ aliases: ["Aurumvorax"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 105
+BookSource: "Journeys through the Radiant Citadel p. 105"
 ---
 # [Aurumvorax](2-Mechanics/CLI/bestiary/monstrosity/aurumvorax-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 105*  

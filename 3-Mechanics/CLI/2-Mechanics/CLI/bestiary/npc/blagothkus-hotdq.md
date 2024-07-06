@@ -12,7 +12,7 @@ aliases: ["Blagothkus"]
 NoteIcon: npc
 BestiaryType: giant (cloud giant)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 89
+BookSource: "Hoard of the Dragon Queen p. 89"
 ---
 # [Blagothkus](2-Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 89*  

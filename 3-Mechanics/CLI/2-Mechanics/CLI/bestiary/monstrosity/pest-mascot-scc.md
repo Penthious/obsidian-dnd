@@ -11,7 +11,7 @@ aliases: ["Pest Mascot"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 203
+BookSource: "Strixhaven: A Curriculum of Chaos p. 203"
 ---
 # [Pest Mascot](2-Mechanics/CLI/bestiary/monstrosity/pest-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 203*  

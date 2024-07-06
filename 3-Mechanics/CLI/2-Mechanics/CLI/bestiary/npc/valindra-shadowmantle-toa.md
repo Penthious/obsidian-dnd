@@ -12,7 +12,7 @@ aliases: ["Valindra Shadowmantle"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 58
+BookSource: "Tomb of Annihilation p. 58"
 ---
 # [Valindra Shadowmantle](2-Mechanics/CLI/bestiary/npc/valindra-shadowmantle-toa.md)
 *Source: Tomb of Annihilation p. 58*  

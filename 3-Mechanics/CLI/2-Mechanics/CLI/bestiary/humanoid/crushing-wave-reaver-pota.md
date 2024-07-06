@@ -11,7 +11,7 @@ aliases: ["Crushing Wave Reaver"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 205
+BookSource: "Princes of the Apocalypse p. 205"
 ---
 # [Crushing Wave Reaver](2-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md)
 *Source: Princes of the Apocalypse p. 205*  

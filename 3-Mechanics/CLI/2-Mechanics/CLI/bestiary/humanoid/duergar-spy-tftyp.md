@@ -11,7 +11,7 @@ aliases: ["Duergar Spy"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 234
+BookSource: "Tales from the Yawning Portal p. 234"
 ---
 # [Duergar Spy](2-Mechanics/CLI/bestiary/humanoid/duergar-spy-tftyp.md)
 *Source: Tales from the Yawning Portal p. 234*  

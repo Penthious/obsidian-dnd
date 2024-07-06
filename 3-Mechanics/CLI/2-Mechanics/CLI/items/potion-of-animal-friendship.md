@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Animal Friendship"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 187. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 187. Available in the SRD."
 ---
 # Potion of Animal Friendship
 *Potion, minor, uncommon*  

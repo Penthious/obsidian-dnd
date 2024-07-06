@@ -9,7 +9,7 @@ tags:
 aliases: ["Circlet of Human Perfection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 30
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 30"
 ---
 # Circlet of Human Perfection
 *Other, uncommon (requires attunement by a humanoid)*  

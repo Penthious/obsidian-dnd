@@ -31,7 +31,7 @@ classes:
 aliases: ["Thunderwave"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 282. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 282. Available in the SRD and the Basic Rules."
 ---
 # Thunderwave
 *1st-level, Evocation*  

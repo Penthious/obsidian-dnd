@@ -7,7 +7,7 @@ tags:
 aliases: ["Leonin"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mythic Odysseys of Theros p. 20
+BookSource: "Mythic Odysseys of Theros p. 20"
 ---
 # Leonin
 *Source: Mythic Odysseys of Theros p. 20*  

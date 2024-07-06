@@ -11,7 +11,7 @@ aliases: ["Sapphire Sentinel"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 201
+BookSource: "Candlekeep Mysteries p. 201"
 ---
 # [Sapphire Sentinel](2-Mechanics/CLI/bestiary/construct/sapphire-sentinel-cm.md)
 *Source: Candlekeep Mysteries p. 201*  

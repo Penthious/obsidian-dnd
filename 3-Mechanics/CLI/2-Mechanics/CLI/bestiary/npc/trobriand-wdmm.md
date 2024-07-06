@@ -12,7 +12,7 @@ aliases: ["Trobriand"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 294
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 294"
 ---
 # [Trobriand](2-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 294*  

@@ -12,7 +12,7 @@ aliases: ["Renaer Neverember"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 215
+BookSource: "Waterdeep: Dragon Heist p. 215"
 ---
 # [Renaer Neverember](2-Mechanics/CLI/bestiary/npc/renaer-neverember-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 215*  

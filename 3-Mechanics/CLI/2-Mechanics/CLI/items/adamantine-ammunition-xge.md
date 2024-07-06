@@ -9,7 +9,7 @@ tags:
 aliases: ["Adamantine Ammunition"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 78
+BookSource: "Xanathar's Guide to Everything p. 78"
 ---
 # Adamantine Ammunition
 *Generic Variant, minor, unknown*  

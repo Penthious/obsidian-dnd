@@ -12,7 +12,7 @@ aliases: ["Deseyna Majarra"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 126
+BookSource: "Princes of the Apocalypse p. 126"
 ---
 # [Deseyna Majarra](2-Mechanics/CLI/bestiary/npc/deseyna-majarra-pota.md)
 *Source: Princes of the Apocalypse p. 126*  

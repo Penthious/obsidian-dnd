@@ -15,7 +15,7 @@ aliases: ["Wereboar"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 209, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 209, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Wereboar](2-Mechanics/CLI/bestiary/humanoid/wereboar.md)
 *Source: Monster Manual p. 209, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.*  

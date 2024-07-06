@@ -11,7 +11,7 @@ aliases: ["Aquatic Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 36, Princes of the Apocalypse p. 88
+BookSource: "The Rise of Tiamat p. 36, Princes of the Apocalypse p. 88"
 ---
 # [Aquatic Troll](2-Mechanics/CLI/bestiary/giant/aquatic-troll-rot.md)
 *Source: The Rise of Tiamat p. 36, Princes of the Apocalypse p. 88*  

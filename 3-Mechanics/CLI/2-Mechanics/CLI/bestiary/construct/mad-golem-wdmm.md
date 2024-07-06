@@ -11,7 +11,7 @@ aliases: ["Mad Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 254
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 254"
 ---
 # [Mad Golem](2-Mechanics/CLI/bestiary/construct/mad-golem-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 254*  

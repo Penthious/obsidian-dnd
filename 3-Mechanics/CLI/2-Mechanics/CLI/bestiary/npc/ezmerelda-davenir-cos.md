@@ -12,7 +12,7 @@ aliases: ["Ezmerelda d'Avenir"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 231
+BookSource: "Curse of Strahd p. 231"
 ---
 # [Ezmerelda d'Avenir](2-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md)
 *Source: Curse of Strahd p. 231*  

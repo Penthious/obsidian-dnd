@@ -12,7 +12,7 @@ aliases: ["Auril (Third Form)"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 278
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 278"
 ---
 # [Auril (Third Form)](2-Mechanics/CLI/bestiary/npc/auril-third-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 278*  

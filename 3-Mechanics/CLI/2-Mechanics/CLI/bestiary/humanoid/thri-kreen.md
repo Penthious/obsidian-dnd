@@ -13,7 +13,7 @@ aliases: ["Thri-kreen"]
 NoteIcon: monster
 BestiaryType: humanoid (thri-kreen)
 SourceType: Bestiary
-BookSource: Monster Manual p. 288, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 288, Journeys through the Radiant Citadel"
 ---
 # [Thri-kreen](2-Mechanics/CLI/bestiary/humanoid/thri-kreen.md)
 *Source: Monster Manual p. 288, Journeys through the Radiant Citadel*  

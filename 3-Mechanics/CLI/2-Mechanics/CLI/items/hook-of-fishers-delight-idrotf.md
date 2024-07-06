@@ -8,7 +8,7 @@ tags:
 aliases: ["Hook of Fisher's Delight"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 314
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 314"
 ---
 # Hook of Fisher's Delight
 *Wondrous Item, rare*  

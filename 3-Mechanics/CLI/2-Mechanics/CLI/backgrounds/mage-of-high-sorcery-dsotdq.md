@@ -7,7 +7,7 @@ tags:
 aliases: ["Mage of High Sorcery"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 30
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 30"
 ---
 # Mage of High Sorcery
 *Source: Dragonlance: Shadow of the Dragon Queen p. 30*  

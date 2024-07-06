@@ -12,7 +12,7 @@ aliases: ["Voalsh"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 194
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 194"
 ---
 # [Voalsh](2-Mechanics/CLI/bestiary/npc/voalsh-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

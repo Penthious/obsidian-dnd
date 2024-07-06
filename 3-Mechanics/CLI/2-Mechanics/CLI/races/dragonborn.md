@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragonborn"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 32. Available in the SRD.
+BookSource: "Player's Handbook p. 32. Available in the SRD."
 ---
 # Dragonborn
 *Source: Player's Handbook p. 32. Available in the SRD.*  

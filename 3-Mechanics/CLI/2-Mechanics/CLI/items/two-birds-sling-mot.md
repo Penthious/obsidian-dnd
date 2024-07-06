@@ -9,7 +9,7 @@ tags:
 aliases: ["Two-Birds Sling"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 198
+BookSource: "Mythic Odysseys of Theros p. 198"
 ---
 # Two-Birds Sling
 *Ranged Weapon, rare*  

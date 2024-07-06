@@ -9,7 +9,7 @@ tags:
 aliases: ["Bead of Nourishment"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Bead of Nourishment
 *Wondrous Item, minor, common*  

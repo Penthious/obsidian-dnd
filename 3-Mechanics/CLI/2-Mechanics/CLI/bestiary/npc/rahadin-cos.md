@@ -12,7 +12,7 @@ aliases: ["Rahadin"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 237
+BookSource: "Curse of Strahd p. 237"
 ---
 # [Rahadin](2-Mechanics/CLI/bestiary/npc/rahadin-cos.md)
 *Source: Curse of Strahd p. 237*  

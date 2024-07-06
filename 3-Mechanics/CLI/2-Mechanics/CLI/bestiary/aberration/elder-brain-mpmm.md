@@ -12,7 +12,7 @@ aliases: ["Elder Brain"]
 NoteIcon: monster
 BestiaryType: aberration (mind flayer)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173, Phandelver and Below: The Shattered Obelisk
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Elder Brain](2-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173, Phandelver and Below: The Shattered Obelisk*  

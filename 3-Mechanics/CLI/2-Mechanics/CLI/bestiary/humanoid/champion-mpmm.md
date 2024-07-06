@@ -13,7 +13,7 @@ aliases: ["Champion"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212"
 ---
 # [Champion](2-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  

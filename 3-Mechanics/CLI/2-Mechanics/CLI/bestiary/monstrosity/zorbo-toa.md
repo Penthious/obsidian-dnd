@@ -11,7 +11,7 @@ aliases: ["Zorbo"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 241
+BookSource: "Tomb of Annihilation p. 241"
 ---
 # [Zorbo](2-Mechanics/CLI/bestiary/monstrosity/zorbo-toa.md)
 *Source: Tomb of Annihilation p. 241*  

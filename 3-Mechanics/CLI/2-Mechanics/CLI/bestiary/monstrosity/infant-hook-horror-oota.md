@@ -11,7 +11,7 @@ aliases: ["Infant Hook Horror"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 34
+BookSource: "Out of the Abyss p. 34"
 ---
 # [Infant Hook Horror](2-Mechanics/CLI/bestiary/monstrosity/infant-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  

@@ -13,7 +13,7 @@ aliases: ["Deep Scion"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135"
 ---
 # [Deep Scion](2-Mechanics/CLI/bestiary/monstrosity/deep-scion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  

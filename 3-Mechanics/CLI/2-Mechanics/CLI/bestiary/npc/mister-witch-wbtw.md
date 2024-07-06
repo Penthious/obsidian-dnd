@@ -13,7 +13,7 @@ aliases: ["Mister Witch"]
 NoteIcon: npc
 BestiaryType: humanoid (elf, shadar-kai)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 25
+BookSource: "The Wild Beyond the Witchlight p. 25"
 ---
 # [Mister Witch](2-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 25*  

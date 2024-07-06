@@ -31,7 +31,7 @@ classes:
 aliases: ["Light"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 255. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 255. Available in the SRD and the Basic Rules."
 ---
 # Light
 *cantrip, Evocation*  

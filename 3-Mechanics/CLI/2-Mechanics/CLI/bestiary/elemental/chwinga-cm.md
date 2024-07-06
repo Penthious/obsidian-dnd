@@ -11,7 +11,7 @@ aliases: ["Chwinga"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 212
+BookSource: "Candlekeep Mysteries p. 212"
 ---
 # [Chwinga](2-Mechanics/CLI/bestiary/elemental/chwinga-cm.md)
 *Source: Candlekeep Mysteries p. 212*  

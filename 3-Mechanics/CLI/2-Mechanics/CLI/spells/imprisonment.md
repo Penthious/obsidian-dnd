@@ -15,7 +15,7 @@ classes:
 aliases: ["Imprisonment"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 252. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 252. Available in the SRD and the Basic Rules."
 ---
 # Imprisonment
 *9th-level, Abjuration*  

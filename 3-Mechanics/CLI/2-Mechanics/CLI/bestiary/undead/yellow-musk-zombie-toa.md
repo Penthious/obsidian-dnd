@@ -11,7 +11,7 @@ aliases: ["Yellow Musk Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 237
+BookSource: "Tomb of Annihilation p. 237"
 ---
 # [Yellow Musk Zombie](2-Mechanics/CLI/bestiary/undead/yellow-musk-zombie-toa.md)
 *Source: Tomb of Annihilation p. 237*  

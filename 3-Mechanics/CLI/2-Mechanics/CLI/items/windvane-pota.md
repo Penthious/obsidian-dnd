@@ -12,7 +12,7 @@ tags:
 aliases: ["Windvane"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 224
+BookSource: "Princes of the Apocalypse p. 224"
 ---
 # Windvane
 *Melee Weapon, legendary (requires attunement)*  

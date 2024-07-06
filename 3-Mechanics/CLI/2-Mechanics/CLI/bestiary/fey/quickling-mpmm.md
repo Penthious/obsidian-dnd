@@ -12,7 +12,7 @@ aliases: ["Quickling"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187"
 ---
 # [Quickling](2-Mechanics/CLI/bestiary/fey/quickling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  

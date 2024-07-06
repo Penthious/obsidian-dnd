@@ -7,7 +7,7 @@ tags:
 aliases: ["Centaur"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 9
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 9"
 ---
 # Centaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  

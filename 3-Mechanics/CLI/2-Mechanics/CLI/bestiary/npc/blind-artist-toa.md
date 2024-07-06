@@ -12,7 +12,7 @@ aliases: ["Blind Artist"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 164
+BookSource: "Tomb of Annihilation p. 164"
 ---
 # [Blind Artist](2-Mechanics/CLI/bestiary/npc/blind-artist-toa.md)
 *Source: Tomb of Annihilation p. 164*  

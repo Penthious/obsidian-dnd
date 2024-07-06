@@ -12,7 +12,7 @@ aliases: ["Haungharassk"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 258
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 258"
 ---
 # [Haungharassk](2-Mechanics/CLI/bestiary/npc/haungharassk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 258*  

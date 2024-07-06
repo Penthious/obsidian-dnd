@@ -7,7 +7,7 @@ tags:
 aliases: ["Outlander"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 136
+BookSource: "Player's Handbook p. 136"
 ---
 # Outlander
 *Source: Player's Handbook p. 136*  

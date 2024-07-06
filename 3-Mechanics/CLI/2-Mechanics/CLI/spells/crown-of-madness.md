@@ -23,7 +23,7 @@ classes:
 aliases: ["Crown of Madness"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 229
+BookSource: "Player's Handbook p. 229"
 ---
 # Crown of Madness
 *2nd-level, Enchantment*  

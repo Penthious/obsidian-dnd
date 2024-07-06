@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Asmodeus)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 21
+BookSource: "Mordenkainen's Tome of Foes p. 21"
 ---
 # Tiefling (Asmodeus)
 *Source: Mordenkainen's Tome of Foes p. 21*  

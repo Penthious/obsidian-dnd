@@ -12,7 +12,7 @@ aliases: ["Shunn Shurreth"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 33
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 33"
 ---
 # [Shunn Shurreth](2-Mechanics/CLI/bestiary/npc/shunn-shurreth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 33*  

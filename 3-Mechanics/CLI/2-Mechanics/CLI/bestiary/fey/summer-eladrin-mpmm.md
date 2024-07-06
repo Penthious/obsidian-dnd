@@ -13,7 +13,7 @@ aliases: ["Summer Eladrin"]
 NoteIcon: monster
 BestiaryType: fey (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196"
 ---
 # [Summer Eladrin](2-Mechanics/CLI/bestiary/fey/summer-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  

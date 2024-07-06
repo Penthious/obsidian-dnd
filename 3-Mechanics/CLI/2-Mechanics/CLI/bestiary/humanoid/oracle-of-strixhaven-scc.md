@@ -12,7 +12,7 @@ aliases: ["Oracle of Strixhaven"]
 NoteIcon: monster
 BestiaryType: humanoid (human, wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 200
+BookSource: "Strixhaven: A Curriculum of Chaos p. 200"
 ---
 # [Oracle of Strixhaven](2-Mechanics/CLI/bestiary/humanoid/oracle-of-strixhaven-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 200*  

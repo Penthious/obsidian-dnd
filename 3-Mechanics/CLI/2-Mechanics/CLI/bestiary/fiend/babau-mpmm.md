@@ -13,7 +13,7 @@ aliases: ["Babau"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136"
 ---
 # [Babau](2-Mechanics/CLI/bestiary/fiend/babau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  

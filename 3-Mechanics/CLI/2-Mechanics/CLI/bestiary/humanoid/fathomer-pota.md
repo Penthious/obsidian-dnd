@@ -11,7 +11,7 @@ aliases: ["Fathomer"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 207, Ghosts of Saltmarsh
+BookSource: "Princes of the Apocalypse p. 207, Ghosts of Saltmarsh"
 ---
 # [Fathomer](2-Mechanics/CLI/bestiary/humanoid/fathomer-pota.md)
 *Source: Princes of the Apocalypse p. 207, Ghosts of Saltmarsh*  

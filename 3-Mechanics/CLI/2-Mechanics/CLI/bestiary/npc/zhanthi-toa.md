@@ -12,7 +12,7 @@ aliases: ["Zhanthi"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 27
+BookSource: "Tomb of Annihilation p. 27"
 ---
 # [Zhanthi](2-Mechanics/CLI/bestiary/npc/zhanthi-toa.md)
 *Source: Tomb of Annihilation p. 27*  

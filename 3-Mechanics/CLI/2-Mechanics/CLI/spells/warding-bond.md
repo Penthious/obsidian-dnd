@@ -19,7 +19,7 @@ classes:
 aliases: ["Warding Bond"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 287. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 287. Available in the SRD and the Basic Rules."
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

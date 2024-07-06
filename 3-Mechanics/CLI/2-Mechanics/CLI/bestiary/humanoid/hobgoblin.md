@@ -16,7 +16,7 @@ aliases: ["Hobgoblin"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Monster Manual p. 186, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 186, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Hobgoblin](2-Mechanics/CLI/bestiary/humanoid/hobgoblin.md)
 *Source: Monster Manual p. 186, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

@@ -12,7 +12,7 @@ aliases: ["Great Ulfe"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 42
+BookSource: "Tales from the Yawning Portal p. 42"
 ---
 # [Great Ulfe](2-Mechanics/CLI/bestiary/npc/great-ulfe-tftyp.md)
 *Source: Tales from the Yawning Portal p. 42*  

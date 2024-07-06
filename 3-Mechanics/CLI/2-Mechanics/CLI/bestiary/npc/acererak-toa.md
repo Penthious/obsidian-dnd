@@ -12,7 +12,7 @@ aliases: ["Acererak"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 209
+BookSource: "Tomb of Annihilation p. 209"
 ---
 # [Acererak](2-Mechanics/CLI/bestiary/npc/acererak-toa.md)
 *Source: Tomb of Annihilation p. 209*  

@@ -12,7 +12,7 @@ aliases: ["Giff"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204"
 ---
 # [Giff](2-Mechanics/CLI/bestiary/humanoid/giff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204*  

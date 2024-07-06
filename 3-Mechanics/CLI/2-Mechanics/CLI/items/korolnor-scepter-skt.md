@@ -10,7 +10,7 @@ tags:
 aliases: ["Korolnor Scepter"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 234
+BookSource: "Storm King's Thunder p. 234"
 ---
 # Korolnor Scepter
 *Melee Weapon, legendary (requires attunement)*  

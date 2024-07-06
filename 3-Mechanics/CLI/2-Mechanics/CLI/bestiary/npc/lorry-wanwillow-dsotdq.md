@@ -13,7 +13,7 @@ aliases: ["Lorry Wanwillow"]
 NoteIcon: npc
 BestiaryType: undead (shapechanger, kender)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 177
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 177"
 ---
 # [Lorry Wanwillow](2-Mechanics/CLI/bestiary/npc/lorry-wanwillow-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 177*  

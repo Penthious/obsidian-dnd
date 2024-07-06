@@ -11,7 +11,7 @@ aliases: ["Sea Lion"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 242, Ghosts of Saltmarsh p. 252
+BookSource: "Tales from the Yawning Portal p. 242, Ghosts of Saltmarsh p. 252"
 ---
 # [Sea Lion](2-Mechanics/CLI/bestiary/monstrosity/sea-lion-tftyp.md)
 *Source: Tales from the Yawning Portal p. 242, Ghosts of Saltmarsh p. 252*  

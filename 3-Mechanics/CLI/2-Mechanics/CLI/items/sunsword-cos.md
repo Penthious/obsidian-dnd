@@ -12,7 +12,7 @@ tags:
 aliases: ["Sunsword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 223
+BookSource: "Curse of Strahd p. 223"
 ---
 # Sunsword
 *Melee Weapon, legendary (requires attunement)*  

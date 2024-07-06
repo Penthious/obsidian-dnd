@@ -11,7 +11,7 @@ aliases: ["Githzerai Anarch"]
 NoteIcon: monster
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207"
 ---
 # [Githzerai Anarch](2-Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207*  

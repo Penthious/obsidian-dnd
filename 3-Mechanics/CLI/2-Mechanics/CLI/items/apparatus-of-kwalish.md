@@ -9,7 +9,7 @@ tags:
 aliases: ["Apparatus of Kwalish"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 151. Available in the SRD (as 'Apparatus of the Crab').
+BookSource: "Dungeon Master's Guide p. 151. Available in the SRD (as 'Apparatus of the Crab')."
 ---
 # Apparatus of Kwalish
 *Wondrous Item, major, legendary*  

@@ -12,7 +12,7 @@ tags:
 aliases: ["Flayer Slayer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 217
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 217"
 ---
 # Flayer Slayer
 *Melee Weapon, rare (requires attunement)*  

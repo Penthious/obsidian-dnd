@@ -12,7 +12,7 @@ aliases: ["Rath Modar"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 92, The Rise of Tiamat p. 91
+BookSource: "Hoard of the Dragon Queen p. 92, The Rise of Tiamat p. 91"
 ---
 # [Rath Modar](2-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 92, The Rise of Tiamat p. 91*  

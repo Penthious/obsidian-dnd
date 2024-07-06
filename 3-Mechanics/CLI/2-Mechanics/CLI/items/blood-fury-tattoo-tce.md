@@ -9,7 +9,7 @@ tags:
 aliases: ["Blood Fury Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 122
+BookSource: "Tasha's Cauldron of Everything p. 122"
 ---
 # Blood Fury Tattoo
 *Wondrous Item, legendary (requires attunement)*  

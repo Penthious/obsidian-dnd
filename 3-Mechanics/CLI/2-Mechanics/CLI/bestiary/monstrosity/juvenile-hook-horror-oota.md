@@ -11,7 +11,7 @@ aliases: ["Juvenile Hook Horror"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 34
+BookSource: "Out of the Abyss p. 34"
 ---
 # [Juvenile Hook Horror](2-Mechanics/CLI/bestiary/monstrosity/juvenile-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  

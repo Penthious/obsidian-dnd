@@ -12,7 +12,7 @@ aliases: ["Count Thullen"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 198
+BookSource: "Storm King's Thunder p. 198"
 ---
 # [Count Thullen](2-Mechanics/CLI/bestiary/npc/count-thullen-skt.md)
 *Source: Storm King's Thunder p. 198*  

@@ -11,7 +11,7 @@ aliases: ["Centaur Mummy"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 231
+BookSource: "Tales from the Yawning Portal p. 231"
 ---
 # [Centaur Mummy](2-Mechanics/CLI/bestiary/undead/centaur-mummy-tftyp.md)
 *Source: Tales from the Yawning Portal p. 231*  

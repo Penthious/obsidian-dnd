@@ -11,7 +11,7 @@ aliases: ["Undead Bulette"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 90
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 90"
 ---
 # [Undead Bulette](2-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 90*  

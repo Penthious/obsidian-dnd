@@ -7,7 +7,7 @@ tags:
 aliases: ["Half-Orc"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 40. Available in the SRD.
+BookSource: "Player's Handbook p. 40. Available in the SRD."
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the SRD.*  

@@ -12,7 +12,7 @@ aliases: ["Mormesk the Wraith"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 70
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 70"
 ---
 # [Mormesk the Wraith](2-Mechanics/CLI/bestiary/npc/mormesk-the-wraith-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 70*  

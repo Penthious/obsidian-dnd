@@ -12,7 +12,7 @@ aliases: ["Doru"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 47
+BookSource: "Curse of Strahd p. 47"
 ---
 # [Doru](2-Mechanics/CLI/bestiary/npc/doru-cos.md)
 *Source: Curse of Strahd p. 47*  

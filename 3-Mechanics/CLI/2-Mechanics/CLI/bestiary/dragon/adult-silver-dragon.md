@@ -13,7 +13,7 @@ aliases: ["Adult Silver Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 117, Storm King's Thunder, Ghosts of Saltmarsh. Available in the SRD.
+BookSource: "Monster Manual p. 117, Storm King's Thunder, Ghosts of Saltmarsh. Available in the SRD."
 ---
 # [Adult Silver Dragon](2-Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md)
 *Source: Monster Manual p. 117, Storm King's Thunder, Ghosts of Saltmarsh. Available in the SRD.*  

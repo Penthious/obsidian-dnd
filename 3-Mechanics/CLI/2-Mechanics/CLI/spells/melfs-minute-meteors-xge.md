@@ -17,7 +17,7 @@ classes:
 aliases: ["Melf's Minute Meteors"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 161
+BookSource: "Xanathar's Guide to Everything p. 161"
 ---
 # Melf's Minute Meteors
 *3rd-level, Evocation*  

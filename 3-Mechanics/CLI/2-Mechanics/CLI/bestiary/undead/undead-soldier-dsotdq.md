@@ -11,7 +11,7 @@ aliases: ["Undead Soldier"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 96
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 96"
 ---
 # [Undead Soldier](2-Mechanics/CLI/bestiary/undead/undead-soldier-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 96*  

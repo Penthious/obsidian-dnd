@@ -11,7 +11,7 @@ aliases: ["Dragon Army Dragonnel"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 201
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 201"
 ---
 # [Dragon Army Dragonnel](2-Mechanics/CLI/bestiary/dragon/dragon-army-dragonnel-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 201*  

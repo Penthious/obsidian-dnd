@@ -11,7 +11,7 @@ aliases: ["Flying Rocking Horse"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 121
+BookSource: "The Wild Beyond the Witchlight p. 121"
 ---
 # [Flying Rocking Horse](2-Mechanics/CLI/bestiary/construct/flying-rocking-horse-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 121*  

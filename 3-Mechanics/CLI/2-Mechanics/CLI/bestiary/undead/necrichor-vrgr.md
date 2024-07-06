@@ -11,7 +11,7 @@ aliases: ["Necrichor"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 238
+BookSource: "Van Richten's Guide to Ravenloft p. 238"
 ---
 # [Necrichor](2-Mechanics/CLI/bestiary/undead/necrichor-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 238*  

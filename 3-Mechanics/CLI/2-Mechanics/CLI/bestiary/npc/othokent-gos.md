@@ -12,7 +12,7 @@ aliases: ["Othokent"]
 NoteIcon: npc
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 81
+BookSource: "Ghosts of Saltmarsh p. 81"
 ---
 # [Othokent](2-Mechanics/CLI/bestiary/npc/othokent-gos.md)
 *Source: Ghosts of Saltmarsh p. 81*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Shadar-Kai"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 31
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 31"
 ---
 # Shadar-Kai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 31*  

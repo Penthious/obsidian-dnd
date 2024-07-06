@@ -12,7 +12,7 @@ aliases: ["Young Remorhaz"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 258, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Monster Manual p. 258, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Young Remorhaz](2-Mechanics/CLI/bestiary/monstrosity/young-remorhaz.md)
 *Source: Monster Manual p. 258, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden*  

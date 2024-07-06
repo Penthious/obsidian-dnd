@@ -12,7 +12,7 @@ aliases: ["Quaggoth"]
 NoteIcon: monster
 BestiaryType: humanoid (quaggoth)
 SourceType: Bestiary
-BookSource: Monster Manual p. 256, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 256, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Quaggoth](2-Mechanics/CLI/bestiary/humanoid/quaggoth.md)
 *Source: Monster Manual p. 256, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk*  

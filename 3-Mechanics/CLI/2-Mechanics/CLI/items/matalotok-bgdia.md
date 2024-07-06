@@ -11,7 +11,7 @@ tags:
 aliases: ["Matalotok"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 224
+BookSource: "Baldur's Gate: Descent Into Avernus p. 224"
 ---
 # Matalotok
 *Melee Weapon, legendary (requires attunement)*  

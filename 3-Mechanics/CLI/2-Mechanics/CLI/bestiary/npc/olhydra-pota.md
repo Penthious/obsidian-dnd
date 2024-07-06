@@ -12,7 +12,7 @@ aliases: ["Olhydra"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 218
+BookSource: "Princes of the Apocalypse p. 218"
 ---
 # [Olhydra](2-Mechanics/CLI/bestiary/npc/olhydra-pota.md)
 *Source: Princes of the Apocalypse p. 218*  

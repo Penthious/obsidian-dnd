@@ -12,7 +12,7 @@ aliases: ["Cloud Giant Smiling One"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146"
 ---
 # [Cloud Giant Smiling One](2-Mechanics/CLI/bestiary/giant/cloud-giant-smiling-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*  

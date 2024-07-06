@@ -10,7 +10,7 @@ tags:
 aliases: ["Shield of Missile Attraction"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 200. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 200. Available in the SRD."
 ---
 # Shield of Missile Attraction
 *Shield, major, rare (requires attunement)*  

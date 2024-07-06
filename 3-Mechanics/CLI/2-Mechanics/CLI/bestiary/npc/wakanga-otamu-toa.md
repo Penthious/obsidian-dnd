@@ -12,7 +12,7 @@ aliases: ["Wakanga O'tamu"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 27
+BookSource: "Tomb of Annihilation p. 27"
 ---
 # [Wakanga O'tamu](2-Mechanics/CLI/bestiary/npc/wakanga-otamu-toa.md)
 *Source: Tomb of Annihilation p. 27*  

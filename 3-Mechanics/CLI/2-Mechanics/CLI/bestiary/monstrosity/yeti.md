@@ -12,7 +12,7 @@ aliases: ["Yeti"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 305, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the Basic Rules.
+BookSource: "Monster Manual p. 305, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the Basic Rules."
 ---
 # [Yeti](2-Mechanics/CLI/bestiary/monstrosity/yeti.md)
 *Source: Monster Manual p. 305, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the Basic Rules.*  

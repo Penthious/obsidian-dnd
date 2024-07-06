@@ -9,7 +9,7 @@ tags:
 aliases: ["Book of Exalted Deeds"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 222
+BookSource: "Dungeon Master's Guide p. 222"
 ---
 # Book of Exalted Deeds
 *Wondrous Item, artifact (requires attunement by a creature of good alignment)*  

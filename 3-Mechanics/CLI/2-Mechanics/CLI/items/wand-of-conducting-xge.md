@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Conducting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 140
+BookSource: "Xanathar's Guide to Everything p. 140"
 ---
 # Wand of Conducting
 *Wand, minor, common*  

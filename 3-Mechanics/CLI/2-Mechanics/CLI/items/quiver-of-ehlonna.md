@@ -9,7 +9,7 @@ tags:
 aliases: ["Quiver of Ehlonna"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 189. Available in the SRD (as 'Efficient Quiver').
+BookSource: "Dungeon Master's Guide p. 189. Available in the SRD (as 'Efficient Quiver')."
 ---
 # Quiver of Ehlonna
 *Wondrous Item, major, uncommon*  

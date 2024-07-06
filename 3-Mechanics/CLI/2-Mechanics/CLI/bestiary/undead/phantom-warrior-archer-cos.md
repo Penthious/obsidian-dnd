@@ -11,7 +11,7 @@ aliases: ["Phantom Warrior (Archer)"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 142
+BookSource: "Curse of Strahd p. 142"
 ---
 # [Phantom Warrior (Archer)](2-Mechanics/CLI/bestiary/undead/phantom-warrior-archer-cos.md)
 *Source: Curse of Strahd p. 142*  

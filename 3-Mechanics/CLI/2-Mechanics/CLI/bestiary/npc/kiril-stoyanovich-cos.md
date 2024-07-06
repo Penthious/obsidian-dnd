@@ -13,7 +13,7 @@ aliases: ["Kiril Stoyanovich"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 203
+BookSource: "Curse of Strahd p. 203"
 ---
 # [Kiril Stoyanovich](2-Mechanics/CLI/bestiary/npc/kiril-stoyanovich-cos.md)
 *Source: Curse of Strahd p. 203*  

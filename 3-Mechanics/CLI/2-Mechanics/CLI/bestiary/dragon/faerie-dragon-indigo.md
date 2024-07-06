@@ -12,7 +12,7 @@ aliases: ["Faerie Dragon (Indigo)"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 133
+BookSource: "Monster Manual p. 133"
 ---
 # [Faerie Dragon (Indigo)](2-Mechanics/CLI/bestiary/dragon/faerie-dragon-indigo.md)
 *Source: Monster Manual p. 133*  

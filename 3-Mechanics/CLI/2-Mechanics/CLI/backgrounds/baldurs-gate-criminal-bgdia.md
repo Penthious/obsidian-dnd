@@ -7,7 +7,7 @@ tags:
 aliases: ["Baldur's Gate Criminal"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Baldur's Gate: Descent Into Avernus p. 202
+BookSource: "Baldur's Gate: Descent Into Avernus p. 202"
 ---
 # Baldur's Gate Criminal
 *Source: Baldur's Gate: Descent Into Avernus p. 202*  

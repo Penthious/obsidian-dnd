@@ -8,7 +8,7 @@ tags:
 aliases: ["Green Copper Ewer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 188
+BookSource: "Curse of Strahd p. 188"
 ---
 # Green Copper Ewer
 *Other, unknown (magic)*  

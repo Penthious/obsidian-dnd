@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Hook Horror"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Hook Horror](2-Mechanics/CLI/bestiary/monstrosity/reduced-threat-hook-horror-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

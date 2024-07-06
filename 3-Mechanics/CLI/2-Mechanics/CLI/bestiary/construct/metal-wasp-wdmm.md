@@ -11,7 +11,7 @@ aliases: ["Metal Wasp"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 174
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 174"
 ---
 # [Metal Wasp](2-Mechanics/CLI/bestiary/construct/metal-wasp-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 174*  

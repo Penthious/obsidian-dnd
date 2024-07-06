@@ -12,7 +12,7 @@ aliases: ["Giant Badger"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 323, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 323, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Giant Badger](2-Mechanics/CLI/bestiary/beast/giant-badger.md)
 *Source: Monster Manual p. 323, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

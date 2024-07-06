@@ -11,7 +11,7 @@ aliases: ["Infant Basilisk"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 100
+BookSource: "Out of the Abyss p. 100"
 ---
 # [Infant Basilisk](2-Mechanics/CLI/bestiary/monstrosity/infant-basilisk-oota.md)
 *Source: Out of the Abyss p. 100*  

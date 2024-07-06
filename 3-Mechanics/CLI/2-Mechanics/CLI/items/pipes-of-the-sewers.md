@@ -10,7 +10,7 @@ tags:
 aliases: ["Pipes of the Sewers"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 185. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 185. Available in the SRD."
 ---
 # Pipes of the Sewers
 *Instrument, major, uncommon (requires attunement)*  

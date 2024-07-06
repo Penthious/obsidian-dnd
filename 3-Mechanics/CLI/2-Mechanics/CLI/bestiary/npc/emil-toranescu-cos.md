@@ -13,7 +13,7 @@ aliases: ["Emil Toranescu"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 81
+BookSource: "Curse of Strahd p. 81"
 ---
 # [Emil Toranescu](2-Mechanics/CLI/bestiary/npc/emil-toranescu-cos.md)
 *Source: Curse of Strahd p. 81*  

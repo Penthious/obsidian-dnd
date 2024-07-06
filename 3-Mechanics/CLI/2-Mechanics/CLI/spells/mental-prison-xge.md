@@ -17,7 +17,7 @@ classes:
 aliases: ["Mental Prison"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 161
+BookSource: "Xanathar's Guide to Everything p. 161"
 ---
 # Mental Prison
 *6th-level, Illusion*  

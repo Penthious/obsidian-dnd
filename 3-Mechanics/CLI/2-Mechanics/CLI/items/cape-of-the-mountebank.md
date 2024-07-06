@@ -9,7 +9,7 @@ tags:
 aliases: ["Cape of the Mountebank"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 157. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 157. Available in the SRD."
 ---
 # Cape of the Mountebank
 *Wondrous Item, major, rare*  

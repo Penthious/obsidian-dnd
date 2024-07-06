@@ -14,7 +14,7 @@ aliases: ["Oblex Spawn"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217"
 ---
 # [Oblex Spawn](2-Mechanics/CLI/bestiary/ooze/oblex-spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  

@@ -11,7 +11,7 @@ aliases: ["Animated Table"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 230
+BookSource: "Tales from the Yawning Portal p. 230"
 ---
 # [Animated Table](2-Mechanics/CLI/bestiary/construct/animated-table-tftyp.md)
 *Source: Tales from the Yawning Portal p. 230*  

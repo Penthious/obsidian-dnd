@@ -9,7 +9,7 @@ tags:
 aliases: ["Mariner's Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 181
+BookSource: "Dungeon Master's Guide p. 181"
 ---
 # Mariner's Armor
 *Generic Variant, minor, uncommon*  

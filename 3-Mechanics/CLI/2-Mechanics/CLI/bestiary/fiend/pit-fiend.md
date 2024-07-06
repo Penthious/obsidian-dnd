@@ -11,7 +11,7 @@ aliases: ["Pit Fiend"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 77, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 77, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Pit Fiend](2-Mechanics/CLI/bestiary/fiend/pit-fiend.md)
 *Source: Monster Manual p. 77, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  

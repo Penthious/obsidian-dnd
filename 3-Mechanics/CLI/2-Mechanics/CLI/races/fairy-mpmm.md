@@ -7,7 +7,7 @@ tags:
 aliases: ["Fairy"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 14
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 14"
 ---
 # Fairy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 14*  

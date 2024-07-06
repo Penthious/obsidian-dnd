@@ -12,7 +12,7 @@ aliases: ["Sholeh"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 14
+BookSource: "Journeys through the Radiant Citadel p. 14"
 ---
 # [Sholeh](2-Mechanics/CLI/bestiary/npc/sholeh-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 14*  

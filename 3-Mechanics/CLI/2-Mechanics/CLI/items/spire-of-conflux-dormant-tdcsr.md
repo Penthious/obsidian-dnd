@@ -11,7 +11,7 @@ tags:
 aliases: ["Spire of Conflux (Dormant)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tal'Dorei Campaign Setting Reborn p. 209. Available in the SRD and the Basic Rules.
+BookSource: "Tal'Dorei Campaign Setting Reborn p. 209. Available in the SRD and the Basic Rules."
 ---
 # Spire of Conflux (Dormant)
 *Melee Weapon, legendary (requires attunement by a spellcaster)*  

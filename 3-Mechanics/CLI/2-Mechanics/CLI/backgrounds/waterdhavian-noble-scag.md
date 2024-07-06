@@ -7,7 +7,7 @@ tags:
 aliases: ["Waterdhavian Noble"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 154
+BookSource: "Sword Coast Adventurer's Guide p. 154"
 ---
 # Waterdhavian Noble
 *Source: Sword Coast Adventurer's Guide p. 154*  

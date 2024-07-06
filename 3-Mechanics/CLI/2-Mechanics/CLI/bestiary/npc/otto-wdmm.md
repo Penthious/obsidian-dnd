@@ -12,7 +12,7 @@ aliases: ["Otto"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 96
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 96"
 ---
 # [Otto](2-Mechanics/CLI/bestiary/npc/otto-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 96*  

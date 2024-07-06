@@ -9,7 +9,7 @@ tags:
 aliases: ["Candle of the Deep"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Candle of the Deep
 *Wondrous Item, minor, common*  

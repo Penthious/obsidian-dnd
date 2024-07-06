@@ -11,7 +11,7 @@ aliases: ["Goblin Psi Brawler"]
 NoteIcon: monster
 BestiaryType: aberration (goblinoid)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 215
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 215"
 ---
 # [Goblin Psi Brawler](2-Mechanics/CLI/bestiary/aberration/goblin-psi-brawler-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 215*  

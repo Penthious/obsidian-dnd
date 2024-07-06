@@ -11,7 +11,7 @@ aliases: ["Hoard Mimic"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 204
+BookSource: "Fizban's Treasury of Dragons p. 204"
 ---
 # [Hoard Mimic](2-Mechanics/CLI/bestiary/monstrosity/hoard-mimic-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 204*  

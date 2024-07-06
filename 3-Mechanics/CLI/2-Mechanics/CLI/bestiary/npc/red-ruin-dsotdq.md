@@ -12,7 +12,7 @@ aliases: ["Red Ruin"]
 NoteIcon: npc
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 208
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 208"
 ---
 # [Red Ruin](2-Mechanics/CLI/bestiary/npc/red-ruin-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 208*  

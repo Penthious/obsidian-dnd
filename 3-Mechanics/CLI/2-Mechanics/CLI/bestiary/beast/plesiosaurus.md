@@ -13,7 +13,7 @@ aliases: ["Plesiosaurus"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 80, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 80, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules."
 ---
 # [Plesiosaurus](2-Mechanics/CLI/bestiary/beast/plesiosaurus.md)
 *Source: Monster Manual p. 80, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  

@@ -18,7 +18,7 @@ classes:
 aliases: ["Rary's Telepathic Bond"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 270. Available in the SRD (as 'Telepathic Bond').
+BookSource: "Player's Handbook p. 270. Available in the SRD (as 'Telepathic Bond')."
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

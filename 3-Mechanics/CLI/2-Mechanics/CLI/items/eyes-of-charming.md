@@ -10,7 +10,7 @@ tags:
 aliases: ["Eyes of Charming"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 168. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 168. Available in the SRD."
 ---
 # Eyes of Charming
 *Wondrous Item, major, uncommon (requires attunement)*  

@@ -11,7 +11,7 @@ aliases: ["Magmin"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 212, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 212, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Magmin](2-Mechanics/CLI/bestiary/elemental/magmin.md)
 *Source: Monster Manual p. 212, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD.*  

@@ -12,7 +12,7 @@ aliases: ["Wereraven"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 253, Candlekeep Mysteries, Curse of Strahd p. 242
+BookSource: "Van Richten's Guide to Ravenloft p. 253, Candlekeep Mysteries, Curse of Strahd p. 242"
 ---
 # [Wereraven](2-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 253, Candlekeep Mysteries, Curse of Strahd p. 242*  

@@ -12,7 +12,7 @@ aliases: ["Nester"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 131
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 131"
 ---
 # [Nester](2-Mechanics/CLI/bestiary/npc/nester-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 131*  

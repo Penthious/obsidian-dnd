@@ -11,7 +11,7 @@ aliases: ["Abyssal Wretch"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen's Tome of Foes p. 136, Baldur's Gate: Descent Into Avernus
+BookSource: "Mordenkainen's Tome of Foes p. 136, Baldur's Gate: Descent Into Avernus"
 ---
 # [Abyssal Wretch](2-Mechanics/CLI/bestiary/fiend/abyssal-wretch-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 136, Baldur's Gate: Descent Into Avernus*  

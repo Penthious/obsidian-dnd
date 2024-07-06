@@ -9,7 +9,7 @@ tags:
 aliases: ["Eyes of Minute Seeing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 168. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 168. Available in the SRD."
 ---
 # Eyes of Minute Seeing
 *Wondrous Item, minor, uncommon*  

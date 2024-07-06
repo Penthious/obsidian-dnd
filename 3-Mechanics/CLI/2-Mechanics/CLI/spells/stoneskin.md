@@ -33,7 +33,7 @@ classes:
 aliases: ["Stoneskin"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 278. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 278. Available in the SRD and the Basic Rules."
 ---
 # Stoneskin
 *4th-level, Abjuration*  

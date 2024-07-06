@@ -9,7 +9,7 @@ tags:
 aliases: ["Sovereign Glue"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 200. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 200. Available in the SRD."
 ---
 # Sovereign Glue
 *Wondrous Item, minor, legendary*  

@@ -11,7 +11,7 @@ aliases: ["Ancient Moonstone Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 211
+BookSource: "Fizban's Treasury of Dragons p. 211"
 ---
 # [Ancient Moonstone Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-moonstone-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 211*  

@@ -11,7 +11,7 @@ aliases: ["Crag Cat"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 240, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Storm King's Thunder p. 240, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Crag Cat](2-Mechanics/CLI/bestiary/monstrosity/crag-cat-skt.md)
 *Source: Storm King's Thunder p. 240, Icewind Dale: Rime of the Frostmaiden*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Scroll of Protection from Beasts"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199
+BookSource: "Dungeon Master's Guide p. 199"
 ---
 # Scroll of Protection from Beasts
 *Scroll, minor, rare*  

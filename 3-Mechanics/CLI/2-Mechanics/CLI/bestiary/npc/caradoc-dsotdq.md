@@ -12,7 +12,7 @@ aliases: ["Caradoc"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 193
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 193"
 ---
 # [Caradoc](2-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 193*  

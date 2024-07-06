@@ -9,7 +9,7 @@ tags:
 aliases: ["Mind Carapace Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Volo's Guide to Monsters p. 81
+BookSource: "Volo's Guide to Monsters p. 81"
 ---
 # Mind Carapace Armor
 *Generic Variant, uncommon (requires attunement by a specific individual)*  

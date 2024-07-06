@@ -12,7 +12,7 @@ aliases: ["Master Refrum"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 165
+BookSource: "Ghosts of Saltmarsh p. 165"
 ---
 # [Master Refrum](2-Mechanics/CLI/bestiary/npc/master-refrum-gos.md)
 *Source: Ghosts of Saltmarsh p. 165*  

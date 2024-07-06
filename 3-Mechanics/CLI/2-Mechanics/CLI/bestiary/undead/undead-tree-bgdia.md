@@ -11,7 +11,7 @@ aliases: ["Undead Tree"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 109
+BookSource: "Baldur's Gate: Descent Into Avernus p. 109"
 ---
 # [Undead Tree](2-Mechanics/CLI/bestiary/undead/undead-tree-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 109*  

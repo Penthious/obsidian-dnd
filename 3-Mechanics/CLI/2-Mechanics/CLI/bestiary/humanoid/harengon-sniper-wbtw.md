@@ -11,7 +11,7 @@ aliases: ["Harengon Sniper"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 235
+BookSource: "The Wild Beyond the Witchlight p. 235"
 ---
 # [Harengon Sniper](2-Mechanics/CLI/bestiary/humanoid/harengon-sniper-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 235*  

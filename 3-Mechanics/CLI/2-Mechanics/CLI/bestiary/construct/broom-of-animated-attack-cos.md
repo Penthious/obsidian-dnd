@@ -11,7 +11,7 @@ aliases: ["Broom of Animated Attack"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 226
+BookSource: "Curse of Strahd p. 226"
 ---
 # [Broom of Animated Attack](2-Mechanics/CLI/bestiary/construct/broom-of-animated-attack-cos.md)
 *Source: Curse of Strahd p. 226*  

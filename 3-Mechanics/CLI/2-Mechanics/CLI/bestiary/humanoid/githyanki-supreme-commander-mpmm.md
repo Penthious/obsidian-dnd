@@ -14,7 +14,7 @@ aliases: ["Githyanki Supreme Commander"]
 NoteIcon: monster
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206"
 ---
 # [Githyanki Supreme Commander](2-Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*  

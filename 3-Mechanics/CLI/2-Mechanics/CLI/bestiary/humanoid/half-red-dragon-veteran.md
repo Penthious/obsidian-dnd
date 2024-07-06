@@ -11,7 +11,7 @@ aliases: ["Half-Red Dragon Veteran"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Monster Manual p. 180, The Rise of Tiamat, Ghosts of Saltmarsh. Available in the SRD.
+BookSource: "Monster Manual p. 180, The Rise of Tiamat, Ghosts of Saltmarsh. Available in the SRD."
 ---
 # [Half-Red Dragon Veteran](2-Mechanics/CLI/bestiary/humanoid/half-red-dragon-veteran.md)
 *Source: Monster Manual p. 180, The Rise of Tiamat, Ghosts of Saltmarsh. Available in the SRD.*  

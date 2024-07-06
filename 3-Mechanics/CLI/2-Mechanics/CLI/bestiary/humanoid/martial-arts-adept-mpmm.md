@@ -12,7 +12,7 @@ aliases: ["Martial Arts Adept"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216"
 ---
 # [Martial Arts Adept](2-Mechanics/CLI/bestiary/humanoid/martial-arts-adept-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216*  

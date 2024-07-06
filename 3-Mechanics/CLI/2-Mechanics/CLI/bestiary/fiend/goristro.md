@@ -11,7 +11,7 @@ aliases: ["Goristro"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 59
+BookSource: "Monster Manual p. 59"
 ---
 # [Goristro](2-Mechanics/CLI/bestiary/fiend/goristro.md)
 *Source: Monster Manual p. 59*  

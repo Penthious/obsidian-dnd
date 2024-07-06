@@ -12,7 +12,7 @@ aliases: ["Ilvara Mizzrym"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 9
+BookSource: "Out of the Abyss p. 9"
 ---
 # [Ilvara Mizzrym](2-Mechanics/CLI/bestiary/npc/ilvara-mizzrym-oota.md)
 *Source: Out of the Abyss p. 9*  

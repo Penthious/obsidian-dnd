@@ -12,7 +12,7 @@ aliases: ["Quaggoth Spore Servant"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Quaggoth Spore Servant](2-Mechanics/CLI/bestiary/plant/quaggoth-spore-servant.md)
 *Source: Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden*  

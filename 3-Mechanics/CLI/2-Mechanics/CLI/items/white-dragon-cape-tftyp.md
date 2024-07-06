@@ -8,7 +8,7 @@ tags:
 aliases: ["White Dragon Cape"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 193
+BookSource: "Tales from the Yawning Portal p. 193"
 ---
 # White Dragon Cape
 *Other, unknown (magic)*  

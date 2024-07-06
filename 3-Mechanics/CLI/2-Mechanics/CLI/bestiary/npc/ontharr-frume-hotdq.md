@@ -12,7 +12,7 @@ aliases: ["Ontharr Frume"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 28
+BookSource: "Hoard of the Dragon Queen p. 28"
 ---
 # [Ontharr Frume](2-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 28*  

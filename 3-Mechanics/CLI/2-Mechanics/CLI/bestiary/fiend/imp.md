@@ -11,7 +11,7 @@ aliases: ["Imp"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 76, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 76, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Imp](2-Mechanics/CLI/bestiary/fiend/imp.md)
 *Source: Monster Manual p. 76, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD.*  

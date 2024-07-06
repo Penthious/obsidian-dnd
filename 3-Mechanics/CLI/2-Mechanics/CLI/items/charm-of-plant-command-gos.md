@@ -9,7 +9,7 @@ tags:
 aliases: ["Charm of Plant Command"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Ghosts of Saltmarsh p. 229
+BookSource: "Ghosts of Saltmarsh p. 229"
 ---
 # Charm of Plant Command
 *Wondrous Item, rare (requires attunement)*  

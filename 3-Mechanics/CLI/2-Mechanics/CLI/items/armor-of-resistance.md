@@ -10,7 +10,7 @@ tags:
 aliases: ["Armor of Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 162
+BookSource: "Dungeon Master's Guide p. 162"
 ---
 # Armor of Resistance
 *Generic Variant, major, rare (requires attunement)*  

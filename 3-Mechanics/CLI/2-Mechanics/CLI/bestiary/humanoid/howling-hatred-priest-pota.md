@@ -11,7 +11,7 @@ aliases: ["Howling Hatred Priest"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 190
+BookSource: "Princes of the Apocalypse p. 190"
 ---
 # [Howling Hatred Priest](2-Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota.md)
 *Source: Princes of the Apocalypse p. 190*  

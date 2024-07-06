@@ -12,7 +12,7 @@ aliases: ["Ekene-Afa"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 25
+BookSource: "Tomb of Annihilation p. 25"
 ---
 # [Ekene-Afa](2-Mechanics/CLI/bestiary/npc/ekene-afa-toa.md)
 *Source: Tomb of Annihilation p. 25*  

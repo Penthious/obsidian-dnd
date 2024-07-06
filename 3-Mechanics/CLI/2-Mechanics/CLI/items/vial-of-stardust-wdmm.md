@@ -8,7 +8,7 @@ tags:
 aliases: ["Vial of Stardust"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 251
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 251"
 ---
 # Vial of Stardust
 *Other, unknown*  

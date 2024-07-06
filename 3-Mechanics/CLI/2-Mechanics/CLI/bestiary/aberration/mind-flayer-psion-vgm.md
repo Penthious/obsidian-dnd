@@ -12,7 +12,7 @@ aliases: ["Mind Flayer Psion"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 71
+BookSource: "Volo's Guide to Monsters p. 71"
 ---
 # [Mind Flayer Psion](2-Mechanics/CLI/bestiary/aberration/mind-flayer-psion-vgm.md)
 *Source: Volo's Guide to Monsters p. 71*  

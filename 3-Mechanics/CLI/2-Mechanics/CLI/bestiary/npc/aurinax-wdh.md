@@ -12,7 +12,7 @@ aliases: ["Aurinax"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 194
+BookSource: "Waterdeep: Dragon Heist p. 194"
 ---
 # [Aurinax](2-Mechanics/CLI/bestiary/npc/aurinax-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 194*  

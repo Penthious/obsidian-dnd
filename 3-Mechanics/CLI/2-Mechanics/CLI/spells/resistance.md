@@ -21,7 +21,7 @@ classes:
 aliases: ["Resistance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 272. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 272. Available in the SRD and the Basic Rules."
 ---
 # Resistance
 *cantrip, Abjuration*  

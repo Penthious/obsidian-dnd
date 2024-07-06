@@ -13,7 +13,7 @@ aliases: ["Danika Dorakova"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 98
+BookSource: "Curse of Strahd p. 98"
 ---
 # [Danika Dorakova](2-Mechanics/CLI/bestiary/npc/danika-dorakova-cos.md)
 *Source: Curse of Strahd p. 98*  

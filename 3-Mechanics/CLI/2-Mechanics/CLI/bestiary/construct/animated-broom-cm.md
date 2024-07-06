@@ -11,7 +11,7 @@ aliases: ["Animated Broom"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 20
+BookSource: "Candlekeep Mysteries p. 20"
 ---
 # [Animated Broom](2-Mechanics/CLI/bestiary/construct/animated-broom-cm.md)
 *Source: Candlekeep Mysteries p. 20*  

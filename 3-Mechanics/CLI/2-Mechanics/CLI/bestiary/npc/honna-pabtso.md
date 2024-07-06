@@ -12,7 +12,7 @@ aliases: ["Honna"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 110
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 110"
 ---
 # [Honna](2-Mechanics/CLI/bestiary/npc/honna-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 110*  

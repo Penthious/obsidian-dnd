@@ -12,7 +12,7 @@ aliases: ["Arrant Quill"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 157
+BookSource: "Candlekeep Mysteries p. 157"
 ---
 # [Arrant Quill](2-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md)
 *Source: Candlekeep Mysteries p. 157*  

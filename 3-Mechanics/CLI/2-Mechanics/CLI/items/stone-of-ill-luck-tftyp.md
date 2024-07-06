@@ -9,7 +9,7 @@ tags:
 aliases: ["Stone of Ill Luck"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Stone of Ill Luck
 *Wondrous Item, uncommon (requires attunement)*  

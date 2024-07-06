@@ -12,7 +12,7 @@ aliases: ["Fazrian"]
 NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 275
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 275"
 ---
 # [Fazrian](2-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 275*  

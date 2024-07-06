@@ -12,7 +12,7 @@ aliases: ["Iron Spider"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 165
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 165"
 ---
 # [Iron Spider](2-Mechanics/CLI/bestiary/npc/iron-spider-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 165*  

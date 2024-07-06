@@ -11,7 +11,7 @@ aliases: ["Eldritch Horror Hatchling"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 24
+BookSource: "Keys from the Golden Vault p. 24"
 ---
 # [Eldritch Horror Hatchling](2-Mechanics/CLI/bestiary/monstrosity/eldritch-horror-hatchling-kftgv.md)
 *Source: Keys from the Golden Vault p. 24*  

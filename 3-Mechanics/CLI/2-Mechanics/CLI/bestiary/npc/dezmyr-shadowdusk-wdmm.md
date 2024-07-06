@@ -12,7 +12,7 @@ aliases: ["Dezmyr Shadowdusk"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 287
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 287"
 ---
 # [Dezmyr Shadowdusk](2-Mechanics/CLI/bestiary/npc/dezmyr-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 287*  

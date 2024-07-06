@@ -12,7 +12,7 @@ aliases: ["Themberchaud"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 53
+BookSource: "Out of the Abyss p. 53"
 ---
 # [Themberchaud](2-Mechanics/CLI/bestiary/npc/themberchaud-oota.md)
 *Source: Out of the Abyss p. 53*  

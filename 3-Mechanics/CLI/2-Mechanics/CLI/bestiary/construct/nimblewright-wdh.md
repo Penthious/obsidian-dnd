@@ -11,7 +11,7 @@ aliases: ["Nimblewright"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 212
+BookSource: "Waterdeep: Dragon Heist p. 212"
 ---
 # [Nimblewright](2-Mechanics/CLI/bestiary/construct/nimblewright-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 212*  

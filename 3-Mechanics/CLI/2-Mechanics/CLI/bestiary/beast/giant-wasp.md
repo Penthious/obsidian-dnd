@@ -14,7 +14,7 @@ aliases: ["Giant Wasp"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 329, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 329, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Giant Wasp](2-Mechanics/CLI/bestiary/beast/giant-wasp.md)
 *Source: Monster Manual p. 329, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

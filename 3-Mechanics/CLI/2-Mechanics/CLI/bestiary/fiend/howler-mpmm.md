@@ -15,7 +15,7 @@ aliases: ["Howler"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210"
 ---
 # [Howler](2-Mechanics/CLI/bestiary/fiend/howler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210*  

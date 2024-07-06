@@ -17,7 +17,7 @@ classes:
 aliases: ["Dragon's Breath"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 154
+BookSource: "Xanathar's Guide to Everything p. 154"
 ---
 # Dragon's Breath
 *2nd-level, Transmutation*  

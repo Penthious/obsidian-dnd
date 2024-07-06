@@ -29,7 +29,7 @@ classes:
 aliases: ["Wall of Fire"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 285. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 285. Available in the SRD and the Basic Rules."
 ---
 # Wall of Fire
 *4th-level, Evocation*  

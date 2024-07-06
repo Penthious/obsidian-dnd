@@ -11,7 +11,7 @@ aliases: ["Lesser Death Dragon"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 195
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 195"
 ---
 # [Lesser Death Dragon](2-Mechanics/CLI/bestiary/undead/lesser-death-dragon-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 195*  

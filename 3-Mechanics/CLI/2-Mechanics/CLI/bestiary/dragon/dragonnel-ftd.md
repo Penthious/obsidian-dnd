@@ -11,7 +11,7 @@ aliases: ["Dragonnel"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 190
+BookSource: "Fizban's Treasury of Dragons p. 190"
 ---
 # [Dragonnel](2-Mechanics/CLI/bestiary/dragon/dragonnel-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 190*  

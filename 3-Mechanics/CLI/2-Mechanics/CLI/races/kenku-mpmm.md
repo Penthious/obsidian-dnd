@@ -7,7 +7,7 @@ tags:
 aliases: ["Kenku"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 24
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 24"
 ---
 # Kenku
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 24*  

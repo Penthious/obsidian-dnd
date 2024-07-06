@@ -12,7 +12,7 @@ aliases: ["Meera Raheer"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 7
+BookSource: "Keys from the Golden Vault p. 7"
 ---
 # [Meera Raheer](2-Mechanics/CLI/bestiary/npc/meera-raheer-kftgv.md)
 *Source: Keys from the Golden Vault p. 7*  

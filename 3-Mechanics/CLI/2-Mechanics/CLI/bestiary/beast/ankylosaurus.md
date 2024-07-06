@@ -12,7 +12,7 @@ aliases: ["Ankylosaurus"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 79, Tomb of Annihilation. Available in the Basic Rules.
+BookSource: "Monster Manual p. 79, Tomb of Annihilation. Available in the Basic Rules."
 ---
 # [Ankylosaurus](2-Mechanics/CLI/bestiary/beast/ankylosaurus.md)
 *Source: Monster Manual p. 79, Tomb of Annihilation. Available in the Basic Rules.*  

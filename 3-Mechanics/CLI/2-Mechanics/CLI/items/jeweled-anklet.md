@@ -7,7 +7,7 @@ tags:
 aliases: ["Jeweled anklet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Jeweled anklet
 *Art object*  

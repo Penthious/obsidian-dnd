@@ -27,7 +27,7 @@ classes:
 aliases: ["Darkness"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 230. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 230. Available in the SRD and the Basic Rules."
 ---
 # Darkness
 *2nd-level, Evocation*  

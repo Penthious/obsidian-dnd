@@ -12,7 +12,7 @@ aliases: ["Manafret Cherryport"]
 NoteIcon: npc
 BestiaryType: humanoid (Lightfoot halfling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 149
+BookSource: "Waterdeep: Dragon Heist p. 149"
 ---
 # [Manafret Cherryport](2-Mechanics/CLI/bestiary/npc/manafret-cherryport-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 149*  

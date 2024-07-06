@@ -12,7 +12,7 @@ aliases: ["Allosaurus"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 79, Tomb of Annihilation, Waterdeep: Dragon Heist, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the Basic Rules.
+BookSource: "Monster Manual p. 79, Tomb of Annihilation, Waterdeep: Dragon Heist, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the Basic Rules."
 ---
 # [Allosaurus](2-Mechanics/CLI/bestiary/beast/allosaurus.md)
 *Source: Monster Manual p. 79, Tomb of Annihilation, Waterdeep: Dragon Heist, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the Basic Rules.*  

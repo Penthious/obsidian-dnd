@@ -21,7 +21,7 @@ classes:
 aliases: ["Major Image"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 258. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 258. Available in the SRD and the Basic Rules."
 ---
 # Major Image
 *3rd-level, Illusion*  

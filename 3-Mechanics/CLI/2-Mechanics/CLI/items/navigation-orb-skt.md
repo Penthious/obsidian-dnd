@@ -9,7 +9,7 @@ tags:
 aliases: ["Navigation Orb"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 235
+BookSource: "Storm King's Thunder p. 235"
 ---
 # Navigation Orb
 *Wondrous Item, very rare (requires attunement)*  

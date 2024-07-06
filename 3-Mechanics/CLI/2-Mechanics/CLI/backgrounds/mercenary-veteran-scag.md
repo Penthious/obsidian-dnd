@@ -7,7 +7,7 @@ tags:
 aliases: ["Mercenary Veteran"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 152
+BookSource: "Sword Coast Adventurer's Guide p. 152"
 ---
 # Mercenary Veteran
 *Source: Sword Coast Adventurer's Guide p. 152*  

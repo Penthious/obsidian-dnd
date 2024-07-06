@@ -12,7 +12,7 @@ aliases: ["Faroul"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 34
+BookSource: "Tomb of Annihilation p. 34"
 ---
 # [Faroul](2-Mechanics/CLI/bestiary/npc/faroul-toa.md)
 *Source: Tomb of Annihilation p. 34*  

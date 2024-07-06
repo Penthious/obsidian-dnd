@@ -12,7 +12,7 @@ aliases: ["Kellikilli"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 121
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 121"
 ---
 # [Kellikilli](2-Mechanics/CLI/bestiary/npc/kellikilli-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 121*  

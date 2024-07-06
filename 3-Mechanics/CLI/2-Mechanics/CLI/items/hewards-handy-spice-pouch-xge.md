@@ -9,7 +9,7 @@ tags:
 aliases: ["Heward's Handy Spice Pouch"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 137
+BookSource: "Xanathar's Guide to Everything p. 137"
 ---
 # Heward's Handy Spice Pouch
 *Wondrous Item, minor, common*  

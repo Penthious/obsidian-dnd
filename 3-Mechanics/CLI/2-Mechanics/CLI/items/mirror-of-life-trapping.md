@@ -9,7 +9,7 @@ tags:
 aliases: ["Mirror of Life Trapping"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 181. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 181. Available in the SRD."
 ---
 # Mirror of Life Trapping
 *Wondrous Item, major, very rare*  

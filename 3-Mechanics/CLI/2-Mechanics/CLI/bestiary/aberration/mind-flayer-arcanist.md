@@ -12,7 +12,7 @@ aliases: ["Mind Flayer Arcanist"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 222, Waterdeep: Dungeon of the Mad Mage
+BookSource: "Monster Manual p. 222, Waterdeep: Dungeon of the Mad Mage"
 ---
 # [Mind Flayer Arcanist](2-Mechanics/CLI/bestiary/aberration/mind-flayer-arcanist.md)
 *Source: Monster Manual p. 222, Waterdeep: Dungeon of the Mad Mage*  

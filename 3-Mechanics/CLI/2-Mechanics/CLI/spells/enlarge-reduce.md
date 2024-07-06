@@ -19,7 +19,7 @@ classes:
 aliases: ["Enlarge/Reduce"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 237. Available in the SRD.
+BookSource: "Player's Handbook p. 237. Available in the SRD."
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

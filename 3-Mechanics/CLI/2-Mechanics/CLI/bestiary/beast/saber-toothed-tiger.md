@@ -13,7 +13,7 @@ aliases: ["Saber-Toothed Tiger"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 336, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 336, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Saber-Toothed Tiger](2-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md)
 *Source: Monster Manual p. 336, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

@@ -11,7 +11,7 @@ aliases: ["Quandrix Apprentice"]
 NoteIcon: monster
 BestiaryType: humanoid (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 208
+BookSource: "Strixhaven: A Curriculum of Chaos p. 208"
 ---
 # [Quandrix Apprentice](2-Mechanics/CLI/bestiary/humanoid/quandrix-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 208*  

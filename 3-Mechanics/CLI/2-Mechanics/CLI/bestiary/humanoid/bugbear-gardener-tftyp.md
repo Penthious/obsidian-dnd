@@ -11,7 +11,7 @@ aliases: ["Bugbear Gardener"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 29
+BookSource: "Tales from the Yawning Portal p. 29"
 ---
 # [Bugbear Gardener](2-Mechanics/CLI/bestiary/humanoid/bugbear-gardener-tftyp.md)
 *Source: Tales from the Yawning Portal p. 29*  

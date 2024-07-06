@@ -11,7 +11,7 @@ aliases: ["Clockwork Defender"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 85
+BookSource: "Keys from the Golden Vault p. 85"
 ---
 # [Clockwork Defender](2-Mechanics/CLI/bestiary/construct/clockwork-defender-kftgv.md)
 *Source: Keys from the Golden Vault p. 85*  

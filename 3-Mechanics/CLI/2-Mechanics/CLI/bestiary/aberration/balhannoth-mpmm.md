@@ -14,7 +14,7 @@ aliases: ["Balhannoth"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119"
 ---
 # [Balhannoth](2-Mechanics/CLI/bestiary/aberration/balhannoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55, Mordenkainen's Tome of Foes p. 119*  

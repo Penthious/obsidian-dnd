@@ -9,7 +9,7 @@ tags:
 aliases: ["Goggles of Night"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 172. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 172. Available in the SRD and the Basic Rules."
 ---
 # Goggles of Night
 *Wondrous Item, minor, uncommon*  

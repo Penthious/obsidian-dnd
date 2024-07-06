@@ -12,7 +12,7 @@ aliases: ["Yorn"]
 NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 150
+BookSource: "Waterdeep: Dragon Heist p. 150"
 ---
 # [Yorn](2-Mechanics/CLI/bestiary/npc/yorn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 150*  

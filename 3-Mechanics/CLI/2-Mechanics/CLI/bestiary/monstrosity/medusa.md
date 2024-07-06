@@ -12,7 +12,7 @@ aliases: ["Medusa"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 214, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 214, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Medusa](2-Mechanics/CLI/bestiary/monstrosity/medusa.md)
 *Source: Monster Manual p. 214, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

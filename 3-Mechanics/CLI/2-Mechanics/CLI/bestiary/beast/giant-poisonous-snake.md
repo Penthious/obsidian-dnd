@@ -17,7 +17,7 @@ aliases: ["Giant Poisonous Snake"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 327, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 327, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Giant Poisonous Snake](2-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md)
 *Source: Monster Manual p. 327, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

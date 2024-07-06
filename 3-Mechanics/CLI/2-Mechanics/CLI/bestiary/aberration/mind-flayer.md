@@ -12,7 +12,7 @@ aliases: ["Mind Flayer"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 222, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 222, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Mind Flayer](2-Mechanics/CLI/bestiary/aberration/mind-flayer.md)
 *Source: Monster Manual p. 222, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

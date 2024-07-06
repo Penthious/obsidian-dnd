@@ -11,7 +11,7 @@ aliases: ["Mongrelfolk"]
 NoteIcon: monster
 BestiaryType: humanoid (mongrelfolk)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 234
+BookSource: "Curse of Strahd p. 234"
 ---
 # [Mongrelfolk](2-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md)
 *Source: Curse of Strahd p. 234*  

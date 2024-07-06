@@ -11,7 +11,7 @@ aliases: ["Ice Spider Queen"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 128
+BookSource: "Storm King's Thunder p. 128"
 ---
 # [Ice Spider Queen](2-Mechanics/CLI/bestiary/beast/ice-spider-queen-skt.md)
 *Source: Storm King's Thunder p. 128*  

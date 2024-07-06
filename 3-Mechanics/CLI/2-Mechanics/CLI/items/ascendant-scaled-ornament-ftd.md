@@ -9,7 +9,7 @@ tags:
 aliases: ["Ascendant Scaled Ornament"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 27
+BookSource: "Fizban's Treasury of Dragons p. 27"
 ---
 # Ascendant Scaled Ornament
 *Wondrous Item, legendary (requires attunement)*  

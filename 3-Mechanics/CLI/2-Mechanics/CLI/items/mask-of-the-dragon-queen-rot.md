@@ -9,7 +9,7 @@ tags:
 aliases: ["Mask of the Dragon Queen"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Rise of Tiamat p. 94
+BookSource: "The Rise of Tiamat p. 94"
 ---
 # Mask of the Dragon Queen
 *Wondrous Item, artifact (requires attunement)*  

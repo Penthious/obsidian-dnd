@@ -11,7 +11,7 @@ aliases: ["Death's Head"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 232
+BookSource: "Van Richten's Guide to Ravenloft p. 232"
 ---
 # [Death's Head](2-Mechanics/CLI/bestiary/undead/deaths-head-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 232*  

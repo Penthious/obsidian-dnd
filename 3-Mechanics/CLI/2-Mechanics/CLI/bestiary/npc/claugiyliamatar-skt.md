@@ -12,7 +12,7 @@ aliases: ["Claugiyliamatar"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 96
+BookSource: "Storm King's Thunder p. 96"
 ---
 # [Claugiyliamatar](2-Mechanics/CLI/bestiary/npc/claugiyliamatar-skt.md)
 *Source: Storm King's Thunder p. 96*  

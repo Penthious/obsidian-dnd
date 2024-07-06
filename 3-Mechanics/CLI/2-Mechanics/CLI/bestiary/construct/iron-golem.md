@@ -11,7 +11,7 @@ aliases: ["Iron Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 170, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.
+BookSource: "Monster Manual p. 170, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [Iron Golem](2-Mechanics/CLI/bestiary/construct/iron-golem.md)
 *Source: Monster Manual p. 170, Curse of Strahd, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Goodberry"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 246. Available in the SRD.
+BookSource: "Player's Handbook p. 246. Available in the SRD."
 ---
 # Goodberry
 *1st-level, Transmutation*  

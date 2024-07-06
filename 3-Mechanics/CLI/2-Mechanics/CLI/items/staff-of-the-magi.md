@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of the Magi"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 203. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 203. Available in the SRD."
 ---
 # Staff of the Magi
 *Staff, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

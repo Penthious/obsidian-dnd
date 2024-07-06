@@ -10,7 +10,7 @@ tags:
 aliases: ["Bracers of Defense"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 156. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 156. Available in the SRD."
 ---
 # Bracers of Defense
 *Wondrous Item, major, rare (requires attunement)*  

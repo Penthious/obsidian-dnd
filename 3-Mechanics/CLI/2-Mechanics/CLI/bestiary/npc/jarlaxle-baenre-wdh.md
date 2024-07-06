@@ -12,7 +12,7 @@ aliases: ["Jarlaxle Baenre"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 206
+BookSource: "Waterdeep: Dragon Heist p. 206"
 ---
 # [Jarlaxle Baenre](2-Mechanics/CLI/bestiary/npc/jarlaxle-baenre-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 206*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Silvered Ammunition"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 148. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 148. Available in the Basic Rules."
 ---
 # Silvered Ammunition
 *Generic Variant, minor, unknown*  

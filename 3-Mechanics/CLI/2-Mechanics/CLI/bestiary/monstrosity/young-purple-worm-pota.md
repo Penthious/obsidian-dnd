@@ -11,7 +11,7 @@ aliases: ["Young Purple Worm"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 113
+BookSource: "Princes of the Apocalypse p. 113"
 ---
 # [Young Purple Worm](2-Mechanics/CLI/bestiary/monstrosity/young-purple-worm-pota.md)
 *Source: Princes of the Apocalypse p. 113*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Haunted One"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209
+BookSource: "Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209"
 ---
 # Haunted One
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*  

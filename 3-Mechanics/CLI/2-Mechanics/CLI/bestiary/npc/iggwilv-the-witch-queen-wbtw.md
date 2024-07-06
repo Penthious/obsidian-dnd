@@ -12,7 +12,7 @@ aliases: ["Iggwilv the Witch Queen"]
 NoteIcon: npc
 BestiaryType: fey (wizard)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 205
+BookSource: "The Wild Beyond the Witchlight p. 205"
 ---
 # [Iggwilv the Witch Queen](2-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 205*  

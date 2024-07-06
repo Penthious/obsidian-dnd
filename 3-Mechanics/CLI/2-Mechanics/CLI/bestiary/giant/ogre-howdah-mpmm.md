@@ -14,7 +14,7 @@ aliases: ["Ogre Howdah"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221"
 ---
 # [Ogre Howdah](2-Mechanics/CLI/bestiary/giant/ogre-howdah-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  

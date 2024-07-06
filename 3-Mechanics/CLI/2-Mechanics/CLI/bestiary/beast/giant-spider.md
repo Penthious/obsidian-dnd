@@ -16,7 +16,7 @@ aliases: ["Giant Spider"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 328, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 328, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Giant Spider](2-Mechanics/CLI/bestiary/beast/giant-spider.md)
 *Source: Monster Manual p. 328, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

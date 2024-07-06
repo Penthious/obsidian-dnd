@@ -12,7 +12,7 @@ aliases: ["Veldyskar"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 151
+BookSource: "Out of the Abyss p. 151"
 ---
 # [Veldyskar](2-Mechanics/CLI/bestiary/npc/veldyskar-oota.md)
 *Source: Out of the Abyss p. 151*  

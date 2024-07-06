@@ -13,7 +13,7 @@ classes:
 aliases: ["Danse Macabre"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 153
+BookSource: "Xanathar's Guide to Everything p. 153"
 ---
 # Danse Macabre
 *5th-level, Necromancy*  

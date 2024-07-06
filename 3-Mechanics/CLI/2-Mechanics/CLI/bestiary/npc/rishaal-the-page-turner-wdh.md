@@ -12,7 +12,7 @@ aliases: ["Rishaal the Page-Turner"]
 NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 33
+BookSource: "Waterdeep: Dragon Heist p. 33"
 ---
 # [Rishaal the Page-Turner](2-Mechanics/CLI/bestiary/npc/rishaal-the-page-turner-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 33*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Crystalline Chronicle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 124
+BookSource: "Tasha's Cauldron of Everything p. 124"
 ---
 # Crystalline Chronicle
 *Wondrous Item, very rare (requires attunement by a wizard)*  

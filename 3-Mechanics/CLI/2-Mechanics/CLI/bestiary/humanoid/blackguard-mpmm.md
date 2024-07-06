@@ -13,7 +13,7 @@ aliases: ["Blackguard"]
 NoteIcon: monster
 BestiaryType: humanoid (paladin)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211"
 ---
 # [Blackguard](2-Mechanics/CLI/bestiary/humanoid/blackguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  

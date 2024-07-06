@@ -13,7 +13,7 @@ aliases: ["Fenthaza"]
 NoteIcon: npc
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 113
+BookSource: "Tomb of Annihilation p. 113"
 ---
 # [Fenthaza](2-Mechanics/CLI/bestiary/npc/fenthaza-toa.md)
 *Source: Tomb of Annihilation p. 113*  

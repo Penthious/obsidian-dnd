@@ -9,7 +9,7 @@ tags:
 aliases: ["Horn of Blasting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 174. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 174. Available in the SRD."
 ---
 # Horn of Blasting
 *Wondrous Item, major, rare*  

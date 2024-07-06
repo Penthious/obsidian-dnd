@@ -12,7 +12,7 @@ aliases: ["Barnacle Bess"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 220
+BookSource: "Ghosts of Saltmarsh p. 220"
 ---
 # [Barnacle Bess](2-Mechanics/CLI/bestiary/npc/barnacle-bess-gos.md)
 *Source: Ghosts of Saltmarsh p. 220*  

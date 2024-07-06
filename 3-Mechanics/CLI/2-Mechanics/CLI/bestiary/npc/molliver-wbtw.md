@@ -12,7 +12,7 @@ aliases: ["Molliver"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 226
+BookSource: "The Wild Beyond the Witchlight p. 226"
 ---
 # [Molliver](2-Mechanics/CLI/bestiary/npc/molliver-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 226*  

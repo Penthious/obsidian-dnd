@@ -13,7 +13,7 @@ aliases: ["Young Silver Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 118, Storm King's Thunder, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 118, Storm King's Thunder, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Young Silver Dragon](2-Mechanics/CLI/bestiary/dragon/young-silver-dragon.md)
 *Source: Monster Manual p. 118, Storm King's Thunder, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

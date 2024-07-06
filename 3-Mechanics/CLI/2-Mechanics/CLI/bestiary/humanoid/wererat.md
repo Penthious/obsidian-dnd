@@ -14,7 +14,7 @@ aliases: ["Wererat"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 209, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 209, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Wererat](2-Mechanics/CLI/bestiary/humanoid/wererat.md)
 *Source: Monster Manual p. 209, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries. Available in the SRD.*  

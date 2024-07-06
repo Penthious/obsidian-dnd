@@ -11,7 +11,7 @@ aliases: ["Duergar Keeper of the Flame"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 226
+BookSource: "Out of the Abyss p. 226"
 ---
 # [Duergar Keeper of the Flame](2-Mechanics/CLI/bestiary/humanoid/duergar-keeper-of-the-flame-oota.md)
 *Source: Out of the Abyss p. 226*  

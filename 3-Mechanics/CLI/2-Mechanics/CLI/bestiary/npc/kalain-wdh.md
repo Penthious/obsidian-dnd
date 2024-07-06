@@ -12,7 +12,7 @@ aliases: ["Kalain"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 89
+BookSource: "Waterdeep: Dragon Heist p. 89"
 ---
 # [Kalain](2-Mechanics/CLI/bestiary/npc/kalain-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 89*  

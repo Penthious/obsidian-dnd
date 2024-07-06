@@ -11,7 +11,7 @@ tags:
 aliases: ["Junky +1 Dagger"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 77
+BookSource: "Tales from the Yawning Portal p. 77"
 ---
 # Junky +1 Dagger
 *Melee Weapon, unknown (magic)*  

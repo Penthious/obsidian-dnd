@@ -8,7 +8,7 @@ tags:
 aliases: ["Orcus Figurine"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 44
+BookSource: "Candlekeep Mysteries p. 44"
 ---
 # Orcus Figurine
 *Wondrous Item, unknown (magic)*  

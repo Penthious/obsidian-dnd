@@ -11,7 +11,7 @@ aliases: ["Red Greatwyrm"]
 NoteIcon: monster
 BestiaryType: dragon (chromatic)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 168
+BookSource: "Fizban's Treasury of Dragons p. 168"
 ---
 # [Red Greatwyrm](2-Mechanics/CLI/bestiary/dragon/red-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  

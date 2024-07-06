@@ -11,7 +11,7 @@ aliases: ["Animated Halberd"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 59
+BookSource: "Curse of Strahd p. 59"
 ---
 # [Animated Halberd](2-Mechanics/CLI/bestiary/construct/animated-halberd-cos.md)
 *Source: Curse of Strahd p. 59*  

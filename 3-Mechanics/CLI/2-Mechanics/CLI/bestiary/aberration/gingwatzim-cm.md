@@ -11,7 +11,7 @@ aliases: ["Gingwatzim"]
 NoteIcon: monster
 BestiaryType: aberration (shapechanger)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 27
+BookSource: "Candlekeep Mysteries p. 27"
 ---
 # [Gingwatzim](2-Mechanics/CLI/bestiary/aberration/gingwatzim-cm.md)
 *Source: Candlekeep Mysteries p. 27*  

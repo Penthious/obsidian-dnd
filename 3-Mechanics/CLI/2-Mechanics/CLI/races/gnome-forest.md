@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnome (Forest)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 37
+BookSource: "Player's Handbook p. 37"
 ---
 # Gnome (Forest)
 *Source: Player's Handbook p. 37*  

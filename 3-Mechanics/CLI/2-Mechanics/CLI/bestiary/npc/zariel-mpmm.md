@@ -12,7 +12,7 @@ aliases: ["Zariel"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180"
 ---
 # [Zariel](2-Mechanics/CLI/bestiary/npc/zariel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180*  

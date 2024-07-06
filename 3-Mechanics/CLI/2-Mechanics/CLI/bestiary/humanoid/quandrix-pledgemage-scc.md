@@ -11,7 +11,7 @@ aliases: ["Quandrix Pledgemage"]
 NoteIcon: monster
 BestiaryType: humanoid (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 208
+BookSource: "Strixhaven: A Curriculum of Chaos p. 208"
 ---
 # [Quandrix Pledgemage](2-Mechanics/CLI/bestiary/humanoid/quandrix-pledgemage-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 208*  

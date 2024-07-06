@@ -10,7 +10,7 @@ tags:
 aliases: ["Potion of Poison"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD."
 ---
 # Potion of Poison
 *Potion, minor, uncommon, poison*  

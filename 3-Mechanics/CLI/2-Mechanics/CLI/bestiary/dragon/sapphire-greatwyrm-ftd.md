@@ -11,7 +11,7 @@ aliases: ["Sapphire Greatwyrm"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 201
+BookSource: "Fizban's Treasury of Dragons p. 201"
 ---
 # [Sapphire Greatwyrm](2-Mechanics/CLI/bestiary/dragon/sapphire-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  

@@ -14,7 +14,7 @@ aliases: ["Yuan-ti Mind Whisperer"]
 NoteIcon: monster
 BestiaryType: monstrosity (warlock)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204"
 ---
 # [Yuan-ti Mind Whisperer](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-mind-whisperer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*  

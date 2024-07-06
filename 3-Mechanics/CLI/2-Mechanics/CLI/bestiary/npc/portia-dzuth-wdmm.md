@@ -12,7 +12,7 @@ aliases: ["Portia Dzuth"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 239
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 239"
 ---
 # [Portia Dzuth](2-Mechanics/CLI/bestiary/npc/portia-dzuth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 239*  

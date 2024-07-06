@@ -12,7 +12,7 @@ aliases: ["Sir Braford"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 243
+BookSource: "Tales from the Yawning Portal p. 243"
 ---
 # [Sir Braford](2-Mechanics/CLI/bestiary/npc/sir-braford-tftyp.md)
 *Source: Tales from the Yawning Portal p. 243*  

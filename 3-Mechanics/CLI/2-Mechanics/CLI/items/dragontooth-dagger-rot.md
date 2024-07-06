@@ -11,7 +11,7 @@ tags:
 aliases: ["Dragontooth Dagger"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Rise of Tiamat p. 94
+BookSource: "The Rise of Tiamat p. 94"
 ---
 # Dragontooth Dagger
 *Melee Weapon, rare*  

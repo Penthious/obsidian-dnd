@@ -11,7 +11,7 @@ aliases: ["Sea Elf Scout"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 114
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 114"
 ---
 # [Sea Elf Scout](2-Mechanics/CLI/bestiary/humanoid/sea-elf-scout-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 114*  

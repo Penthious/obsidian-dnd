@@ -13,7 +13,7 @@ tags:
 aliases: ["Silver Sword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mordenkainen's Tome of Foes p. 89
+BookSource: "Mordenkainen's Tome of Foes p. 89"
 ---
 # Silver Sword
 *Melee Weapon, major, unknown (magic) (requires attunement by a creature that has psionic ability)*  

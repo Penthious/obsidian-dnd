@@ -9,7 +9,7 @@ tags:
 aliases: ["Vicious Weapon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 209. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 209. Available in the SRD."
 ---
 # Vicious Weapon
 *Generic Variant, major, rare*  

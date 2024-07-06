@@ -12,7 +12,7 @@ aliases: ["Trapper"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194"
 ---
 # [Trapper](2-Mechanics/CLI/bestiary/monstrosity/trapper-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194*  

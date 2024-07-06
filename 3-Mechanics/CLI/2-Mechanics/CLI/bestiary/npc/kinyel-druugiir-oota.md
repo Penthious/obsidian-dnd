@@ -12,7 +12,7 @@ aliases: ["Kinyel Druu'giir"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 134
+BookSource: "Out of the Abyss p. 134"
 ---
 # [Kinyel Druu'giir](2-Mechanics/CLI/bestiary/npc/kinyel-druugiir-oota.md)
 *Source: Out of the Abyss p. 134*  

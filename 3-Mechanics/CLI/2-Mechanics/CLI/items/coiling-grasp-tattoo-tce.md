@@ -9,7 +9,7 @@ tags:
 aliases: ["Coiling Grasp Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 123
+BookSource: "Tasha's Cauldron of Everything p. 123"
 ---
 # Coiling Grasp Tattoo
 *Wondrous Item, uncommon (requires attunement)*  

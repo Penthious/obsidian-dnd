@@ -8,7 +8,7 @@ tags:
 aliases: ["Shatterstick"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 99
+BookSource: "Baldur's Gate: Descent Into Avernus p. 99"
 ---
 # Shatterstick
 *Other, unknown*  

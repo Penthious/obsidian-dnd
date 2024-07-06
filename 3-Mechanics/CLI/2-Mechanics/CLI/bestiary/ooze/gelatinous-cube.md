@@ -12,7 +12,7 @@ aliases: ["Gelatinous Cube"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Monster Manual p. 242, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 242, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Gelatinous Cube](2-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md)
 *Source: Monster Manual p. 242, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD.*  

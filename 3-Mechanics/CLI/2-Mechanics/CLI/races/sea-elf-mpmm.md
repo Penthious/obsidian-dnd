@@ -7,7 +7,7 @@ tags:
 aliases: ["Sea Elf"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 30
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 30"
 ---
 # Sea Elf
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 30*  

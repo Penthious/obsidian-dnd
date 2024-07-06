@@ -12,7 +12,7 @@ aliases: ["Iriad"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 212
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 212"
 ---
 # [Iriad](2-Mechanics/CLI/bestiary/npc/iriad-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 212*  

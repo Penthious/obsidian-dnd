@@ -11,7 +11,7 @@ aliases: ["Elder Giant Lizard"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 176
+BookSource: "Tales from the Yawning Portal p. 176"
 ---
 # [Elder Giant Lizard](2-Mechanics/CLI/bestiary/beast/elder-giant-lizard-tftyp.md)
 *Source: Tales from the Yawning Portal p. 176*  

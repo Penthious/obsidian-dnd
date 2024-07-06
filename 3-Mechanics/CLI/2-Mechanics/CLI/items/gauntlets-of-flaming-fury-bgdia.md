@@ -9,7 +9,7 @@ tags:
 aliases: ["Gauntlets of Flaming Fury"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 223
+BookSource: "Baldur's Gate: Descent Into Avernus p. 223"
 ---
 # Gauntlets of Flaming Fury
 *Wondrous Item, rare (requires attunement)*  

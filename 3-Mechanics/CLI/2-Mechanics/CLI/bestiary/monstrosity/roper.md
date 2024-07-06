@@ -12,7 +12,7 @@ aliases: ["Roper"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 261, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 261, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Roper](2-Mechanics/CLI/bestiary/monstrosity/roper.md)
 *Source: Monster Manual p. 261, Hoard of the Dragon Queen, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

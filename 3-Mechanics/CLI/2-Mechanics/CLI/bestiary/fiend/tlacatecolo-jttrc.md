@@ -11,7 +11,7 @@ aliases: ["Tlacatecolo"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 65
+BookSource: "Journeys through the Radiant Citadel p. 65"
 ---
 # [Tlacatecolo](2-Mechanics/CLI/bestiary/fiend/tlacatecolo-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 65*  

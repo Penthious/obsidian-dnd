@@ -11,7 +11,7 @@ aliases: ["Ghostblade Eidolon"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 222
+BookSource: "Mythic Odysseys of Theros p. 222"
 ---
 # [Ghostblade Eidolon](2-Mechanics/CLI/bestiary/undead/ghostblade-eidolon-mot.md)
 *Source: Mythic Odysseys of Theros p. 222*  

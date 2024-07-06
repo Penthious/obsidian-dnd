@@ -13,7 +13,7 @@ aliases: ["Winter Eladrin"]
 NoteIcon: monster
 BestiaryType: fey (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197"
 ---
 # [Winter Eladrin](2-Mechanics/CLI/bestiary/fey/winter-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  

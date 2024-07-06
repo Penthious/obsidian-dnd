@@ -12,7 +12,7 @@ aliases: ["Curran Corvalin"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 158
+BookSource: "Tales from the Yawning Portal p. 158"
 ---
 # [Curran Corvalin](2-Mechanics/CLI/bestiary/npc/curran-corvalin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

@@ -25,7 +25,7 @@ classes:
 aliases: ["Bestow Curse"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 218. Available in the SRD.
+BookSource: "Player's Handbook p. 218. Available in the SRD."
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

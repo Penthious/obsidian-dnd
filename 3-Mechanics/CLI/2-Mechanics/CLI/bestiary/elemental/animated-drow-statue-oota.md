@@ -11,7 +11,7 @@ aliases: ["Animated Drow Statue"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 96
+BookSource: "Out of the Abyss p. 96"
 ---
 # [Animated Drow Statue](2-Mechanics/CLI/bestiary/elemental/animated-drow-statue-oota.md)
 *Source: Out of the Abyss p. 96*  

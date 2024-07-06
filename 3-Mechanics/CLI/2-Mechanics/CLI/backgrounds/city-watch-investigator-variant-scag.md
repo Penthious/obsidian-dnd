@@ -7,7 +7,7 @@ tags:
 aliases: ["City Watch (Investigator) (Variant)"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 145
+BookSource: "Sword Coast Adventurer's Guide p. 145"
 ---
 # City Watch (Investigator) (Variant)
 *Source: Sword Coast Adventurer's Guide p. 145*  

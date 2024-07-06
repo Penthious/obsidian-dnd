@@ -9,7 +9,7 @@ tags:
 aliases: ["+1 Arcane Grimoire"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 120
+BookSource: "Tasha's Cauldron of Everything p. 120"
 ---
 # +1 Arcane Grimoire
 *Wondrous Item, uncommon (requires attunement by a wizard)*  

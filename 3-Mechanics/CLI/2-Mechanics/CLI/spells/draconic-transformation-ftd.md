@@ -17,7 +17,7 @@ classes:
 aliases: ["Draconic Transformation"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Fizban's Treasury of Dragons p. 19
+BookSource: "Fizban's Treasury of Dragons p. 19"
 ---
 # Draconic Transformation
 *7th-level, Transmutation*  

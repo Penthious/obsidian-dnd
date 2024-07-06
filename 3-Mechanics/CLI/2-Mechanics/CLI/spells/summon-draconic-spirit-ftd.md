@@ -15,7 +15,7 @@ classes:
 aliases: ["Summon Draconic Spirit"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Fizban's Treasury of Dragons p. 21
+BookSource: "Fizban's Treasury of Dragons p. 21"
 ---
 # Summon Draconic Spirit
 *5th-level, Conjuration*  

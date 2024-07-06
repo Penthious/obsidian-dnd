@@ -11,7 +11,7 @@ aliases: ["Draconian Foot Soldier"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 178
+BookSource: "Fizban's Treasury of Dragons p. 178"
 ---
 # [Draconian Foot Soldier](2-Mechanics/CLI/bestiary/monstrosity/draconian-foot-soldier-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 178*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Winged)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Sword Coast Adventurer's Guide p. 118
+BookSource: "Sword Coast Adventurer's Guide p. 118"
 ---
 # Tiefling (Winged)
 *Source: Sword Coast Adventurer's Guide p. 118*  

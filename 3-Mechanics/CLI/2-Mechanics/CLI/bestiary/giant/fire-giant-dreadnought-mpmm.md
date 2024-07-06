@@ -13,7 +13,7 @@ aliases: ["Fire Giant Dreadnought"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147"
 ---
 # [Fire Giant Dreadnought](2-Mechanics/CLI/bestiary/giant/fire-giant-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  

@@ -11,7 +11,7 @@ aliases: ["Young Sapphire Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 216
+BookSource: "Fizban's Treasury of Dragons p. 216"
 ---
 # [Young Sapphire Dragon](2-Mechanics/CLI/bestiary/dragon/young-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 216*  

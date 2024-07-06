@@ -22,7 +22,7 @@ classes:
 aliases: ["Speak with Animals"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 277. Available in the SRD.
+BookSource: "Player's Handbook p. 277. Available in the SRD."
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  

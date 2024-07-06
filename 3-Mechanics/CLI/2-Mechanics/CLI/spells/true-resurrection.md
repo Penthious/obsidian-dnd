@@ -15,7 +15,7 @@ classes:
 aliases: ["True Resurrection"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 284. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 284. Available in the SRD and the Basic Rules."
 ---
 # True Resurrection
 *9th-level, Necromancy*  

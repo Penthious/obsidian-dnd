@@ -12,7 +12,7 @@ aliases: ["Ezzat"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 262
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 262"
 ---
 # [Ezzat](2-Mechanics/CLI/bestiary/npc/ezzat-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 262*  

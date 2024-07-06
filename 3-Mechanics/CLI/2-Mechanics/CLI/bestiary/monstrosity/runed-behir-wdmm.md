@@ -11,7 +11,7 @@ aliases: ["Runed Behir"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 158
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 158"
 ---
 # [Runed Behir](2-Mechanics/CLI/bestiary/monstrosity/runed-behir-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 158*  

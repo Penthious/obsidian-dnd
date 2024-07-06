@@ -12,7 +12,7 @@ aliases: ["Kedjou Kamal"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 96
+BookSource: "Journeys through the Radiant Citadel p. 96"
 ---
 # [Kedjou Kamal](2-Mechanics/CLI/bestiary/npc/kedjou-kamal-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 96*  

@@ -12,7 +12,7 @@ aliases: ["Parriwimple"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 43
+BookSource: "Curse of Strahd p. 43"
 ---
 # [Parriwimple](2-Mechanics/CLI/bestiary/npc/parriwimple-cos.md)
 *Source: Curse of Strahd p. 43*  

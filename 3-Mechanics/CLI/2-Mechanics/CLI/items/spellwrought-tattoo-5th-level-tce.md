@@ -8,7 +8,7 @@ tags:
 aliases: ["Spellwrought Tattoo (5th Level)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 135
+BookSource: "Tasha's Cauldron of Everything p. 135"
 ---
 # Spellwrought Tattoo (5th Level)
 *Wondrous Item, rare*  

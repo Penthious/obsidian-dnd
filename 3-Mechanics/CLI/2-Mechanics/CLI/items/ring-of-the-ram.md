@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of the Ram"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 193. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 193. Available in the SRD."
 ---
 # Ring of the Ram
 *Ring, major, rare (requires attunement)*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Light Crossbow"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 149. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 149. Available in the SRD and the Basic Rules."
 ---
 # Light Crossbow
 *Ranged Weapon*  

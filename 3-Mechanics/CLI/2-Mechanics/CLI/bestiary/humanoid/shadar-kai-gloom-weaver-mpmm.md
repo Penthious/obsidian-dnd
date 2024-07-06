@@ -13,7 +13,7 @@ aliases: ["Shadar-kai Gloom Weaver"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224"
 ---
 # [Shadar-kai Gloom Weaver](2-Mechanics/CLI/bestiary/humanoid/shadar-kai-gloom-weaver-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  

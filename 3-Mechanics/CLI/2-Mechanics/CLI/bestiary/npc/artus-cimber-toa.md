@@ -12,7 +12,7 @@ aliases: ["Artus Cimber"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 212
+BookSource: "Tomb of Annihilation p. 212"
 ---
 # [Artus Cimber](2-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md)
 *Source: Tomb of Annihilation p. 212*  

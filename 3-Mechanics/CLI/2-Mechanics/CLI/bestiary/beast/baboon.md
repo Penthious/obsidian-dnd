@@ -13,7 +13,7 @@ aliases: ["Baboon"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 318, Tales from the Yawning Portal, Tomb of Annihilation, Candlekeep Mysteries, Curse of Strahd, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 318, Tales from the Yawning Portal, Tomb of Annihilation, Candlekeep Mysteries, Curse of Strahd, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Baboon](2-Mechanics/CLI/bestiary/beast/baboon.md)
 *Source: Monster Manual p. 318, Tales from the Yawning Portal, Tomb of Annihilation, Candlekeep Mysteries, Curse of Strahd, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Wildroot"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 205
+BookSource: "Tomb of Annihilation p. 205"
 ---
 # Wildroot
 *Adventuring Gear, unknown*  

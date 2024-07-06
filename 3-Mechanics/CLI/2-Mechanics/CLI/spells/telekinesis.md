@@ -19,7 +19,7 @@ classes:
 aliases: ["Telekinesis"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 280. Available in the SRD.
+BookSource: "Player's Handbook p. 280. Available in the SRD."
 ---
 # Telekinesis
 *5th-level, Transmutation*  

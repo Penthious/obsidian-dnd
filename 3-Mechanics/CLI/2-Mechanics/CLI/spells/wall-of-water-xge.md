@@ -19,7 +19,7 @@ classes:
 aliases: ["Wall of Water"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 170, Volo's Guide to Monsters p. 116, Mythic Odysseys of Theros
+BookSource: "Xanathar's Guide to Everything p. 170, Volo's Guide to Monsters p. 116, Mythic Odysseys of Theros"
 ---
 # Wall of Water
 *3rd-level, Evocation*  

@@ -11,7 +11,7 @@ aliases: ["Swarm of Hoard Scarabs"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 205
+BookSource: "Fizban's Treasury of Dragons p. 205"
 ---
 # [Swarm of Hoard Scarabs](2-Mechanics/CLI/bestiary/monstrosity/swarm-of-hoard-scarabs-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 205*  

@@ -21,7 +21,7 @@ classes:
 aliases: ["Ray of Frost"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 271. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 271. Available in the SRD and the Basic Rules."
 ---
 # Ray of Frost
 *cantrip, Evocation*  

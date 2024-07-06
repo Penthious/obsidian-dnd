@@ -12,7 +12,7 @@ aliases: ["Sundeth"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 304
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 304"
 ---
 # [Sundeth](2-Mechanics/CLI/bestiary/npc/sundeth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 304*  

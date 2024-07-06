@@ -12,7 +12,7 @@ aliases: ["Arabelle"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 38
+BookSource: "Curse of Strahd p. 38"
 ---
 # [Arabelle](2-Mechanics/CLI/bestiary/npc/arabelle-cos.md)
 *Source: Curse of Strahd p. 38*  

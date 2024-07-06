@@ -8,7 +8,7 @@ tags:
 aliases: ["Lightbringer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 72
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 72"
 ---
 # Lightbringer
 *Melee Weapon, uncommon*  

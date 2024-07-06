@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188
+BookSource: "Dungeon Master's Guide p. 188"
 ---
 # Potion of Resistance
 *Potion, minor, uncommon*  

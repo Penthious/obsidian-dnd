@@ -11,7 +11,7 @@ aliases: ["Drowned Master"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 235
+BookSource: "Ghosts of Saltmarsh p. 235"
 ---
 # [Drowned Master](2-Mechanics/CLI/bestiary/undead/drowned-master-gos.md)
 *Source: Ghosts of Saltmarsh p. 235*  

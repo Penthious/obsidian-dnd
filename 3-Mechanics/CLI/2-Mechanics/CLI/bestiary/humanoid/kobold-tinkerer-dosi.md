@@ -11,7 +11,7 @@ aliases: ["Kobold Tinkerer"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 43
+BookSource: "Dragons of Stormwreck Isle p. 43"
 ---
 # [Kobold Tinkerer](2-Mechanics/CLI/bestiary/humanoid/kobold-tinkerer-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 43*  

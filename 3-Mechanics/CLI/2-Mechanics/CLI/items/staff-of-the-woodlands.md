@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of the Woodlands"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 204. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 204. Available in the SRD."
 ---
 # Staff of the Woodlands
 *Staff, major, rare (requires attunement by a druid)*  

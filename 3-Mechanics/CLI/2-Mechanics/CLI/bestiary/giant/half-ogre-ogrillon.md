@@ -18,7 +18,7 @@ aliases: ["Half-Ogre (Ogrillon)"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 238, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen
+BookSource: "Monster Manual p. 238, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen"
 ---
 # [Half-Ogre (Ogrillon)](2-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md)
 *Source: Monster Manual p. 238, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  

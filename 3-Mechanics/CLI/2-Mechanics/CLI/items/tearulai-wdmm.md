@@ -11,7 +11,7 @@ tags:
 aliases: ["Tearulai"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 70
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 70"
 ---
 # Tearulai
 *Melee Weapon, very rare (requires attunement)*  

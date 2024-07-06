@@ -12,7 +12,7 @@ aliases: ["Arcturia"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 296
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 296"
 ---
 # [Arcturia](2-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 296*  

@@ -20,7 +20,7 @@ classes:
 aliases: ["Magic Mouth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 257. Available in the SRD.
+BookSource: "Player's Handbook p. 257. Available in the SRD."
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

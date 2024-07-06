@@ -11,7 +11,7 @@ aliases: ["Icewind Kobold Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 297
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 297"
 ---
 # [Icewind Kobold Zombie](2-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  

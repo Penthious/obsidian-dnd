@@ -17,7 +17,7 @@ classes:
 aliases: ["Grease"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 246. Available in the SRD.
+BookSource: "Player's Handbook p. 246. Available in the SRD."
 ---
 # Grease
 *1st-level, Conjuration*  

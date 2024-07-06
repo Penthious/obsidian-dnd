@@ -11,7 +11,7 @@ aliases: ["Wildfire Spirit"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 40
+BookSource: "Tasha's Cauldron of Everything p. 40"
 ---
 # [Wildfire Spirit](2-Mechanics/CLI/bestiary/elemental/wildfire-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 40*  

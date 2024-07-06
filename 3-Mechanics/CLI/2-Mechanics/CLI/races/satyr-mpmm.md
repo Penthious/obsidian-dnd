@@ -7,7 +7,7 @@ tags:
 aliases: ["Satyr"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 29
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 29"
 ---
 # Satyr
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 29*  

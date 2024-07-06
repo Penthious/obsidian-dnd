@@ -13,7 +13,7 @@ classes:
 aliases: ["Hellish Rebuke"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 250. Available in the SRD.
+BookSource: "Player's Handbook p. 250. Available in the SRD."
 ---
 # Hellish Rebuke
 *1st-level, Evocation*  

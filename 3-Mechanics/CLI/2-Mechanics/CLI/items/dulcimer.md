@@ -7,7 +7,7 @@ tags:
 aliases: ["Dulcimer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 154. Available in the SRD and the Basic Rules."
 ---
 # Dulcimer
 *Instrument*  

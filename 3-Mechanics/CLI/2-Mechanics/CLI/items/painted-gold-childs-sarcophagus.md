@@ -7,7 +7,7 @@ tags:
 aliases: ["Painted gold child's sarcophagus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Painted gold child's sarcophagus
 *Art object*  

@@ -11,7 +11,7 @@ aliases: ["Solar"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Monster Manual p. 18, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 18, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Solar](2-Mechanics/CLI/bestiary/celestial/solar.md)
 *Source: Monster Manual p. 18, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD.*  

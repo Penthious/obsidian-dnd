@@ -9,7 +9,7 @@ tags:
 aliases: ["Orb of Dragonkind"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 225. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 225. Available in the SRD."
 ---
 # Orb of Dragonkind
 *Wondrous Item, artifact (requires attunement)*  

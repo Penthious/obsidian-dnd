@@ -11,7 +11,7 @@ aliases: ["Drow Gunslinger"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 201
+BookSource: "Waterdeep: Dragon Heist p. 201"
 ---
 # [Drow Gunslinger](2-Mechanics/CLI/bestiary/humanoid/drow-gunslinger-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 201*  

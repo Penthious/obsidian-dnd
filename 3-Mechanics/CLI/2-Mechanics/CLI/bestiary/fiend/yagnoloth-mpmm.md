@@ -12,7 +12,7 @@ aliases: ["Yagnoloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252"
 ---
 # [Yagnoloth](2-Mechanics/CLI/bestiary/fiend/yagnoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  

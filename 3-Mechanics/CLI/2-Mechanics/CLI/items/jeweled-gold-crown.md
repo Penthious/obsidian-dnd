@@ -7,7 +7,7 @@ tags:
 aliases: ["Jeweled gold crown"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Jeweled gold crown
 *Art object*  

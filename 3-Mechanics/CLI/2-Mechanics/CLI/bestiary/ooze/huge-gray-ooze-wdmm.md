@@ -11,7 +11,7 @@ aliases: ["Huge Gray Ooze"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 243
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 243"
 ---
 # [Huge Gray Ooze](2-Mechanics/CLI/bestiary/ooze/huge-gray-ooze-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 243*  

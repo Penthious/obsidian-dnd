@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Enemy Detection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 210. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 210. Available in the SRD."
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  

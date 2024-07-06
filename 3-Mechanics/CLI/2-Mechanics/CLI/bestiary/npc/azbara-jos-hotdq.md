@@ -12,7 +12,7 @@ aliases: ["Azbara Jos"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 88
+BookSource: "Hoard of the Dragon Queen p. 88"
 ---
 # [Azbara Jos](2-Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 88*  

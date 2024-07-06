@@ -12,7 +12,7 @@ aliases: ["Asharra"]
 NoteIcon: npc
 BestiaryType: humanoid (aarakocra)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 69
+BookSource: "Tomb of Annihilation p. 69"
 ---
 # [Asharra](2-Mechanics/CLI/bestiary/npc/asharra-toa.md)
 *Source: Tomb of Annihilation p. 69*  

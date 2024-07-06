@@ -11,7 +11,7 @@ aliases: ["Giant Canary"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 23
+BookSource: "Fizban's Treasury of Dragons p. 23"
 ---
 # [Giant Canary](2-Mechanics/CLI/bestiary/beast/giant-canary-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 23*  

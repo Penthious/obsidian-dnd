@@ -7,7 +7,7 @@ tags:
 aliases: ["Orc"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 28
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 28"
 ---
 # Orc
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 28*  

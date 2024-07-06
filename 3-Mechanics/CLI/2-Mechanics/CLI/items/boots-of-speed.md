@@ -10,7 +10,7 @@ tags:
 aliases: ["Boots of Speed"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 155. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 155. Available in the SRD."
 ---
 # Boots of Speed
 *Wondrous Item, major, rare (requires attunement)*  

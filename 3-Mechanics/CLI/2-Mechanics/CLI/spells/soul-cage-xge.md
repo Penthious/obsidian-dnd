@@ -15,7 +15,7 @@ classes:
 aliases: ["Soul Cage"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 165
+BookSource: "Xanathar's Guide to Everything p. 165"
 ---
 # Soul Cage
 *6th-level, Necromancy*  

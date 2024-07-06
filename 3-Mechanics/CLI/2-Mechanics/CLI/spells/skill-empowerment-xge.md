@@ -17,7 +17,7 @@ classes:
 aliases: ["Skill Empowerment"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 165
+BookSource: "Xanathar's Guide to Everything p. 165"
 ---
 # Skill Empowerment
 *5th-level, Transmutation*  

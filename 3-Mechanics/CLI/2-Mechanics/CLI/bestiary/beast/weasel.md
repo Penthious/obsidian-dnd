@@ -11,7 +11,7 @@ aliases: ["Weasel"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 340, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 340, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Weasel](2-Mechanics/CLI/bestiary/beast/weasel.md)
 *Source: Monster Manual p. 340, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

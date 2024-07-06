@@ -12,7 +12,7 @@ aliases: ["Yeenoghu"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 270, Mordenkainen's Tome of Foes p. 155
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 270, Mordenkainen's Tome of Foes p. 155"
 ---
 # [Yeenoghu](2-Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 270, Mordenkainen's Tome of Foes p. 155*  

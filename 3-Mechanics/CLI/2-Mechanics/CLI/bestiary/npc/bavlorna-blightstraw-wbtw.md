@@ -12,7 +12,7 @@ aliases: ["Bavlorna Blightstraw"]
 NoteIcon: npc
 BestiaryType: fey (hag)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 216
+BookSource: "The Wild Beyond the Witchlight p. 216"
 ---
 # [Bavlorna Blightstraw](2-Mechanics/CLI/bestiary/npc/bavlorna-blightstraw-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 216*  

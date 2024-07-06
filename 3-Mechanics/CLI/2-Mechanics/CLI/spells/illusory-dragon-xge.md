@@ -13,7 +13,7 @@ classes:
 aliases: ["Illusory Dragon"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 157
+BookSource: "Xanathar's Guide to Everything p. 157"
 ---
 # Illusory Dragon
 *8th-level, Illusion*  

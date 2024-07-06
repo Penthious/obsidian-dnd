@@ -11,7 +11,7 @@ aliases: ["Pirate First Mate"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 248
+BookSource: "Ghosts of Saltmarsh p. 248"
 ---
 # [Pirate First Mate](2-Mechanics/CLI/bestiary/humanoid/pirate-first-mate-gos.md)
 *Source: Ghosts of Saltmarsh p. 248*  

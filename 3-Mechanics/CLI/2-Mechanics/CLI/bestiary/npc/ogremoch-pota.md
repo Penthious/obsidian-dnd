@@ -12,7 +12,7 @@ aliases: ["Ogrémoch"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 216
+BookSource: "Princes of the Apocalypse p. 216"
 ---
 # [Ogrémoch](2-Mechanics/CLI/bestiary/npc/ogremoch-pota.md)
 *Source: Princes of the Apocalypse p. 216*  

@@ -14,7 +14,7 @@ aliases: ["Boneclaw"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121"
 ---
 # [Boneclaw](2-Mechanics/CLI/bestiary/undead/boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  

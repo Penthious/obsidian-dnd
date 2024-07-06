@@ -11,7 +11,7 @@ aliases: ["Aphemia"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 226
+BookSource: "Mythic Odysseys of Theros p. 226"
 ---
 # [Aphemia](2-Mechanics/CLI/bestiary/monstrosity/aphemia-mot.md)
 *Source: Mythic Odysseys of Theros p. 226*  

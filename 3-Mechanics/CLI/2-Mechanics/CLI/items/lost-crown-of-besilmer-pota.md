@@ -9,7 +9,7 @@ tags:
 aliases: ["Lost Crown of Besilmer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 223
+BookSource: "Princes of the Apocalypse p. 223"
 ---
 # Lost Crown of Besilmer
 *Wondrous Item, legendary (requires attunement)*  

@@ -11,7 +11,7 @@ aliases: ["Hypnos Magen"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 301
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 301"
 ---
 # [Hypnos Magen](2-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 301*  

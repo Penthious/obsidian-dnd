@@ -13,7 +13,7 @@ aliases: ["Duergar Screamer"]
 NoteIcon: monster
 BestiaryType: construct (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190"
 ---
 # [Duergar Screamer](2-Mechanics/CLI/bestiary/construct/duergar-screamer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*  

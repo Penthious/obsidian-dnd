@@ -7,7 +7,7 @@ tags:
 aliases: ["Yuan-Ti"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 36
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 36"
 ---
 # Yuan-Ti
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 36*  

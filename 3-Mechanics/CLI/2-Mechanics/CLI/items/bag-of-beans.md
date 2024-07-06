@@ -9,7 +9,7 @@ tags:
 aliases: ["Bag of Beans"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 152. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 152. Available in the SRD."
 ---
 # Bag of Beans
 *Wondrous Item, minor, rare*  

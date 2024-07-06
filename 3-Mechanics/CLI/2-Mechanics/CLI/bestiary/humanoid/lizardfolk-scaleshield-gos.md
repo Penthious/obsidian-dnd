@@ -11,7 +11,7 @@ aliases: ["Lizardfolk Scaleshield"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 242
+BookSource: "Ghosts of Saltmarsh p. 242"
 ---
 # [Lizardfolk Scaleshield](2-Mechanics/CLI/bestiary/humanoid/lizardfolk-scaleshield-gos.md)
 *Source: Ghosts of Saltmarsh p. 242*  

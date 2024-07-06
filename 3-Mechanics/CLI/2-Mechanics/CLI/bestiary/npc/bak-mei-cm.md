@@ -12,7 +12,7 @@ aliases: ["Bak Mei"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 168
+BookSource: "Candlekeep Mysteries p. 168"
 ---
 # [Bak Mei](2-Mechanics/CLI/bestiary/npc/bak-mei-cm.md)
 *Source: Candlekeep Mysteries p. 168*  

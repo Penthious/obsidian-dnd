@@ -11,7 +11,7 @@ aliases: ["Tridrone"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 225, Tomb of Annihilation, Keys from the Golden Vault
+BookSource: "Monster Manual p. 225, Tomb of Annihilation, Keys from the Golden Vault"
 ---
 # [Tridrone](2-Mechanics/CLI/bestiary/construct/tridrone.md)
 *Source: Monster Manual p. 225, Tomb of Annihilation, Keys from the Golden Vault*  

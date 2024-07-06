@@ -8,7 +8,7 @@ tags:
 aliases: ["Dodecahedron of Doom"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 284
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 284"
 ---
 # Dodecahedron of Doom
 *Wondrous Item, rare*  

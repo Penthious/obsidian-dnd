@@ -14,7 +14,7 @@ aliases: ["Githyanki Kith'rak"]
 NoteIcon: monster
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205"
 ---
 # [Githyanki Kith'rak](2-Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  

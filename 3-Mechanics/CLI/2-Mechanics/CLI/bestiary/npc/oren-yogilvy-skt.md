@@ -12,7 +12,7 @@ aliases: ["Oren Yogilvy"]
 NoteIcon: npc
 BestiaryType: humanoid (Strongheart halfling)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 252
+BookSource: "Storm King's Thunder p. 252"
 ---
 # [Oren Yogilvy](2-Mechanics/CLI/bestiary/npc/oren-yogilvy-skt.md)
 *Source: Storm King's Thunder p. 252*  

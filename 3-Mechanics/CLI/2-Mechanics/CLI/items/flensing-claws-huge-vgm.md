@@ -8,7 +8,7 @@ tags:
 aliases: ["Flensing Claws (Huge)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Volo's Guide to Monsters p. 81
+BookSource: "Volo's Guide to Monsters p. 81"
 ---
 # Flensing Claws (Huge)
 *Other, unknown*  

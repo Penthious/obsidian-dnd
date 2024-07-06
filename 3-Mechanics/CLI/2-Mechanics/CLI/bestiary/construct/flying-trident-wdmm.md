@@ -11,7 +11,7 @@ aliases: ["Flying Trident"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 106
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 106"
 ---
 # [Flying Trident](2-Mechanics/CLI/bestiary/construct/flying-trident-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 106*  

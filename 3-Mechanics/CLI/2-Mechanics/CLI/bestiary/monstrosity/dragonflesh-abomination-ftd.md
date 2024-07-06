@@ -11,7 +11,7 @@ aliases: ["Dragonflesh Abomination"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 187
+BookSource: "Fizban's Treasury of Dragons p. 187"
 ---
 # [Dragonflesh Abomination](2-Mechanics/CLI/bestiary/monstrosity/dragonflesh-abomination-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 187*  

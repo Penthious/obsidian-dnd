@@ -7,7 +7,7 @@ tags:
 aliases: ["Marine"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Ghosts of Saltmarsh p. 31
+BookSource: "Ghosts of Saltmarsh p. 31"
 ---
 # Marine
 *Source: Ghosts of Saltmarsh p. 31*  

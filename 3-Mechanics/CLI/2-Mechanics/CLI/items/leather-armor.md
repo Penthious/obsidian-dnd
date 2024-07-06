@@ -7,7 +7,7 @@ tags:
 aliases: ["Leather Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 144. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 144. Available in the SRD and the Basic Rules."
 ---
 # Leather Armor
 *Light Armor*  

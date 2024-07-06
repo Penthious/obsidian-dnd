@@ -8,7 +8,7 @@ tags:
 aliases: ["Purple Worm Poison"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Purple Worm Poison
 *Adventuring Gear, poison*  

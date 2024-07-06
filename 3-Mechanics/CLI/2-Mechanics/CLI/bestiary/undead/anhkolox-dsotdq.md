@@ -11,7 +11,7 @@ aliases: ["Anhkolox"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 192
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 192"
 ---
 # [Anhkolox](2-Mechanics/CLI/bestiary/undead/anhkolox-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 192*  

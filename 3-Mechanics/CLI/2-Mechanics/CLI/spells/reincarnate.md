@@ -11,7 +11,7 @@ classes:
 aliases: ["Reincarnate"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 271. Available in the SRD.
+BookSource: "Player's Handbook p. 271. Available in the SRD."
 ---
 # Reincarnate
 *5th-level, Transmutation*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Far Traveler"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 148
+BookSource: "Sword Coast Adventurer's Guide p. 148"
 ---
 # Far Traveler
 *Source: Sword Coast Adventurer's Guide p. 148*  

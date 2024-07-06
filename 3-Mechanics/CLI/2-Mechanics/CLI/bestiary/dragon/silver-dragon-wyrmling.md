@@ -11,7 +11,7 @@ aliases: ["Silver Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 118, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.
+BookSource: "Monster Manual p. 118, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [Silver Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling.md)
 *Source: Monster Manual p. 118, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  

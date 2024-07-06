@@ -11,7 +11,7 @@ aliases: ["Reghed Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 152
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 152"
 ---
 # [Reghed Warrior](2-Mechanics/CLI/bestiary/humanoid/reghed-warrior-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 152*  

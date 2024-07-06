@@ -11,7 +11,7 @@ aliases: ["Aberrant Zealot"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 203
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 203"
 ---
 # [Aberrant Zealot](2-Mechanics/CLI/bestiary/aberration/aberrant-zealot-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 203*  

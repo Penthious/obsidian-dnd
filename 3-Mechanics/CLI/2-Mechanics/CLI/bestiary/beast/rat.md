@@ -13,7 +13,7 @@ aliases: ["Rat"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 335, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 335, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Rat](2-Mechanics/CLI/bestiary/beast/rat.md)
 *Source: Monster Manual p. 335, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

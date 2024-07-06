@@ -11,7 +11,7 @@ aliases: ["Dragon Speaker"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 189
+BookSource: "Fizban's Treasury of Dragons p. 189"
 ---
 # [Dragon Speaker](2-Mechanics/CLI/bestiary/humanoid/dragon-speaker-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 189*  

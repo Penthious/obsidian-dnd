@@ -11,7 +11,7 @@ classes:
 aliases: ["Blinding Smite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 219
+BookSource: "Player's Handbook p. 219"
 ---
 # Blinding Smite
 *3rd-level, Evocation*  

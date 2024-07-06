@@ -9,7 +9,7 @@ tags:
 aliases: ["Eversmoking Bottle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 168. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 168. Available in the SRD."
 ---
 # Eversmoking Bottle
 *Wondrous Item, major, uncommon*  

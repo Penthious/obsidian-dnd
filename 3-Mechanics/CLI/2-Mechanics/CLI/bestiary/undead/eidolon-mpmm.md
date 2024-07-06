@@ -17,7 +17,7 @@ aliases: ["Eidolon"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194"
 ---
 # [Eidolon](2-Mechanics/CLI/bestiary/undead/eidolon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  

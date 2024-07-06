@@ -15,7 +15,7 @@ aliases: ["Gnoll Pack Lord"]
 NoteIcon: monster
 BestiaryType: humanoid (gnoll)
 SourceType: Bestiary
-BookSource: Monster Manual p. 163, Princes of the Apocalypse, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus
+BookSource: "Monster Manual p. 163, Princes of the Apocalypse, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus"
 ---
 # [Gnoll Pack Lord](2-Mechanics/CLI/bestiary/humanoid/gnoll-pack-lord.md)
 *Source: Monster Manual p. 163, Princes of the Apocalypse, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus*  

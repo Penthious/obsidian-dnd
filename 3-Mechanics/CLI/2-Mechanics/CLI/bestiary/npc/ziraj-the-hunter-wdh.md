@@ -12,7 +12,7 @@ aliases: ["Ziraj the Hunter"]
 NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 201
+BookSource: "Waterdeep: Dragon Heist p. 201"
 ---
 # [Ziraj the Hunter](2-Mechanics/CLI/bestiary/npc/ziraj-the-hunter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 201*  

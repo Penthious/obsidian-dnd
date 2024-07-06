@@ -8,7 +8,7 @@ tags:
 aliases: ["Master's Amulet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Monster Manual p. 271
+BookSource: "Monster Manual p. 271"
 ---
 # Master's Amulet
 *Other, unknown (magic)*  

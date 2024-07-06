@@ -11,7 +11,7 @@ aliases: ["Mechanical Bird"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 46
+BookSource: "Waterdeep: Dragon Heist p. 46"
 ---
 # [Mechanical Bird](2-Mechanics/CLI/bestiary/construct/mechanical-bird-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 46*  

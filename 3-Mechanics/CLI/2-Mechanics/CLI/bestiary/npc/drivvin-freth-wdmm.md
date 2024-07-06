@@ -12,7 +12,7 @@ aliases: ["Drivvin Freth"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 169
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 169"
 ---
 # [Drivvin Freth](2-Mechanics/CLI/bestiary/npc/drivvin-freth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 169*  

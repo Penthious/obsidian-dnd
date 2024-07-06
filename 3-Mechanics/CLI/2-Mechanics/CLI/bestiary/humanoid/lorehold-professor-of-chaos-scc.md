@@ -11,7 +11,7 @@ aliases: ["Lorehold Professor of Chaos"]
 NoteIcon: monster
 BestiaryType: humanoid (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 198
+BookSource: "Strixhaven: A Curriculum of Chaos p. 198"
 ---
 # [Lorehold Professor of Chaos](2-Mechanics/CLI/bestiary/humanoid/lorehold-professor-of-chaos-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 198*  

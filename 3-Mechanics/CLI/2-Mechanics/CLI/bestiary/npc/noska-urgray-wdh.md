@@ -12,7 +12,7 @@ aliases: ["Noska Ur'gray"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 213
+BookSource: "Waterdeep: Dragon Heist p. 213"
 ---
 # [Noska Ur'gray](2-Mechanics/CLI/bestiary/npc/noska-urgray-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 213*  

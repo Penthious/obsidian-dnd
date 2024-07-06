@@ -11,7 +11,7 @@ aliases: ["Spiked Tomb Guardian"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 154
+BookSource: "Tomb of Annihilation p. 154"
 ---
 # [Spiked Tomb Guardian](2-Mechanics/CLI/bestiary/construct/spiked-tomb-guardian-toa.md)
 *Source: Tomb of Annihilation p. 154*  

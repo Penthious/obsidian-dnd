@@ -10,7 +10,7 @@ tags:
 aliases: ["Defender"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 164. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 164. Available in the SRD."
 ---
 # Defender
 *Generic Variant, major, legendary (requires attunement)*  

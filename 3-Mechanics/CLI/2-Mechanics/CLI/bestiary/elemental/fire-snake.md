@@ -12,7 +12,7 @@ aliases: ["Fire Snake"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 265, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle
+BookSource: "Monster Manual p. 265, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle"
 ---
 # [Fire Snake](2-Mechanics/CLI/bestiary/elemental/fire-snake.md)
 *Source: Monster Manual p. 265, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle*  

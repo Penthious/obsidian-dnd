@@ -12,7 +12,7 @@ tags:
 aliases: ["Sword of Answering (Answerer)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 206
+BookSource: "Dungeon Master's Guide p. 206"
 ---
 # Sword of Answering (Answerer)
 *Melee Weapon, major, legendary (requires attunement by a chaotic good creature)*  

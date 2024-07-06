@@ -15,7 +15,7 @@ classes:
 aliases: ["Summon Elemental"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 111
+BookSource: "Tasha's Cauldron of Everything p. 111"
 ---
 # Summon Elemental
 *4th-level, Conjuration*  

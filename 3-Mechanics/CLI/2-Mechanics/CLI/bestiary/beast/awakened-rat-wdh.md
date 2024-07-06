@@ -11,7 +11,7 @@ aliases: ["Awakened Rat"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 102
+BookSource: "Waterdeep: Dragon Heist p. 102"
 ---
 # [Awakened Rat](2-Mechanics/CLI/bestiary/beast/awakened-rat-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 102*  

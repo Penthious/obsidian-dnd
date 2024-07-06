@@ -13,7 +13,7 @@ aliases: ["Azaka Stormfang"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 33
+BookSource: "Tomb of Annihilation p. 33"
 ---
 # [Azaka Stormfang](2-Mechanics/CLI/bestiary/npc/azaka-stormfang-toa.md)
 *Source: Tomb of Annihilation p. 33*  

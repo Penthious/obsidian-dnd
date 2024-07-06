@@ -9,7 +9,7 @@ tags:
 aliases: ["Hell Hound Cloak"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 228
+BookSource: "Tales from the Yawning Portal p. 228"
 ---
 # Hell Hound Cloak
 *Wondrous Item, rare (requires attunement)*  

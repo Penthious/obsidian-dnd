@@ -25,7 +25,7 @@ classes:
 aliases: ["Gust"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 157, Tasha's Cauldron of Everything p. 50
+BookSource: "Xanathar's Guide to Everything p. 157, Tasha's Cauldron of Everything p. 50"
 ---
 # Gust
 *cantrip, Transmutation*  

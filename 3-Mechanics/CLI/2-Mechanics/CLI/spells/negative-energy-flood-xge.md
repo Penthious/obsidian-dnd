@@ -13,7 +13,7 @@ classes:
 aliases: ["Negative Energy Flood"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 163
+BookSource: "Xanathar's Guide to Everything p. 163"
 ---
 # Negative Energy Flood
 *5th-level, Necromancy*  

@@ -11,7 +11,7 @@ aliases: ["Dragonbone Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 183
+BookSource: "Fizban's Treasury of Dragons p. 183"
 ---
 # [Dragonbone Golem](2-Mechanics/CLI/bestiary/construct/dragonbone-golem-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 183*  

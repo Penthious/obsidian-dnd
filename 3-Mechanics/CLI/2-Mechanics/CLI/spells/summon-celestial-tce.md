@@ -11,7 +11,7 @@ classes:
 aliases: ["Summon Celestial"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 110
+BookSource: "Tasha's Cauldron of Everything p. 110"
 ---
 # Summon Celestial
 *5th-level, Conjuration*  

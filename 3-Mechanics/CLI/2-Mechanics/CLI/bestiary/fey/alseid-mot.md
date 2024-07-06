@@ -11,7 +11,7 @@ aliases: ["Alseid"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 235
+BookSource: "Mythic Odysseys of Theros p. 235"
 ---
 # [Alseid](2-Mechanics/CLI/bestiary/fey/alseid-mot.md)
 *Source: Mythic Odysseys of Theros p. 235*  

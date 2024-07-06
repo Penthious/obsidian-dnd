@@ -11,7 +11,7 @@ aliases: ["Glass Pegasus"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 181
+BookSource: "The Wild Beyond the Witchlight p. 181"
 ---
 # [Glass Pegasus](2-Mechanics/CLI/bestiary/construct/glass-pegasus-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 181*  

@@ -12,7 +12,7 @@ aliases: ["Lady Fiona Wachter"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 110
+BookSource: "Curse of Strahd p. 110"
 ---
 # [Lady Fiona Wachter](2-Mechanics/CLI/bestiary/npc/lady-fiona-wachter-cos.md)
 *Source: Curse of Strahd p. 110*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Hellfire Weapon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 223
+BookSource: "Baldur's Gate: Descent Into Avernus p. 223"
 ---
 # Hellfire Weapon
 *Generic Variant, uncommon*  

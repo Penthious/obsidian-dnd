@@ -11,7 +11,7 @@ aliases: ["Aldani (Lobsterfolk)"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 210
+BookSource: "Tomb of Annihilation p. 210"
 ---
 # [Aldani (Lobsterfolk)](2-Mechanics/CLI/bestiary/monstrosity/aldani-lobsterfolk-toa.md)
 *Source: Tomb of Annihilation p. 210*  

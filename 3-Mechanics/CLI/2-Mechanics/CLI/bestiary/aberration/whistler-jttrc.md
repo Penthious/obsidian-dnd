@@ -11,7 +11,7 @@ aliases: ["Whistler"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 221
+BookSource: "Journeys through the Radiant Citadel p. 221"
 ---
 # [Whistler](2-Mechanics/CLI/bestiary/aberration/whistler-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 221*  

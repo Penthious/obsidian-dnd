@@ -12,7 +12,7 @@ aliases: ["Berbalang"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120"
 ---
 # [Berbalang](2-Mechanics/CLI/bestiary/aberration/berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*  

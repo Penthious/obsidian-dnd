@@ -12,7 +12,7 @@ aliases: ["Crokek'toeck"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 231
+BookSource: "Baldur's Gate: Descent Into Avernus p. 231"
 ---
 # [Crokek'toeck](2-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 231*  

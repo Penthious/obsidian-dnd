@@ -15,7 +15,7 @@ classes:
 aliases: ["Passwall"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 264. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 264. Available in the SRD and the Basic Rules."
 ---
 # Passwall
 *5th-level, Transmutation*  

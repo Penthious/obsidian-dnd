@@ -12,7 +12,7 @@ aliases: ["Troglodyte"]
 NoteIcon: monster
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Monster Manual p. 290, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 290, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Troglodyte](2-Mechanics/CLI/bestiary/humanoid/troglodyte.md)
 *Source: Monster Manual p. 290, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk*  

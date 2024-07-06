@@ -8,7 +8,7 @@ tags:
 aliases: ["Ivana's Whisper"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Van Richten's Guide to Ravenloft p. 83
+BookSource: "Van Richten's Guide to Ravenloft p. 83"
 ---
 # Ivana's Whisper
 *Adventuring Gear, unknown*  

@@ -12,7 +12,7 @@ aliases: ["Rilsa Rael"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 199
+BookSource: "Baldur's Gate: Descent Into Avernus p. 199"
 ---
 # [Rilsa Rael](2-Mechanics/CLI/bestiary/npc/rilsa-rael-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 199*  

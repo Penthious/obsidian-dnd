@@ -12,7 +12,7 @@ aliases: ["Xazax the Eyemonger"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 142
+BookSource: "Out of the Abyss p. 142"
 ---
 # [Xazax the Eyemonger](2-Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota.md)
 *Source: Out of the Abyss p. 142*  

@@ -12,7 +12,7 @@ aliases: ["Bone Naga (Guardian)"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 233, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage
+BookSource: "Monster Manual p. 233, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage"
 ---
 # [Bone Naga (Guardian)](2-Mechanics/CLI/bestiary/undead/bone-naga-guardian.md)
 *Source: Monster Manual p. 233, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage*  

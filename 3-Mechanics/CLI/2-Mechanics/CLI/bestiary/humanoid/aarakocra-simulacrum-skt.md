@@ -11,7 +11,7 @@ aliases: ["Aarakocra Simulacrum"]
 NoteIcon: monster
 BestiaryType: humanoid (aarakocra)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 188
+BookSource: "Storm King's Thunder p. 188"
 ---
 # [Aarakocra Simulacrum](2-Mechanics/CLI/bestiary/humanoid/aarakocra-simulacrum-skt.md)
 *Source: Storm King's Thunder p. 188*  

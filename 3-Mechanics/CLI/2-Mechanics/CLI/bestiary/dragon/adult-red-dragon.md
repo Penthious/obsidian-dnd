@@ -13,7 +13,7 @@ aliases: ["Adult Red Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 98, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 98, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules."
 ---
 # [Adult Red Dragon](2-Mechanics/CLI/bestiary/dragon/adult-red-dragon.md)
 *Source: Monster Manual p. 98, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  

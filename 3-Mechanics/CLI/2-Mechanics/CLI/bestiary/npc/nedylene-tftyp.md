@@ -12,7 +12,7 @@ aliases: ["Nedylene"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 209
+BookSource: "Tales from the Yawning Portal p. 209"
 ---
 # [Nedylene](2-Mechanics/CLI/bestiary/npc/nedylene-tftyp.md)
 *Source: Tales from the Yawning Portal p. 209*  

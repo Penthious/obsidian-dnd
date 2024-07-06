@@ -12,7 +12,7 @@ aliases: ["Sir Talavar"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 69
+BookSource: "The Wild Beyond the Witchlight p. 69"
 ---
 # [Sir Talavar](2-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 69*  

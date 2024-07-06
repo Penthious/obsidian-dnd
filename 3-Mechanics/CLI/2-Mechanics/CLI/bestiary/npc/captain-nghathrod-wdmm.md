@@ -12,7 +12,7 @@ aliases: ["Captain N'ghathrod"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 250
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 250"
 ---
 # [Captain N'ghathrod](2-Mechanics/CLI/bestiary/npc/captain-nghathrod-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 250*  

@@ -12,7 +12,7 @@ aliases: ["Thrakkus"]
 NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 89
+BookSource: "Waterdeep: Dragon Heist p. 89"
 ---
 # [Thrakkus](2-Mechanics/CLI/bestiary/npc/thrakkus-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 89*  

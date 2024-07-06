@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragonborn (Chromatic)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Fizban's Treasury of Dragons p. 10
+BookSource: "Fizban's Treasury of Dragons p. 10"
 ---
 # Dragonborn (Chromatic)
 *Source: Fizban's Treasury of Dragons p. 10*  

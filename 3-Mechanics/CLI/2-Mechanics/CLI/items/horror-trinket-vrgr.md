@@ -7,7 +7,7 @@ tags:
 aliases: ["Horror Trinket"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Van Richten's Guide to Ravenloft p. 36
+BookSource: "Van Richten's Guide to Ravenloft p. 36"
 ---
 # Horror Trinket
 *Adventuring Gear*  

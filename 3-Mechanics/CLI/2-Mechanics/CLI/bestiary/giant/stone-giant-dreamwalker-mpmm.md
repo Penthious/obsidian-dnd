@@ -14,7 +14,7 @@ aliases: ["Stone Giant Dreamwalker"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150"
 ---
 # [Stone Giant Dreamwalker](2-Mechanics/CLI/bestiary/giant/stone-giant-dreamwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  

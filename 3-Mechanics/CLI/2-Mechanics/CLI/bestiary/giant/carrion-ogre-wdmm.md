@@ -11,7 +11,7 @@ aliases: ["Carrion Ogre"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 189
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 189"
 ---
 # [Carrion Ogre](2-Mechanics/CLI/bestiary/giant/carrion-ogre-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 189*  

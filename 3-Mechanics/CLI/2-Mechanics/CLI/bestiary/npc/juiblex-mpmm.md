@@ -12,7 +12,7 @@ aliases: ["Juiblex"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151"
 ---
 # [Juiblex](2-Mechanics/CLI/bestiary/npc/juiblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Pearl of Undead Detection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 76
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 76"
 ---
 # Pearl of Undead Detection
 *Other, unknown (magic)*  

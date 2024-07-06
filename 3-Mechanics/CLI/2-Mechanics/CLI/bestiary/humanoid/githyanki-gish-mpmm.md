@@ -15,7 +15,7 @@ aliases: ["Githyanki Gish"]
 NoteIcon: monster
 BestiaryType: humanoid (gith, wizard)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205"
 ---
 # [Githyanki Gish](2-Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  

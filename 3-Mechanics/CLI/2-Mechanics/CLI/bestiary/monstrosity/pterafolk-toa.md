@@ -11,7 +11,7 @@ aliases: ["Pterafolk"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 229
+BookSource: "Tomb of Annihilation p. 229"
 ---
 # [Pterafolk](2-Mechanics/CLI/bestiary/monstrosity/pterafolk-toa.md)
 *Source: Tomb of Annihilation p. 229*  

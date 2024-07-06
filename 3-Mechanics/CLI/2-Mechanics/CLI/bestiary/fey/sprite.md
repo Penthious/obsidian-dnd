@@ -12,7 +12,7 @@ aliases: ["Sprite"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Monster Manual p. 283, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 283, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Sprite](2-Mechanics/CLI/bestiary/fey/sprite.md)
 *Source: Monster Manual p. 283, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.*  

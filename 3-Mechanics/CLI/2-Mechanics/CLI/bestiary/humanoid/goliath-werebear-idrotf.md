@@ -12,7 +12,7 @@ aliases: ["Goliath Werebear"]
 NoteIcon: monster
 BestiaryType: humanoid (goliath, shapechanger)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 293
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 293"
 ---
 # [Goliath Werebear](2-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 293*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 42. Available in the SRD.
+BookSource: "Player's Handbook p. 42. Available in the SRD."
 ---
 # Tiefling
 *Source: Player's Handbook p. 42. Available in the SRD.*  

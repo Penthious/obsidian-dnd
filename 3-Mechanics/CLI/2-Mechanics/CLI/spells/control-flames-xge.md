@@ -25,7 +25,7 @@ classes:
 aliases: ["Control Flames"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 152
+BookSource: "Xanathar's Guide to Everything p. 152"
 ---
 # Control Flames
 *cantrip, Transmutation*  

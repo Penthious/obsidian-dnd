@@ -13,7 +13,7 @@ aliases: ["Giant Bat"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 323, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 323, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules."
 ---
 # [Giant Bat](2-Mechanics/CLI/bestiary/beast/giant-bat.md)
 *Source: Monster Manual p. 323, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the SRD and the Basic Rules.*  

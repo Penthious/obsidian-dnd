@@ -17,7 +17,7 @@ classes:
 aliases: ["Heat Metal"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 250. Available in the SRD.
+BookSource: "Player's Handbook p. 250. Available in the SRD."
 ---
 # Heat Metal
 *2nd-level, Transmutation*  

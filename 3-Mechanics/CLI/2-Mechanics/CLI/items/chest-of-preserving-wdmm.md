@@ -8,7 +8,7 @@ tags:
 aliases: ["Chest of Preserving"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 139
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 139"
 ---
 # Chest of Preserving
 *Wondrous Item, common*  

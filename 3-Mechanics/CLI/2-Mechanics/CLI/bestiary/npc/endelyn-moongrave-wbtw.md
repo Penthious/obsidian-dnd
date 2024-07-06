@@ -12,7 +12,7 @@ aliases: ["Endelyn Moongrave"]
 NoteIcon: npc
 BestiaryType: fey (hag)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 217
+BookSource: "The Wild Beyond the Witchlight p. 217"
 ---
 # [Endelyn Moongrave](2-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 217*  

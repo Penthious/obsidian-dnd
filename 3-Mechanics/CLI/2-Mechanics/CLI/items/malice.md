@@ -8,7 +8,7 @@ tags:
 aliases: ["Malice"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Malice
 *Adventuring Gear, poison*  

@@ -11,7 +11,7 @@ aliases: ["Grell Psychic"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 145
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 145"
 ---
 # [Grell Psychic](2-Mechanics/CLI/bestiary/aberration/grell-psychic-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 145*  

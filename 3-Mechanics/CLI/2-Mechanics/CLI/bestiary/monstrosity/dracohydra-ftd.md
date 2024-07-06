@@ -11,7 +11,7 @@ aliases: ["Dracohydra"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 176
+BookSource: "Fizban's Treasury of Dragons p. 176"
 ---
 # [Dracohydra](2-Mechanics/CLI/bestiary/monstrosity/dracohydra-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 176*  

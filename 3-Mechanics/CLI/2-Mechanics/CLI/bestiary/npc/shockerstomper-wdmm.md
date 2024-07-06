@@ -12,7 +12,7 @@ aliases: ["Shockerstomper"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 174
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 174"
 ---
 # [Shockerstomper](2-Mechanics/CLI/bestiary/npc/shockerstomper-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 174*  

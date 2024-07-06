@@ -12,7 +12,7 @@ aliases: ["Grung Elite Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157"
 ---
 # [Grung Elite Warrior](2-Mechanics/CLI/bestiary/humanoid/grung-elite-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  

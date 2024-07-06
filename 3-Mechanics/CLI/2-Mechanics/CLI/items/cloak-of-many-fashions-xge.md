@@ -9,7 +9,7 @@ tags:
 aliases: ["Cloak of Many Fashions"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Cloak of Many Fashions
 *Wondrous Item, minor, common*  

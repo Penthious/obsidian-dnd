@@ -9,7 +9,7 @@ tags:
 aliases: ["Cap of Water Breathing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 157
+BookSource: "Dungeon Master's Guide p. 157"
 ---
 # Cap of Water Breathing
 *Wondrous Item, minor, uncommon*  

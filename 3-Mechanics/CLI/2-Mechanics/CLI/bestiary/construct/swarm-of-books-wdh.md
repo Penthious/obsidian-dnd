@@ -11,7 +11,7 @@ aliases: ["Swarm of Books"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 156
+BookSource: "Waterdeep: Dragon Heist p. 156"
 ---
 # [Swarm of Books](2-Mechanics/CLI/bestiary/construct/swarm-of-books-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 156*  

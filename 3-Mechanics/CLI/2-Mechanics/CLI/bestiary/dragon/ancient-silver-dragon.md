@@ -13,7 +13,7 @@ aliases: ["Ancient Silver Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 116. Available in the SRD.
+BookSource: "Monster Manual p. 116. Available in the SRD."
 ---
 # [Ancient Silver Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md)
 *Source: Monster Manual p. 116. Available in the SRD.*  

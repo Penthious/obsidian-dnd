@@ -10,7 +10,7 @@ tags:
 aliases: ["+2 Wand of the War Mage"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 212. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 212. Available in the SRD."
 ---
 # +2 Wand of the War Mage
 *Wand, major, rare (requires attunement by a spellcaster)*  

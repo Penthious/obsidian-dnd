@@ -14,7 +14,7 @@ aliases: ["Corpse Flower"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127"
 ---
 # [Corpse Flower](2-Mechanics/CLI/bestiary/plant/corpse-flower-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  

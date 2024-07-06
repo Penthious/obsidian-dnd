@@ -12,7 +12,7 @@ aliases: ["Gibbering Mouther"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 157, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 157, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Gibbering Mouther](2-Mechanics/CLI/bestiary/aberration/gibbering-mouther.md)
 *Source: Monster Manual p. 157, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

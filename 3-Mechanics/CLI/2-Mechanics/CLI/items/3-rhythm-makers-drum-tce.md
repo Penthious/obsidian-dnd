@@ -9,7 +9,7 @@ tags:
 aliases: ["+3 Rhythm-Maker's Drum"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 134
+BookSource: "Tasha's Cauldron of Everything p. 134"
 ---
 # +3 Rhythm-Maker's Drum
 *Instrument, very rare (requires attunement by a bard)*  

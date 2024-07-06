@@ -11,7 +11,7 @@ aliases: ["Woe Strider"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 247
+BookSource: "Mythic Odysseys of Theros p. 247"
 ---
 # [Woe Strider](2-Mechanics/CLI/bestiary/aberration/woe-strider-mot.md)
 *Source: Mythic Odysseys of Theros p. 247*  

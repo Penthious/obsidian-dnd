@@ -11,7 +11,7 @@ aliases: ["Draconic Spirit (9th-level Spell)"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 21
+BookSource: "Fizban's Treasury of Dragons p. 21"
 ---
 # [Draconic Spirit (9th-level Spell)](2-Mechanics/CLI/bestiary/dragon/draconic-spirit-9th-level-spell-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 21*  

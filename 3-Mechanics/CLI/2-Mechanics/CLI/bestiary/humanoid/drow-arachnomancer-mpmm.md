@@ -12,7 +12,7 @@ aliases: ["Drow Arachnomancer"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 99, Mordenkainen's Tome of Foes p. 182
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 99, Mordenkainen's Tome of Foes p. 182"
 ---
 # [Drow Arachnomancer](2-Mechanics/CLI/bestiary/humanoid/drow-arachnomancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 99, Mordenkainen's Tome of Foes p. 182*  

@@ -12,7 +12,7 @@ aliases: ["Stella Wachter"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 113
+BookSource: "Curse of Strahd p. 113"
 ---
 # [Stella Wachter](2-Mechanics/CLI/bestiary/npc/stella-wachter-cos.md)
 *Source: Curse of Strahd p. 113*  

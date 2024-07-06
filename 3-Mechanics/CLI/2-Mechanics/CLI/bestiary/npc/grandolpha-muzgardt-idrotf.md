@@ -12,7 +12,7 @@ aliases: ["Grandolpha Muzgardt"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 176
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 176"
 ---
 # [Grandolpha Muzgardt](2-Mechanics/CLI/bestiary/npc/grandolpha-muzgardt-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 176*  

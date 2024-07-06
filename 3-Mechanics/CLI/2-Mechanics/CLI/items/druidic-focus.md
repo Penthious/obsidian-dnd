@@ -7,7 +7,7 @@ tags:
 aliases: ["Druidic Focus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151
+BookSource: "Player's Handbook p. 151"
 ---
 # Druidic Focus
 *Spellcasting Focus*  

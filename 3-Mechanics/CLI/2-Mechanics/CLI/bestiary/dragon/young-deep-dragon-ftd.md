@@ -11,7 +11,7 @@ aliases: ["Young Deep Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 175
+BookSource: "Fizban's Treasury of Dragons p. 175"
 ---
 # [Young Deep Dragon](2-Mechanics/CLI/bestiary/dragon/young-deep-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 175*  

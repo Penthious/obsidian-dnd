@@ -14,7 +14,7 @@ aliases: ["Ogre Battering Ram"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220"
 ---
 # [Ogre Battering Ram](2-Mechanics/CLI/bestiary/giant/ogre-battering-ram-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  

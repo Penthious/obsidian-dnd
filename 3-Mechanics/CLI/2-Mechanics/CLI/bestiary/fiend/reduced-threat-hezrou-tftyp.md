@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Hezrou"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Hezrou](2-Mechanics/CLI/bestiary/fiend/reduced-threat-hezrou-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

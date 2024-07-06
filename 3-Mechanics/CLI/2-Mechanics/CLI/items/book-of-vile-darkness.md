@@ -9,7 +9,7 @@ tags:
 aliases: ["Book of Vile Darkness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 222
+BookSource: "Dungeon Master's Guide p. 222"
 ---
 # Book of Vile Darkness
 *Wondrous Item, artifact (requires attunement)*  

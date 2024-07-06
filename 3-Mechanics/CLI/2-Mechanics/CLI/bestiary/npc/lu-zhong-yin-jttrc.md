@@ -12,7 +12,7 @@ aliases: ["Lu Zhong Yin"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 189
+BookSource: "Journeys through the Radiant Citadel p. 189"
 ---
 # [Lu Zhong Yin](2-Mechanics/CLI/bestiary/npc/lu-zhong-yin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 189*  

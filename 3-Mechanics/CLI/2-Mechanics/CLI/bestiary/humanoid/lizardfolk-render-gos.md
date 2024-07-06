@@ -11,7 +11,7 @@ aliases: ["Lizardfolk Render"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 241
+BookSource: "Ghosts of Saltmarsh p. 241"
 ---
 # [Lizardfolk Render](2-Mechanics/CLI/bestiary/humanoid/lizardfolk-render-gos.md)
 *Source: Ghosts of Saltmarsh p. 241*  

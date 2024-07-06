@@ -7,7 +7,7 @@ tags:
 aliases: ["Bugbear"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 8
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 8"
 ---
 # Bugbear
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 8*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Obsidian Flint Dragon Plate"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 224
+BookSource: "Baldur's Gate: Descent Into Avernus p. 224"
 ---
 # Obsidian Flint Dragon Plate
 *Heavy Armor, legendary*  

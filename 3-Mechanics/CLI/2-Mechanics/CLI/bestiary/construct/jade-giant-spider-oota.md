@@ -11,7 +11,7 @@ aliases: ["Jade Giant Spider"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 201
+BookSource: "Out of the Abyss p. 201"
 ---
 # [Jade Giant Spider](2-Mechanics/CLI/bestiary/construct/jade-giant-spider-oota.md)
 *Source: Out of the Abyss p. 201*  

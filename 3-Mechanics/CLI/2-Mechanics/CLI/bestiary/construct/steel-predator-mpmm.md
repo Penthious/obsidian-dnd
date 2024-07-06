@@ -12,7 +12,7 @@ aliases: ["Steel Predator"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239"
 ---
 # [Steel Predator](2-Mechanics/CLI/bestiary/construct/steel-predator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  

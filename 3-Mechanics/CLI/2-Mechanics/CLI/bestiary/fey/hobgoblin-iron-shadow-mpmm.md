@@ -14,7 +14,7 @@ aliases: ["Hobgoblin Iron Shadow"]
 NoteIcon: monster
 BestiaryType: fey (goblinoid)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162"
 ---
 # [Hobgoblin Iron Shadow](2-Mechanics/CLI/bestiary/fey/hobgoblin-iron-shadow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  

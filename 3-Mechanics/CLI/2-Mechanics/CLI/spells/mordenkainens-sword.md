@@ -15,7 +15,7 @@ classes:
 aliases: ["Mordenkainen's Sword"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 262. Available in the SRD and the Basic Rules (as 'Arcane Sword').
+BookSource: "Player's Handbook p. 262. Available in the SRD and the Basic Rules (as 'Arcane Sword')."
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

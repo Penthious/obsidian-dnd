@@ -11,7 +11,7 @@ aliases: ["Young Troglodyte"]
 NoteIcon: monster
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 176
+BookSource: "Tales from the Yawning Portal p. 176"
 ---
 # [Young Troglodyte](2-Mechanics/CLI/bestiary/humanoid/young-troglodyte-tftyp.md)
 *Source: Tales from the Yawning Portal p. 176*  

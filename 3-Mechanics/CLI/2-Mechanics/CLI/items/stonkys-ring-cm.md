@@ -9,7 +9,7 @@ tags:
 aliases: ["Stonky's ring"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 132
+BookSource: "Candlekeep Mysteries p. 132"
 ---
 # Stonky's ring
 *Ring, unknown (magic) (requires attunement)*  

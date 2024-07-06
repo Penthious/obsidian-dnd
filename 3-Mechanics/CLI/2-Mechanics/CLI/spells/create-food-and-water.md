@@ -21,7 +21,7 @@ classes:
 aliases: ["Create Food and Water"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 229. Available in the SRD.
+BookSource: "Player's Handbook p. 229. Available in the SRD."
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

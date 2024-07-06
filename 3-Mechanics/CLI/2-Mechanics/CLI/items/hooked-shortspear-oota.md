@@ -10,7 +10,7 @@ tags:
 aliases: ["Hooked Shortspear"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 224
+BookSource: "Out of the Abyss p. 224"
 ---
 # Hooked Shortspear
 *Melee Weapon, unknown*  

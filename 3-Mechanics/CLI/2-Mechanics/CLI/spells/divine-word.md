@@ -13,7 +13,7 @@ classes:
 aliases: ["Divine Word"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 234. Available in the SRD.
+BookSource: "Player's Handbook p. 234. Available in the SRD."
 ---
 # Divine Word
 *7th-level, Evocation*  

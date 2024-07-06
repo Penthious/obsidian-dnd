@@ -12,7 +12,7 @@ aliases: ["Severin"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 92
+BookSource: "The Rise of Tiamat p. 92"
 ---
 # [Severin](2-Mechanics/CLI/bestiary/npc/severin-rot.md)
 *Source: The Rise of Tiamat p. 92*  

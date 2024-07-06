@@ -11,7 +11,7 @@ aliases: ["Giant Fly (DMG)"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Dungeon Master's Guide p. 169
+BookSource: "Dungeon Master's Guide p. 169"
 ---
 # [Giant Fly (DMG)](2-Mechanics/CLI/bestiary/beast/giant-fly-dmg.md)
 *Source: Dungeon Master's Guide p. 169*  

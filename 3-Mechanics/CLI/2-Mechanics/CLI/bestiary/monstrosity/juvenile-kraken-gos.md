@@ -11,7 +11,7 @@ aliases: ["Juvenile Kraken"]
 NoteIcon: monster
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 238
+BookSource: "Ghosts of Saltmarsh p. 238"
 ---
 # [Juvenile Kraken](2-Mechanics/CLI/bestiary/monstrosity/juvenile-kraken-gos.md)
 *Source: Ghosts of Saltmarsh p. 238*  

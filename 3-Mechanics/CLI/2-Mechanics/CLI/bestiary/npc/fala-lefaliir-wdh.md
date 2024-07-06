@@ -12,7 +12,7 @@ aliases: ["Fala Lefaliir"]
 NoteIcon: npc
 BestiaryType: humanoid (Wood elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 32
+BookSource: "Waterdeep: Dragon Heist p. 32"
 ---
 # [Fala Lefaliir](2-Mechanics/CLI/bestiary/npc/fala-lefaliir-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

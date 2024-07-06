@@ -10,7 +10,7 @@ tags:
 aliases: ["Dragongleam"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Hoard of the Dragon Queen p. 84
+BookSource: "Hoard of the Dragon Queen p. 84"
 ---
 # Dragongleam
 *Melee Weapon, unknown (magic)*  

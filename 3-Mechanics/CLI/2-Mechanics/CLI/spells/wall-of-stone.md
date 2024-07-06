@@ -21,7 +21,7 @@ classes:
 aliases: ["Wall of Stone"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 287. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 287. Available in the SRD and the Basic Rules."
 ---
 # Wall of Stone
 *5th-level, Evocation*  

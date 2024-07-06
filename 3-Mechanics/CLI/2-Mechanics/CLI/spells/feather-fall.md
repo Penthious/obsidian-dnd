@@ -21,7 +21,7 @@ classes:
 aliases: ["Feather Fall"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 239. Available in the SRD.
+BookSource: "Player's Handbook p. 239. Available in the SRD."
 ---
 # Feather Fall
 *1st-level, Transmutation*  

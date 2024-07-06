@@ -9,7 +9,7 @@ tags:
 aliases: ["Ingot of the Skold Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 234
+BookSource: "Storm King's Thunder p. 234"
 ---
 # Ingot of the Skold Rune
 *Wondrous Item, very rare (requires attunement)*  

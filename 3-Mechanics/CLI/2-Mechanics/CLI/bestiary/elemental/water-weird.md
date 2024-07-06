@@ -13,7 +13,7 @@ aliases: ["Water Weird"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 299, Princes of the Apocalypse, Tales from the Yawning Portal, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 299, Princes of the Apocalypse, Tales from the Yawning Portal, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Water Weird](2-Mechanics/CLI/bestiary/elemental/water-weird.md)
 *Source: Monster Manual p. 299, Princes of the Apocalypse, Tales from the Yawning Portal, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk*  

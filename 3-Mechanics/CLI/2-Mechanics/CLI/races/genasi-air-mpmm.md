@@ -7,7 +7,7 @@ tags:
 aliases: ["Genasi (Air)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 16
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 16"
 ---
 # Genasi (Air)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 16*  

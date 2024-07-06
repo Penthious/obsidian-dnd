@@ -9,7 +9,7 @@ tags:
 aliases: ["Cursed Luckstone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Ghosts of Saltmarsh p. 229
+BookSource: "Ghosts of Saltmarsh p. 229"
 ---
 # Cursed Luckstone
 *Wondrous Item, uncommon (requires attunement)*  

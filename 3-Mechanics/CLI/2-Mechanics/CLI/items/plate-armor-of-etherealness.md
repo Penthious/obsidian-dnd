@@ -10,7 +10,7 @@ tags:
 aliases: ["Plate Armor of Etherealness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 185. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 185. Available in the SRD."
 ---
 # Plate Armor of Etherealness
 *Heavy Armor, major, legendary (requires attunement)*  

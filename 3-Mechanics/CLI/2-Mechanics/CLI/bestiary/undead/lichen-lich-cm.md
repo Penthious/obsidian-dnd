@@ -11,7 +11,7 @@ aliases: ["Lichen Lich"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 223
+BookSource: "Candlekeep Mysteries p. 223"
 ---
 # [Lichen Lich](2-Mechanics/CLI/bestiary/undead/lichen-lich-cm.md)
 *Source: Candlekeep Mysteries p. 223*  

@@ -12,7 +12,7 @@ aliases: ["Spirit Naga"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 234, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 234, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Spirit Naga](2-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md)
 *Source: Monster Manual p. 234, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

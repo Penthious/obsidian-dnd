@@ -9,7 +9,7 @@ tags:
 aliases: ["Horned Ring"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 108
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 108"
 ---
 # Horned Ring
 *Ring, very rare (requires attunement)*  

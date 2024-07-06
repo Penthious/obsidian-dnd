@@ -12,7 +12,7 @@ aliases: ["Minotaur"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 223, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 223, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules."
 ---
 # [Minotaur](2-Mechanics/CLI/bestiary/monstrosity/minotaur.md)
 *Source: Monster Manual p. 223, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  

@@ -11,7 +11,7 @@ aliases: ["Typhon"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 246
+BookSource: "Mythic Odysseys of Theros p. 246"
 ---
 # [Typhon](2-Mechanics/CLI/bestiary/monstrosity/typhon-mot.md)
 *Source: Mythic Odysseys of Theros p. 246*  

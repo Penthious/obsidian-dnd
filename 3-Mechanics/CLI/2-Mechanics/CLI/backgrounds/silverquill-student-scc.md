@@ -7,7 +7,7 @@ tags:
 aliases: ["Silverquill Student"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Strixhaven: A Curriculum of Chaos p. 35
+BookSource: "Strixhaven: A Curriculum of Chaos p. 35"
 ---
 # Silverquill Student
 *Source: Strixhaven: A Curriculum of Chaos p. 35*  

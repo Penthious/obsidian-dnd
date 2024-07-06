@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodstone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Bloodstone
 *Gemstone*  

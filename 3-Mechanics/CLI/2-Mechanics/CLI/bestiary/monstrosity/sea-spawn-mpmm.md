@@ -13,7 +13,7 @@ aliases: ["Sea Spawn"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189"
 ---
 # [Sea Spawn](2-Mechanics/CLI/bestiary/monstrosity/sea-spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189*  

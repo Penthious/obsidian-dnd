@@ -11,7 +11,7 @@ aliases: ["Wild Dog"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 96
+BookSource: "Tomb of Annihilation p. 96"
 ---
 # [Wild Dog](2-Mechanics/CLI/bestiary/beast/wild-dog-toa.md)
 *Source: Tomb of Annihilation p. 96*  

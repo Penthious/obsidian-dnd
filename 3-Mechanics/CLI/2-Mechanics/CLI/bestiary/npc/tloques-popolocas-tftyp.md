@@ -12,7 +12,7 @@ aliases: ["Tloques-Popolocas"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 68
+BookSource: "Tales from the Yawning Portal p. 68"
 ---
 # [Tloques-Popolocas](2-Mechanics/CLI/bestiary/npc/tloques-popolocas-tftyp.md)
 *Source: Tales from the Yawning Portal p. 68*  

@@ -15,7 +15,7 @@ aliases: ["Gnoll Hunter"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154"
 ---
 # [Gnoll Hunter](2-Mechanics/CLI/bestiary/monstrosity/gnoll-hunter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  

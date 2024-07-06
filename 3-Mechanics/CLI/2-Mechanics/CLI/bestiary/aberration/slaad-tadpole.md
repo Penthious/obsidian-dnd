@@ -11,7 +11,7 @@ aliases: ["Slaad Tadpole"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 276, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 276, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Slaad Tadpole](2-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md)
 *Source: Monster Manual p. 276, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Healing Spirit"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 157
+BookSource: "Xanathar's Guide to Everything p. 157"
 ---
 # Healing Spirit
 *2nd-level, Conjuration*  

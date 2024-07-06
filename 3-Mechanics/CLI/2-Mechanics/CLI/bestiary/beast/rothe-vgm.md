@@ -12,7 +12,7 @@ aliases: ["Rothé"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 208
+BookSource: "Volo's Guide to Monsters p. 208"
 ---
 # [Rothé](2-Mechanics/CLI/bestiary/beast/rothe-vgm.md)
 *Source: Volo's Guide to Monsters p. 208*  

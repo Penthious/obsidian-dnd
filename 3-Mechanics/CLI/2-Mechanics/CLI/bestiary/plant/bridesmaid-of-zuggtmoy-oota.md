@@ -11,7 +11,7 @@ aliases: ["Bridesmaid of Zuggtmoy"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 230
+BookSource: "Out of the Abyss p. 230"
 ---
 # [Bridesmaid of Zuggtmoy](2-Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota.md)
 *Source: Out of the Abyss p. 230*  

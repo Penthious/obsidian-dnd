@@ -8,7 +8,7 @@ tags:
 aliases: ["Balance of Harmony"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 228
+BookSource: "Tales from the Yawning Portal p. 228"
 ---
 # Balance of Harmony
 *Wondrous Item, uncommon*  

@@ -12,7 +12,7 @@ aliases: ["Nothic"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 236, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.
+BookSource: "Monster Manual p. 236, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules."
 ---
 # [Nothic](2-Mechanics/CLI/bestiary/aberration/nothic.md)
 *Source: Monster Manual p. 236, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.*  

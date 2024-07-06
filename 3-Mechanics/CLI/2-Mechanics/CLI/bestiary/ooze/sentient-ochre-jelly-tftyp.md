@@ -11,7 +11,7 @@ aliases: ["Sentient Ochre Jelly"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 158
+BookSource: "Tales from the Yawning Portal p. 158"
 ---
 # [Sentient Ochre Jelly](2-Mechanics/CLI/bestiary/ooze/sentient-ochre-jelly-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

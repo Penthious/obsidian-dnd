@@ -10,7 +10,7 @@ tags:
 aliases: ["Cube of Force"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 159. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 159. Available in the SRD."
 ---
 # Cube of Force
 *Wondrous Item, major, rare (requires attunement)*  

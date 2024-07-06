@@ -12,7 +12,7 @@ aliases: ["Sirac of Suzail"]
 NoteIcon: npc
 BestiaryType: humanoid (Chondathan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 247
+BookSource: "Storm King's Thunder p. 247"
 ---
 # [Sirac of Suzail](2-Mechanics/CLI/bestiary/npc/sirac-of-suzail-skt.md)
 *Source: Storm King's Thunder p. 247*  

@@ -12,7 +12,7 @@ aliases: ["Aljanor Keenblade"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 149
+BookSource: "Out of the Abyss p. 149"
 ---
 # [Aljanor Keenblade](2-Mechanics/CLI/bestiary/npc/aljanor-keenblade-oota.md)
 *Source: Out of the Abyss p. 149*  

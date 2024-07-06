@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragon Slayer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 166. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 166. Available in the SRD."
 ---
 # Dragon Slayer
 *Generic Variant, major, rare*  

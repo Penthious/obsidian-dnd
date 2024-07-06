@@ -10,7 +10,7 @@ tags:
 aliases: ["Net"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 149. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 149. Available in the SRD and the Basic Rules."
 ---
 # Net
 *Ranged Weapon*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Crystal Blade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 22
+BookSource: "Fizban's Treasury of Dragons p. 22"
 ---
 # Crystal Blade
 *Generic Variant, rare (requires attunement)*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Driftglobe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 166
+BookSource: "Dungeon Master's Guide p. 166"
 ---
 # Driftglobe
 *Wondrous Item, minor, uncommon*  

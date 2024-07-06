@@ -16,7 +16,7 @@ classes:
 aliases: ["Ceremony"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 151
+BookSource: "Xanathar's Guide to Everything p. 151"
 ---
 # Ceremony
 *1st-level, Abjuration (ritual)*  

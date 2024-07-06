@@ -12,7 +12,7 @@ aliases: ["Grenl"]
 NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 25
+BookSource: "Tales from the Yawning Portal p. 25"
 ---
 # [Grenl](2-Mechanics/CLI/bestiary/npc/grenl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  

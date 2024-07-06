@@ -7,7 +7,7 @@ tags:
 aliases: ["Black Ghost Orchid Seed"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Journeys through the Radiant Citadel p. 212
+BookSource: "Journeys through the Radiant Citadel p. 212"
 ---
 # Black Ghost Orchid Seed
 *Adventuring Gear*  

@@ -13,7 +13,7 @@ aliases: ["Poltergeist"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 279, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault
+BookSource: "Monster Manual p. 279, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault"
 ---
 # [Poltergeist](2-Mechanics/CLI/bestiary/undead/poltergeist.md)
 *Source: Monster Manual p. 279, Curse of Strahd, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault*  

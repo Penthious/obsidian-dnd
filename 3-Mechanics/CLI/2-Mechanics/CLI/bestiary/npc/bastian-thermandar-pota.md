@@ -12,7 +12,7 @@ aliases: ["Bastian Thermandar"]
 NoteIcon: npc
 BestiaryType: humanoid (Fire genasi)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 201
+BookSource: "Princes of the Apocalypse p. 201"
 ---
 # [Bastian Thermandar](2-Mechanics/CLI/bestiary/npc/bastian-thermandar-pota.md)
 *Source: Princes of the Apocalypse p. 201*  

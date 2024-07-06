@@ -10,7 +10,7 @@ tags:
 aliases: ["Sword of Vengeance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 206
+BookSource: "Dungeon Master's Guide p. 206"
 ---
 # Sword of Vengeance
 *Generic Variant, major, uncommon (requires attunement)*  

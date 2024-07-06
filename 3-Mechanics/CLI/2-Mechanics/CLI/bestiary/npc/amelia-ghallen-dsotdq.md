@@ -12,7 +12,7 @@ aliases: ["Amelia Ghallen"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 180
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 180"
 ---
 # [Amelia Ghallen](2-Mechanics/CLI/bestiary/npc/amelia-ghallen-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 180*  

@@ -11,7 +11,7 @@ aliases: ["Pig"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 143
+BookSource: "Storm King's Thunder p. 143"
 ---
 # [Pig](2-Mechanics/CLI/bestiary/beast/pig-skt.md)
 *Source: Storm King's Thunder p. 143*  

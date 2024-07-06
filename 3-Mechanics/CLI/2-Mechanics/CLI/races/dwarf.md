@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarf"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 18. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 18. Available in the SRD and the Basic Rules."
 ---
 # Dwarf
 *Source: Player's Handbook p. 18. Available in the SRD and the Basic Rules.*  

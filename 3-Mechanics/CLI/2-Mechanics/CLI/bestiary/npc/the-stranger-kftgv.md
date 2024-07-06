@@ -12,7 +12,7 @@ aliases: ["The Stranger"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 173
+BookSource: "Keys from the Golden Vault p. 173"
 ---
 # [The Stranger](2-Mechanics/CLI/bestiary/npc/the-stranger-kftgv.md)
 *Source: Keys from the Golden Vault p. 173*  

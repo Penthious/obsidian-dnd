@@ -15,7 +15,7 @@ classes:
 aliases: ["Heroes' Feast"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 250. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 250. Available in the SRD and the Basic Rules."
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Genasi (Earth)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 17
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 17"
 ---
 # Genasi (Earth)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  

@@ -12,7 +12,7 @@ aliases: ["Jandar Chergoba"]
 NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 116
+BookSource: "Waterdeep: Dragon Heist p. 116"
 ---
 # [Jandar Chergoba](2-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

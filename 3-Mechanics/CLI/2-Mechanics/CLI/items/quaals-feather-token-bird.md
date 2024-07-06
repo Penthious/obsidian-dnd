@@ -9,7 +9,7 @@ tags:
 aliases: ["Quaal's Feather Token, Bird"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Bird').
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Bird')."
 ---
 # Quaal's Feather Token, Bird
 *Wondrous Item, minor, rare*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Investigator"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Van Richten's Guide to Ravenloft p. 35
+BookSource: "Van Richten's Guide to Ravenloft p. 35"
 ---
 # Investigator
 *Source: Van Richten's Guide to Ravenloft p. 35*  

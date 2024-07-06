@@ -12,7 +12,7 @@ aliases: ["Strahd von Zarovich"]
 NoteIcon: npc
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 240
+BookSource: "Curse of Strahd p. 240"
 ---
 # [Strahd von Zarovich](2-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)
 *Source: Curse of Strahd p. 240*  

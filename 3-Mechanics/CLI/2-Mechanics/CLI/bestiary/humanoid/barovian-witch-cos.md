@@ -11,7 +11,7 @@ aliases: ["Barovian Witch"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 229
+BookSource: "Curse of Strahd p. 229"
 ---
 # [Barovian Witch](2-Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md)
 *Source: Curse of Strahd p. 229*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Orb of the Stein Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 235
+BookSource: "Storm King's Thunder p. 235"
 ---
 # Orb of the Stein Rune
 *Wondrous Item, rare (requires attunement)*  

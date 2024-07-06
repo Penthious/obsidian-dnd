@@ -11,7 +11,7 @@ aliases: ["Giant Snapping Turtle"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 222
+BookSource: "Tomb of Annihilation p. 222"
 ---
 # [Giant Snapping Turtle](2-Mechanics/CLI/bestiary/beast/giant-snapping-turtle-toa.md)
 *Source: Tomb of Annihilation p. 222*  

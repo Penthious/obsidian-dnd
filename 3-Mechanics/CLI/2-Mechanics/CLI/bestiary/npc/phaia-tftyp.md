@@ -12,7 +12,7 @@ aliases: ["Phaia"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 132
+BookSource: "Tales from the Yawning Portal p. 132"
 ---
 # [Phaia](2-Mechanics/CLI/bestiary/npc/phaia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 132*  

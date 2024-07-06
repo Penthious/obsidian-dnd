@@ -7,7 +7,7 @@ tags:
 aliases: ["Baldur's Gate Soldier"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Baldur's Gate: Descent Into Avernus p. 204
+BookSource: "Baldur's Gate: Descent Into Avernus p. 204"
 ---
 # Baldur's Gate Soldier
 *Source: Baldur's Gate: Descent Into Avernus p. 204*  

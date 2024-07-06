@@ -21,7 +21,7 @@ classes:
 aliases: ["Legend Lore"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 254. Available in the SRD.
+BookSource: "Player's Handbook p. 254. Available in the SRD."
 ---
 # Legend Lore
 *5th-level, Divination*  

@@ -11,7 +11,7 @@ aliases: ["Duodrone"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 225, Keys from the Golden Vault
+BookSource: "Monster Manual p. 225, Keys from the Golden Vault"
 ---
 # [Duodrone](2-Mechanics/CLI/bestiary/construct/duodrone.md)
 *Source: Monster Manual p. 225, Keys from the Golden Vault*  

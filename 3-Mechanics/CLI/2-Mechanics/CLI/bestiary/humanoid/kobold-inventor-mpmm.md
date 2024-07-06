@@ -16,7 +16,7 @@ aliases: ["Kobold Inventor"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166"
 ---
 # [Kobold Inventor](2-Mechanics/CLI/bestiary/humanoid/kobold-inventor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166*  

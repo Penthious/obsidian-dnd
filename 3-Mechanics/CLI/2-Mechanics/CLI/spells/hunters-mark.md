@@ -13,7 +13,7 @@ classes:
 aliases: ["Hunter's Mark"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 251. Available in the SRD.
+BookSource: "Player's Handbook p. 251. Available in the SRD."
 ---
 # Hunter's Mark
 *1st-level, Divination*  

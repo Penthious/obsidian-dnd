@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Striking"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 203. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 203. Available in the SRD."
 ---
 # Staff of Striking
 *Staff, major, very rare (requires attunement)*  

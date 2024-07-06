@@ -12,7 +12,7 @@ aliases: ["Urgala Meltimer"]
 NoteIcon: npc
 BestiaryType: humanoid (Turami human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 254
+BookSource: "Storm King's Thunder p. 254"
 ---
 # [Urgala Meltimer](2-Mechanics/CLI/bestiary/npc/urgala-meltimer-skt.md)
 *Source: Storm King's Thunder p. 254*  

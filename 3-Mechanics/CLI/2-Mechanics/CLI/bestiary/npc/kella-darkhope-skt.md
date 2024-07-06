@@ -12,7 +12,7 @@ aliases: ["Kella Darkhope"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 25
+BookSource: "Storm King's Thunder p. 25"
 ---
 # [Kella Darkhope](2-Mechanics/CLI/bestiary/npc/kella-darkhope-skt.md)
 *Source: Storm King's Thunder p. 25*  

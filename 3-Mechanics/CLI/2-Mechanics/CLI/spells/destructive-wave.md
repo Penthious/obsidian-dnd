@@ -13,7 +13,7 @@ classes:
 aliases: ["Destructive Wave"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 231
+BookSource: "Player's Handbook p. 231"
 ---
 # Destructive Wave
 *5th-level, Evocation*  

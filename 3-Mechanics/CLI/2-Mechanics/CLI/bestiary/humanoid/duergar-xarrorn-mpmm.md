@@ -13,7 +13,7 @@ aliases: ["Duergar Xarrorn"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193"
 ---
 # [Duergar Xarrorn](2-Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*  

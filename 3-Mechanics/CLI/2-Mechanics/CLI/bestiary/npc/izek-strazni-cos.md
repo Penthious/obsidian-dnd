@@ -12,7 +12,7 @@ aliases: ["Izek Strazni"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 232
+BookSource: "Curse of Strahd p. 232"
 ---
 # [Izek Strazni](2-Mechanics/CLI/bestiary/npc/izek-strazni-cos.md)
 *Source: Curse of Strahd p. 232*  

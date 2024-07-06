@@ -11,7 +11,7 @@ aliases: ["Animated Object (Small)"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Player's Handbook p. 213
+BookSource: "Player's Handbook p. 213"
 ---
 # [Animated Object (Small)](2-Mechanics/CLI/bestiary/construct/animated-object-small.md)
 *Source: Player's Handbook p. 213*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Inheritor"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 150
+BookSource: "Sword Coast Adventurer's Guide p. 150"
 ---
 # Inheritor
 *Source: Sword Coast Adventurer's Guide p. 150*  

@@ -12,7 +12,7 @@ aliases: ["Fragment of Krokulmar"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 53
+BookSource: "Keys from the Golden Vault p. 53"
 ---
 # [Fragment of Krokulmar](2-Mechanics/CLI/bestiary/npc/fragment-of-krokulmar-kftgv.md)
 *Source: Keys from the Golden Vault p. 53*  

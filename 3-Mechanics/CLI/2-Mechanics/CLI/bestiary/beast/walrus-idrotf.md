@@ -11,7 +11,7 @@ aliases: ["Walrus"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 312
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 312"
 ---
 # [Walrus](2-Mechanics/CLI/bestiary/beast/walrus-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 312*  

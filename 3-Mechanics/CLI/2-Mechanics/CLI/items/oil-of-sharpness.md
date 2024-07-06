@@ -9,7 +9,7 @@ tags:
 aliases: ["Oil of Sharpness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 184. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 184. Available in the SRD."
 ---
 # Oil of Sharpness
 *Potion, minor, very rare*  

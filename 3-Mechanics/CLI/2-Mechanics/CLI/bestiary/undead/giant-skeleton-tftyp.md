@@ -11,7 +11,7 @@ aliases: ["Giant Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 236
+BookSource: "Tales from the Yawning Portal p. 236"
 ---
 # [Giant Skeleton](2-Mechanics/CLI/bestiary/undead/giant-skeleton-tftyp.md)
 *Source: Tales from the Yawning Portal p. 236*  

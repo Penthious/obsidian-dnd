@@ -12,7 +12,7 @@ aliases: ["Awa"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 95
+BookSource: "Journeys through the Radiant Citadel p. 95"
 ---
 # [Awa](2-Mechanics/CLI/bestiary/npc/awa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 95*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Crook of Rao"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 123
+BookSource: "Tasha's Cauldron of Everything p. 123"
 ---
 # Crook of Rao
 *Wondrous Item, artifact (requires attunement)*  

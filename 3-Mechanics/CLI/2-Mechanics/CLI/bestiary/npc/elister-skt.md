@@ -12,7 +12,7 @@ aliases: ["Elister"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 154
+BookSource: "Storm King's Thunder p. 154"
 ---
 # [Elister](2-Mechanics/CLI/bestiary/npc/elister-skt.md)
 *Source: Storm King's Thunder p. 154*  

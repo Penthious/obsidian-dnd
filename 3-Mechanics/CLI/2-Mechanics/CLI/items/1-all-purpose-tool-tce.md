@@ -9,7 +9,7 @@ tags:
 aliases: ["+1 All-Purpose Tool"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 119
+BookSource: "Tasha's Cauldron of Everything p. 119"
 ---
 # +1 All-Purpose Tool
 *Wondrous Item, uncommon (requires attunement by an artificer)*  

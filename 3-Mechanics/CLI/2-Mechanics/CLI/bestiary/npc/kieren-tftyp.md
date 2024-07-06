@@ -12,7 +12,7 @@ aliases: ["Kieren"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 157
+BookSource: "Tales from the Yawning Portal p. 157"
 ---
 # [Kieren](2-Mechanics/CLI/bestiary/npc/kieren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

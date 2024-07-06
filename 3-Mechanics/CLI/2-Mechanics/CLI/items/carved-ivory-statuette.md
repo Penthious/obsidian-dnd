@@ -7,7 +7,7 @@ tags:
 aliases: ["Carved ivory statuette"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Carved ivory statuette
 *Art object*  

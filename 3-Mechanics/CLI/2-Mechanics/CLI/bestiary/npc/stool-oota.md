@@ -12,7 +12,7 @@ aliases: ["Stool"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 7
+BookSource: "Out of the Abyss p. 7"
 ---
 # [Stool](2-Mechanics/CLI/bestiary/npc/stool-oota.md)
 *Source: Out of the Abyss p. 7*  

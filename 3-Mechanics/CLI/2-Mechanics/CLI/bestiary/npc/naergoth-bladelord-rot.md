@@ -12,7 +12,7 @@ aliases: ["Naergoth Bladelord"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 90
+BookSource: "The Rise of Tiamat p. 90"
 ---
 # [Naergoth Bladelord](2-Mechanics/CLI/bestiary/npc/naergoth-bladelord-rot.md)
 *Source: The Rise of Tiamat p. 90*  

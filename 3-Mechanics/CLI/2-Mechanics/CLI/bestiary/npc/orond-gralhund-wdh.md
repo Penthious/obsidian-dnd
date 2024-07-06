@@ -12,7 +12,7 @@ aliases: ["Orond Gralhund"]
 NoteIcon: npc
 BestiaryType: humanoid (Tethyrian human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 213
+BookSource: "Waterdeep: Dragon Heist p. 213"
 ---
 # [Orond Gralhund](2-Mechanics/CLI/bestiary/npc/orond-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 213*  

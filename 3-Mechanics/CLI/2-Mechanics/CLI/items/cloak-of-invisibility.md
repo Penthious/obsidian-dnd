@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloak of Invisibility"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 158
+BookSource: "Dungeon Master's Guide p. 158"
 ---
 # Cloak of Invisibility
 *Wondrous Item, major, legendary (requires attunement)*  

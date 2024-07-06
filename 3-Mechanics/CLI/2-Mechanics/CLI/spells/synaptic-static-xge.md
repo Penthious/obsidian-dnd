@@ -17,7 +17,7 @@ classes:
 aliases: ["Synaptic Static"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 167
+BookSource: "Xanathar's Guide to Everything p. 167"
 ---
 # Synaptic Static
 *5th-level, Enchantment*  

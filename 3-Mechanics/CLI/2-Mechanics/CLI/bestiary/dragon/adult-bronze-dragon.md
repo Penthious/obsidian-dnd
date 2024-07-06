@@ -12,7 +12,7 @@ aliases: ["Adult Bronze Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 108, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 108, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Adult Bronze Dragon](2-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon.md)
 *Source: Monster Manual p. 108, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

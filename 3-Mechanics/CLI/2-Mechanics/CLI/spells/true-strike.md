@@ -23,7 +23,7 @@ classes:
 aliases: ["True Strike"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 284. Available in the SRD.
+BookSource: "Player's Handbook p. 284. Available in the SRD."
 ---
 # True Strike
 *cantrip, Divination*  

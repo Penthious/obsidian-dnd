@@ -14,7 +14,7 @@ aliases: ["Star Spawn Seer"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236"
 ---
 # [Star Spawn Seer](2-Mechanics/CLI/bestiary/aberration/star-spawn-seer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*  

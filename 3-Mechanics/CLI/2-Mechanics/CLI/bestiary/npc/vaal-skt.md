@@ -12,7 +12,7 @@ aliases: ["Vaal"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 207
+BookSource: "Storm King's Thunder p. 207"
 ---
 # [Vaal](2-Mechanics/CLI/bestiary/npc/vaal-skt.md)
 *Source: Storm King's Thunder p. 207*  

@@ -23,7 +23,7 @@ classes:
 aliases: ["Alter Self"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 211. Available in the SRD.
+BookSource: "Player's Handbook p. 211. Available in the SRD."
 ---
 # Alter Self
 *2nd-level, Transmutation*  

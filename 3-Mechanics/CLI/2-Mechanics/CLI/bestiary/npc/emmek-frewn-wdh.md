@@ -12,7 +12,7 @@ aliases: ["Emmek Frewn"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 42
+BookSource: "Waterdeep: Dragon Heist p. 42"
 ---
 # [Emmek Frewn](2-Mechanics/CLI/bestiary/npc/emmek-frewn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 42*  

@@ -12,7 +12,7 @@ aliases: ["Kraken"]
 NoteIcon: monster
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
-BookSource: Monster Manual p. 197, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 197, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Kraken](2-Mechanics/CLI/bestiary/monstrosity/kraken.md)
 *Source: Monster Manual p. 197, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

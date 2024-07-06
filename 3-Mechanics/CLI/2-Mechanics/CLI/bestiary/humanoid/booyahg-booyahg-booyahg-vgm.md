@@ -11,7 +11,7 @@ aliases: ["Booyahg Booyahg Booyahg"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 43
+BookSource: "Volo's Guide to Monsters p. 43"
 ---
 # [Booyahg Booyahg Booyahg](2-Mechanics/CLI/bestiary/humanoid/booyahg-booyahg-booyahg-vgm.md)
 *Source: Volo's Guide to Monsters p. 43*  

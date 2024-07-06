@@ -7,7 +7,7 @@ tags:
 aliases: ["Riding Horse"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 157. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 157. Available in the SRD and the Basic Rules."
 ---
 # Riding Horse
 *Mount*  

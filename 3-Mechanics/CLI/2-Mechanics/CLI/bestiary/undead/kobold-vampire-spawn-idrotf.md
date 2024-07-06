@@ -11,7 +11,7 @@ aliases: ["Kobold Vampire Spawn"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 297
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 297"
 ---
 # [Kobold Vampire Spawn](2-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  

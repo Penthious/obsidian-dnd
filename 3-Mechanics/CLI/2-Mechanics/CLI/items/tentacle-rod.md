@@ -10,7 +10,7 @@ tags:
 aliases: ["Tentacle Rod"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 208
+BookSource: "Dungeon Master's Guide p. 208"
 ---
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  

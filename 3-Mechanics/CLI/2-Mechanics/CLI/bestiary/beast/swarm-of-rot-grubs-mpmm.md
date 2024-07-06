@@ -13,7 +13,7 @@ aliases: ["Swarm of Rot Grubs"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208"
 ---
 # [Swarm of Rot Grubs](2-Mechanics/CLI/bestiary/beast/swarm-of-rot-grubs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208*  

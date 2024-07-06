@@ -8,7 +8,7 @@ tags:
 aliases: ["Pixie Dust"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 212
+BookSource: "The Wild Beyond the Witchlight p. 212"
 ---
 # Pixie Dust
 *Wondrous Item, uncommon*  

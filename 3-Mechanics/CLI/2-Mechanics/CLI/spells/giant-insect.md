@@ -11,7 +11,7 @@ classes:
 aliases: ["Giant Insect"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 245. Available in the SRD.
+BookSource: "Player's Handbook p. 245. Available in the SRD."
 ---
 # Giant Insect
 *4th-level, Transmutation*  

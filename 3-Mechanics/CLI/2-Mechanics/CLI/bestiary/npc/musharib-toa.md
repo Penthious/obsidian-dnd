@@ -12,7 +12,7 @@ aliases: ["Musharib"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 34
+BookSource: "Tomb of Annihilation p. 34"
 ---
 # [Musharib](2-Mechanics/CLI/bestiary/npc/musharib-toa.md)
 *Source: Tomb of Annihilation p. 34*  

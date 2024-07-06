@@ -16,7 +16,7 @@ aliases: ["Giant Wolf Spider"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 330, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 330, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Giant Wolf Spider](2-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md)
 *Source: Monster Manual p. 330, Curse of Strahd, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

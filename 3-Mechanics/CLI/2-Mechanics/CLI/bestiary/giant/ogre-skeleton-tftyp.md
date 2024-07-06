@@ -11,7 +11,7 @@ aliases: ["Ogre Skeleton"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 54
+BookSource: "Tales from the Yawning Portal p. 54"
 ---
 # [Ogre Skeleton](2-Mechanics/CLI/bestiary/giant/ogre-skeleton-tftyp.md)
 *Source: Tales from the Yawning Portal p. 54*  

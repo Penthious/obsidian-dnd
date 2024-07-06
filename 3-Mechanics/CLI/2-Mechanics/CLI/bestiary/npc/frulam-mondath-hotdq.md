@@ -12,7 +12,7 @@ aliases: ["Frulam Mondath"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 90
+BookSource: "Hoard of the Dragon Queen p. 90"
 ---
 # [Frulam Mondath](2-Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 90*  

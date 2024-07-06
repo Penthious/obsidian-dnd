@@ -9,7 +9,7 @@ tags:
 aliases: ["Lyre of Building"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 131
+BookSource: "Tasha's Cauldron of Everything p. 131"
 ---
 # Lyre of Building
 *Instrument, rare (requires attunement by a bard)*  

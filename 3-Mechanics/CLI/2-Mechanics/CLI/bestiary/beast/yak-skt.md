@@ -11,7 +11,7 @@ aliases: ["Yak"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 172
+BookSource: "Storm King's Thunder p. 172"
 ---
 # [Yak](2-Mechanics/CLI/bestiary/beast/yak-skt.md)
 *Source: Storm King's Thunder p. 172*  

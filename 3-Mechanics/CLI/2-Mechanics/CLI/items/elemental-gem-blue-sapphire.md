@@ -9,7 +9,7 @@ tags:
 aliases: ["Elemental Gem, Blue Sapphire"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 167. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 167. Available in the SRD."
 ---
 # Elemental Gem, Blue Sapphire
 *Wondrous Item, minor, uncommon*  

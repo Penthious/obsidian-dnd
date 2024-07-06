@@ -12,7 +12,7 @@ aliases: ["Myconid Sprout"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Dragons of Stormwreck Isle
+BookSource: "Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Dragons of Stormwreck Isle"
 ---
 # [Myconid Sprout](2-Mechanics/CLI/bestiary/plant/myconid-sprout.md)
 *Source: Monster Manual p. 230, Waterdeep: Dungeon of the Mad Mage, Dragons of Stormwreck Isle*  

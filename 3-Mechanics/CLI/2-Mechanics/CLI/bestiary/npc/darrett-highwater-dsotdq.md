@@ -12,7 +12,7 @@ aliases: ["Darrett Highwater"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 59
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 59"
 ---
 # [Darrett Highwater](2-Mechanics/CLI/bestiary/npc/darrett-highwater-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 59*  

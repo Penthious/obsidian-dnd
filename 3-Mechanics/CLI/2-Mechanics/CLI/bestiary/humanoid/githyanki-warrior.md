@@ -11,7 +11,7 @@ aliases: ["Githyanki Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Monster Manual p. 160, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 160, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Githyanki Warrior](2-Mechanics/CLI/bestiary/humanoid/githyanki-warrior.md)
 *Source: Monster Manual p. 160, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk*  

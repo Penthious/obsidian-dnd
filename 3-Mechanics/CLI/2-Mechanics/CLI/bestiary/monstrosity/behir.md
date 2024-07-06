@@ -12,7 +12,7 @@ aliases: ["Behir"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 25, Tales from the Yawning Portal, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 25, Tales from the Yawning Portal, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Behir](2-Mechanics/CLI/bestiary/monstrosity/behir.md)
 *Source: Monster Manual p. 25, Tales from the Yawning Portal, Candlekeep Mysteries, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

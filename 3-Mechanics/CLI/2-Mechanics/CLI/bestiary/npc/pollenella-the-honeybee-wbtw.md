@@ -12,7 +12,7 @@ aliases: ["Pollenella the Honeybee"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 135
+BookSource: "The Wild Beyond the Witchlight p. 135"
 ---
 # [Pollenella the Honeybee](2-Mechanics/CLI/bestiary/npc/pollenella-the-honeybee-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 135*  

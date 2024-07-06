@@ -12,7 +12,7 @@ aliases: ["Ifan Talro'a"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 25
+BookSource: "Tomb of Annihilation p. 25"
 ---
 # [Ifan Talro'a](2-Mechanics/CLI/bestiary/npc/ifan-talroa-toa.md)
 *Source: Tomb of Annihilation p. 25*  

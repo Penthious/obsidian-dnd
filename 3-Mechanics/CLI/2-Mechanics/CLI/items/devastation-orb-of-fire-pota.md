@@ -8,7 +8,7 @@ tags:
 aliases: ["Devastation Orb of Fire"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 222
+BookSource: "Princes of the Apocalypse p. 222"
 ---
 # Devastation Orb of Fire
 *Wondrous Item, very rare*  

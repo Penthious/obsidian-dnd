@@ -12,7 +12,7 @@ aliases: ["Dust Mephit"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 215, Princes of the Apocalypse, Tomb of Annihilation, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 215, Princes of the Apocalypse, Tomb of Annihilation, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Dust Mephit](2-Mechanics/CLI/bestiary/elemental/dust-mephit.md)
 *Source: Monster Manual p. 215, Princes of the Apocalypse, Tomb of Annihilation, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

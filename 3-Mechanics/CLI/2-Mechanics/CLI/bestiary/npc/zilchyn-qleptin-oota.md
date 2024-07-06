@@ -12,7 +12,7 @@ aliases: ["Zilchyn Q'Leptin"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 137
+BookSource: "Out of the Abyss p. 137"
 ---
 # [Zilchyn Q'Leptin](2-Mechanics/CLI/bestiary/npc/zilchyn-qleptin-oota.md)
 *Source: Out of the Abyss p. 137*  

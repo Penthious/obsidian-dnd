@@ -11,7 +11,7 @@ aliases: ["Sacred Statue"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194"
 ---
 # [Sacred Statue](2-Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  

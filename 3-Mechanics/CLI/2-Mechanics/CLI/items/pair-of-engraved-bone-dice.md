@@ -7,7 +7,7 @@ tags:
 aliases: ["Pair of engraved bone dice"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Pair of engraved bone dice
 *Art object*  

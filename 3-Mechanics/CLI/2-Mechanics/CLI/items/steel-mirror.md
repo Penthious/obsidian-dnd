@@ -7,7 +7,7 @@ tags:
 aliases: ["Steel Mirror"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 150. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 150. Available in the SRD and the Basic Rules."
 ---
 # Steel Mirror
 *Adventuring Gear*  

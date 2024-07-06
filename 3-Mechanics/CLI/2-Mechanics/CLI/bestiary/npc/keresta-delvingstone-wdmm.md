@@ -12,7 +12,7 @@ aliases: ["Keresta Delvingstone"]
 NoteIcon: npc
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 232
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 232"
 ---
 # [Keresta Delvingstone](2-Mechanics/CLI/bestiary/npc/keresta-delvingstone-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 232*  

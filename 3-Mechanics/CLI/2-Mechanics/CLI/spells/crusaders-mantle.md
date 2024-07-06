@@ -13,7 +13,7 @@ classes:
 aliases: ["Crusader's Mantle"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 230
+BookSource: "Player's Handbook p. 230"
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  

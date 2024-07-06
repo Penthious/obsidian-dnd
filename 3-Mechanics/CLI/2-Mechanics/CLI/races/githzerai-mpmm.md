@@ -7,7 +7,7 @@ tags:
 aliases: ["Githzerai"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 19
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 19"
 ---
 # Githzerai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 19*  

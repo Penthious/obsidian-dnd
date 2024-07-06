@@ -19,7 +19,7 @@ classes:
 aliases: ["Melf's Acid Arrow"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 259. Available in the SRD (as 'Acid Arrow').
+BookSource: "Player's Handbook p. 259. Available in the SRD (as 'Acid Arrow')."
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

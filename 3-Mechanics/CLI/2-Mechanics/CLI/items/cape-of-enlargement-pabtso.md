@@ -9,7 +9,7 @@ tags:
 aliases: ["Cape of Enlargement"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 217
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 217"
 ---
 # Cape of Enlargement
 *Wondrous Item, very rare (requires attunement)*  

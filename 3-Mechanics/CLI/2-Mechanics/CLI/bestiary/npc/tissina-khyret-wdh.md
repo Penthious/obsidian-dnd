@@ -12,7 +12,7 @@ aliases: ["Tissina Khyret"]
 NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 116
+BookSource: "Waterdeep: Dragon Heist p. 116"
 ---
 # [Tissina Khyret](2-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

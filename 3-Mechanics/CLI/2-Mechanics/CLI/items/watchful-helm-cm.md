@@ -9,7 +9,7 @@ tags:
 aliases: ["Watchful Helm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 183
+BookSource: "Candlekeep Mysteries p. 183"
 ---
 # Watchful Helm
 *Wondrous Item, very rare (requires attunement)*  

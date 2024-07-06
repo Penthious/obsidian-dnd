@@ -7,7 +7,7 @@ tags:
 aliases: ["Ball Bearings (bag of 1,000)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 151. Available in the SRD and the Basic Rules."
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring Gear*  

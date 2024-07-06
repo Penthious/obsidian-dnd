@@ -11,7 +11,7 @@ aliases: ["Skyweaver"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 191
+BookSource: "Princes of the Apocalypse p. 191"
 ---
 # [Skyweaver](2-Mechanics/CLI/bestiary/humanoid/skyweaver-pota.md)
 *Source: Princes of the Apocalypse p. 191*  

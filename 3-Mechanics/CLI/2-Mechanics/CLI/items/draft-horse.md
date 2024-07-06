@@ -7,7 +7,7 @@ tags:
 aliases: ["Draft Horse"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 157. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 157. Available in the SRD and the Basic Rules."
 ---
 # Draft Horse
 *Mount*  

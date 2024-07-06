@@ -11,7 +11,7 @@ aliases: ["Walking Statue of Waterdeep"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 219
+BookSource: "Waterdeep: Dragon Heist p. 219"
 ---
 # [Walking Statue of Waterdeep](2-Mechanics/CLI/bestiary/construct/walking-statue-of-waterdeep-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 219*  

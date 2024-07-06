@@ -13,7 +13,7 @@ aliases: ["Alhoon"]
 NoteIcon: monster
 BestiaryType: undead (mind flayer, wizard)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172"
 ---
 # [Alhoon](2-Mechanics/CLI/bestiary/undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  

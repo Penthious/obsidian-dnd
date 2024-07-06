@@ -12,7 +12,7 @@ aliases: ["Pow Ming"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 216
+BookSource: "Storm King's Thunder p. 216"
 ---
 # [Pow Ming](2-Mechanics/CLI/bestiary/npc/pow-ming-skt.md)
 *Source: Storm King's Thunder p. 216*  

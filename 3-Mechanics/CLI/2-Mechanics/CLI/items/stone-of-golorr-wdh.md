@@ -9,7 +9,7 @@ tags:
 aliases: ["Stone of Golorr"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 192
+BookSource: "Waterdeep: Dragon Heist p. 192"
 ---
 # Stone of Golorr
 *Wondrous Item, artifact (requires attunement)*  

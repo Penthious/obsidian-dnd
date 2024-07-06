@@ -12,7 +12,7 @@ aliases: ["Bullywug"]
 NoteIcon: monster
 BestiaryType: humanoid (bullywug)
 SourceType: Bestiary
-BookSource: Monster Manual p. 35, Hoard of the Dragon Queen, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight
+BookSource: "Monster Manual p. 35, Hoard of the Dragon Queen, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight"
 ---
 # [Bullywug](2-Mechanics/CLI/bestiary/humanoid/bullywug.md)
 *Source: Monster Manual p. 35, Hoard of the Dragon Queen, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight*  

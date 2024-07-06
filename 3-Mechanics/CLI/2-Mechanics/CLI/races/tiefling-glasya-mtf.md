@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Glasya)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 22
+BookSource: "Mordenkainen's Tome of Foes p. 22"
 ---
 # Tiefling (Glasya)
 *Source: Mordenkainen's Tome of Foes p. 22*  

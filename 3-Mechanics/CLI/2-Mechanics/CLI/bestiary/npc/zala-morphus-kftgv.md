@@ -12,7 +12,7 @@ aliases: ["Zala Morphus"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 47
+BookSource: "Keys from the Golden Vault p. 47"
 ---
 # [Zala Morphus](2-Mechanics/CLI/bestiary/npc/zala-morphus-kftgv.md)
 *Source: Keys from the Golden Vault p. 47*  

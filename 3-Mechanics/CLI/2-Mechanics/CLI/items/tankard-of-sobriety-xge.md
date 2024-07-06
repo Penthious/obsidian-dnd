@@ -9,7 +9,7 @@ tags:
 aliases: ["Tankard of Sobriety"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 139
+BookSource: "Xanathar's Guide to Everything p. 139"
 ---
 # Tankard of Sobriety
 *Wondrous Item, minor, common*  

@@ -11,7 +11,7 @@ aliases: ["Necrotic Centipede"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 119
+BookSource: "Baldur's Gate: Descent Into Avernus p. 119"
 ---
 # [Necrotic Centipede](2-Mechanics/CLI/bestiary/monstrosity/necrotic-centipede-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 119*  

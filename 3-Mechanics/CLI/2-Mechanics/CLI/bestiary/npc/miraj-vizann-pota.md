@@ -12,7 +12,7 @@ aliases: ["Miraj Vizann"]
 NoteIcon: npc
 BestiaryType: humanoid (Earth genasi)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 198
+BookSource: "Princes of the Apocalypse p. 198"
 ---
 # [Miraj Vizann](2-Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md)
 *Source: Princes of the Apocalypse p. 198*  

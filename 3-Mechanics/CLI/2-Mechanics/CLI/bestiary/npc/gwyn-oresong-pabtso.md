@@ -12,7 +12,7 @@ aliases: ["Gwyn Oresong"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 8
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 8"
 ---
 # [Gwyn Oresong](2-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 8*  

@@ -12,7 +12,7 @@ aliases: ["Aunt Dellie"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 36
+BookSource: "Journeys through the Radiant Citadel p. 36"
 ---
 # [Aunt Dellie](2-Mechanics/CLI/bestiary/npc/aunt-dellie-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 36*  

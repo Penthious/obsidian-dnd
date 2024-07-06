@@ -11,7 +11,7 @@ aliases: ["Crystal Battleaxe"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 89
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 89"
 ---
 # [Crystal Battleaxe](2-Mechanics/CLI/bestiary/construct/crystal-battleaxe-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 89*  

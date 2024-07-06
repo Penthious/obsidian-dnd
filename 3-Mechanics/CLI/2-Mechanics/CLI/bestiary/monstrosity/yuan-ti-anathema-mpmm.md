@@ -14,7 +14,7 @@ aliases: ["Yuan-ti Anathema"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202"
 ---
 # [Yuan-ti Anathema](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-anathema-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202*  

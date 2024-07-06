@@ -12,7 +12,7 @@ aliases: ["Enchanter Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213"
 ---
 # [Enchanter Wizard](2-Mechanics/CLI/bestiary/humanoid/enchanter-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*  

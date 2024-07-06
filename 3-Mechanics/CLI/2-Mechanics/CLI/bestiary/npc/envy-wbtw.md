@@ -12,7 +12,7 @@ aliases: ["Envy"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 178
+BookSource: "The Wild Beyond the Witchlight p. 178"
 ---
 # [Envy](2-Mechanics/CLI/bestiary/npc/envy-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 178*  

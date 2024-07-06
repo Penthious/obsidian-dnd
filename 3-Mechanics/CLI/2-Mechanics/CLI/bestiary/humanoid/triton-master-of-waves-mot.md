@@ -11,7 +11,7 @@ aliases: ["Triton Master of Waves"]
 NoteIcon: monster
 BestiaryType: humanoid (triton)
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 245
+BookSource: "Mythic Odysseys of Theros p. 245"
 ---
 # [Triton Master of Waves](2-Mechanics/CLI/bestiary/humanoid/triton-master-of-waves-mot.md)
 *Source: Mythic Odysseys of Theros p. 245*  

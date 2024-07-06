@@ -9,7 +9,7 @@ tags:
 aliases: ["Shard of the Ise Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 236
+BookSource: "Storm King's Thunder p. 236"
 ---
 # Shard of the Ise Rune
 *Wondrous Item, very rare (requires attunement)*  

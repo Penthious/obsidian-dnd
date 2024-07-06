@@ -13,7 +13,7 @@ classes:
 aliases: ["Create Magen"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 318
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 318"
 ---
 # Create Magen
 *7th-level, Transmutation*  

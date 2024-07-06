@@ -11,7 +11,7 @@ aliases: ["Flying Monkey"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 220
+BookSource: "Tomb of Annihilation p. 220"
 ---
 # [Flying Monkey](2-Mechanics/CLI/bestiary/beast/flying-monkey-toa.md)
 *Source: Tomb of Annihilation p. 220*  

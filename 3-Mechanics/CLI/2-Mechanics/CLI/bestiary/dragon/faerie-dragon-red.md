@@ -12,7 +12,7 @@ aliases: ["Faerie Dragon (Red)"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 133, Candlekeep Mysteries, The Wild Beyond the Witchlight
+BookSource: "Monster Manual p. 133, Candlekeep Mysteries, The Wild Beyond the Witchlight"
 ---
 # [Faerie Dragon (Red)](2-Mechanics/CLI/bestiary/dragon/faerie-dragon-red.md)
 *Source: Monster Manual p. 133, Candlekeep Mysteries, The Wild Beyond the Witchlight*  

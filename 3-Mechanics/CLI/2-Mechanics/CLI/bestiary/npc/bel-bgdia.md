@@ -12,7 +12,7 @@ aliases: ["Bel"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 115
+BookSource: "Baldur's Gate: Descent Into Avernus p. 115"
 ---
 # [Bel](2-Mechanics/CLI/bestiary/npc/bel-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 115*  

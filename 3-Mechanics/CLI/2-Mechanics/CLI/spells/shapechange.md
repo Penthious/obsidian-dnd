@@ -15,7 +15,7 @@ classes:
 aliases: ["Shapechange"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 274. Available in the SRD.
+BookSource: "Player's Handbook p. 274. Available in the SRD."
 ---
 # Shapechange
 *9th-level, Transmutation*  

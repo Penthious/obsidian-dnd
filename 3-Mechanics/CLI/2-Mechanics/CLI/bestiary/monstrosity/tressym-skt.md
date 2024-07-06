@@ -11,7 +11,7 @@ aliases: ["Tressym"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 242
+BookSource: "Storm King's Thunder p. 242"
 ---
 # [Tressym](2-Mechanics/CLI/bestiary/monstrosity/tressym-skt.md)
 *Source: Storm King's Thunder p. 242*  

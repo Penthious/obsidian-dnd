@@ -13,7 +13,7 @@ aliases: ["Lizardfolk"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Monster Manual p. 204, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 204, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Lizardfolk](2-Mechanics/CLI/bestiary/humanoid/lizardfolk.md)
 *Source: Monster Manual p. 204, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

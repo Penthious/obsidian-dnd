@@ -12,7 +12,7 @@ aliases: ["Chief Guh"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 140
+BookSource: "Storm King's Thunder p. 140"
 ---
 # [Chief Guh](2-Mechanics/CLI/bestiary/npc/chief-guh-skt.md)
 *Source: Storm King's Thunder p. 140*  

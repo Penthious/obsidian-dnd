@@ -11,7 +11,7 @@ aliases: ["Bullywug Croaker"]
 NoteIcon: monster
 BestiaryType: humanoid (bullywug)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 232
+BookSource: "Ghosts of Saltmarsh p. 232"
 ---
 # [Bullywug Croaker](2-Mechanics/CLI/bestiary/humanoid/bullywug-croaker-gos.md)
 *Source: Ghosts of Saltmarsh p. 232*  

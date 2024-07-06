@@ -11,7 +11,7 @@ aliases: ["Knight of the Order"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 139
+BookSource: "Curse of Strahd p. 139"
 ---
 # [Knight of the Order](2-Mechanics/CLI/bestiary/undead/knight-of-the-order-cos.md)
 *Source: Curse of Strahd p. 139*  

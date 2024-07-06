@@ -12,7 +12,7 @@ aliases: ["Durnan"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 203
+BookSource: "Waterdeep: Dragon Heist p. 203"
 ---
 # [Durnan](2-Mechanics/CLI/bestiary/npc/durnan-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 203*  

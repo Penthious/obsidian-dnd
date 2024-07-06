@@ -12,7 +12,7 @@ aliases: ["Atash"]
 NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 166
+BookSource: "Journeys through the Radiant Citadel p. 166"
 ---
 # [Atash](2-Mechanics/CLI/bestiary/npc/atash-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 166*  

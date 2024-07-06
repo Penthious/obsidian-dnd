@@ -7,7 +7,7 @@ tags:
 aliases: ["Hand Drum"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Sword Coast Adventurer's Guide p. 124
+BookSource: "Sword Coast Adventurer's Guide p. 124"
 ---
 # Hand Drum
 *Instrument*  

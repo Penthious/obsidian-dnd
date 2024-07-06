@@ -19,7 +19,7 @@ classes:
 aliases: ["Psychic Scream"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 163
+BookSource: "Xanathar's Guide to Everything p. 163"
 ---
 # Psychic Scream
 *9th-level, Enchantment*  

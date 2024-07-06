@@ -12,7 +12,7 @@ aliases: ["Patrina Velikovna"]
 NoteIcon: npc
 BestiaryType: humanoid (Dusk elf)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 89
+BookSource: "Curse of Strahd p. 89"
 ---
 # [Patrina Velikovna](2-Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md)
 *Source: Curse of Strahd p. 89*  

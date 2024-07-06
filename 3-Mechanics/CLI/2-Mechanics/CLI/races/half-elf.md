@@ -7,7 +7,7 @@ tags:
 aliases: ["Half-Elf"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 38. Available in the SRD.
+BookSource: "Player's Handbook p. 38. Available in the SRD."
 ---
 # Half-Elf
 *Source: Player's Handbook p. 38. Available in the SRD.*  

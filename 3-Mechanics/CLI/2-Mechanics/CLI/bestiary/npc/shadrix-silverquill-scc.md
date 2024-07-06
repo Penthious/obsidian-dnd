@@ -12,7 +12,7 @@ aliases: ["Shadrix Silverquill"]
 NoteIcon: npc
 BestiaryType: dragon (bard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 212
+BookSource: "Strixhaven: A Curriculum of Chaos p. 212"
 ---
 # [Shadrix Silverquill](2-Mechanics/CLI/bestiary/npc/shadrix-silverquill-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 212*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Searing Smite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 274
+BookSource: "Player's Handbook p. 274"
 ---
 # Searing Smite
 *1st-level, Evocation*  

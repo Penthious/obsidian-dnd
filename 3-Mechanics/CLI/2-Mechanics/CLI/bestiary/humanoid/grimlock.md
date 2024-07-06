@@ -12,7 +12,7 @@ aliases: ["Grimlock"]
 NoteIcon: monster
 BestiaryType: humanoid (grimlock)
 SourceType: Bestiary
-BookSource: Monster Manual p. 175, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 175, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Grimlock](2-Mechanics/CLI/bestiary/humanoid/grimlock.md)
 *Source: Monster Manual p. 175, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

@@ -11,7 +11,7 @@ aliases: ["Animated Breath"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 163
+BookSource: "Fizban's Treasury of Dragons p. 163"
 ---
 # [Animated Breath](2-Mechanics/CLI/bestiary/elemental/animated-breath-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 163*  

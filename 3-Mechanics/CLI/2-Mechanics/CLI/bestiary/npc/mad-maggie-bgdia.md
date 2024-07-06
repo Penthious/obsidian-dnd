@@ -12,7 +12,7 @@ aliases: ["Mad Maggie"]
 NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 74
+BookSource: "Baldur's Gate: Descent Into Avernus p. 74"
 ---
 # [Mad Maggie](2-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 74*  

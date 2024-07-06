@@ -9,7 +9,7 @@ tags:
 aliases: ["Carpet of Flying"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 157
+BookSource: "Dungeon Master's Guide p. 157"
 ---
 # Carpet of Flying
 *Wondrous Item, major, very rare*  

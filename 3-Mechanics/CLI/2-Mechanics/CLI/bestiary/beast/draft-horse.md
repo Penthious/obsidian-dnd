@@ -12,7 +12,7 @@ aliases: ["Draft Horse"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 321, Curse of Strahd, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 321, Curse of Strahd, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Draft Horse](2-Mechanics/CLI/bestiary/beast/draft-horse.md)
 *Source: Monster Manual p. 321, Curse of Strahd, Storm King's Thunder, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

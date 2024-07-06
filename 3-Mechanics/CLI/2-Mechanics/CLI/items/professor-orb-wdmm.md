@@ -8,7 +8,7 @@ tags:
 aliases: ["Professor Orb"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 284
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 284"
 ---
 # Professor Orb
 *Wondrous Item, rare*  

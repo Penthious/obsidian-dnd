@@ -13,7 +13,7 @@ classes:
 aliases: ["Conjure Woodland Beings"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 226. Available in the SRD.
+BookSource: "Player's Handbook p. 226. Available in the SRD."
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  

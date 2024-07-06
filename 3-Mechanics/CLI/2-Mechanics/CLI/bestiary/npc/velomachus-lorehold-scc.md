@@ -12,7 +12,7 @@ aliases: ["Velomachus Lorehold"]
 NoteIcon: npc
 BestiaryType: dragon (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 219
+BookSource: "Strixhaven: A Curriculum of Chaos p. 219"
 ---
 # [Velomachus Lorehold](2-Mechanics/CLI/bestiary/npc/velomachus-lorehold-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 219*  

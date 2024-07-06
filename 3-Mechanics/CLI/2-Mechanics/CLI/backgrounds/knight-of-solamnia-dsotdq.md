@@ -7,7 +7,7 @@ tags:
 aliases: ["Knight of Solamnia"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 30
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 30"
 ---
 # Knight of Solamnia
 *Source: Dragonlance: Shadow of the Dragon Queen p. 30*  

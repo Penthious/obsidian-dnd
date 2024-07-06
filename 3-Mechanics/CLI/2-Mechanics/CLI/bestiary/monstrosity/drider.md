@@ -12,7 +12,7 @@ aliases: ["Drider"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 120, Waterdeep: Dungeon of the Mad Mage. Available in the SRD.
+BookSource: "Monster Manual p. 120, Waterdeep: Dungeon of the Mad Mage. Available in the SRD."
 ---
 # [Drider](2-Mechanics/CLI/bestiary/monstrosity/drider.md)
 *Source: Monster Manual p. 120, Waterdeep: Dungeon of the Mad Mage. Available in the SRD.*  

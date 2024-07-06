@@ -9,7 +9,7 @@ tags:
 aliases: ["Bead of Force"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 154. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 154. Available in the SRD."
 ---
 # Bead of Force
 *Wondrous Item, minor, rare*  

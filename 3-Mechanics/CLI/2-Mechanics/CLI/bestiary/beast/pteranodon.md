@@ -14,7 +14,7 @@ aliases: ["Pteranodon"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 80, Tomb of Annihilation, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the Basic Rules.
+BookSource: "Monster Manual p. 80, Tomb of Annihilation, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the Basic Rules."
 ---
 # [Pteranodon](2-Mechanics/CLI/bestiary/beast/pteranodon.md)
 *Source: Monster Manual p. 80, Tomb of Annihilation, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the Basic Rules.*  

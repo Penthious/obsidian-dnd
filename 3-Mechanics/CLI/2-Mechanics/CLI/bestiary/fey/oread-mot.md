@@ -11,7 +11,7 @@ aliases: ["Oread"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 237
+BookSource: "Mythic Odysseys of Theros p. 237"
 ---
 # [Oread](2-Mechanics/CLI/bestiary/fey/oread-mot.md)
 *Source: Mythic Odysseys of Theros p. 237*  

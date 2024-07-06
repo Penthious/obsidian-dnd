@@ -25,7 +25,7 @@ classes:
 aliases: ["Flaming Sphere"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 242. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 242. Available in the SRD and the Basic Rules."
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  

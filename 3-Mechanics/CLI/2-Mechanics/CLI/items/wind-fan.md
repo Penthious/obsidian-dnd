@@ -9,7 +9,7 @@ tags:
 aliases: ["Wind Fan"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 213. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 213. Available in the SRD."
 ---
 # Wind Fan
 *Wondrous Item, major, uncommon*  

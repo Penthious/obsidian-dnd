@@ -11,7 +11,7 @@ aliases: ["Draconian Infiltrator"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 178
+BookSource: "Fizban's Treasury of Dragons p. 178"
 ---
 # [Draconian Infiltrator](2-Mechanics/CLI/bestiary/monstrosity/draconian-infiltrator-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 178*  

@@ -12,7 +12,7 @@ aliases: ["Gauth"]
 NoteIcon: monster
 BestiaryType: aberration (beholder)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125"
 ---
 # [Gauth](2-Mechanics/CLI/bestiary/aberration/gauth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  

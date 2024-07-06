@@ -11,7 +11,7 @@ aliases: ["Quadrone"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 226, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault
+BookSource: "Monster Manual p. 226, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault"
 ---
 # [Quadrone](2-Mechanics/CLI/bestiary/construct/quadrone.md)
 *Source: Monster Manual p. 226, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault*  

@@ -11,7 +11,7 @@ aliases: ["Booyahg Whip"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 42
+BookSource: "Volo's Guide to Monsters p. 42"
 ---
 # [Booyahg Whip](2-Mechanics/CLI/bestiary/humanoid/booyahg-whip-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  

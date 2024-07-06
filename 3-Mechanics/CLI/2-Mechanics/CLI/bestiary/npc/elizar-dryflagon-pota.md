@@ -12,7 +12,7 @@ aliases: ["Elizar Dryflagon"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 202
+BookSource: "Princes of the Apocalypse p. 202"
 ---
 # [Elizar Dryflagon](2-Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota.md)
 *Source: Princes of the Apocalypse p. 202*  

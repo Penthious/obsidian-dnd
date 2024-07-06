@@ -12,7 +12,7 @@ aliases: ["Death Tyrant"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 29, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries
+BookSource: "Monster Manual p. 29, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries"
 ---
 # [Death Tyrant](2-Mechanics/CLI/bestiary/undead/death-tyrant.md)
 *Source: Monster Manual p. 29, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries*  

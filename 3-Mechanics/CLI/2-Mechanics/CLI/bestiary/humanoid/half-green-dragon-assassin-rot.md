@@ -11,7 +11,7 @@ aliases: ["Half-Green Dragon Assassin"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 56
+BookSource: "The Rise of Tiamat p. 56"
 ---
 # [Half-Green Dragon Assassin](2-Mechanics/CLI/bestiary/humanoid/half-green-dragon-assassin-rot.md)
 *Source: The Rise of Tiamat p. 56*  

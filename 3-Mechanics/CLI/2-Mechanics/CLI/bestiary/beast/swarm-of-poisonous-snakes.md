@@ -13,7 +13,7 @@ aliases: ["Swarm of Poisonous Snakes"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 338, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 338, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Swarm of Poisonous Snakes](2-Mechanics/CLI/bestiary/beast/swarm-of-poisonous-snakes.md)
 *Source: Monster Manual p. 338, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

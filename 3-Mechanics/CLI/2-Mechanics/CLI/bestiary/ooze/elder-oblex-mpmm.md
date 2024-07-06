@@ -14,7 +14,7 @@ aliases: ["Elder Oblex"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219"
 ---
 # [Elder Oblex](2-Mechanics/CLI/bestiary/ooze/elder-oblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*  

@@ -19,7 +19,7 @@ classes:
 aliases: ["Leomund's Secret Chest"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 254. Available in the SRD (as 'Secret Chest').
+BookSource: "Player's Handbook p. 254. Available in the SRD (as 'Secret Chest')."
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  

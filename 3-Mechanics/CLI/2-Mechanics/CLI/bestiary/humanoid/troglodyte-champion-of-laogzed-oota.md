@@ -11,7 +11,7 @@ aliases: ["Troglodyte Champion of Laogzed"]
 NoteIcon: monster
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 229
+BookSource: "Out of the Abyss p. 229"
 ---
 # [Troglodyte Champion of Laogzed](2-Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota.md)
 *Source: Out of the Abyss p. 229*  

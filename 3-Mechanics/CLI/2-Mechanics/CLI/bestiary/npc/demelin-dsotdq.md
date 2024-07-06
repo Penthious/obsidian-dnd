@@ -12,7 +12,7 @@ aliases: ["Demelin"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 139
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 139"
 ---
 # [Demelin](2-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 139*  

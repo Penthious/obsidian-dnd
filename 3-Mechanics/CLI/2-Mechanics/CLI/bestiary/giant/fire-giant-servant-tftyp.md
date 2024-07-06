@@ -11,7 +11,7 @@ aliases: ["Fire Giant Servant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 171
+BookSource: "Tales from the Yawning Portal p. 171"
 ---
 # [Fire Giant Servant](2-Mechanics/CLI/bestiary/giant/fire-giant-servant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 171*  

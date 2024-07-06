@@ -9,7 +9,7 @@ tags:
 aliases: ["Bobbing Lily Pad"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 208
+BookSource: "The Wild Beyond the Witchlight p. 208"
 ---
 # Bobbing Lily Pad
 *Wondrous Item, very rare (requires attunement)*  

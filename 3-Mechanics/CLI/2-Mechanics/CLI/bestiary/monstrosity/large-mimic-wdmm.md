@@ -11,7 +11,7 @@ aliases: ["Large Mimic"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 76
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 76"
 ---
 # [Large Mimic](2-Mechanics/CLI/bestiary/monstrosity/large-mimic-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 76*  

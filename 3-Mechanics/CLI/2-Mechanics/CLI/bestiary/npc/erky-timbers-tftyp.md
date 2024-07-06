@@ -12,7 +12,7 @@ aliases: ["Erky Timbers"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 22
+BookSource: "Tales from the Yawning Portal p. 22"
 ---
 # [Erky Timbers](2-Mechanics/CLI/bestiary/npc/erky-timbers-tftyp.md)
 *Source: Tales from the Yawning Portal p. 22*  

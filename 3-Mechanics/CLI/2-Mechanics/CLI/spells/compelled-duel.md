@@ -13,7 +13,7 @@ classes:
 aliases: ["Compelled Duel"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 224
+BookSource: "Player's Handbook p. 224"
 ---
 # Compelled Duel
 *1st-level, Enchantment*  

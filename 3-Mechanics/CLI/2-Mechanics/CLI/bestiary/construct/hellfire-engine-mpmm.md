@@ -11,7 +11,7 @@ aliases: ["Hellfire Engine"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165"
 ---
 # [Hellfire Engine](2-Mechanics/CLI/bestiary/construct/hellfire-engine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*  

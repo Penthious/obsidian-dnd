@@ -9,7 +9,7 @@ tags:
 aliases: ["Pole of Collapsing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Pole of Collapsing
 *Wondrous Item, minor, common*  

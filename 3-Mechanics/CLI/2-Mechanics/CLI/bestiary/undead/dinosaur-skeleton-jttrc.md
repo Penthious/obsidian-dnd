@@ -11,7 +11,7 @@ aliases: ["Dinosaur Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 57
+BookSource: "Journeys through the Radiant Citadel p. 57"
 ---
 # [Dinosaur Skeleton](2-Mechanics/CLI/bestiary/undead/dinosaur-skeleton-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 57*  

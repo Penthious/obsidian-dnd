@@ -12,7 +12,7 @@ aliases: ["Giant Fire Beetle"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 325, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 325, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules."
 ---
 # [Giant Fire Beetle](2-Mechanics/CLI/bestiary/beast/giant-fire-beetle.md)
 *Source: Monster Manual p. 325, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules.*  

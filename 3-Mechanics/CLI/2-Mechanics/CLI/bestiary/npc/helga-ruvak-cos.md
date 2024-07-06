@@ -12,7 +12,7 @@ aliases: ["Helga Ruvak"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 64
+BookSource: "Curse of Strahd p. 64"
 ---
 # [Helga Ruvak](2-Mechanics/CLI/bestiary/npc/helga-ruvak-cos.md)
 *Source: Curse of Strahd p. 64*  

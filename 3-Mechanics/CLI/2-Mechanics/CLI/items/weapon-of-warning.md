@@ -10,7 +10,7 @@ tags:
 aliases: ["Weapon of Warning"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 213
+BookSource: "Dungeon Master's Guide p. 213"
 ---
 # Weapon of Warning
 *Generic Variant, major, uncommon (requires attunement)*  

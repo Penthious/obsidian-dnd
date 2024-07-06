@@ -8,7 +8,7 @@ tags:
 aliases: ["Draakhorn"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Rise of Tiamat p. 93
+BookSource: "The Rise of Tiamat p. 93"
 ---
 # Draakhorn
 *Wondrous Item, artifact*  

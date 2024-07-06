@@ -10,7 +10,7 @@ tags:
 aliases: ["Spellguard Shield"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 201. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 201. Available in the SRD."
 ---
 # Spellguard Shield
 *Shield, major, very rare (requires attunement)*  

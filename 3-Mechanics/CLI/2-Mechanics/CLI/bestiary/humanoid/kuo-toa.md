@@ -12,7 +12,7 @@ aliases: ["Kuo-toa"]
 NoteIcon: monster
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
-BookSource: Monster Manual p. 199, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh
+BookSource: "Monster Manual p. 199, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh"
 ---
 # [Kuo-toa](2-Mechanics/CLI/bestiary/humanoid/kuo-toa.md)
 *Source: Monster Manual p. 199, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh*  

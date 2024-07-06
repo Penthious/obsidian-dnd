@@ -12,7 +12,7 @@ aliases: ["Sangzor"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 160
+BookSource: "Curse of Strahd p. 160"
 ---
 # [Sangzor](2-Mechanics/CLI/bestiary/npc/sangzor-cos.md)
 *Source: Curse of Strahd p. 160*  

@@ -12,7 +12,7 @@ aliases: ["Mend-nets"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 32
+BookSource: "The Rise of Tiamat p. 32"
 ---
 # [Mend-nets](2-Mechanics/CLI/bestiary/npc/mend-nets-rot.md)
 *Source: The Rise of Tiamat p. 32*  

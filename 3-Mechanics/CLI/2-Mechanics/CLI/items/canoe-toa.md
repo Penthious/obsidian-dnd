@@ -7,7 +7,7 @@ tags:
 aliases: ["Canoe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 31
+BookSource: "Tomb of Annihilation p. 31"
 ---
 # Canoe
 *Ship, Vehicle (water)*  

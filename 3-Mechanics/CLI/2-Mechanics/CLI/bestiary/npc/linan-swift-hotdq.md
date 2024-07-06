@@ -12,7 +12,7 @@ aliases: ["Linan Swift"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 8
+BookSource: "Hoard of the Dragon Queen p. 8"
 ---
 # [Linan Swift](2-Mechanics/CLI/bestiary/npc/linan-swift-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 8*  

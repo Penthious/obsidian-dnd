@@ -7,7 +7,7 @@ tags:
 aliases: ["Grenade Launcher"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Grenade Launcher
 *Adventuring Gear*  

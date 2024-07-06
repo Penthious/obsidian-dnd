@@ -12,7 +12,7 @@ aliases: ["Joster Mareet"]
 NoteIcon: npc
 BestiaryType: fiend (shapechanger)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 107
+BookSource: "Keys from the Golden Vault p. 107"
 ---
 # [Joster Mareet](2-Mechanics/CLI/bestiary/npc/joster-mareet-kftgv.md)
 *Source: Keys from the Golden Vault p. 107*  

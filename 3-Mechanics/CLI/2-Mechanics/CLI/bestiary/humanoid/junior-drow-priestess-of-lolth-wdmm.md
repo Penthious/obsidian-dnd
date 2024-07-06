@@ -11,7 +11,7 @@ aliases: ["Junior Drow Priestess of Lolth"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 149
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 149"
 ---
 # [Junior Drow Priestess of Lolth](2-Mechanics/CLI/bestiary/humanoid/junior-drow-priestess-of-lolth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 149*  

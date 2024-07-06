@@ -15,7 +15,7 @@ aliases: ["Swarm of Bats"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 337, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 337, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Swarm of Bats](2-Mechanics/CLI/bestiary/beast/swarm-of-bats.md)
 *Source: Monster Manual p. 337, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

@@ -14,7 +14,7 @@ aliases: ["Vulture"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 339, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 339, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Vulture](2-Mechanics/CLI/bestiary/beast/vulture.md)
 *Source: Monster Manual p. 339, The Rise of Tiamat, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

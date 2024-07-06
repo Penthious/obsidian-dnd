@@ -9,7 +9,7 @@ tags:
 aliases: ["Rope of Mending"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Rope of Mending
 *Wondrous Item, minor, common*  

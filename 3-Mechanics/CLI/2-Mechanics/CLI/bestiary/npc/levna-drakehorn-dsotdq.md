@@ -12,7 +12,7 @@ aliases: ["Levna Drakehorn"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 213
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 213"
 ---
 # [Levna Drakehorn](2-Mechanics/CLI/bestiary/npc/levna-drakehorn-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  

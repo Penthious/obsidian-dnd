@@ -13,7 +13,7 @@ aliases: ["Owl"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 333, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 333, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Owl](2-Mechanics/CLI/bestiary/beast/owl.md)
 *Source: Monster Manual p. 333, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

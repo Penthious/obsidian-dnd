@@ -11,7 +11,7 @@ aliases: ["Daemogoth"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 189
+BookSource: "Strixhaven: A Curriculum of Chaos p. 189"
 ---
 # [Daemogoth](2-Mechanics/CLI/bestiary/fiend/daemogoth-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 189*  

@@ -12,7 +12,7 @@ aliases: ["Maw Demon"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137"
 ---
 # [Maw Demon](2-Mechanics/CLI/bestiary/fiend/maw-demon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  

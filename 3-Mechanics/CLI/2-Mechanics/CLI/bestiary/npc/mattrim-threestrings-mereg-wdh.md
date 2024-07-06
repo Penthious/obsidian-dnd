@@ -12,7 +12,7 @@ aliases: ["Mattrim "Threestrings" Mereg"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 20
+BookSource: "Waterdeep: Dragon Heist p. 20"
 ---
 # [Mattrim "Threestrings" Mereg](2-Mechanics/CLI/bestiary/npc/mattrim-threestrings-mereg-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

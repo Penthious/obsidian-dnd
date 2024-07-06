@@ -9,7 +9,7 @@ tags:
 aliases: ["Robe of Serpents"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 236
+BookSource: "Storm King's Thunder p. 236"
 ---
 # Robe of Serpents
 *Wondrous Item, uncommon (requires attunement)*  

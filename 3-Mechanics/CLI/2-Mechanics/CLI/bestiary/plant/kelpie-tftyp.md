@@ -11,7 +11,7 @@ aliases: ["Kelpie"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 238
+BookSource: "Tales from the Yawning Portal p. 238"
 ---
 # [Kelpie](2-Mechanics/CLI/bestiary/plant/kelpie-tftyp.md)
 *Source: Tales from the Yawning Portal p. 238*  

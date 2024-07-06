@@ -12,7 +12,7 @@ aliases: ["Luvash"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 121
+BookSource: "Curse of Strahd p. 121"
 ---
 # [Luvash](2-Mechanics/CLI/bestiary/npc/luvash-cos.md)
 *Source: Curse of Strahd p. 121*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Abracadabrus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 314
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 314"
 ---
 # Abracadabrus
 *Wondrous Item, very rare*  

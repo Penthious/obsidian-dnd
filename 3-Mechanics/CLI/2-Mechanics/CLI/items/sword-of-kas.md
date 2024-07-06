@@ -11,7 +11,7 @@ tags:
 aliases: ["Sword of Kas"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 226
+BookSource: "Dungeon Master's Guide p. 226"
 ---
 # Sword of Kas
 *Melee Weapon, artifact (requires attunement)*  

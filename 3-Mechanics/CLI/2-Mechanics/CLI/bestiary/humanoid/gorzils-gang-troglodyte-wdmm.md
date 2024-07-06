@@ -11,7 +11,7 @@ aliases: ["Gorzil's Gang Troglodyte"]
 NoteIcon: monster
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 150
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 150"
 ---
 # [Gorzil's Gang Troglodyte](2-Mechanics/CLI/bestiary/humanoid/gorzils-gang-troglodyte-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 150*  

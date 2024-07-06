@@ -11,7 +11,7 @@ aliases: ["Akroan Hoplite"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 228
+BookSource: "Mythic Odysseys of Theros p. 228"
 ---
 # [Akroan Hoplite](2-Mechanics/CLI/bestiary/humanoid/akroan-hoplite-mot.md)
 *Source: Mythic Odysseys of Theros p. 228*  

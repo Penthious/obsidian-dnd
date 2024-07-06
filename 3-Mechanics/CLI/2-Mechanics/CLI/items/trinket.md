@@ -7,7 +7,7 @@ tags:
 aliases: ["Trinket"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 159. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 159. Available in the Basic Rules."
 ---
 # Trinket
 *Adventuring Gear*  

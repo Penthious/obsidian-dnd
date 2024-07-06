@@ -12,7 +12,7 @@ aliases: ["Mennek Ariz"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 157
+BookSource: "Tales from the Yawning Portal p. 157"
 ---
 # [Mennek Ariz](2-Mechanics/CLI/bestiary/npc/mennek-ariz-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

@@ -12,7 +12,7 @@ aliases: ["Flask of Wine"]
 NoteIcon: npc
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 35
+BookSource: "Tomb of Annihilation p. 35"
 ---
 # [Flask of Wine](2-Mechanics/CLI/bestiary/npc/flask-of-wine-toa.md)
 *Source: Tomb of Annihilation p. 35*  

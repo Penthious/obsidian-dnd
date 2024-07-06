@@ -12,7 +12,7 @@ aliases: ["Flumph"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 135, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 135, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Flumph](2-Mechanics/CLI/bestiary/aberration/flumph.md)
 *Source: Monster Manual p. 135, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk*  

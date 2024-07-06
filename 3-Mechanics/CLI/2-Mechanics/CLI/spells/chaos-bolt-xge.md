@@ -11,7 +11,7 @@ classes:
 aliases: ["Chaos Bolt"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 151
+BookSource: "Xanathar's Guide to Everything p. 151"
 ---
 # Chaos Bolt
 *1st-level, Evocation*  

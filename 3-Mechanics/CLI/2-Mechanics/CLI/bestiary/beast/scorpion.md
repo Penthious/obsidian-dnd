@@ -12,7 +12,7 @@ aliases: ["Scorpion"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 337, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 337, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules."
 ---
 # [Scorpion](2-Mechanics/CLI/bestiary/beast/scorpion.md)
 *Source: Monster Manual p. 337, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules.*  

@@ -14,7 +14,7 @@ aliases: ["Hobgoblin Devastator"]
 NoteIcon: monster
 BestiaryType: fey (goblinoid)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161"
 ---
 # [Hobgoblin Devastator](2-Mechanics/CLI/bestiary/fey/hobgoblin-devastator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  

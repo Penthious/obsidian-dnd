@@ -11,7 +11,7 @@ aliases: ["Encephalon Cluster"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 205
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 205"
 ---
 # [Encephalon Cluster](2-Mechanics/CLI/bestiary/aberration/encephalon-cluster-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 205*  

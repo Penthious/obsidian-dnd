@@ -7,7 +7,7 @@ tags:
 aliases: ["Small gold statuette set with rubies"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Small gold statuette set with rubies
 *Art object*  

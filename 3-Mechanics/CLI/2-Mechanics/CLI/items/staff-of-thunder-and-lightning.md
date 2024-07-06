@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Thunder and Lightning"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 204. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 204. Available in the SRD."
 ---
 # Staff of Thunder and Lightning
 *Staff, major, very rare (requires attunement)*  

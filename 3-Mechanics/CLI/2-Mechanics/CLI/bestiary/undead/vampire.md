@@ -12,7 +12,7 @@ aliases: ["Vampire"]
 NoteIcon: monster
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 297, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 297, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Vampire](2-Mechanics/CLI/bestiary/undead/vampire.md)
 *Source: Monster Manual p. 297, Curse of Strahd, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

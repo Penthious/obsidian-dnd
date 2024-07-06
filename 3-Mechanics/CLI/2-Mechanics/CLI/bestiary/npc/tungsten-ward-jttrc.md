@@ -12,7 +12,7 @@ aliases: ["Tungsten Ward"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 38
+BookSource: "Journeys through the Radiant Citadel p. 38"
 ---
 # [Tungsten Ward](2-Mechanics/CLI/bestiary/npc/tungsten-ward-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 38*  

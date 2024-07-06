@@ -10,7 +10,7 @@ tags:
 aliases: ["Topaz Annihilator"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 24
+BookSource: "Fizban's Treasury of Dragons p. 24"
 ---
 # Topaz Annihilator
 *Ranged Weapon, legendary (requires attunement)*  

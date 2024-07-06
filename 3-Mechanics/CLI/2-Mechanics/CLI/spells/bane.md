@@ -21,7 +21,7 @@ classes:
 aliases: ["Bane"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 216. Available in the SRD.
+BookSource: "Player's Handbook p. 216. Available in the SRD."
 ---
 # Bane
 *1st-level, Enchantment*  

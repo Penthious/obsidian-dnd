@@ -7,7 +7,7 @@ tags:
 aliases: ["Black velvet mask stitched with silver thread"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Black velvet mask stitched with silver thread
 *Art object*  

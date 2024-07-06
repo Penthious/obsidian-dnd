@@ -7,7 +7,7 @@ tags:
 aliases: ["Clan Crafter"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 145
+BookSource: "Sword Coast Adventurer's Guide p. 145"
 ---
 # Clan Crafter
 *Source: Sword Coast Adventurer's Guide p. 145*  

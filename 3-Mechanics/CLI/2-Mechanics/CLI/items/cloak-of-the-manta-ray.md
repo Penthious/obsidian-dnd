@@ -9,7 +9,7 @@ tags:
 aliases: ["Cloak of the Manta Ray"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 159. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 159. Available in the SRD."
 ---
 # Cloak of the Manta Ray
 *Wondrous Item, minor, uncommon*  

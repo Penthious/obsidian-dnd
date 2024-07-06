@@ -20,7 +20,7 @@ classes:
 aliases: ["Purify Food and Drink"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 270. Available in the SRD.
+BookSource: "Player's Handbook p. 270. Available in the SRD."
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

@@ -12,7 +12,7 @@ aliases: ["Zeond"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 43
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 43"
 ---
 # [Zeond](2-Mechanics/CLI/bestiary/npc/zeond-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 43*  

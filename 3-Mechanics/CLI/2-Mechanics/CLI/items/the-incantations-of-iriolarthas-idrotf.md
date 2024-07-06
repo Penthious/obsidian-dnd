@@ -8,7 +8,7 @@ tags:
 aliases: ["The Incantations of Iriolarthas"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 317
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 317"
 ---
 # The Incantations of Iriolarthas
 *Adventuring Gear, unknown*  

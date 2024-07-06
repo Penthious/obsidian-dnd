@@ -12,7 +12,7 @@ tags:
 aliases: ["Greater Silver Sword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mordenkainen's Tome of Foes p. 89
+BookSource: "Mordenkainen's Tome of Foes p. 89"
 ---
 # Greater Silver Sword
 *Melee Weapon, legendary (requires attunement by a creature that has psionic ability)*  

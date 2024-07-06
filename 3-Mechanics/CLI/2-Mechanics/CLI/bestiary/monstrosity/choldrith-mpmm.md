@@ -12,7 +12,7 @@ aliases: ["Choldrith"]
 NoteIcon: monster
 BestiaryType: monstrosity (cleric)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132"
 ---
 # [Choldrith](2-Mechanics/CLI/bestiary/monstrosity/choldrith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  

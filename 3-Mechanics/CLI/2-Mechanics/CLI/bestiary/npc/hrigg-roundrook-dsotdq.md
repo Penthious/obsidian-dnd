@@ -12,7 +12,7 @@ aliases: ["Hrigg Roundrook"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 211
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 211"
 ---
 # [Hrigg Roundrook](2-Mechanics/CLI/bestiary/npc/hrigg-roundrook-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  

@@ -12,7 +12,7 @@ tags:
 aliases: ["Dagger of Venom"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 161. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 161. Available in the SRD."
 ---
 # Dagger of Venom
 *Melee Weapon, major, rare*  

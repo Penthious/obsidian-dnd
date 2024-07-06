@@ -11,7 +11,7 @@ aliases: ["Lizard"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 332, Tomb of Annihilation, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 332, Tomb of Annihilation, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Lizard](2-Mechanics/CLI/bestiary/beast/lizard.md)
 *Source: Monster Manual p. 332, Tomb of Annihilation, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

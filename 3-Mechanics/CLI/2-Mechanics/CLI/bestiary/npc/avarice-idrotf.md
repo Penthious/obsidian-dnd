@@ -12,7 +12,7 @@ aliases: ["Avarice"]
 NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 269
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 269"
 ---
 # [Avarice](2-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 269*  

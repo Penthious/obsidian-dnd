@@ -9,7 +9,7 @@ tags:
 aliases: ["Luba's Tarokka of Souls"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 129
+BookSource: "Tasha's Cauldron of Everything p. 129"
 ---
 # Luba's Tarokka of Souls
 *Wondrous Item, artifact (requires attunement)*  

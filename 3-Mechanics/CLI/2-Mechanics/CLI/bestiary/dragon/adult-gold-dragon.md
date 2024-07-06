@@ -13,7 +13,7 @@ aliases: ["Adult Gold Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 114, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 114, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Adult Gold Dragon](2-Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md)
 *Source: Monster Manual p. 114, Ghosts of Saltmarsh, Journeys through the Radiant Citadel. Available in the SRD.*  

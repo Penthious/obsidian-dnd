@@ -11,7 +11,7 @@ tags:
 aliases: ["Mind Lash"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Volo's Guide to Monsters p. 81
+BookSource: "Volo's Guide to Monsters p. 81"
 ---
 # Mind Lash
 *Melee Weapon, rare (requires attunement by a mind flayer)*  

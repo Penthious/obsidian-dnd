@@ -15,7 +15,7 @@ classes:
 aliases: ["Chain Lightning"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 221. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 221. Available in the SRD and the Basic Rules."
 ---
 # Chain Lightning
 *6th-level, Evocation*  

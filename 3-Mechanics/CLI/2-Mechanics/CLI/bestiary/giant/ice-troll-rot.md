@@ -11,7 +11,7 @@ aliases: ["Ice Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 30
+BookSource: "The Rise of Tiamat p. 30"
 ---
 # [Ice Troll](2-Mechanics/CLI/bestiary/giant/ice-troll-rot.md)
 *Source: The Rise of Tiamat p. 30*  

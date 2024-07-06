@@ -7,7 +7,7 @@ tags:
 aliases: ["Aasimar"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 7
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 7"
 ---
 # Aasimar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 7*  

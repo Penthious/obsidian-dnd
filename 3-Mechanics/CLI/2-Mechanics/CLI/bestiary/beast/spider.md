@@ -11,7 +11,7 @@ aliases: ["Spider"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 337, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 337, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Spider](2-Mechanics/CLI/bestiary/beast/spider.md)
 *Source: Monster Manual p. 337, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

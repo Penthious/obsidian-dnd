@@ -12,7 +12,7 @@ aliases: ["Sylgar"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 220
+BookSource: "Waterdeep: Dragon Heist p. 220"
 ---
 # [Sylgar](2-Mechanics/CLI/bestiary/npc/sylgar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

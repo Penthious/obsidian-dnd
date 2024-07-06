@@ -11,7 +11,7 @@ aliases: ["Erinyes"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 73, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 73, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Erinyes](2-Mechanics/CLI/bestiary/fiend/erinyes.md)
 *Source: Monster Manual p. 73, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault. Available in the SRD.*  

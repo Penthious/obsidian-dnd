@@ -11,7 +11,7 @@ aliases: ["Hulking Crab"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 240
+BookSource: "Storm King's Thunder p. 240"
 ---
 # [Hulking Crab](2-Mechanics/CLI/bestiary/beast/hulking-crab-skt.md)
 *Source: Storm King's Thunder p. 240*  

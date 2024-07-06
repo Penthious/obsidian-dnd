@@ -9,7 +9,7 @@ tags:
 aliases: ["Rod of the Vonindod"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 236
+BookSource: "Storm King's Thunder p. 236"
 ---
 # Rod of the Vonindod
 *Rod, rare (requires attunement)*  

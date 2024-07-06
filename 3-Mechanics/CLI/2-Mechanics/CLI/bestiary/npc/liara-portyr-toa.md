@@ -12,7 +12,7 @@ aliases: ["Liara Portyr"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus
+BookSource: "Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus"
 ---
 # [Liara Portyr](2-Mechanics/CLI/bestiary/npc/liara-portyr-toa.md)
 *Source: Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus*  

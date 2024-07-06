@@ -12,7 +12,7 @@ aliases: ["Ram Sugar"]
 NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 132
+BookSource: "Candlekeep Mysteries p. 132"
 ---
 # [Ram Sugar](2-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md)
 *Source: Candlekeep Mysteries p. 132*  

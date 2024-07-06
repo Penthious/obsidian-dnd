@@ -12,7 +12,7 @@ aliases: ["Kalka-Kylla"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 238
+BookSource: "Tales from the Yawning Portal p. 238"
 ---
 # [Kalka-Kylla](2-Mechanics/CLI/bestiary/npc/kalka-kylla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 238*  

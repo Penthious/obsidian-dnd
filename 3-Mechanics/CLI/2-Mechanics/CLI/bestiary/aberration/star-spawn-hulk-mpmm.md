@@ -11,7 +11,7 @@ aliases: ["Star Spawn Hulk"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234"
 ---
 # [Star Spawn Hulk](2-Mechanics/CLI/bestiary/aberration/star-spawn-hulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  

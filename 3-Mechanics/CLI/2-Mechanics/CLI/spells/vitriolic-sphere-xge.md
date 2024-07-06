@@ -17,7 +17,7 @@ classes:
 aliases: ["Vitriolic Sphere"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 170
+BookSource: "Xanathar's Guide to Everything p. 170"
 ---
 # Vitriolic Sphere
 *4th-level, Evocation*  

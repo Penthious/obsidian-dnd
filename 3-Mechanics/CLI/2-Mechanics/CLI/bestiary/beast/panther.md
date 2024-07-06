@@ -14,7 +14,7 @@ aliases: ["Panther"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 333, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 333, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist. Available in the SRD and the Basic Rules."
 ---
 # [Panther](2-Mechanics/CLI/bestiary/beast/panther.md)
 *Source: Monster Manual p. 333, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist. Available in the SRD and the Basic Rules.*  

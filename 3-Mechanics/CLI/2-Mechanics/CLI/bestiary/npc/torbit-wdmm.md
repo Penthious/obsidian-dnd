@@ -12,7 +12,7 @@ aliases: ["Torbit"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 115
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 115"
 ---
 # [Torbit](2-Mechanics/CLI/bestiary/npc/torbit-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 115*  

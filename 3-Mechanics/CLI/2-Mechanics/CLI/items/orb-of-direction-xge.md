@@ -9,7 +9,7 @@ tags:
 aliases: ["Orb of Direction"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Orb of Direction
 *Wondrous Item, minor, common*  

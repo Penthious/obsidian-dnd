@@ -20,7 +20,7 @@ classes:
 aliases: ["Leomund's Tiny Hut"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 255. Available in the SRD (as 'Tiny Hut').
+BookSource: "Player's Handbook p. 255. Available in the SRD (as 'Tiny Hut')."
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  

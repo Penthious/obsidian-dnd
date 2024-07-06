@@ -12,7 +12,7 @@ aliases: ["Young Black Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 88, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.
+BookSource: "Monster Manual p. 88, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Young Black Dragon](2-Mechanics/CLI/bestiary/dragon/young-black-dragon.md)
 *Source: Monster Manual p. 88, The Rise of Tiamat, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  

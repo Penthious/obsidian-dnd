@@ -7,7 +7,7 @@ tags:
 aliases: ["Glassblower's Tools"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154, Xanathar's Guide to Everything p. 82. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 154, Xanathar's Guide to Everything p. 82. Available in the SRD and the Basic Rules."
 ---
 # Glassblower's Tools
 *Artisan's Tools*  

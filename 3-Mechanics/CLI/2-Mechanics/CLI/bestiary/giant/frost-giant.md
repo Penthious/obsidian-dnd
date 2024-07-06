@@ -13,7 +13,7 @@ aliases: ["Frost Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 155, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 155, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Frost Giant](2-Mechanics/CLI/bestiary/giant/frost-giant.md)
 *Source: Monster Manual p. 155, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

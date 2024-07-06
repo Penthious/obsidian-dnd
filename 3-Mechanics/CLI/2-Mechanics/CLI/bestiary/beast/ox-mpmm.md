@@ -13,7 +13,7 @@ aliases: ["Ox"]
 NoteIcon: monster
 BestiaryType: beast (cattle)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208"
 ---
 # [Ox](2-Mechanics/CLI/bestiary/beast/ox-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  

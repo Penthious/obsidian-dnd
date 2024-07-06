@@ -7,7 +7,7 @@ tags:
 aliases: ["Merfolk (DMG)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Dungeon Master's Guide p. 282
+BookSource: "Dungeon Master's Guide p. 282"
 ---
 # Merfolk (DMG)
 *Source: Dungeon Master's Guide p. 282*  

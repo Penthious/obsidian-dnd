@@ -12,7 +12,7 @@ aliases: ["Pidlwick II"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 236
+BookSource: "Curse of Strahd p. 236"
 ---
 # [Pidlwick II](2-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md)
 *Source: Curse of Strahd p. 236*  

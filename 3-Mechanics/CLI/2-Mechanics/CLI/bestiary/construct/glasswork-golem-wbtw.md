@@ -11,7 +11,7 @@ aliases: ["Glasswork Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 193
+BookSource: "The Wild Beyond the Witchlight p. 193"
 ---
 # [Glasswork Golem](2-Mechanics/CLI/bestiary/construct/glasswork-golem-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 193*  

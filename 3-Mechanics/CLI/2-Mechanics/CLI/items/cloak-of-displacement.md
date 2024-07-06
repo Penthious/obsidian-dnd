@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloak of Displacement"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 158. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 158. Available in the SRD."
 ---
 # Cloak of Displacement
 *Wondrous Item, major, rare (requires attunement)*  

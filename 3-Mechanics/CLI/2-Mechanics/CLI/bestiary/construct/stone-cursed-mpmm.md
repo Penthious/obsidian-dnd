@@ -14,7 +14,7 @@ aliases: ["Stone Cursed"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240"
 ---
 # [Stone Cursed](2-Mechanics/CLI/bestiary/construct/stone-cursed-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*  

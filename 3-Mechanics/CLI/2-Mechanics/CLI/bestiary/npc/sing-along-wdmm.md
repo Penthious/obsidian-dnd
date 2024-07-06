@@ -12,7 +12,7 @@ aliases: ["Sing-Along"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 148
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 148"
 ---
 # [Sing-Along](2-Mechanics/CLI/bestiary/npc/sing-along-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 148*  

@@ -25,7 +25,7 @@ classes:
 aliases: ["Plant Growth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 266. Available in the SRD.
+BookSource: "Player's Handbook p. 266. Available in the SRD."
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

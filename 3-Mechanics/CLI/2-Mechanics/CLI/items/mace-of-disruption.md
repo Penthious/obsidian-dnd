@@ -10,7 +10,7 @@ tags:
 aliases: ["Mace of Disruption"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 179. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 179. Available in the SRD."
 ---
 # Mace of Disruption
 *Melee Weapon, major, rare (requires attunement)*  

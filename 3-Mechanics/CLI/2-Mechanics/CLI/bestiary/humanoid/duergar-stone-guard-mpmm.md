@@ -13,7 +13,7 @@ aliases: ["Duergar Stone Guard"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191"
 ---
 # [Duergar Stone Guard](2-Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191*  

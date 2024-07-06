@@ -11,7 +11,7 @@ aliases: ["Grippli Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid (grippli)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 99
+BookSource: "Candlekeep Mysteries p. 99"
 ---
 # [Grippli Warrior](2-Mechanics/CLI/bestiary/humanoid/grippli-warrior-cm.md)
 *Source: Candlekeep Mysteries p. 99*  

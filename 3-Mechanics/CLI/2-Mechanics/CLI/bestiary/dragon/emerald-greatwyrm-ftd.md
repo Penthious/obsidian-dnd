@@ -11,7 +11,7 @@ aliases: ["Emerald Greatwyrm"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 201
+BookSource: "Fizban's Treasury of Dragons p. 201"
 ---
 # [Emerald Greatwyrm](2-Mechanics/CLI/bestiary/dragon/emerald-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  

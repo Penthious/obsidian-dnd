@@ -9,7 +9,7 @@ tags:
 aliases: ["Pole of Angling"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Pole of Angling
 *Wondrous Item, minor, common*  

@@ -12,7 +12,7 @@ aliases: ["Kaevja Cynavern"]
 NoteIcon: npc
 BestiaryType: humanoid (Mulan human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 158
+BookSource: "Waterdeep: Dragon Heist p. 158"
 ---
 # [Kaevja Cynavern](2-Mechanics/CLI/bestiary/npc/kaevja-cynavern-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 158*  

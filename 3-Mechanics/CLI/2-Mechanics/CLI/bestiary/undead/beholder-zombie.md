@@ -12,7 +12,7 @@ aliases: ["Beholder Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 316, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage
+BookSource: "Monster Manual p. 316, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage"
 ---
 # [Beholder Zombie](2-Mechanics/CLI/bestiary/undead/beholder-zombie.md)
 *Source: Monster Manual p. 316, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage*  

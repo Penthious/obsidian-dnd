@@ -12,7 +12,7 @@ aliases: ["Vincent Trench"]
 NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 32
+BookSource: "Waterdeep: Dragon Heist p. 32"
 ---
 # [Vincent Trench](2-Mechanics/CLI/bestiary/npc/vincent-trench-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

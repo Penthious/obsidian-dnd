@@ -9,7 +9,7 @@ tags:
 aliases: ["Bag of Tricks"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 154
+BookSource: "Dungeon Master's Guide p. 154"
 ---
 # Bag of Tricks
 *Wondrous Item, major, uncommon*  

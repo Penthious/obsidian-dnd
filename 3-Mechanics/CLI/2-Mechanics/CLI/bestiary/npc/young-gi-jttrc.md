@@ -12,7 +12,7 @@ aliases: ["Young-Gi"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 85
+BookSource: "Journeys through the Radiant Citadel p. 85"
 ---
 # [Young-Gi](2-Mechanics/CLI/bestiary/npc/young-gi-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 85*  

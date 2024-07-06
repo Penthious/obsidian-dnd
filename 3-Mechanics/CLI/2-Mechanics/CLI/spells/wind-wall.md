@@ -19,7 +19,7 @@ classes:
 aliases: ["Wind Wall"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 288. Available in the SRD.
+BookSource: "Player's Handbook p. 288. Available in the SRD."
 ---
 # Wind Wall
 *3rd-level, Evocation*  

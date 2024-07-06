@@ -7,7 +7,7 @@ tags:
 aliases: ["Half-Elf (Drow Descent)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Sword Coast Adventurer's Guide p. 116
+BookSource: "Sword Coast Adventurer's Guide p. 116"
 ---
 # Half-Elf (Drow Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  

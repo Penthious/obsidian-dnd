@@ -11,7 +11,7 @@ aliases: ["Winged Bull"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 214
+BookSource: "Mythic Odysseys of Theros p. 214"
 ---
 # [Winged Bull](2-Mechanics/CLI/bestiary/celestial/winged-bull-mot.md)
 *Source: Mythic Odysseys of Theros p. 214*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Figurine of Wondrous Power, Bronze Griffon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 169. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 169. Available in the SRD."
 ---
 # Figurine of Wondrous Power, Bronze Griffon
 *Wondrous Item, major, rare*  

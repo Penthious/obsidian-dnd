@@ -11,7 +11,7 @@ aliases: ["Witherbloom Pledgemage"]
 NoteIcon: monster
 BestiaryType: humanoid (druid)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 222
+BookSource: "Strixhaven: A Curriculum of Chaos p. 222"
 ---
 # [Witherbloom Pledgemage](2-Mechanics/CLI/bestiary/humanoid/witherbloom-pledgemage-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 222*  

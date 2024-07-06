@@ -12,7 +12,7 @@ aliases: ["Grumink the Renegade"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 210
+BookSource: "Princes of the Apocalypse p. 210"
 ---
 # [Grumink the Renegade](2-Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota.md)
 *Source: Princes of the Apocalypse p. 210*  

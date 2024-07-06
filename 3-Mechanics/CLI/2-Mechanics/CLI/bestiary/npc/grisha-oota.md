@@ -12,7 +12,7 @@ aliases: ["Grisha"]
 NoteIcon: npc
 BestiaryType: humanoid (Damaran human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 232
+BookSource: "Out of the Abyss p. 232"
 ---
 # [Grisha](2-Mechanics/CLI/bestiary/npc/grisha-oota.md)
 *Source: Out of the Abyss p. 232*  

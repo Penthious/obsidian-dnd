@@ -11,7 +11,7 @@ aliases: ["Merrow Extortionist"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 0
+BookSource: "Dragons of Stormwreck Isle p. 0"
 ---
 # [Merrow Extortionist](2-Mechanics/CLI/bestiary/monstrosity/merrow-extortionist-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 0*  

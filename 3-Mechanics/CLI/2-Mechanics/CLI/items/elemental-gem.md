@@ -9,7 +9,7 @@ tags:
 aliases: ["Elemental Gem"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 167
+BookSource: "Dungeon Master's Guide p. 167"
 ---
 # Elemental Gem
 *Wondrous Item, minor, uncommon*  

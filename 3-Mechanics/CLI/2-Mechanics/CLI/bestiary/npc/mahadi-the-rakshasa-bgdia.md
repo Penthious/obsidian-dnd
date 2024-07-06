@@ -12,7 +12,7 @@ aliases: ["Mahadi the Rakshasa"]
 NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 127
+BookSource: "Baldur's Gate: Descent Into Avernus p. 127"
 ---
 # [Mahadi the Rakshasa](2-Mechanics/CLI/bestiary/npc/mahadi-the-rakshasa-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 127*  

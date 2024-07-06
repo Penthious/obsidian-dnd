@@ -9,7 +9,7 @@ tags:
 aliases: ["Lantern of Revealing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 179. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 179. Available in the SRD."
 ---
 # Lantern of Revealing
 *Wondrous Item, minor, uncommon*  

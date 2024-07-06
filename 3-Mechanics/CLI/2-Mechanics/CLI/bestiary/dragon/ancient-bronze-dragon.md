@@ -12,7 +12,7 @@ aliases: ["Ancient Bronze Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 107, Ghosts of Saltmarsh. Available in the SRD.
+BookSource: "Monster Manual p. 107, Ghosts of Saltmarsh. Available in the SRD."
 ---
 # [Ancient Bronze Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon.md)
 *Source: Monster Manual p. 107, Ghosts of Saltmarsh. Available in the SRD.*  

@@ -11,7 +11,7 @@ aliases: ["Green Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 95, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 95, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Green Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling.md)
 *Source: Monster Manual p. 95, The Wild Beyond the Witchlight. Available in the SRD.*  

@@ -12,7 +12,7 @@ aliases: ["Marta Moonshadow"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 46
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 46"
 ---
 # [Marta Moonshadow](2-Mechanics/CLI/bestiary/npc/marta-moonshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 46*  

@@ -17,7 +17,7 @@ aliases: ["Cyclops"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 45, The Rise of Tiamat, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen. Available in the Basic Rules.
+BookSource: "Monster Manual p. 45, The Rise of Tiamat, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen. Available in the Basic Rules."
 ---
 # [Cyclops](2-Mechanics/CLI/bestiary/giant/cyclops.md)
 *Source: Monster Manual p. 45, The Rise of Tiamat, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight, Dragonlance: Shadow of the Dragon Queen. Available in the Basic Rules.*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Urban Bounty Hunter"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 153
+BookSource: "Sword Coast Adventurer's Guide p. 153"
 ---
 # Urban Bounty Hunter
 *Source: Sword Coast Adventurer's Guide p. 153*  

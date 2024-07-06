@@ -12,7 +12,7 @@ aliases: ["Wiri Fleagol"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 176
+BookSource: "Storm King's Thunder p. 176"
 ---
 # [Wiri Fleagol](2-Mechanics/CLI/bestiary/npc/wiri-fleagol-skt.md)
 *Source: Storm King's Thunder p. 176*  

@@ -12,7 +12,7 @@ aliases: ["Escher"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 70
+BookSource: "Curse of Strahd p. 70"
 ---
 # [Escher](2-Mechanics/CLI/bestiary/npc/escher-cos.md)
 *Source: Curse of Strahd p. 70*  

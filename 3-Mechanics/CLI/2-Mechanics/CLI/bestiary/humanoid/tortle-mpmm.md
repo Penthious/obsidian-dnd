@@ -12,7 +12,7 @@ aliases: ["Tortle"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242"
 ---
 # [Tortle](2-Mechanics/CLI/bestiary/humanoid/tortle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["The Codicil of White"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 317
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 317"
 ---
 # The Codicil of White
 *Wondrous Item, unknown (magic)*  

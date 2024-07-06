@@ -7,7 +7,7 @@ tags:
 aliases: ["Dhampir"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Van Richten's Guide to Ravenloft p. 16
+BookSource: "Van Richten's Guide to Ravenloft p. 16"
 ---
 # Dhampir
 *Source: Van Richten's Guide to Ravenloft p. 16*  

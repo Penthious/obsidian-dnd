@@ -7,7 +7,7 @@ tags:
 aliases: ["Uthgardt Tribe Member"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 153
+BookSource: "Sword Coast Adventurer's Guide p. 153"
 ---
 # Uthgardt Tribe Member
 *Source: Sword Coast Adventurer's Guide p. 153*  

@@ -17,7 +17,7 @@ classes:
 aliases: ["Snilloc's Snowball Swarm"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 165
+BookSource: "Xanathar's Guide to Everything p. 165"
 ---
 # Snilloc's Snowball Swarm
 *2nd-level, Evocation*  

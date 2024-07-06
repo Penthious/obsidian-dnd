@@ -13,7 +13,7 @@ aliases: ["Xvart Warlock of Raxivort"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200"
 ---
 # [Xvart Warlock of Raxivort](2-Mechanics/CLI/bestiary/monstrosity/xvart-warlock-of-raxivort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  

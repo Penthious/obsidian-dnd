@@ -11,7 +11,7 @@ aliases: ["Vampiric Ixitxachitl"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 226
+BookSource: "Out of the Abyss p. 226"
 ---
 # [Vampiric Ixitxachitl](2-Mechanics/CLI/bestiary/aberration/vampiric-ixitxachitl-oota.md)
 *Source: Out of the Abyss p. 226*  

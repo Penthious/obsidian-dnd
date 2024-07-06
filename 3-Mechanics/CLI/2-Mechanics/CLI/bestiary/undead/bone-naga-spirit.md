@@ -12,7 +12,7 @@ aliases: ["Bone Naga (Spirit)"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 233, Dragonlance: Shadow of the Dragon Queen
+BookSource: "Monster Manual p. 233, Dragonlance: Shadow of the Dragon Queen"
 ---
 # [Bone Naga (Spirit)](2-Mechanics/CLI/bestiary/undead/bone-naga-spirit.md)
 *Source: Monster Manual p. 233, Dragonlance: Shadow of the Dragon Queen*  

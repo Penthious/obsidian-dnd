@@ -11,7 +11,7 @@ aliases: ["Vampiric Jade Statue"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 256
+BookSource: "Ghosts of Saltmarsh p. 256"
 ---
 # [Vampiric Jade Statue](2-Mechanics/CLI/bestiary/construct/vampiric-jade-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 256*  

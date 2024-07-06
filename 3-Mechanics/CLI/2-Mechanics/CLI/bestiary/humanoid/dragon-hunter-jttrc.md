@@ -11,7 +11,7 @@ aliases: ["Dragon Hunter"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 138
+BookSource: "Journeys through the Radiant Citadel p. 138"
 ---
 # [Dragon Hunter](2-Mechanics/CLI/bestiary/humanoid/dragon-hunter-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 138*  

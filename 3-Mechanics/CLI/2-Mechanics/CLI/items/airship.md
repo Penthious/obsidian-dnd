@@ -7,7 +7,7 @@ tags:
 aliases: ["Airship"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 119
+BookSource: "Dungeon Master's Guide p. 119"
 ---
 # Airship
 *Airship, Vehicle (air)*  

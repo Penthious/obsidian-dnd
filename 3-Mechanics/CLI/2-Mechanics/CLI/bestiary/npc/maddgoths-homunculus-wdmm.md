@@ -12,7 +12,7 @@ aliases: ["Maddgoth's Homunculus"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 96
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 96"
 ---
 # [Maddgoth's Homunculus](2-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 96*  

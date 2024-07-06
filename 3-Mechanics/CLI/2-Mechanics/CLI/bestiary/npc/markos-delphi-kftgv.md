@@ -13,7 +13,7 @@ aliases: ["Markos Delphi"]
 NoteIcon: npc
 BestiaryType: humanoid (human, warlock)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 53
+BookSource: "Keys from the Golden Vault p. 53"
 ---
 # [Markos Delphi](2-Mechanics/CLI/bestiary/npc/markos-delphi-kftgv.md)
 *Source: Keys from the Golden Vault p. 53*  

@@ -12,7 +12,7 @@ aliases: ["Mammoth"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 332, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 332, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Mammoth](2-Mechanics/CLI/bestiary/beast/mammoth.md)
 *Source: Monster Manual p. 332, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

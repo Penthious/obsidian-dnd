@@ -19,7 +19,7 @@ classes:
 aliases: ["Symbol"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 280. Available in the SRD.
+BookSource: "Player's Handbook p. 280. Available in the SRD."
 ---
 # Symbol
 *7th-level, Abjuration*  

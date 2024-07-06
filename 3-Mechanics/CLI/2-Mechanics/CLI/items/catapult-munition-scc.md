@@ -8,7 +8,7 @@ tags:
 aliases: ["Catapult Munition"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 174
+BookSource: "Strixhaven: A Curriculum of Chaos p. 174"
 ---
 # Catapult Munition
 *Adventuring Gear, unknown*  

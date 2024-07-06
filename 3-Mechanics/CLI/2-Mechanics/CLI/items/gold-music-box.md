@@ -7,7 +7,7 @@ tags:
 aliases: ["Gold music box"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Gold music box
 *Art object*  

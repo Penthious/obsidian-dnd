@@ -13,7 +13,7 @@ classes:
 aliases: ["Wrathful Smite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 289
+BookSource: "Player's Handbook p. 289"
 ---
 # Wrathful Smite
 *1st-level, Evocation*  

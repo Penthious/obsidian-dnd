@@ -8,7 +8,7 @@ tags:
 aliases: ["Sekolahian Worshiping Statuette"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Ghosts of Saltmarsh p. 229
+BookSource: "Ghosts of Saltmarsh p. 229"
 ---
 # Sekolahian Worshiping Statuette
 *Wondrous Item, common*  

@@ -12,7 +12,7 @@ aliases: ["Shedrak of the Eyes"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 176
+BookSource: "Out of the Abyss p. 176"
 ---
 # [Shedrak of the Eyes](2-Mechanics/CLI/bestiary/npc/shedrak-of-the-eyes-oota.md)
 *Source: Out of the Abyss p. 176*  

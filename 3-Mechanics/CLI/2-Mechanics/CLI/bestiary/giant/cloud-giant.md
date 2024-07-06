@@ -12,7 +12,7 @@ aliases: ["Cloud Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Cloud Giant](2-Mechanics/CLI/bestiary/giant/cloud-giant.md)
 *Source: Monster Manual p. 154, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  

@@ -19,7 +19,7 @@ classes:
 aliases: ["Vortex Warp"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Strixhaven: A Curriculum of Chaos p. 38
+BookSource: "Strixhaven: A Curriculum of Chaos p. 38"
 ---
 # Vortex Warp
 *2nd-level, Conjuration*  

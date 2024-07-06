@@ -21,7 +21,7 @@ classes:
 aliases: ["Ray of Enfeeblement"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 271. Available in the SRD.
+BookSource: "Player's Handbook p. 271. Available in the SRD."
 ---
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  

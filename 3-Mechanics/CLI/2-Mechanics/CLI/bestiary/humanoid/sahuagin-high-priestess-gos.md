@@ -11,7 +11,7 @@ aliases: ["Sahuagin High Priestess"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 251
+BookSource: "Ghosts of Saltmarsh p. 251"
 ---
 # [Sahuagin High Priestess](2-Mechanics/CLI/bestiary/humanoid/sahuagin-high-priestess-gos.md)
 *Source: Ghosts of Saltmarsh p. 251*  

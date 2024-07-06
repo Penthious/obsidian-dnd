@@ -12,7 +12,7 @@ aliases: ["Tau"]
 NoteIcon: npc
 BestiaryType: humanoid (Shou human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 103
+BookSource: "Storm King's Thunder p. 103"
 ---
 # [Tau](2-Mechanics/CLI/bestiary/npc/tau-skt.md)
 *Source: Storm King's Thunder p. 103*  

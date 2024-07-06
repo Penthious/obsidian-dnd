@@ -11,7 +11,7 @@ aliases: ["Huge Stone Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 153
+BookSource: "Storm King's Thunder p. 153"
 ---
 # [Huge Stone Golem](2-Mechanics/CLI/bestiary/construct/huge-stone-golem-skt.md)
 *Source: Storm King's Thunder p. 153*  

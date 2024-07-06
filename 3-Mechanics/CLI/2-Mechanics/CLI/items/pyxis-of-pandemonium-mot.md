@@ -8,7 +8,7 @@ tags:
 aliases: ["Pyxis of Pandemonium"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 197
+BookSource: "Mythic Odysseys of Theros p. 197"
 ---
 # Pyxis of Pandemonium
 *Wondrous Item, legendary*  

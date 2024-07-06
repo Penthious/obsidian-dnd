@@ -11,7 +11,7 @@ aliases: ["Skeletal Rats"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 23
+BookSource: "Baldur's Gate: Descent Into Avernus p. 23"
 ---
 # [Skeletal Rats](2-Mechanics/CLI/bestiary/undead/skeletal-rats-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 23*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Gem (Obsidian)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 223
+BookSource: "Out of the Abyss p. 223"
 ---
 # Spell Gem (Obsidian)
 *Wondrous Item, uncommon (attunement optional)*  

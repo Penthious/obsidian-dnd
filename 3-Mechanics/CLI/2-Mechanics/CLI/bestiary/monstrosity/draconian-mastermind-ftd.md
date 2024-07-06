@@ -11,7 +11,7 @@ aliases: ["Draconian Mastermind"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 180
+BookSource: "Fizban's Treasury of Dragons p. 180"
 ---
 # [Draconian Mastermind](2-Mechanics/CLI/bestiary/monstrosity/draconian-mastermind-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 180*  

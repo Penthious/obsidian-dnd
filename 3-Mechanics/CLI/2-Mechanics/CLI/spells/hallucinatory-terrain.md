@@ -25,7 +25,7 @@ classes:
 aliases: ["Hallucinatory Terrain"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 249. Available in the SRD.
+BookSource: "Player's Handbook p. 249. Available in the SRD."
 ---
 # Hallucinatory Terrain
 *4th-level, Illusion*  

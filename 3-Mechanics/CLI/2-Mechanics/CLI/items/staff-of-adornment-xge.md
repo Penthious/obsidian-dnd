@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Adornment"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 139
+BookSource: "Xanathar's Guide to Everything p. 139"
 ---
 # Staff of Adornment
 *Staff, minor, common*  

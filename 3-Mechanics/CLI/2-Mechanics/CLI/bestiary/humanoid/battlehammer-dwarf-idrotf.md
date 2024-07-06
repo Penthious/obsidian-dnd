@@ -11,7 +11,7 @@ aliases: ["Battlehammer Dwarf"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 107
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 107"
 ---
 # [Battlehammer Dwarf](2-Mechanics/CLI/bestiary/humanoid/battlehammer-dwarf-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 107*  

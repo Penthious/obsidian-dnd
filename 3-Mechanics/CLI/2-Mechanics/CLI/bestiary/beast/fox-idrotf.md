@@ -11,7 +11,7 @@ aliases: ["Fox"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 288
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 288"
 ---
 # [Fox](2-Mechanics/CLI/bestiary/beast/fox-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  

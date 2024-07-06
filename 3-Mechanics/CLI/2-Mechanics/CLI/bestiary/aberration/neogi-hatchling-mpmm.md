@@ -13,7 +13,7 @@ aliases: ["Neogi Hatchling"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179"
 ---
 # [Neogi Hatchling](2-Mechanics/CLI/bestiary/aberration/neogi-hatchling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179*  

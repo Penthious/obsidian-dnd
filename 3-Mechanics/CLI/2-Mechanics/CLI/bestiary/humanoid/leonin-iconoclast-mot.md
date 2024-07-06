@@ -11,7 +11,7 @@ aliases: ["Leonin Iconoclast"]
 NoteIcon: monster
 BestiaryType: humanoid (leonin)
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 232
+BookSource: "Mythic Odysseys of Theros p. 232"
 ---
 # [Leonin Iconoclast](2-Mechanics/CLI/bestiary/humanoid/leonin-iconoclast-mot.md)
 *Source: Mythic Odysseys of Theros p. 232*  

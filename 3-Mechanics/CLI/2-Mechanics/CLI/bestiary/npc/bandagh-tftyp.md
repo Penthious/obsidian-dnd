@@ -12,7 +12,7 @@ aliases: ["Bandagh"]
 NoteIcon: npc
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 159
+BookSource: "Tales from the Yawning Portal p. 159"
 ---
 # [Bandagh](2-Mechanics/CLI/bestiary/npc/bandagh-tftyp.md)
 *Source: Tales from the Yawning Portal p. 159*  

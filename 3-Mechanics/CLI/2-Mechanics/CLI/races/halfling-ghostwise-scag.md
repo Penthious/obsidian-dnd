@@ -7,7 +7,7 @@ tags:
 aliases: ["Halfling (Ghostwise)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Sword Coast Adventurer's Guide p. 110
+BookSource: "Sword Coast Adventurer's Guide p. 110"
 ---
 # Halfling (Ghostwise)
 *Source: Sword Coast Adventurer's Guide p. 110*  

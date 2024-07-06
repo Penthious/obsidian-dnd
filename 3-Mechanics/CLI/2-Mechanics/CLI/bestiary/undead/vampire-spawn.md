@@ -13,7 +13,7 @@ aliases: ["Vampire Spawn"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 298, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 298, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Vampire Spawn](2-Mechanics/CLI/bestiary/undead/vampire-spawn.md)
 *Source: Monster Manual p. 298, Curse of Strahd, Hoard of the Dragon Queen, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything. Available in the SRD.*  

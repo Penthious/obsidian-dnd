@@ -7,7 +7,7 @@ tags:
 aliases: ["Halfling"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 26. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 26. Available in the SRD and the Basic Rules."
 ---
 # Halfling
 *Source: Player's Handbook p. 26. Available in the SRD and the Basic Rules.*  

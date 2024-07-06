@@ -15,7 +15,7 @@ classes:
 aliases: ["Time Stop"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 283. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 283. Available in the SRD and the Basic Rules."
 ---
 # Time Stop
 *9th-level, Transmutation*  

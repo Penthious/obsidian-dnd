@@ -12,7 +12,7 @@ aliases: ["Varram"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 9
+BookSource: "The Rise of Tiamat p. 9"
 ---
 # [Varram](2-Mechanics/CLI/bestiary/npc/varram-rot.md)
 *Source: The Rise of Tiamat p. 9*  

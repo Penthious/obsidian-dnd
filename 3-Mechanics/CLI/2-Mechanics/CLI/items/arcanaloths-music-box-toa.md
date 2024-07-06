@@ -8,7 +8,7 @@ tags:
 aliases: ["Arcanaloth's Music Box"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 188
+BookSource: "Tomb of Annihilation p. 188"
 ---
 # Arcanaloth's Music Box
 *Other, unknown (magic)*  

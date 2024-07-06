@@ -12,7 +12,7 @@ aliases: ["Darkmantle"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 46, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 46, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Darkmantle](2-Mechanics/CLI/bestiary/monstrosity/darkmantle.md)
 *Source: Monster Manual p. 46, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.*  

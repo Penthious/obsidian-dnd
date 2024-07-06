@@ -12,7 +12,7 @@ aliases: ["Ghazrim DuLoc"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 141
+BookSource: "Out of the Abyss p. 141"
 ---
 # [Ghazrim DuLoc](2-Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md)
 *Source: Out of the Abyss p. 141*  

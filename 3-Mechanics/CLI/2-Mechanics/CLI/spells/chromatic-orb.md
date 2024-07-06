@@ -17,7 +17,7 @@ classes:
 aliases: ["Chromatic Orb"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 221
+BookSource: "Player's Handbook p. 221"
 ---
 # Chromatic Orb
 *1st-level, Evocation*  

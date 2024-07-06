@@ -11,7 +11,7 @@ aliases: ["Gold-Forged Sentinel"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 211
+BookSource: "Mythic Odysseys of Theros p. 211"
 ---
 # [Gold-Forged Sentinel](2-Mechanics/CLI/bestiary/construct/gold-forged-sentinel-mot.md)
 *Source: Mythic Odysseys of Theros p. 211*  

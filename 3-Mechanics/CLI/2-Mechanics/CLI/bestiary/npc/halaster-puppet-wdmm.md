@@ -12,7 +12,7 @@ aliases: ["Halaster Puppet"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 31
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 31"
 ---
 # [Halaster Puppet](2-Mechanics/CLI/bestiary/npc/halaster-puppet-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 31*  

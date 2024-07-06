@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Gaseous Form"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 187. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 187. Available in the SRD."
 ---
 # Potion of Gaseous Form
 *Potion, minor, rare*  

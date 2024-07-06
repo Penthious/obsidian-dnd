@@ -12,7 +12,7 @@ aliases: ["Aarakocra"]
 NoteIcon: monster
 BestiaryType: humanoid (aarakocra)
 SourceType: Bestiary
-BookSource: Monster Manual p. 12, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Monster Manual p. 12, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Aarakocra](2-Mechanics/CLI/bestiary/humanoid/aarakocra.md)
 *Source: Monster Manual p. 12, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden*  

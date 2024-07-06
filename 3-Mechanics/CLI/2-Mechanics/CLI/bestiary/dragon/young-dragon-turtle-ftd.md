@@ -11,7 +11,7 @@ aliases: ["Young Dragon Turtle"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 192
+BookSource: "Fizban's Treasury of Dragons p. 192"
 ---
 # [Young Dragon Turtle](2-Mechanics/CLI/bestiary/dragon/young-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 192*  

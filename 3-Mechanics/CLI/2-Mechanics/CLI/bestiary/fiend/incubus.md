@@ -12,7 +12,7 @@ aliases: ["Incubus"]
 NoteIcon: monster
 BestiaryType: fiend (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 285, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 285, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Incubus](2-Mechanics/CLI/bestiary/fiend/incubus.md)
 *Source: Monster Manual p. 285, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD.*  

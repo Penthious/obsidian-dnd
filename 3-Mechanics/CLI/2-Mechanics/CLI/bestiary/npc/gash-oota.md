@@ -12,7 +12,7 @@ aliases: ["Gash"]
 NoteIcon: npc
 BestiaryType: humanoid (gnoll)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 181
+BookSource: "Out of the Abyss p. 181"
 ---
 # [Gash](2-Mechanics/CLI/bestiary/npc/gash-oota.md)
 *Source: Out of the Abyss p. 181*  

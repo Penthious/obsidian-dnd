@@ -11,7 +11,7 @@ aliases: ["Hare"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 294
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 294"
 ---
 # [Hare](2-Mechanics/CLI/bestiary/beast/hare-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 294*  

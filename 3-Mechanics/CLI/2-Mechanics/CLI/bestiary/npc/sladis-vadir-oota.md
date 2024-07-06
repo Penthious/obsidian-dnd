@@ -12,7 +12,7 @@ aliases: ["Sladis Vadir"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 135
+BookSource: "Out of the Abyss p. 135"
 ---
 # [Sladis Vadir](2-Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md)
 *Source: Out of the Abyss p. 135*  

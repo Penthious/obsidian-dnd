@@ -11,7 +11,7 @@ aliases: ["Four-Armed Statue"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 206
+BookSource: "Out of the Abyss p. 206"
 ---
 # [Four-Armed Statue](2-Mechanics/CLI/bestiary/construct/four-armed-statue-oota.md)
 *Source: Out of the Abyss p. 206*  

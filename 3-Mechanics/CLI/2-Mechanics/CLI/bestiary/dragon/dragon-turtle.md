@@ -13,7 +13,7 @@ aliases: ["Dragon Turtle"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 119, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 119, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Dragon Turtle](2-Mechanics/CLI/bestiary/dragon/dragon-turtle.md)
 *Source: Monster Manual p. 119, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, Journeys through the Radiant Citadel. Available in the SRD.*  

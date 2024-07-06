@@ -12,7 +12,7 @@ aliases: ["Victor Vallakovich"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 105
+BookSource: "Curse of Strahd p. 105"
 ---
 # [Victor Vallakovich](2-Mechanics/CLI/bestiary/npc/victor-vallakovich-cos.md)
 *Source: Curse of Strahd p. 105*  

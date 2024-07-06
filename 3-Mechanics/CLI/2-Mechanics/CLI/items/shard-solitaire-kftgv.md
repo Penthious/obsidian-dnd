@@ -9,7 +9,7 @@ tags:
 aliases: ["Shard Solitaire"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Keys from the Golden Vault p. 193
+BookSource: "Keys from the Golden Vault p. 193"
 ---
 # Shard Solitaire
 *Wondrous Item, legendary (requires attunement)*  

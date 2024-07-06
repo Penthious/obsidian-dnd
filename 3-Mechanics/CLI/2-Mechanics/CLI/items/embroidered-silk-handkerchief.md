@@ -7,7 +7,7 @@ tags:
 aliases: ["Embroidered silk handkerchief"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Embroidered silk handkerchief
 *Art object*  

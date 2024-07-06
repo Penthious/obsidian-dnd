@@ -12,7 +12,7 @@ aliases: ["Shard Shunner"]
 NoteIcon: monster
 BestiaryType: humanoid (halfling, shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 42
+BookSource: "Waterdeep: Dragon Heist p. 42"
 ---
 # [Shard Shunner](2-Mechanics/CLI/bestiary/humanoid/shard-shunner-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 42*  

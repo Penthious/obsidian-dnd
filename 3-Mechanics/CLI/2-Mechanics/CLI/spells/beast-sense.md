@@ -16,7 +16,7 @@ classes:
 aliases: ["Beast Sense"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 217
+BookSource: "Player's Handbook p. 217"
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Flame Blade"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 242. Available in the SRD.
+BookSource: "Player's Handbook p. 242. Available in the SRD."
 ---
 # Flame Blade
 *2nd-level, Evocation*  

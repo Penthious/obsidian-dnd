@@ -9,7 +9,7 @@ tags:
 aliases: ["Mighty Servant of Leuk-o"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 131
+BookSource: "Tasha's Cauldron of Everything p. 131"
 ---
 # Mighty Servant of Leuk-o
 *Wondrous Item, artifact (requires attunement)*  

@@ -17,7 +17,7 @@ classes:
 aliases: ["Antilife Shell"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 213. Available in the SRD.
+BookSource: "Player's Handbook p. 213. Available in the SRD."
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

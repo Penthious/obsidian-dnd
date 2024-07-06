@@ -11,7 +11,7 @@ aliases: ["Pirate Bosun"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 247
+BookSource: "Ghosts of Saltmarsh p. 247"
 ---
 # [Pirate Bosun](2-Mechanics/CLI/bestiary/humanoid/pirate-bosun-gos.md)
 *Source: Ghosts of Saltmarsh p. 247*  

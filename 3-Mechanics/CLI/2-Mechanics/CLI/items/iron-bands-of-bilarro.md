@@ -9,7 +9,7 @@ tags:
 aliases: ["Iron Bands of Bilarro"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 177. Available in the SRD (as 'Iron Bands of Binding').
+BookSource: "Dungeon Master's Guide p. 177. Available in the SRD (as 'Iron Bands of Binding')."
 ---
 # Iron Bands of Bilarro
 *Wondrous Item, major, rare*  

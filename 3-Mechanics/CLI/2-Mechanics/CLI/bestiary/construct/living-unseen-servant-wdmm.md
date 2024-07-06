@@ -11,7 +11,7 @@ aliases: ["Living Unseen Servant"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 313
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 313"
 ---
 # [Living Unseen Servant](2-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 313*  

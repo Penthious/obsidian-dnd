@@ -11,7 +11,7 @@ aliases: ["Hezrou"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 60, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 60, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Hezrou](2-Mechanics/CLI/bestiary/fiend/hezrou.md)
 *Source: Monster Manual p. 60, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD.*  

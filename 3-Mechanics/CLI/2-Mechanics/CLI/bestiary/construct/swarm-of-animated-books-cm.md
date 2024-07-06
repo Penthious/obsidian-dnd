@@ -11,7 +11,7 @@ aliases: ["Swarm of Animated Books"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 19
+BookSource: "Candlekeep Mysteries p. 19"
 ---
 # [Swarm of Animated Books](2-Mechanics/CLI/bestiary/construct/swarm-of-animated-books-cm.md)
 *Source: Candlekeep Mysteries p. 19*  

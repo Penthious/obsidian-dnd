@@ -9,7 +9,7 @@ tags:
 aliases: ["Claws of the Umber Hulk"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 222
+BookSource: "Princes of the Apocalypse p. 222"
 ---
 # Claws of the Umber Hulk
 *Wondrous Item, rare (requires attunement)*  

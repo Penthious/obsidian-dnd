@@ -10,7 +10,7 @@ tags:
 aliases: ["Robe of Stars"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 194. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 194. Available in the SRD."
 ---
 # Robe of Stars
 *Wondrous Item, major, very rare (requires attunement)*  

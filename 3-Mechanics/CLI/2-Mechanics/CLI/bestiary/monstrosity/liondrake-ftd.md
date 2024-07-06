@@ -11,7 +11,7 @@ aliases: ["Liondrake"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 207
+BookSource: "Fizban's Treasury of Dragons p. 207"
 ---
 # [Liondrake](2-Mechanics/CLI/bestiary/monstrosity/liondrake-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 207*  

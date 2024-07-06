@@ -12,7 +12,7 @@ aliases: ["Dragonbait"]
 NoteIcon: npc
 BestiaryType: humanoid (saurial)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 218
+BookSource: "Tomb of Annihilation p. 218"
 ---
 # [Dragonbait](2-Mechanics/CLI/bestiary/npc/dragonbait-toa.md)
 *Source: Tomb of Annihilation p. 218*  

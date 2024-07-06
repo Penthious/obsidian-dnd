@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Baalzebul)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 21
+BookSource: "Mordenkainen's Tome of Foes p. 21"
 ---
 # Tiefling (Baalzebul)
 *Source: Mordenkainen's Tome of Foes p. 21*  

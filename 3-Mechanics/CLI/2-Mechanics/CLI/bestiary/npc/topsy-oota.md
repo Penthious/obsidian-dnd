@@ -13,7 +13,7 @@ aliases: ["Topsy"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 8
+BookSource: "Out of the Abyss p. 8"
 ---
 # [Topsy](2-Mechanics/CLI/bestiary/npc/topsy-oota.md)
 *Source: Out of the Abyss p. 8*  

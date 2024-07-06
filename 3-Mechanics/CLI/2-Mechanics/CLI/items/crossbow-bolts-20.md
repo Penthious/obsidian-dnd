@@ -7,7 +7,7 @@ tags:
 aliases: ["Crossbow Bolts (20)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 150. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 150. Available in the SRD and the Basic Rules."
 ---
 # Crossbow Bolts (20)
 *Ammunition*  

@@ -12,7 +12,7 @@ aliases: ["Ulder Ravengard"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 70
+BookSource: "Baldur's Gate: Descent Into Avernus p. 70"
 ---
 # [Ulder Ravengard](2-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 70*  

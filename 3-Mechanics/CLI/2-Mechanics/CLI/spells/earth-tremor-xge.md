@@ -21,7 +21,7 @@ classes:
 aliases: ["Earth Tremor"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 155
+BookSource: "Xanathar's Guide to Everything p. 155"
 ---
 # Earth Tremor
 *1st-level, Evocation*  

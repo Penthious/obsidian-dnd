@@ -11,7 +11,7 @@ classes:
 aliases: ["Hail of Thorns"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 249
+BookSource: "Player's Handbook p. 249"
 ---
 # Hail of Thorns
 *1st-level, Conjuration*  

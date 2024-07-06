@@ -11,7 +11,7 @@ aliases: ["Master of Souls"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 234
+BookSource: "Baldur's Gate: Descent Into Avernus p. 234"
 ---
 # [Master of Souls](2-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  

@@ -25,7 +25,7 @@ classes:
 aliases: ["Fire Shield"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 242. Available in the SRD.
+BookSource: "Player's Handbook p. 242. Available in the SRD."
 ---
 # Fire Shield
 *4th-level, Evocation*  

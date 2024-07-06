@@ -12,7 +12,7 @@ aliases: ["Torlin Silvershield"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 159
+BookSource: "Tales from the Yawning Portal p. 159"
 ---
 # [Torlin Silvershield](2-Mechanics/CLI/bestiary/npc/torlin-silvershield-tftyp.md)
 *Source: Tales from the Yawning Portal p. 159*  

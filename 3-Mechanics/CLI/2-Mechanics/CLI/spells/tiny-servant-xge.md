@@ -17,7 +17,7 @@ classes:
 aliases: ["Tiny Servant"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 168
+BookSource: "Xanathar's Guide to Everything p. 168"
 ---
 # Tiny Servant
 *3rd-level, Transmutation*  

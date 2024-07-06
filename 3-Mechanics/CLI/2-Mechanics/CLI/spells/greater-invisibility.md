@@ -33,7 +33,7 @@ classes:
 aliases: ["Greater Invisibility"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 246. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 246. Available in the SRD and the Basic Rules."
 ---
 # Greater Invisibility
 *4th-level, Illusion*  

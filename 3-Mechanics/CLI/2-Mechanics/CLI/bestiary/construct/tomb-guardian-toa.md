@@ -11,7 +11,7 @@ aliases: ["Tomb Guardian"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 127
+BookSource: "Tomb of Annihilation p. 127"
 ---
 # [Tomb Guardian](2-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md)
 *Source: Tomb of Annihilation p. 127*  

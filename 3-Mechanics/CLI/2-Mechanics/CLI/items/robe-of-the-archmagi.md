@@ -10,7 +10,7 @@ tags:
 aliases: ["Robe of the Archmagi"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 194. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 194. Available in the SRD."
 ---
 # Robe of the Archmagi
 *Wondrous Item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

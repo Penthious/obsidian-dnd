@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Supreme Healing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 187. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 187. Available in the SRD."
 ---
 # Potion of Supreme Healing
 *Potion, minor, very rare*  

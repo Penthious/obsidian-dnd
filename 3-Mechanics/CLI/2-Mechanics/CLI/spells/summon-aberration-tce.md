@@ -15,7 +15,7 @@ classes:
 aliases: ["Summon Aberration"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 109
+BookSource: "Tasha's Cauldron of Everything p. 109"
 ---
 # Summon Aberration
 *4th-level, Conjuration*  

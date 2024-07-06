@@ -13,7 +13,7 @@ aliases: ["Qunbraxel"]
 NoteIcon: npc
 BestiaryType: aberration (mind flayer, warlock)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 135
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 135"
 ---
 # [Qunbraxel](2-Mechanics/CLI/bestiary/npc/qunbraxel-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 135*  

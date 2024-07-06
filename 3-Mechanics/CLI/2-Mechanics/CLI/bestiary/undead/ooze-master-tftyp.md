@@ -11,7 +11,7 @@ aliases: ["Ooze Master"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 241
+BookSource: "Tales from the Yawning Portal p. 241"
 ---
 # [Ooze Master](2-Mechanics/CLI/bestiary/undead/ooze-master-tftyp.md)
 *Source: Tales from the Yawning Portal p. 241*  

@@ -12,7 +12,7 @@ aliases: ["Zaroum Al-Saryak"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 67
+BookSource: "Tomb of Annihilation p. 67"
 ---
 # [Zaroum Al-Saryak](2-Mechanics/CLI/bestiary/npc/zaroum-al-saryak-toa.md)
 *Source: Tomb of Annihilation p. 67*  

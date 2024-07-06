@@ -17,7 +17,7 @@ classes:
 aliases: ["Whirlwind"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 171
+BookSource: "Xanathar's Guide to Everything p. 171"
 ---
 # Whirlwind
 *7th-level, Evocation*  

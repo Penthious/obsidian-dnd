@@ -7,7 +7,7 @@ tags:
 aliases: ["Old masterpiece painting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Old masterpiece painting
 *Art object*  

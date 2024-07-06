@@ -11,7 +11,7 @@ aliases: ["Fish"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 224
+BookSource: "Ghosts of Saltmarsh p. 224"
 ---
 # [Fish](2-Mechanics/CLI/bestiary/beast/fish-gos.md)
 *Source: Ghosts of Saltmarsh p. 224*  

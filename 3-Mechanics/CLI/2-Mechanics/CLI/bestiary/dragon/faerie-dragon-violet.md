@@ -12,7 +12,7 @@ aliases: ["Faerie Dragon (Violet)"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 133, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight
+BookSource: "Monster Manual p. 133, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight"
 ---
 # [Faerie Dragon (Violet)](2-Mechanics/CLI/bestiary/dragon/faerie-dragon-violet.md)
 *Source: Monster Manual p. 133, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, The Wild Beyond the Witchlight*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Wings of Flying"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 214. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 214. Available in the SRD."
 ---
 # Wings of Flying
 *Wondrous Item, major, rare (requires attunement)*  

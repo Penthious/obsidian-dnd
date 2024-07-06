@@ -12,7 +12,7 @@ aliases: ["Jot"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 15
+BookSource: "Tales from the Yawning Portal p. 15"
 ---
 # [Jot](2-Mechanics/CLI/bestiary/npc/jot-tftyp.md)
 *Source: Tales from the Yawning Portal p. 15*  

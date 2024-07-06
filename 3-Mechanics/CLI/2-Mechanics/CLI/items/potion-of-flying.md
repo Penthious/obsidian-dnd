@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Flying"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 187. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 187. Available in the SRD and the Basic Rules."
 ---
 # Potion of Flying
 *Potion, minor, very rare*  

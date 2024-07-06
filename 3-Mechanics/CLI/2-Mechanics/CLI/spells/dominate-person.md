@@ -27,7 +27,7 @@ classes:
 aliases: ["Dominate Person"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 235. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 235. Available in the SRD and the Basic Rules."
 ---
 # Dominate Person
 *5th-level, Enchantment*  

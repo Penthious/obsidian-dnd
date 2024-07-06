@@ -11,7 +11,7 @@ aliases: ["Halaster Horror"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 129
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 129"
 ---
 # [Halaster Horror](2-Mechanics/CLI/bestiary/construct/halaster-horror-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 129*  

@@ -11,7 +11,7 @@ aliases: ["Ixitxachitl Cleric"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 225
+BookSource: "Out of the Abyss p. 225"
 ---
 # [Ixitxachitl Cleric](2-Mechanics/CLI/bestiary/aberration/ixitxachitl-cleric-oota.md)
 *Source: Out of the Abyss p. 225*  

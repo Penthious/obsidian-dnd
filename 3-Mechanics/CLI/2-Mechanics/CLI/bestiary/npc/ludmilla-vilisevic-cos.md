@@ -12,7 +12,7 @@ aliases: ["Ludmilla Vilisevic"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 93
+BookSource: "Curse of Strahd p. 93"
 ---
 # [Ludmilla Vilisevic](2-Mechanics/CLI/bestiary/npc/ludmilla-vilisevic-cos.md)
 *Source: Curse of Strahd p. 93*  

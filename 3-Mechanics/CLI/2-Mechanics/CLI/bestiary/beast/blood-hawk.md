@@ -17,7 +17,7 @@ aliases: ["Blood Hawk"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 319, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 319, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Blood Hawk](2-Mechanics/CLI/bestiary/beast/blood-hawk.md)
 *Source: Monster Manual p. 319, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

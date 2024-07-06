@@ -15,7 +15,7 @@ classes:
 aliases: ["Flesh to Stone"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 243. Available in the SRD.
+BookSource: "Player's Handbook p. 243. Available in the SRD."
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

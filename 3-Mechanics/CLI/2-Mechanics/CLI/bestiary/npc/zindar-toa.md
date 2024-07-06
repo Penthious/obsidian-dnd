@@ -12,7 +12,7 @@ aliases: ["Zindar"]
 NoteIcon: npc
 BestiaryType: humanoid (half-dragon)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 239
+BookSource: "Tomb of Annihilation p. 239"
 ---
 # [Zindar](2-Mechanics/CLI/bestiary/npc/zindar-toa.md)
 *Source: Tomb of Annihilation p. 239*  

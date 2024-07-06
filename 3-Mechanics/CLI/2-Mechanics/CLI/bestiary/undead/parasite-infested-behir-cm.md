@@ -11,7 +11,7 @@ aliases: ["Parasite-infested Behir"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 220
+BookSource: "Candlekeep Mysteries p. 220"
 ---
 # [Parasite-infested Behir](2-Mechanics/CLI/bestiary/undead/parasite-infested-behir-cm.md)
 *Source: Candlekeep Mysteries p. 220*  

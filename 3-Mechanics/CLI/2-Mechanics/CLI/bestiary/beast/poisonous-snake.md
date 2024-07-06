@@ -17,7 +17,7 @@ aliases: ["Poisonous Snake"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 334, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 334, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Poisonous Snake](2-Mechanics/CLI/bestiary/beast/poisonous-snake.md)
 *Source: Monster Manual p. 334, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

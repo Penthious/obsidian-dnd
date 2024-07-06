@@ -12,7 +12,7 @@ aliases: ["Lady Lydia Petrovna"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 105
+BookSource: "Curse of Strahd p. 105"
 ---
 # [Lady Lydia Petrovna](2-Mechanics/CLI/bestiary/npc/lady-lydia-petrovna-cos.md)
 *Source: Curse of Strahd p. 105*  

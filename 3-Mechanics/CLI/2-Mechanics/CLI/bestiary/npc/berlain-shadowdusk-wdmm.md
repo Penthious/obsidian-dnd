@@ -12,7 +12,7 @@ aliases: ["Berlain Shadowdusk"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 283
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 283"
 ---
 # [Berlain Shadowdusk](2-Mechanics/CLI/bestiary/npc/berlain-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 283*  

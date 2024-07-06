@@ -12,7 +12,7 @@ aliases: ["Bitter Breath"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 90
+BookSource: "Baldur's Gate: Descent Into Avernus p. 90"
 ---
 # [Bitter Breath](2-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 90*  

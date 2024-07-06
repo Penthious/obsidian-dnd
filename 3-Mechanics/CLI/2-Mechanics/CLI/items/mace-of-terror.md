@@ -10,7 +10,7 @@ tags:
 aliases: ["Mace of Terror"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 180. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 180. Available in the SRD."
 ---
 # Mace of Terror
 *Melee Weapon, major, rare (requires attunement)*  

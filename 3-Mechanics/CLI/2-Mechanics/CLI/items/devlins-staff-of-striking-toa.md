@@ -10,7 +10,7 @@ tags:
 aliases: ["Devlin's Staff of Striking"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 141
+BookSource: "Tomb of Annihilation p. 141"
 ---
 # Devlin's Staff of Striking
 *Staff, very rare (requires attunement)*  

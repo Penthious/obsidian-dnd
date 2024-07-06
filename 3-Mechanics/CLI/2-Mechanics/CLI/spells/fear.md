@@ -25,7 +25,7 @@ classes:
 aliases: ["Fear"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 239. Available in the SRD.
+BookSource: "Player's Handbook p. 239. Available in the SRD."
 ---
 # Fear
 *3rd-level, Illusion*  

@@ -12,7 +12,7 @@ aliases: ["Remallia Haventree"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 214
+BookSource: "Waterdeep: Dragon Heist p. 214"
 ---
 # [Remallia Haventree](2-Mechanics/CLI/bestiary/npc/remallia-haventree-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 214*  

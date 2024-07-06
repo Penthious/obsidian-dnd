@@ -12,7 +12,7 @@ aliases: ["Markham Southwell"]
 NoteIcon: npc
 BestiaryType: humanoid (Turami human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 248
+BookSource: "Storm King's Thunder p. 248"
 ---
 # [Markham Southwell](2-Mechanics/CLI/bestiary/npc/markham-southwell-skt.md)
 *Source: Storm King's Thunder p. 248*  

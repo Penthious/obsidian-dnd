@@ -11,7 +11,7 @@ aliases: ["Nereid"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 240
+BookSource: "Tales from the Yawning Portal p. 240"
 ---
 # [Nereid](2-Mechanics/CLI/bestiary/fey/nereid-tftyp.md)
 *Source: Tales from the Yawning Portal p. 240*  

@@ -27,7 +27,7 @@ classes:
 aliases: ["Burning Hands"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 220. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 220. Available in the SRD and the Basic Rules."
 ---
 # Burning Hands
 *1st-level, Evocation*  

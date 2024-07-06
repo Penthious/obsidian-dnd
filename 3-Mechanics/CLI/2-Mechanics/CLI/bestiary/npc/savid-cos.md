@@ -12,7 +12,7 @@ aliases: ["Savid"]
 NoteIcon: npc
 BestiaryType: humanoid (Dusk elf)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 133
+BookSource: "Curse of Strahd p. 133"
 ---
 # [Savid](2-Mechanics/CLI/bestiary/npc/savid-cos.md)
 *Source: Curse of Strahd p. 133*  

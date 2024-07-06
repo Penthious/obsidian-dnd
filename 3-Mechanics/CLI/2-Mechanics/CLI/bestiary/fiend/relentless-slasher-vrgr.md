@@ -11,7 +11,7 @@ aliases: ["Relentless Slasher"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 242
+BookSource: "Van Richten's Guide to Ravenloft p. 242"
 ---
 # [Relentless Slasher](2-Mechanics/CLI/bestiary/fiend/relentless-slasher-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 242*  

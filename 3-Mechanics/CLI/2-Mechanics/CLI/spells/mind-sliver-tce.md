@@ -17,7 +17,7 @@ classes:
 aliases: ["Mind Sliver"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 108
+BookSource: "Tasha's Cauldron of Everything p. 108"
 ---
 # Mind Sliver
 *cantrip, Enchantment*  

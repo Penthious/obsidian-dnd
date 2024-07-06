@@ -12,7 +12,7 @@ aliases: ["Hlam"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 204
+BookSource: "Waterdeep: Dragon Heist p. 204"
 ---
 # [Hlam](2-Mechanics/CLI/bestiary/npc/hlam-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 204*  

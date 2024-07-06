@@ -15,7 +15,7 @@ classes:
 aliases: ["Otto's Irresistible Dance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 264. Available in the SRD and the Basic Rules (as 'Irresistible Dance').
+BookSource: "Player's Handbook p. 264. Available in the SRD and the Basic Rules (as 'Irresistible Dance')."
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

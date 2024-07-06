@@ -13,7 +13,7 @@ aliases: ["Guardian Naga"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 234, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD.
+BookSource: "Monster Manual p. 234, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD."
 ---
 # [Guardian Naga](2-Mechanics/CLI/bestiary/monstrosity/guardian-naga.md)
 *Source: Monster Manual p. 234, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD.*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Devotee's Censer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 126
+BookSource: "Tasha's Cauldron of Everything p. 126"
 ---
 # Devotee's Censer
 *Melee Weapon, rare (requires attunement by a cleric or paladin)*  

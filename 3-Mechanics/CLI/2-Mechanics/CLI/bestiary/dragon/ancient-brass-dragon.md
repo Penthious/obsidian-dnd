@@ -12,7 +12,7 @@ aliases: ["Ancient Brass Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 104, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 104, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Ancient Brass Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon.md)
 *Source: Monster Manual p. 104, Journeys through the Radiant Citadel. Available in the SRD.*  

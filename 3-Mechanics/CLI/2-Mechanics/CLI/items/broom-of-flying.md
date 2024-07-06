@@ -9,7 +9,7 @@ tags:
 aliases: ["Broom of Flying"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 156. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 156. Available in the SRD."
 ---
 # Broom of Flying
 *Wondrous Item, major, uncommon*  

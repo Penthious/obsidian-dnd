@@ -11,7 +11,7 @@ aliases: ["Young Cloud Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 112
+BookSource: "Storm King's Thunder p. 112"
 ---
 # [Young Cloud Giant](2-Mechanics/CLI/bestiary/giant/young-cloud-giant-skt.md)
 *Source: Storm King's Thunder p. 112*  

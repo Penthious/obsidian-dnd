@@ -7,7 +7,7 @@ tags:
 aliases: ["Box of turquoise animal figurines"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Box of turquoise animal figurines
 *Art object*  

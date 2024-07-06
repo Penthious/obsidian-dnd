@@ -10,7 +10,7 @@ tags:
 aliases: ["Instrument of Scribing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Instrument of Scribing
 *Instrument, minor, common (requires attunement)*  

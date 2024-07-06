@@ -11,7 +11,7 @@ aliases: ["Diatryma"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 191
+BookSource: "Waterdeep: Dragon Heist p. 191"
 ---
 # [Diatryma](2-Mechanics/CLI/bestiary/beast/diatryma-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 191*  

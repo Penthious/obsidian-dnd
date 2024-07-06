@@ -11,7 +11,7 @@ tags:
 aliases: ["Blood Spear"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 221
+BookSource: "Curse of Strahd p. 221"
 ---
 # Blood Spear
 *Melee Weapon, uncommon (requires attunement)*  

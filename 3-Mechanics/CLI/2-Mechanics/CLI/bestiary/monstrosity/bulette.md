@@ -14,7 +14,7 @@ aliases: ["Bulette"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 34, Princes of the Apocalypse, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 34, Princes of the Apocalypse, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Bulette](2-Mechanics/CLI/bestiary/monstrosity/bulette.md)
 *Source: Monster Manual p. 34, Princes of the Apocalypse, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

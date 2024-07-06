@@ -12,7 +12,7 @@ aliases: ["Jarl Grugnur"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 189
+BookSource: "Tales from the Yawning Portal p. 189"
 ---
 # [Jarl Grugnur](2-Mechanics/CLI/bestiary/npc/jarl-grugnur-tftyp.md)
 *Source: Tales from the Yawning Portal p. 189*  

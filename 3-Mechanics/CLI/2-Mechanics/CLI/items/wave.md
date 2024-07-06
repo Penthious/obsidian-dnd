@@ -12,7 +12,7 @@ tags:
 aliases: ["Wave"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 218
+BookSource: "Dungeon Master's Guide p. 218"
 ---
 # Wave
 *Melee Weapon, legendary (requires attunement by a creature that worships a god of the sea)*  

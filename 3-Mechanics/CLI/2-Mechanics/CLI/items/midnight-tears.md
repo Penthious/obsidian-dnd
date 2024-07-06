@@ -8,7 +8,7 @@ tags:
 aliases: ["Midnight Tears"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Midnight Tears
 *Adventuring Gear, poison*  

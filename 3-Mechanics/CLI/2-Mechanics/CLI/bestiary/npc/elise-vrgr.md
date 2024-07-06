@@ -12,7 +12,7 @@ aliases: ["Elise"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 143
+BookSource: "Van Richten's Guide to Ravenloft p. 143"
 ---
 # [Elise](2-Mechanics/CLI/bestiary/npc/elise-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 143*  

@@ -12,7 +12,7 @@ aliases: ["Chishinix' Head"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 194
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 194"
 ---
 # [Chishinix' Head](2-Mechanics/CLI/bestiary/npc/chishinix-head-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  

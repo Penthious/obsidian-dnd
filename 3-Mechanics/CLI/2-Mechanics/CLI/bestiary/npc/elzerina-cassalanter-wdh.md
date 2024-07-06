@@ -12,7 +12,7 @@ aliases: ["Elzerina Cassalanter"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 115
+BookSource: "Waterdeep: Dragon Heist p. 115"
 ---
 # [Elzerina Cassalanter](2-Mechanics/CLI/bestiary/npc/elzerina-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 115*  

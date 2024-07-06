@@ -12,7 +12,7 @@ aliases: ["Lifferlas"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 250
+BookSource: "Storm King's Thunder p. 250"
 ---
 # [Lifferlas](2-Mechanics/CLI/bestiary/npc/lifferlas-skt.md)
 *Source: Storm King's Thunder p. 250*  

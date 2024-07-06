@@ -11,7 +11,7 @@ aliases: ["Ancient Crystal Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 170
+BookSource: "Fizban's Treasury of Dragons p. 170"
 ---
 # [Ancient Crystal Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 170*  

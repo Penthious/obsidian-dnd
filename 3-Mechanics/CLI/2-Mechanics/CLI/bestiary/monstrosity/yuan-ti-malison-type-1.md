@@ -15,7 +15,7 @@ aliases: ["Yuan-ti Malison (Type 1)"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: Monster Manual p. 309, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Candlekeep Mysteries
+BookSource: "Monster Manual p. 309, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Candlekeep Mysteries"
 ---
 # [Yuan-ti Malison (Type 1)](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1.md)
 *Source: Monster Manual p. 309, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Candlekeep Mysteries*  

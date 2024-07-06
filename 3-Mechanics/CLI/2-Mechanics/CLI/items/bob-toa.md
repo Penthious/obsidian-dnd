@@ -10,7 +10,7 @@ tags:
 aliases: ["Bob"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 89
+BookSource: "Tomb of Annihilation p. 89"
 ---
 # Bob
 *Melee Weapon, unknown (magic)*  

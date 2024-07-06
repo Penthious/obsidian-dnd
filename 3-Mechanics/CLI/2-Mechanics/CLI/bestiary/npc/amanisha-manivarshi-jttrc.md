@@ -12,7 +12,7 @@ aliases: ["Amanisha Manivarshi"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 127
+BookSource: "Journeys through the Radiant Citadel p. 127"
 ---
 # [Amanisha Manivarshi](2-Mechanics/CLI/bestiary/npc/amanisha-manivarshi-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 127*  

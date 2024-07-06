@@ -13,7 +13,7 @@ aliases: ["Axe Beak"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 317, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 317, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Axe Beak](2-Mechanics/CLI/bestiary/beast/axe-beak.md)
 *Source: Monster Manual p. 317, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

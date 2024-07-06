@@ -11,7 +11,7 @@ aliases: ["Ancient Emerald Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 195
+BookSource: "Fizban's Treasury of Dragons p. 195"
 ---
 # [Ancient Emerald Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 195*  

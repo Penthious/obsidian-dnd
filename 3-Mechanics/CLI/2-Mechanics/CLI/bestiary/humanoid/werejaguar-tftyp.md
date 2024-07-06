@@ -12,7 +12,7 @@ aliases: ["Werejaguar"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 79
+BookSource: "Tales from the Yawning Portal p. 79"
 ---
 # [Werejaguar](2-Mechanics/CLI/bestiary/humanoid/werejaguar-tftyp.md)
 *Source: Tales from the Yawning Portal p. 79*  

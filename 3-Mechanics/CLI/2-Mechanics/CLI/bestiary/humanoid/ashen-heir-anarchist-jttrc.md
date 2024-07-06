@@ -11,7 +11,7 @@ aliases: ["Ashen Heir Anarchist"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 150
+BookSource: "Journeys through the Radiant Citadel p. 150"
 ---
 # [Ashen Heir Anarchist](2-Mechanics/CLI/bestiary/humanoid/ashen-heir-anarchist-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 150*  

@@ -12,7 +12,7 @@ aliases: ["Ashdra"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 158
+BookSource: "Tales from the Yawning Portal p. 158"
 ---
 # [Ashdra](2-Mechanics/CLI/bestiary/npc/ashdra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

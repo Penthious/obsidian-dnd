@@ -8,7 +8,7 @@ tags:
 aliases: ["Serpent Venom"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Serpent Venom
 *Adventuring Gear, poison*  

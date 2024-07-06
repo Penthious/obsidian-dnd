@@ -12,7 +12,7 @@ aliases: ["Deformed Duergar"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 180
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 180"
 ---
 # [Deformed Duergar](2-Mechanics/CLI/bestiary/npc/deformed-duergar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 180*  

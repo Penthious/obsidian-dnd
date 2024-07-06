@@ -11,7 +11,7 @@ aliases: ["Ashen Veteran"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 154
+BookSource: "Keys from the Golden Vault p. 154"
 ---
 # [Ashen Veteran](2-Mechanics/CLI/bestiary/elemental/ashen-veteran-kftgv.md)
 *Source: Keys from the Golden Vault p. 154*  

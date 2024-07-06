@@ -11,7 +11,7 @@ aliases: ["Greater Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 237
+BookSource: "Tales from the Yawning Portal p. 237"
 ---
 # [Greater Zombie](2-Mechanics/CLI/bestiary/undead/greater-zombie-tftyp.md)
 *Source: Tales from the Yawning Portal p. 237*  

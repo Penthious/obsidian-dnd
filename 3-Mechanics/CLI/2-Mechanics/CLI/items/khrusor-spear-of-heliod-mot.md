@@ -11,7 +11,7 @@ tags:
 aliases: ["Khrusor, Spear of Heliod"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 200
+BookSource: "Mythic Odysseys of Theros p. 200"
 ---
 # Khrusor, Spear of Heliod
 *Melee Weapon, artifact (requires attunement)*  

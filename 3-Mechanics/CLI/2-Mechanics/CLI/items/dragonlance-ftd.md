@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragonlance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 23, Dragonlance: Shadow of the Dragon Queen p. 23
+BookSource: "Fizban's Treasury of Dragons p. 23, Dragonlance: Shadow of the Dragon Queen p. 23"
 ---
 # Dragonlance
 *Generic Variant, legendary (requires attunement)*  

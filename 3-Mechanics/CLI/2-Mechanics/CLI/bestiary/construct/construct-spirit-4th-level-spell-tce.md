@@ -11,7 +11,7 @@ aliases: ["Construct Spirit (4th-level Spell)"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 111
+BookSource: "Tasha's Cauldron of Everything p. 111"
 ---
 # [Construct Spirit (4th-level Spell)](2-Mechanics/CLI/bestiary/construct/construct-spirit-4th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 111*  

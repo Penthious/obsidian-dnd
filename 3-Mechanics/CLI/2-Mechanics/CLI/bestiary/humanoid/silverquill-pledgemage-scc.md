@@ -11,7 +11,7 @@ aliases: ["Silverquill Pledgemage"]
 NoteIcon: monster
 BestiaryType: humanoid (bard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 214
+BookSource: "Strixhaven: A Curriculum of Chaos p. 214"
 ---
 # [Silverquill Pledgemage](2-Mechanics/CLI/bestiary/humanoid/silverquill-pledgemage-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 214*  

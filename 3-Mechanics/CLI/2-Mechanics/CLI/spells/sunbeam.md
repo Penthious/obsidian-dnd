@@ -19,7 +19,7 @@ classes:
 aliases: ["Sunbeam"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 279. Available in the SRD.
+BookSource: "Player's Handbook p. 279. Available in the SRD."
 ---
 # Sunbeam
 *6th-level, Evocation*  

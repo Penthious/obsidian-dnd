@@ -12,7 +12,7 @@ aliases: ["Elephant"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 322, Tomb of Annihilation. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 322, Tomb of Annihilation. Available in the SRD and the Basic Rules."
 ---
 # [Elephant](2-Mechanics/CLI/bestiary/beast/elephant.md)
 *Source: Monster Manual p. 322, Tomb of Annihilation. Available in the SRD and the Basic Rules.*  

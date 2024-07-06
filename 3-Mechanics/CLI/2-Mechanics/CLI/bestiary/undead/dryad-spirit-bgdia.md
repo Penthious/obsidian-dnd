@@ -11,7 +11,7 @@ aliases: ["Dryad Spirit"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 108
+BookSource: "Baldur's Gate: Descent Into Avernus p. 108"
 ---
 # [Dryad Spirit](2-Mechanics/CLI/bestiary/undead/dryad-spirit-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 108*  

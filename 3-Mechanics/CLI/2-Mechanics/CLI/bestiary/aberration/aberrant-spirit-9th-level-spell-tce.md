@@ -11,7 +11,7 @@ aliases: ["Aberrant Spirit (9th-level Spell)"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 109
+BookSource: "Tasha's Cauldron of Everything p. 109"
 ---
 # [Aberrant Spirit (9th-level Spell)](2-Mechanics/CLI/bestiary/aberration/aberrant-spirit-9th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  

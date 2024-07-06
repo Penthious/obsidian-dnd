@@ -12,7 +12,7 @@ aliases: ["Wiggan Nettlebee"]
 NoteIcon: npc
 BestiaryType: humanoid (halfling)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 212
+BookSource: "Princes of the Apocalypse p. 212"
 ---
 # [Wiggan Nettlebee](2-Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota.md)
 *Source: Princes of the Apocalypse p. 212*  

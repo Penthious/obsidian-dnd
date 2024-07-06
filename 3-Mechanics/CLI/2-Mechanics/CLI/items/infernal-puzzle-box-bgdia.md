@@ -8,7 +8,7 @@ tags:
 aliases: ["Infernal Puzzle Box"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 224
+BookSource: "Baldur's Gate: Descent Into Avernus p. 224"
 ---
 # Infernal Puzzle Box
 *Wondrous Item, uncommon*  

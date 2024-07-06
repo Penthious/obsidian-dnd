@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloak of Elvenkind"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 158. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 158. Available in the SRD and the Basic Rules."
 ---
 # Cloak of Elvenkind
 *Wondrous Item, major, uncommon (requires attunement)*  

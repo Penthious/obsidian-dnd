@@ -9,7 +9,7 @@ tags:
 aliases: ["+3 Dragonhide Belt"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 23
+BookSource: "Fizban's Treasury of Dragons p. 23"
 ---
 # +3 Dragonhide Belt
 *Wondrous Item, very rare (requires attunement by a monk)*  

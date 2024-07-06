@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Comprehension"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 62
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 62"
 ---
 # Potion of Comprehension
 *Potion, common*  

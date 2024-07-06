@@ -12,7 +12,7 @@ aliases: ["Blurg"]
 NoteIcon: npc
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 29
+BookSource: "Out of the Abyss p. 29"
 ---
 # [Blurg](2-Mechanics/CLI/bestiary/npc/blurg-oota.md)
 *Source: Out of the Abyss p. 29*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Manual of Clay Golems"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 180. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 180. Available in the SRD."
 ---
 # Manual of Clay Golems
 *Wondrous Item, major, very rare*  

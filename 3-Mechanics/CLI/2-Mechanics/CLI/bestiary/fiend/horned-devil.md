@@ -11,7 +11,7 @@ aliases: ["Horned Devil"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 74, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.
+BookSource: "Monster Manual p. 74, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Horned Devil](2-Mechanics/CLI/bestiary/fiend/horned-devil.md)
 *Source: Monster Manual p. 74, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  

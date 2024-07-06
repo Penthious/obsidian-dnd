@@ -12,7 +12,7 @@ aliases: ["Laeral Silverhand"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 207
+BookSource: "Waterdeep: Dragon Heist p. 207"
 ---
 # [Laeral Silverhand](2-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 207*  

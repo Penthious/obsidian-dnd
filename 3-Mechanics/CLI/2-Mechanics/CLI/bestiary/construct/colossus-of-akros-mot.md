@@ -11,7 +11,7 @@ aliases: ["Colossus of Akros"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 218
+BookSource: "Mythic Odysseys of Theros p. 218"
 ---
 # [Colossus of Akros](2-Mechanics/CLI/bestiary/construct/colossus-of-akros-mot.md)
 *Source: Mythic Odysseys of Theros p. 218*  

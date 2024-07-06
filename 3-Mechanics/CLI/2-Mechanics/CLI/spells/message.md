@@ -23,7 +23,7 @@ classes:
 aliases: ["Message"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 259. Available in the SRD.
+BookSource: "Player's Handbook p. 259. Available in the SRD."
 ---
 # Message
 *cantrip, Transmutation*  

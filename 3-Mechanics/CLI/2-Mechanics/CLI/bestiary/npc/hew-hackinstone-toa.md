@@ -12,7 +12,7 @@ aliases: ["Hew Hackinstone"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 33
+BookSource: "Tomb of Annihilation p. 33"
 ---
 # [Hew Hackinstone](2-Mechanics/CLI/bestiary/npc/hew-hackinstone-toa.md)
 *Source: Tomb of Annihilation p. 33*  

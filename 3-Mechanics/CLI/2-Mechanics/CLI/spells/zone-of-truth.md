@@ -25,7 +25,7 @@ classes:
 aliases: ["Zone of Truth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 289. Available in the SRD.
+BookSource: "Player's Handbook p. 289. Available in the SRD."
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

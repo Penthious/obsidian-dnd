@@ -11,7 +11,7 @@ aliases: ["Seal"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 308
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 308"
 ---
 # [Seal](2-Mechanics/CLI/bestiary/beast/seal-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 308*  

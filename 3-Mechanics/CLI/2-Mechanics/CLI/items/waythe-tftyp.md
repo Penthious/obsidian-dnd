@@ -12,7 +12,7 @@ tags:
 aliases: ["Waythe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Waythe
 *Melee Weapon, legendary (requires attunement)*  

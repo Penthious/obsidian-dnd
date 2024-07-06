@@ -11,7 +11,7 @@ aliases: ["Ashen Warhorse"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 158
+BookSource: "Keys from the Golden Vault p. 158"
 ---
 # [Ashen Warhorse](2-Mechanics/CLI/bestiary/elemental/ashen-warhorse-kftgv.md)
 *Source: Keys from the Golden Vault p. 158*  

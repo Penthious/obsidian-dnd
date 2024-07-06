@@ -11,7 +11,7 @@ aliases: ["Crystal Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 172
+BookSource: "Fizban's Treasury of Dragons p. 172"
 ---
 # [Crystal Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/crystal-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  

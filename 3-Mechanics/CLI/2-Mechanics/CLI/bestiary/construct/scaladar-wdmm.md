@@ -11,7 +11,7 @@ aliases: ["Scaladar"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 315
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 315"
 ---
 # [Scaladar](2-Mechanics/CLI/bestiary/construct/scaladar-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 315*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Orcus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 227
+BookSource: "Dungeon Master's Guide p. 227"
 ---
 # Wand of Orcus
 *Wand, artifact (requires attunement)*  

@@ -11,7 +11,7 @@ aliases: ["Giant Riding Lizard"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 131
+BookSource: "Out of the Abyss p. 131"
 ---
 # [Giant Riding Lizard](2-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md)
 *Source: Out of the Abyss p. 131*  

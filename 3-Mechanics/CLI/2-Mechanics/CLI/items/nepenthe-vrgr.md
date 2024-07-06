@@ -11,7 +11,7 @@ tags:
 aliases: ["Nepenthe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Van Richten's Guide to Ravenloft p. 86
+BookSource: "Van Richten's Guide to Ravenloft p. 86"
 ---
 # Nepenthe
 *Melee Weapon, legendary (requires attunement by a paladin)*  

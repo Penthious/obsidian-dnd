@@ -11,7 +11,7 @@ aliases: ["Blue Slaad"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 276, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 276, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Blue Slaad](2-Mechanics/CLI/bestiary/aberration/blue-slaad.md)
 *Source: Monster Manual p. 276, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk*  

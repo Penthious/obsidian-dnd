@@ -12,7 +12,7 @@ aliases: ["Navid"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 159
+BookSource: "Journeys through the Radiant Citadel p. 159"
 ---
 # [Navid](2-Mechanics/CLI/bestiary/npc/navid-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 159*  

@@ -12,7 +12,7 @@ aliases: ["Maxeene"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 37
+BookSource: "Waterdeep: Dragon Heist p. 37"
 ---
 # [Maxeene](2-Mechanics/CLI/bestiary/npc/maxeene-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 37*  

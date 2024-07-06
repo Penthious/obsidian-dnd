@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Darkmantle"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Darkmantle](2-Mechanics/CLI/bestiary/monstrosity/reduced-threat-darkmantle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

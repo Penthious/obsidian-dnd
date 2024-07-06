@@ -17,7 +17,7 @@ classes:
 aliases: ["Spirit Guardians"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 278. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 278. Available in the SRD and the Basic Rules."
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Lifewell Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 129
+BookSource: "Tasha's Cauldron of Everything p. 129"
 ---
 # Lifewell Tattoo
 *Wondrous Item, very rare (requires attunement)*  

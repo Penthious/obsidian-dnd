@@ -11,7 +11,7 @@ aliases: ["Falcon"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 53
+BookSource: "Waterdeep: Dragon Heist p. 53"
 ---
 # [Falcon](2-Mechanics/CLI/bestiary/beast/falcon-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 53*  

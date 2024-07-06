@@ -12,7 +12,7 @@ aliases: ["Narrak"]
 NoteIcon: npc
 BestiaryType: humanoid (derro)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 232
+BookSource: "Out of the Abyss p. 232"
 ---
 # [Narrak](2-Mechanics/CLI/bestiary/npc/narrak-oota.md)
 *Source: Out of the Abyss p. 232*  

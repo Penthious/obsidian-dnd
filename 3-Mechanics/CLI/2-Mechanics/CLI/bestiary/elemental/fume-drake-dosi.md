@@ -11,7 +11,7 @@ aliases: ["Fume Drake"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 41
+BookSource: "Dragons of Stormwreck Isle p. 41"
 ---
 # [Fume Drake](2-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 41*  

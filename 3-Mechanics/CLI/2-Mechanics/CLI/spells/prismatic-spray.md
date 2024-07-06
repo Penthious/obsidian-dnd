@@ -15,7 +15,7 @@ classes:
 aliases: ["Prismatic Spray"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 267. Available in the SRD.
+BookSource: "Player's Handbook p. 267. Available in the SRD."
 ---
 # Prismatic Spray
 *7th-level, Evocation*  

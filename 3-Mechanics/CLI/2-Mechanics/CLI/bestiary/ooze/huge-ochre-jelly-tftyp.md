@@ -11,7 +11,7 @@ aliases: ["Huge Ochre Jelly"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 225
+BookSource: "Tales from the Yawning Portal p. 225"
 ---
 # [Huge Ochre Jelly](2-Mechanics/CLI/bestiary/ooze/huge-ochre-jelly-tftyp.md)
 *Source: Tales from the Yawning Portal p. 225*  

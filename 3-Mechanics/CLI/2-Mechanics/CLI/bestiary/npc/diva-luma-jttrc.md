@@ -12,7 +12,7 @@ aliases: ["Diva Luma"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 71
+BookSource: "Journeys through the Radiant Citadel p. 71"
 ---
 # [Diva Luma](2-Mechanics/CLI/bestiary/npc/diva-luma-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 71*  

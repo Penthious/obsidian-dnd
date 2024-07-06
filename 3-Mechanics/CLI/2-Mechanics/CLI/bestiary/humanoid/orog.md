@@ -17,7 +17,7 @@ aliases: ["Orog"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh
+BookSource: "Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh"
 ---
 # [Orog](2-Mechanics/CLI/bestiary/humanoid/orog.md)
 *Source: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh*  

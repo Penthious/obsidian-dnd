@@ -12,7 +12,7 @@ aliases: ["Kala Mabarin"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 70
+BookSource: "Journeys through the Radiant Citadel p. 70"
 ---
 # [Kala Mabarin](2-Mechanics/CLI/bestiary/npc/kala-mabarin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 70*  

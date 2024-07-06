@@ -11,7 +11,7 @@ aliases: ["Blood-Toll Harpy"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 227
+BookSource: "Mythic Odysseys of Theros p. 227"
 ---
 # [Blood-Toll Harpy](2-Mechanics/CLI/bestiary/monstrosity/blood-toll-harpy-mot.md)
 *Source: Mythic Odysseys of Theros p. 227*  

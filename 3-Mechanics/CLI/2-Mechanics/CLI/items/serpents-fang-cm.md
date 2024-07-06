@@ -10,7 +10,7 @@ tags:
 aliases: ["Serpent's Fang"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 98
+BookSource: "Candlekeep Mysteries p. 98"
 ---
 # Serpent's Fang
 *Melee Weapon, rare*  

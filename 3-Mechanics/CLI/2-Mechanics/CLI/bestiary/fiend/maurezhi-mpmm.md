@@ -13,7 +13,7 @@ aliases: ["Maurezhi"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133"
 ---
 # [Maurezhi](2-Mechanics/CLI/bestiary/fiend/maurezhi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  

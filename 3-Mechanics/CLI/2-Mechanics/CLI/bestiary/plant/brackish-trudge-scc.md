@@ -11,7 +11,7 @@ aliases: ["Brackish Trudge"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 187
+BookSource: "Strixhaven: A Curriculum of Chaos p. 187"
 ---
 # [Brackish Trudge](2-Mechanics/CLI/bestiary/plant/brackish-trudge-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 187*  

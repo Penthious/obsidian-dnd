@@ -11,7 +11,7 @@ aliases: ["Canopic Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 179
+BookSource: "Candlekeep Mysteries p. 179"
 ---
 # [Canopic Golem](2-Mechanics/CLI/bestiary/construct/canopic-golem-cm.md)
 *Source: Candlekeep Mysteries p. 179*  

@@ -12,7 +12,7 @@ tags:
 aliases: ["Sword of Answering (Scather)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 206
+BookSource: "Dungeon Master's Guide p. 206"
 ---
 # Sword of Answering (Scather)
 *Melee Weapon, major, legendary (requires attunement by a lawful evil creature)*  

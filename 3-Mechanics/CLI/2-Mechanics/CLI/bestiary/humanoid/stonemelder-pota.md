@@ -11,7 +11,7 @@ aliases: ["Stonemelder"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 197
+BookSource: "Princes of the Apocalypse p. 197"
 ---
 # [Stonemelder](2-Mechanics/CLI/bestiary/humanoid/stonemelder-pota.md)
 *Source: Princes of the Apocalypse p. 197*  

@@ -12,7 +12,7 @@ aliases: ["Samara Strongbones"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 104
+BookSource: "Waterdeep: Dragon Heist p. 104"
 ---
 # [Samara Strongbones](2-Mechanics/CLI/bestiary/npc/samara-strongbones-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 104*  

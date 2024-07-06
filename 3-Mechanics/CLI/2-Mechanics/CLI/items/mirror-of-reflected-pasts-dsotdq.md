@@ -9,7 +9,7 @@ tags:
 aliases: ["Mirror of Reflected Pasts"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 190
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 190"
 ---
 # Mirror of Reflected Pasts
 *Wondrous Item, very rare (requires attunement)*  

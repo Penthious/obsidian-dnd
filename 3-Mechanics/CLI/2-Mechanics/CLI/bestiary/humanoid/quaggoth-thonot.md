@@ -12,7 +12,7 @@ aliases: ["Quaggoth Thonot"]
 NoteIcon: monster
 BestiaryType: humanoid (quaggoth)
 SourceType: Bestiary
-BookSource: Monster Manual p. 256, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Monster Manual p. 256, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Quaggoth Thonot](2-Mechanics/CLI/bestiary/humanoid/quaggoth-thonot.md)
 *Source: Monster Manual p. 256, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden*  

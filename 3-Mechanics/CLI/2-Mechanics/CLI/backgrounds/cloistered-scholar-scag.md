@@ -7,7 +7,7 @@ tags:
 aliases: ["Cloistered Scholar"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 146
+BookSource: "Sword Coast Adventurer's Guide p. 146"
 ---
 # Cloistered Scholar
 *Source: Sword Coast Adventurer's Guide p. 146*  

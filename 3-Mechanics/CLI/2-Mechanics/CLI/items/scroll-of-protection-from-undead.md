@@ -9,7 +9,7 @@ tags:
 aliases: ["Scroll of Protection from Undead"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199
+BookSource: "Dungeon Master's Guide p. 199"
 ---
 # Scroll of Protection from Undead
 *Scroll, minor, rare*  

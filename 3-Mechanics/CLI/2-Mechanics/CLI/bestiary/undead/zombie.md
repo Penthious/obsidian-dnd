@@ -12,7 +12,7 @@ aliases: ["Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 316, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 316, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Zombie](2-Mechanics/CLI/bestiary/undead/zombie.md)
 *Source: Monster Manual p. 316, Curse of Strahd, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

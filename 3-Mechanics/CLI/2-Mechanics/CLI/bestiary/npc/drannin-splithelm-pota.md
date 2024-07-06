@@ -12,7 +12,7 @@ aliases: ["Drannin Splithelm"]
 NoteIcon: npc
 BestiaryType: humanoid (Shield dwarf)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 210
+BookSource: "Princes of the Apocalypse p. 210"
 ---
 # [Drannin Splithelm](2-Mechanics/CLI/bestiary/npc/drannin-splithelm-pota.md)
 *Source: Princes of the Apocalypse p. 210*  

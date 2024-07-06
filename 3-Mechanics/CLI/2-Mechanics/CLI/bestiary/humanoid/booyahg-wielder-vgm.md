@@ -11,7 +11,7 @@ aliases: ["Booyahg Wielder"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 42
+BookSource: "Volo's Guide to Monsters p. 42"
 ---
 # [Booyahg Wielder](2-Mechanics/CLI/bestiary/humanoid/booyahg-wielder-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  

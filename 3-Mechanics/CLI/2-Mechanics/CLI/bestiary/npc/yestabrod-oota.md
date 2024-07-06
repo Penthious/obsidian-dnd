@@ -12,7 +12,7 @@ aliases: ["Yestabrod"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 233
+BookSource: "Out of the Abyss p. 233"
 ---
 # [Yestabrod](2-Mechanics/CLI/bestiary/npc/yestabrod-oota.md)
 *Source: Out of the Abyss p. 233*  

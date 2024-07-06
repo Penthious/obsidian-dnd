@@ -19,7 +19,7 @@ classes:
 aliases: ["Phantasmal Killer"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 265. Available in the SRD.
+BookSource: "Player's Handbook p. 265. Available in the SRD."
 ---
 # Phantasmal Killer
 *4th-level, Illusion*  

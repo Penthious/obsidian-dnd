@@ -7,7 +7,7 @@ tags:
 aliases: ["Shifter"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 32
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 32"
 ---
 # Shifter
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 32*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Wukka Nut"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 205
+BookSource: "Tomb of Annihilation p. 205"
 ---
 # Wukka Nut
 *Adventuring Gear, unknown*  

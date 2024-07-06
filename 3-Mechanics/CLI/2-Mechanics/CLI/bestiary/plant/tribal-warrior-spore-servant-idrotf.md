@@ -11,7 +11,7 @@ aliases: ["Tribal Warrior Spore Servant"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 52
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 52"
 ---
 # [Tribal Warrior Spore Servant](2-Mechanics/CLI/bestiary/plant/tribal-warrior-spore-servant-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 52*  

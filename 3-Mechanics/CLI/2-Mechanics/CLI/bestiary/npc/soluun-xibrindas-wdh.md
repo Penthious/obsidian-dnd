@@ -12,7 +12,7 @@ aliases: ["Soluun Xibrindas"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 202
+BookSource: "Waterdeep: Dragon Heist p. 202"
 ---
 # [Soluun Xibrindas](2-Mechanics/CLI/bestiary/npc/soluun-xibrindas-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 202*  

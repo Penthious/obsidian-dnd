@@ -9,7 +9,7 @@ tags:
 aliases: ["Chime of Opening"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 158. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 158. Available in the SRD."
 ---
 # Chime of Opening
 *Wondrous Item, minor, rare*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Studded Leather Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 144. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 144. Available in the SRD and the Basic Rules."
 ---
 # Studded Leather Armor
 *Light Armor*  

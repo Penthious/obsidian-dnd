@@ -11,7 +11,7 @@ aliases: ["Narzugon"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167"
 ---
 # [Narzugon](2-Mechanics/CLI/bestiary/fiend/narzugon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  

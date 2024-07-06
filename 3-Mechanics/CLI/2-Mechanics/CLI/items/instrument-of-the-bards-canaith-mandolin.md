@@ -10,7 +10,7 @@ tags:
 aliases: ["Instrument of the Bards, Canaith Mandolin"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 176
+BookSource: "Dungeon Master's Guide p. 176"
 ---
 # Instrument of the Bards, Canaith Mandolin
 *Instrument, major, rare (requires attunement by a bard)*  

@@ -15,7 +15,7 @@ classes:
 aliases: ["Tasha's Caustic Brew"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 115
+BookSource: "Tasha's Cauldron of Everything p. 115"
 ---
 # Tasha's Caustic Brew
 *1st-level, Evocation*  

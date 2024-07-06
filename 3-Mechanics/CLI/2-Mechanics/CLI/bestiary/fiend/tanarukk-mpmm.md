@@ -14,7 +14,7 @@ aliases: ["Tanarukk"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186"
 ---
 # [Tanarukk](2-Mechanics/CLI/bestiary/fiend/tanarukk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  

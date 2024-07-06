@@ -12,7 +12,7 @@ aliases: ["Leosin Erlanthar"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 87
+BookSource: "Hoard of the Dragon Queen p. 87"
 ---
 # [Leosin Erlanthar](2-Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 87*  

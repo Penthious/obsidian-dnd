@@ -11,7 +11,7 @@ aliases: ["Adult Amethyst Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 161
+BookSource: "Fizban's Treasury of Dragons p. 161"
 ---
 # [Adult Amethyst Dragon](2-Mechanics/CLI/bestiary/dragon/adult-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 161*  

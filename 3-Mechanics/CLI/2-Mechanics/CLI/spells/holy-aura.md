@@ -13,7 +13,7 @@ classes:
 aliases: ["Holy Aura"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 251. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 251. Available in the SRD and the Basic Rules."
 ---
 # Holy Aura
 *8th-level, Abjuration*  

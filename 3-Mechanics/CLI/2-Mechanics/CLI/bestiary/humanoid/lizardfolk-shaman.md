@@ -13,7 +13,7 @@ aliases: ["Lizardfolk Shaman"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Monster Manual p. 205, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh
+BookSource: "Monster Manual p. 205, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh"
 ---
 # [Lizardfolk Shaman](2-Mechanics/CLI/bestiary/humanoid/lizardfolk-shaman.md)
 *Source: Monster Manual p. 205, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh*  

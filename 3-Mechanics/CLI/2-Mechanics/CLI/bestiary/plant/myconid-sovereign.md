@@ -12,7 +12,7 @@ aliases: ["Myconid Sovereign"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 232, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault
+BookSource: "Monster Manual p. 232, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault"
 ---
 # [Myconid Sovereign](2-Mechanics/CLI/bestiary/plant/myconid-sovereign.md)
 *Source: Monster Manual p. 232, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault*  

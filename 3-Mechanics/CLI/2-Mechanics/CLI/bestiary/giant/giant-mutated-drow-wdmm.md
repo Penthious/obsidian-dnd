@@ -11,7 +11,7 @@ aliases: ["Giant Mutated Drow"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 143
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 143"
 ---
 # [Giant Mutated Drow](2-Mechanics/CLI/bestiary/giant/giant-mutated-drow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 143*  

@@ -11,7 +11,7 @@ aliases: ["White Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 102, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.
+BookSource: "Monster Manual p. 102, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [White Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md)
 *Source: Monster Manual p. 102, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  

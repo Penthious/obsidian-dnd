@@ -10,7 +10,7 @@ tags:
 aliases: ["Baba Yaga's Pestle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 121
+BookSource: "Tasha's Cauldron of Everything p. 121"
 ---
 # Baba Yaga's Pestle
 *Melee Weapon, artifact (requires attunement)*  

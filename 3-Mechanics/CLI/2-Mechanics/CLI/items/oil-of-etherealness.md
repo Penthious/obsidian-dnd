@@ -9,7 +9,7 @@ tags:
 aliases: ["Oil of Etherealness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 183. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 183. Available in the SRD."
 ---
 # Oil of Etherealness
 *Potion, minor, rare*  

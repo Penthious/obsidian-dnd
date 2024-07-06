@@ -19,7 +19,7 @@ aliases: ["Vampiric Mist"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246"
 ---
 # [Vampiric Mist](2-Mechanics/CLI/bestiary/undead/vampiric-mist-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*  

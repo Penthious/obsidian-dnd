@@ -12,7 +12,7 @@ aliases: ["Deep Gnome (Svirfneblin)"]
 NoteIcon: monster
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Monster Manual p. 164, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 164, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Deep Gnome (Svirfneblin)](2-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)
 *Source: Monster Manual p. 164, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

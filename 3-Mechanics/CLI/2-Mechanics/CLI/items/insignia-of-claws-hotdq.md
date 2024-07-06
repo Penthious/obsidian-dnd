@@ -8,7 +8,7 @@ tags:
 aliases: ["Insignia of Claws"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Hoard of the Dragon Queen p. 94
+BookSource: "Hoard of the Dragon Queen p. 94"
 ---
 # Insignia of Claws
 *Wondrous Item, uncommon*  

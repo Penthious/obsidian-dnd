@@ -13,7 +13,7 @@ aliases: ["Marid"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 146, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen
+BookSource: "Monster Manual p. 146, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen"
 ---
 # [Marid](2-Mechanics/CLI/bestiary/elemental/marid.md)
 *Source: Monster Manual p. 146, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen*  

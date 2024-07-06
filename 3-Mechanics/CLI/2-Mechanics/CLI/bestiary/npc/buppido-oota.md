@@ -12,7 +12,7 @@ aliases: ["Buppido"]
 NoteIcon: npc
 BestiaryType: humanoid (derro)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 6
+BookSource: "Out of the Abyss p. 6"
 ---
 # [Buppido](2-Mechanics/CLI/bestiary/npc/buppido-oota.md)
 *Source: Out of the Abyss p. 6*  

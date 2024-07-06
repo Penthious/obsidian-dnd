@@ -12,7 +12,7 @@ aliases: ["Hythonia"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 252
+BookSource: "Mythic Odysseys of Theros p. 252"
 ---
 # [Hythonia](2-Mechanics/CLI/bestiary/npc/hythonia-mot.md)
 *Source: Mythic Odysseys of Theros p. 252*  

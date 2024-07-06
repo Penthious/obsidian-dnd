@@ -10,7 +10,7 @@ tags:
 aliases: ["Crystal Ball of True Seeing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 159
+BookSource: "Dungeon Master's Guide p. 159"
 ---
 # Crystal Ball of True Seeing
 *Wondrous Item, major, legendary (requires attunement)*  

@@ -12,7 +12,7 @@ aliases: ["Transmuter Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218"
 ---
 # [Transmuter Wizard](2-Mechanics/CLI/bestiary/humanoid/transmuter-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218*  

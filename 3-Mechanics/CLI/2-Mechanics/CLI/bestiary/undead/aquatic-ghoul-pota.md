@@ -11,7 +11,7 @@ aliases: ["Aquatic Ghoul"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 87
+BookSource: "Princes of the Apocalypse p. 87"
 ---
 # [Aquatic Ghoul](2-Mechanics/CLI/bestiary/undead/aquatic-ghoul-pota.md)
 *Source: Princes of the Apocalypse p. 87*  

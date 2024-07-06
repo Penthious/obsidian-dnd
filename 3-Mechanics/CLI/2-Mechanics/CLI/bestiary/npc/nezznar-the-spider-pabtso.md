@@ -13,7 +13,7 @@ aliases: ["Nezznar the Spider"]
 NoteIcon: npc
 BestiaryType: humanoid (elf, wizard)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 74
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 74"
 ---
 # [Nezznar the Spider](2-Mechanics/CLI/bestiary/npc/nezznar-the-spider-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 74*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Focus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151
+BookSource: "Player's Handbook p. 151"
 ---
 # Arcane Focus
 *Spellcasting Focus*  

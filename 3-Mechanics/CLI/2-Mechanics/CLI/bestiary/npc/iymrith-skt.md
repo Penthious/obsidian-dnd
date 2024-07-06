@@ -12,7 +12,7 @@ aliases: ["Iymrith"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 241
+BookSource: "Storm King's Thunder p. 241"
 ---
 # [Iymrith](2-Mechanics/CLI/bestiary/npc/iymrith-skt.md)
 *Source: Storm King's Thunder p. 241*  

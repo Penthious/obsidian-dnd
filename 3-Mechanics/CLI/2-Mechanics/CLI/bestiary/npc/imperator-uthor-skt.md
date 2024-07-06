@@ -12,7 +12,7 @@ aliases: ["Imperator Uthor"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 209
+BookSource: "Storm King's Thunder p. 209"
 ---
 # [Imperator Uthor](2-Mechanics/CLI/bestiary/npc/imperator-uthor-skt.md)
 *Source: Storm King's Thunder p. 209*  

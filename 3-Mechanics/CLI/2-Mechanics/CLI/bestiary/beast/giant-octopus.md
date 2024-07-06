@@ -12,7 +12,7 @@ aliases: ["Giant Octopus"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 326, Princes of the Apocalypse, The Rise of Tiamat, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 326, Princes of the Apocalypse, The Rise of Tiamat, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Giant Octopus](2-Mechanics/CLI/bestiary/beast/giant-octopus.md)
 *Source: Monster Manual p. 326, Princes of the Apocalypse, The Rise of Tiamat, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

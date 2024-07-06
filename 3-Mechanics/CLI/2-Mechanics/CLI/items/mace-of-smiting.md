@@ -9,7 +9,7 @@ tags:
 aliases: ["Mace of Smiting"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 179. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 179. Available in the SRD."
 ---
 # Mace of Smiting
 *Melee Weapon, major, rare*  

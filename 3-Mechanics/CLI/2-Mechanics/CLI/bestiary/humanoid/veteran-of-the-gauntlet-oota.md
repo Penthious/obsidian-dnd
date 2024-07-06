@@ -11,7 +11,7 @@ aliases: ["Veteran of the Gauntlet"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 130
+BookSource: "Out of the Abyss p. 130"
 ---
 # [Veteran of the Gauntlet](2-Mechanics/CLI/bestiary/humanoid/veteran-of-the-gauntlet-oota.md)
 *Source: Out of the Abyss p. 130*  

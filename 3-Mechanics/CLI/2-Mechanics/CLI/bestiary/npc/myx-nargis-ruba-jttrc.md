@@ -12,7 +12,7 @@ aliases: ["Myx Nargis Ruba"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 71
+BookSource: "Journeys through the Radiant Citadel p. 71"
 ---
 # [Myx Nargis Ruba](2-Mechanics/CLI/bestiary/npc/myx-nargis-ruba-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 71*  

@@ -19,7 +19,7 @@ classes:
 aliases: ["Sickening Radiance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 164
+BookSource: "Xanathar's Guide to Everything p. 164"
 ---
 # Sickening Radiance
 *4th-level, Evocation*  

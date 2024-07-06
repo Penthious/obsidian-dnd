@@ -25,7 +25,7 @@ classes:
 aliases: ["See Invisibility"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 274. Available in the SRD.
+BookSource: "Player's Handbook p. 274. Available in the SRD."
 ---
 # See Invisibility
 *2nd-level, Divination*  

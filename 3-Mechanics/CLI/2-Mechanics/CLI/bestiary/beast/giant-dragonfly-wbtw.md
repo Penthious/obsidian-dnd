@@ -11,7 +11,7 @@ aliases: ["Giant Dragonfly"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 234
+BookSource: "The Wild Beyond the Witchlight p. 234"
 ---
 # [Giant Dragonfly](2-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 234*  

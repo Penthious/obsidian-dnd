@@ -11,7 +11,7 @@ aliases: ["Ashen Shambling Mound"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 158
+BookSource: "Keys from the Golden Vault p. 158"
 ---
 # [Ashen Shambling Mound](2-Mechanics/CLI/bestiary/elemental/ashen-shambling-mound-kftgv.md)
 *Source: Keys from the Golden Vault p. 158*  

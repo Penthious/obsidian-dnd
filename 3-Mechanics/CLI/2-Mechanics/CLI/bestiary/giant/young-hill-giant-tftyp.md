@@ -11,7 +11,7 @@ aliases: ["Young Hill Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 167
+BookSource: "Tales from the Yawning Portal p. 167"
 ---
 # [Young Hill Giant](2-Mechanics/CLI/bestiary/giant/young-hill-giant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 167*  

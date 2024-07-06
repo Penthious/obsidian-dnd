@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Swarming Insects"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 203. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 203. Available in the SRD."
 ---
 # Staff of Swarming Insects
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

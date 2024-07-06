@@ -12,7 +12,7 @@ aliases: ["Chitine"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131"
 ---
 # [Chitine](2-Mechanics/CLI/bestiary/monstrosity/chitine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  

@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of the Python"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 204. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 204. Available in the SRD."
 ---
 # Staff of the Python
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

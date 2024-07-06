@@ -11,7 +11,7 @@ aliases: ["Astral Dreadnought"]
 NoteIcon: monster
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117"
 ---
 # [Astral Dreadnought](2-Mechanics/CLI/bestiary/monstrosity/astral-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*  

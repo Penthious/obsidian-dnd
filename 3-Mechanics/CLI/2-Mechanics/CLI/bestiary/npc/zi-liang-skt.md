@@ -12,7 +12,7 @@ aliases: ["Zi Liang"]
 NoteIcon: npc
 BestiaryType: humanoid (Shou human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 251
+BookSource: "Storm King's Thunder p. 251"
 ---
 # [Zi Liang](2-Mechanics/CLI/bestiary/npc/zi-liang-skt.md)
 *Source: Storm King's Thunder p. 251*  

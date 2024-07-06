@@ -11,7 +11,7 @@ aliases: ["Griffon Cavalry Rider"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 197
+BookSource: "Waterdeep: Dragon Heist p. 197"
 ---
 # [Griffon Cavalry Rider](2-Mechanics/CLI/bestiary/humanoid/griffon-cavalry-rider-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 197*  

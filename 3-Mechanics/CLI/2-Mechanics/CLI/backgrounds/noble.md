@@ -7,7 +7,7 @@ tags:
 aliases: ["Noble"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 135. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 135. Available in the Basic Rules."
 ---
 # Noble
 *Source: Player's Handbook p. 135. Available in the Basic Rules.*  

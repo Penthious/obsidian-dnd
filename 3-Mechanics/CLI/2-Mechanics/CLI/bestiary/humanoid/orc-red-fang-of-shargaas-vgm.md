@@ -16,7 +16,7 @@ aliases: ["Orc Red Fang of Shargaas"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 185
+BookSource: "Volo's Guide to Monsters p. 185"
 ---
 # [Orc Red Fang of Shargaas](2-Mechanics/CLI/bestiary/humanoid/orc-red-fang-of-shargaas-vgm.md)
 *Source: Volo's Guide to Monsters p. 185*  

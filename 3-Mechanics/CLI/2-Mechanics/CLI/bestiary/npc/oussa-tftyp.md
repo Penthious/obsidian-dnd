@@ -13,7 +13,7 @@ aliases: ["Oussa"]
 NoteIcon: npc
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 157
+BookSource: "Tales from the Yawning Portal p. 157"
 ---
 # [Oussa](2-Mechanics/CLI/bestiary/npc/oussa-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  

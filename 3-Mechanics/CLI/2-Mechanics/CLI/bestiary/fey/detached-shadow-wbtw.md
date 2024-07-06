@@ -11,7 +11,7 @@ aliases: ["Detached Shadow"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 213
+BookSource: "The Wild Beyond the Witchlight p. 213"
 ---
 # [Detached Shadow](2-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 213*  

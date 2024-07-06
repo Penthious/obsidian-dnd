@@ -12,7 +12,7 @@ aliases: ["Dhergoloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248"
 ---
 # [Dhergoloth](2-Mechanics/CLI/bestiary/fiend/dhergoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  

@@ -15,7 +15,7 @@ classes:
 aliases: ["Intellect Fortress"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 107
+BookSource: "Tasha's Cauldron of Everything p. 107"
 ---
 # Intellect Fortress
 *3rd-level, Abjuration*  

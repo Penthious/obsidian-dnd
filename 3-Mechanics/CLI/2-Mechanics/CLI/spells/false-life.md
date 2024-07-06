@@ -27,7 +27,7 @@ classes:
 aliases: ["False Life"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 239. Available in the SRD.
+BookSource: "Player's Handbook p. 239. Available in the SRD."
 ---
 # False Life
 *1st-level, Necromancy*  

@@ -11,7 +11,7 @@ aliases: ["Scrag"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 147
+BookSource: "Tales from the Yawning Portal p. 147"
 ---
 # [Scrag](2-Mechanics/CLI/bestiary/giant/scrag-tftyp.md)
 *Source: Tales from the Yawning Portal p. 147*  

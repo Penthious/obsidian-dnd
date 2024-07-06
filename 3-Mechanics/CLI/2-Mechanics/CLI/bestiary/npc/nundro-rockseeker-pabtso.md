@@ -12,7 +12,7 @@ aliases: ["Nundro Rockseeker"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 73
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 73"
 ---
 # [Nundro Rockseeker](2-Mechanics/CLI/bestiary/npc/nundro-rockseeker-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 73*  

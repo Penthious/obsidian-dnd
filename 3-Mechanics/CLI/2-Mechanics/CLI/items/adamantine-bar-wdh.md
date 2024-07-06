@@ -7,7 +7,7 @@ tags:
 aliases: ["Adamantine Bar"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 90
+BookSource: "Waterdeep: Dragon Heist p. 90"
 ---
 # Adamantine Bar
 *Trade Good*  

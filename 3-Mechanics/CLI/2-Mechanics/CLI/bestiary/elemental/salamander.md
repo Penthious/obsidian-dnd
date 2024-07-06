@@ -12,7 +12,7 @@ aliases: ["Salamander"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 266, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 266, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Salamander](2-Mechanics/CLI/bestiary/elemental/salamander.md)
 *Source: Monster Manual p. 266, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Dragons of Stormwreck Isle, Keys from the Golden Vault. Available in the SRD.*  

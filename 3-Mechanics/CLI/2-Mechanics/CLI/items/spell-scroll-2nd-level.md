@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Scroll (2nd Level)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 201. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 201. Available in the SRD and the Basic Rules."
 ---
 # Spell Scroll (2nd Level)
 *Scroll, minor, uncommon*  

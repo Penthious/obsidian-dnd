@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Aqueous Form"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 197
+BookSource: "Mythic Odysseys of Theros p. 197"
 ---
 # Potion of Aqueous Form
 *Potion, rare*  

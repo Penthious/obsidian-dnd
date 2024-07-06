@@ -11,7 +11,7 @@ aliases: ["Molten Magma Roper"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 143
+BookSource: "Princes of the Apocalypse p. 143"
 ---
 # [Molten Magma Roper](2-Mechanics/CLI/bestiary/monstrosity/molten-magma-roper-pota.md)
 *Source: Princes of the Apocalypse p. 143*  

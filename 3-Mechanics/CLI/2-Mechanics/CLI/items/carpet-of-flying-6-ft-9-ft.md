@@ -9,7 +9,7 @@ tags:
 aliases: ["Carpet of Flying, 6 ft. × 9 ft."]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 157. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 157. Available in the SRD."
 ---
 # Carpet of Flying, 6 ft. × 9 ft.
 *Wondrous Item, major, very rare*  

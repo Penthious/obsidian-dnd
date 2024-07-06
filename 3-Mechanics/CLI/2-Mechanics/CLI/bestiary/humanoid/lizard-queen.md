@@ -13,7 +13,7 @@ aliases: ["Lizard Queen"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Monster Manual p. 205
+BookSource: "Monster Manual p. 205"
 ---
 # [Lizard Queen](2-Mechanics/CLI/bestiary/humanoid/lizard-queen.md)
 *Source: Monster Manual p. 205*  

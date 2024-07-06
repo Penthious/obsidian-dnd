@@ -12,7 +12,7 @@ aliases: ["Blinded Troll"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 114
+BookSource: "Waterdeep: Dragon Heist p. 114"
 ---
 # [Blinded Troll](2-Mechanics/CLI/bestiary/npc/blinded-troll-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 114*  

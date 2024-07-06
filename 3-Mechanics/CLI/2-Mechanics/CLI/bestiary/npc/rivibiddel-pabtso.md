@@ -12,7 +12,7 @@ aliases: ["Rivibiddel"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 122
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 122"
 ---
 # [Rivibiddel](2-Mechanics/CLI/bestiary/npc/rivibiddel-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 122*  

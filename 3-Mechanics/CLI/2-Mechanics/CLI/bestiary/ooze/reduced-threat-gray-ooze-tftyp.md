@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Gray Ooze"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Gray Ooze](2-Mechanics/CLI/bestiary/ooze/reduced-threat-gray-ooze-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

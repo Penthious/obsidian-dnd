@@ -8,7 +8,7 @@ tags:
 aliases: ["Shield of Far Sight"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Volo's Guide to Monsters p. 81
+BookSource: "Volo's Guide to Monsters p. 81"
 ---
 # Shield of Far Sight
 *Shield, rare*  

@@ -12,7 +12,7 @@ aliases: ["Baba Lysaga's Creeping Hut"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 226
+BookSource: "Curse of Strahd p. 226"
 ---
 # [Baba Lysaga's Creeping Hut](2-Mechanics/CLI/bestiary/npc/baba-lysagas-creeping-hut-cos.md)
 *Source: Curse of Strahd p. 226*  

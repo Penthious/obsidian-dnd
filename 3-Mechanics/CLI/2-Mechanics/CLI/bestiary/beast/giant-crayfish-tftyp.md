@@ -11,7 +11,7 @@ aliases: ["Giant Crayfish"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 235
+BookSource: "Tales from the Yawning Portal p. 235"
 ---
 # [Giant Crayfish](2-Mechanics/CLI/bestiary/beast/giant-crayfish-tftyp.md)
 *Source: Tales from the Yawning Portal p. 235*  

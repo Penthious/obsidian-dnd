@@ -15,7 +15,7 @@ aliases: ["Giant Hyena"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 326, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 326, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules."
 ---
 # [Giant Hyena](2-Mechanics/CLI/bestiary/beast/giant-hyena.md)
 *Source: Monster Manual p. 326, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  

@@ -12,7 +12,7 @@ aliases: ["Nerozar the Defeated"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 52
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 52"
 ---
 # [Nerozar the Defeated](2-Mechanics/CLI/bestiary/npc/nerozar-the-defeated-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 52*  

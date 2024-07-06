@@ -8,7 +8,7 @@ tags:
 aliases: ["Charred Wand of Magic Missiles"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 77
+BookSource: "Waterdeep: Dragon Heist p. 77"
 ---
 # Charred Wand of Magic Missiles
 *Wand, uncommon*  

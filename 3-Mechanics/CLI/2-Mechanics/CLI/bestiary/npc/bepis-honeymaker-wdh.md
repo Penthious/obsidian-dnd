@@ -12,7 +12,7 @@ aliases: ["Bepis Honeymaker"]
 NoteIcon: npc
 BestiaryType: humanoid (Strongheart halfling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 112
+BookSource: "Waterdeep: Dragon Heist p. 112"
 ---
 # [Bepis Honeymaker](2-Mechanics/CLI/bestiary/npc/bepis-honeymaker-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 112*  

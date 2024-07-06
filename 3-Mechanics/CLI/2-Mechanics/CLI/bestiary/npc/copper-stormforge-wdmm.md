@@ -12,7 +12,7 @@ aliases: ["Copper Stormforge"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 30
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 30"
 ---
 # [Copper Stormforge](2-Mechanics/CLI/bestiary/npc/copper-stormforge-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 30*  

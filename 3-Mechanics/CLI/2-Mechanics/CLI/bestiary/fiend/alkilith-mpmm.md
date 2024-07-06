@@ -13,7 +13,7 @@ aliases: ["Alkilith"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130"
 ---
 # [Alkilith](2-Mechanics/CLI/bestiary/fiend/alkilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  

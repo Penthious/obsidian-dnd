@@ -21,7 +21,7 @@ classes:
 aliases: ["Expeditious Retreat"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 238. Available in the SRD.
+BookSource: "Player's Handbook p. 238. Available in the SRD."
 ---
 # Expeditious Retreat
 *1st-level, Transmutation*  

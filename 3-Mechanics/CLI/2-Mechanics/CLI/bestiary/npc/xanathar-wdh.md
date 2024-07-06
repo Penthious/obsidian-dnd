@@ -12,7 +12,7 @@ aliases: ["Xanathar"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 220
+BookSource: "Waterdeep: Dragon Heist p. 220"
 ---
 # [Xanathar](2-Mechanics/CLI/bestiary/npc/xanathar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  

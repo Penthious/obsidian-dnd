@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Mephistopheles)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 23
+BookSource: "Mordenkainen's Tome of Foes p. 23"
 ---
 # Tiefling (Mephistopheles)
 *Source: Mordenkainen's Tome of Foes p. 23*  

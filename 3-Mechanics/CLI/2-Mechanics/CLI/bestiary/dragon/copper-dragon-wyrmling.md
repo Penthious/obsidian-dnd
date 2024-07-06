@@ -11,7 +11,7 @@ aliases: ["Copper Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 111. Available in the SRD.
+BookSource: "Monster Manual p. 111. Available in the SRD."
 ---
 # [Copper Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling.md)
 *Source: Monster Manual p. 111. Available in the SRD.*  

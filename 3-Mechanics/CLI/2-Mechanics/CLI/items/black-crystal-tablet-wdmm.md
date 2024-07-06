@@ -9,7 +9,7 @@ tags:
 aliases: ["Black Crystal Tablet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 284
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 284"
 ---
 # Black Crystal Tablet
 *Wondrous Item, legendary (requires attunement by a creature that has proficiency in the [Arcana](/2-Mechanics/CLI/rules/skills.md#Arcana) skill)*  

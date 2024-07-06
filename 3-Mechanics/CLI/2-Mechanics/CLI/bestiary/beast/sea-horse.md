@@ -11,7 +11,7 @@ aliases: ["Sea Horse"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 337. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 337. Available in the SRD and the Basic Rules."
 ---
 # [Sea Horse](2-Mechanics/CLI/bestiary/beast/sea-horse.md)
 *Source: Monster Manual p. 337. Available in the SRD and the Basic Rules.*  

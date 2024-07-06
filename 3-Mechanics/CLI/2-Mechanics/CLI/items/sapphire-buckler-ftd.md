@@ -9,7 +9,7 @@ tags:
 aliases: ["Sapphire Buckler"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 24
+BookSource: "Fizban's Treasury of Dragons p. 24"
 ---
 # Sapphire Buckler
 *Shield, very rare (requires attunement)*  

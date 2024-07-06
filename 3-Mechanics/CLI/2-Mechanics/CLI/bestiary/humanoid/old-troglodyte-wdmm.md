@@ -11,7 +11,7 @@ aliases: ["Old Troglodyte"]
 NoteIcon: monster
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 155
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 155"
 ---
 # [Old Troglodyte](2-Mechanics/CLI/bestiary/humanoid/old-troglodyte-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 155*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Secrets"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 211. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 211. Available in the SRD."
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  

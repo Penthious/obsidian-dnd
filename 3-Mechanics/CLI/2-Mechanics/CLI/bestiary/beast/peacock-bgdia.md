@@ -11,7 +11,7 @@ aliases: ["Peacock"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 195
+BookSource: "Baldur's Gate: Descent Into Avernus p. 195"
 ---
 # [Peacock](2-Mechanics/CLI/bestiary/beast/peacock-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 195*  

@@ -11,7 +11,7 @@ aliases: ["Swarm of Campestris"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 232
+BookSource: "The Wild Beyond the Witchlight p. 232"
 ---
 # [Swarm of Campestris](2-Mechanics/CLI/bestiary/plant/swarm-of-campestris-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 232*  

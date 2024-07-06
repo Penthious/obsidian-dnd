@@ -12,7 +12,7 @@ aliases: ["Young Red Shadow Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 85
+BookSource: "Monster Manual p. 85"
 ---
 # [Young Red Shadow Dragon](2-Mechanics/CLI/bestiary/dragon/young-red-shadow-dragon.md)
 *Source: Monster Manual p. 85*  

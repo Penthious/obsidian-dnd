@@ -7,7 +7,7 @@ tags:
 aliases: ["Tortle"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 34
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 34"
 ---
 # Tortle
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 34*  

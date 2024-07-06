@@ -12,7 +12,7 @@ aliases: ["Lord Soth"]
 NoteIcon: npc
 BestiaryType: undead (paladin)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 206
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 206"
 ---
 # [Lord Soth](2-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 206*  

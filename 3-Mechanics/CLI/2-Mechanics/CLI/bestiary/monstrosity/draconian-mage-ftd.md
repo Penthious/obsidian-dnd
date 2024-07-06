@@ -11,7 +11,7 @@ aliases: ["Draconian Mage"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 179
+BookSource: "Fizban's Treasury of Dragons p. 179"
 ---
 # [Draconian Mage](2-Mechanics/CLI/bestiary/monstrosity/draconian-mage-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 179*  

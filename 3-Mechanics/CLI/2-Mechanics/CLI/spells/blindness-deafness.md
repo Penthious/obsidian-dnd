@@ -35,7 +35,7 @@ classes:
 aliases: ["Blindness/Deafness"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 219. Available in the SRD.
+BookSource: "Player's Handbook p. 219. Available in the SRD."
 ---
 # Blindness/Deafness
 *2nd-level, Necromancy*  

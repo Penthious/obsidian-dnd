@@ -9,7 +9,7 @@ tags:
 aliases: ["Quaal's Feather Token, Whip"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Whip').
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Whip')."
 ---
 # Quaal's Feather Token, Whip
 *Wondrous Item, minor, rare*  

@@ -12,7 +12,7 @@ aliases: ["Cockatrice"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 42, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 42, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Cockatrice](2-Mechanics/CLI/bestiary/monstrosity/cockatrice.md)
 *Source: Monster Manual p. 42, Tales from the Yawning Portal, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

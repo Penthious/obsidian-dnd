@@ -11,7 +11,7 @@ aliases: ["Master Sage"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 9
+BookSource: "Candlekeep Mysteries p. 9"
 ---
 # [Master Sage](2-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md)
 *Source: Candlekeep Mysteries p. 9*  

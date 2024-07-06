@@ -9,7 +9,7 @@ tags:
 aliases: ["Ersatz Eye"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 137
+BookSource: "Xanathar's Guide to Everything p. 137"
 ---
 # Ersatz Eye
 *Wondrous Item, minor, common*  

@@ -12,7 +12,7 @@ aliases: ["Jasper Dimmerchasm"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 184
+BookSource: "Storm King's Thunder p. 184"
 ---
 # [Jasper Dimmerchasm](2-Mechanics/CLI/bestiary/npc/jasper-dimmerchasm-skt.md)
 *Source: Storm King's Thunder p. 184*  

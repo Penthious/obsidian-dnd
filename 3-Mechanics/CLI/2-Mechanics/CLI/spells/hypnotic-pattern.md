@@ -25,7 +25,7 @@ classes:
 aliases: ["Hypnotic Pattern"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 252. Available in the SRD.
+BookSource: "Player's Handbook p. 252. Available in the SRD."
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  

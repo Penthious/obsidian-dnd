@@ -11,7 +11,7 @@ aliases: ["Displacer Beast Kitten"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 108
+BookSource: "The Wild Beyond the Witchlight p. 108"
 ---
 # [Displacer Beast Kitten](2-Mechanics/CLI/bestiary/monstrosity/displacer-beast-kitten-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 108*  

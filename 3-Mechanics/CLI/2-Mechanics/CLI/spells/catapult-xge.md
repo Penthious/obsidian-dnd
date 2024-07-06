@@ -19,7 +19,7 @@ classes:
 aliases: ["Catapult"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 150
+BookSource: "Xanathar's Guide to Everything p. 150"
 ---
 # Catapult
 *1st-level, Transmutation*  

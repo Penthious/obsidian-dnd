@@ -16,7 +16,7 @@ aliases: ["Orc Nurtured One of Yurtrus"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 184
+BookSource: "Volo's Guide to Monsters p. 184"
 ---
 # [Orc Nurtured One of Yurtrus](2-Mechanics/CLI/bestiary/humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  

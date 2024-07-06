@@ -8,7 +8,7 @@ tags:
 aliases: ["Wyvern Poison"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Wyvern Poison
 *Adventuring Gear, poison*  

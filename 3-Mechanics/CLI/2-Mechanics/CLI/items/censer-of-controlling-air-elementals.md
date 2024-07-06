@@ -9,7 +9,7 @@ tags:
 aliases: ["Censer of Controlling Air Elementals"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 158. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 158. Available in the SRD."
 ---
 # Censer of Controlling Air Elementals
 *Wondrous Item, major, rare*  

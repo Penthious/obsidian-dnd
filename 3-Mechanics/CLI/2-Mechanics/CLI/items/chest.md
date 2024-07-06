@@ -7,7 +7,7 @@ tags:
 aliases: ["Chest"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 153. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 153. Available in the SRD and the Basic Rules."
 ---
 # Chest
 *Adventuring Gear*  

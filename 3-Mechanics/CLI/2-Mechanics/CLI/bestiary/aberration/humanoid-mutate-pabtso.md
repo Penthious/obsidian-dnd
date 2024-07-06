@@ -11,7 +11,7 @@ aliases: ["Humanoid Mutate"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 212
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 212"
 ---
 # [Humanoid Mutate](2-Mechanics/CLI/bestiary/aberration/humanoid-mutate-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  

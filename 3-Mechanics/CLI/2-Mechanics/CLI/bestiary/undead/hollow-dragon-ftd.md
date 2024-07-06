@@ -11,7 +11,7 @@ aliases: ["Hollow Dragon"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 206
+BookSource: "Fizban's Treasury of Dragons p. 206"
 ---
 # [Hollow Dragon](2-Mechanics/CLI/bestiary/undead/hollow-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 206*  

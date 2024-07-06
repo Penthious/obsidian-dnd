@@ -9,7 +9,7 @@ tags:
 aliases: ["Stone of Controlling Earth Elementals"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 205. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 205. Available in the SRD."
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous Item, major, rare*  

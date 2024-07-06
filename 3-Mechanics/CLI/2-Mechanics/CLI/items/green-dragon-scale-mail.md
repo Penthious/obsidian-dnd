@@ -10,7 +10,7 @@ tags:
 aliases: ["Green Dragon Scale Mail"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 165. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 165. Available in the SRD."
 ---
 # Green Dragon Scale Mail
 *Medium Armor, major, very rare (requires attunement)*  

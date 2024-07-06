@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Giant Strength"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 187
+BookSource: "Dungeon Master's Guide p. 187"
 ---
 # Potion of Giant Strength
 *Potion, varies*  

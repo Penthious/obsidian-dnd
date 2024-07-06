@@ -15,7 +15,7 @@ aliases: ["Harpy"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules."
 ---
 # [Harpy](2-Mechanics/CLI/bestiary/monstrosity/harpy.md)
 *Source: Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules.*  

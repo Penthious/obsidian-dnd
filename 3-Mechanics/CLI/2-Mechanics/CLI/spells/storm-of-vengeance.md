@@ -11,7 +11,7 @@ classes:
 aliases: ["Storm of Vengeance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 279. Available in the SRD.
+BookSource: "Player's Handbook p. 279. Available in the SRD."
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

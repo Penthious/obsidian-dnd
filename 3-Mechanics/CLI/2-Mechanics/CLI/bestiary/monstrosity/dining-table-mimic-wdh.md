@@ -11,7 +11,7 @@ aliases: ["Dining Table Mimic"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 122
+BookSource: "Waterdeep: Dragon Heist p. 122"
 ---
 # [Dining Table Mimic](2-Mechanics/CLI/bestiary/monstrosity/dining-table-mimic-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 122*  

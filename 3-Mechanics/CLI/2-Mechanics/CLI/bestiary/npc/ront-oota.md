@@ -12,7 +12,7 @@ aliases: ["Ront"]
 NoteIcon: npc
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 7
+BookSource: "Out of the Abyss p. 7"
 ---
 # [Ront](2-Mechanics/CLI/bestiary/npc/ront-oota.md)
 *Source: Out of the Abyss p. 7*  

@@ -11,7 +11,7 @@ aliases: ["Lesser Star Spawn Emissary"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 245
+BookSource: "Van Richten's Guide to Ravenloft p. 245"
 ---
 # [Lesser Star Spawn Emissary](2-Mechanics/CLI/bestiary/aberration/lesser-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  

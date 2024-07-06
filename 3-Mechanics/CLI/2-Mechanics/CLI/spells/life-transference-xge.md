@@ -19,7 +19,7 @@ classes:
 aliases: ["Life Transference"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 160
+BookSource: "Xanathar's Guide to Everything p. 160"
 ---
 # Life Transference
 *3rd-level, Necromancy*  

@@ -11,7 +11,7 @@ aliases: ["Theran Chimera"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 216
+BookSource: "Mythic Odysseys of Theros p. 216"
 ---
 # [Theran Chimera](2-Mechanics/CLI/bestiary/monstrosity/theran-chimera-mot.md)
 *Source: Mythic Odysseys of Theros p. 216*  

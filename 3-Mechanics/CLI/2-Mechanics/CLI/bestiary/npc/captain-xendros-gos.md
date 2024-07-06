@@ -12,7 +12,7 @@ aliases: ["Captain Xendros"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 14
+BookSource: "Ghosts of Saltmarsh p. 14"
 ---
 # [Captain Xendros](2-Mechanics/CLI/bestiary/npc/captain-xendros-gos.md)
 *Source: Ghosts of Saltmarsh p. 14*  

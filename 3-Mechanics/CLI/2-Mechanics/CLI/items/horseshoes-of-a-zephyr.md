@@ -9,7 +9,7 @@ tags:
 aliases: ["Horseshoes of a Zephyr"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 175. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 175. Available in the SRD."
 ---
 # Horseshoes of a Zephyr
 *Wondrous Item, minor, very rare*  

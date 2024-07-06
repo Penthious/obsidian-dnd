@@ -7,7 +7,7 @@ tags:
 aliases: ["Knight of the Order"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 151
+BookSource: "Sword Coast Adventurer's Guide p. 151"
 ---
 # Knight of the Order
 *Source: Sword Coast Adventurer's Guide p. 151*  

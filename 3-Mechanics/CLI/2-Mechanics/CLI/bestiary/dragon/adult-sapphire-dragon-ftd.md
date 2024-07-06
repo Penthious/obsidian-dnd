@@ -11,7 +11,7 @@ aliases: ["Adult Sapphire Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 215
+BookSource: "Fizban's Treasury of Dragons p. 215"
 ---
 # [Adult Sapphire Dragon](2-Mechanics/CLI/bestiary/dragon/adult-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 215*  

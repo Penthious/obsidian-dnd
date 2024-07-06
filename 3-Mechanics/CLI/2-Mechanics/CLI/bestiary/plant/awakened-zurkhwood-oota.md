@@ -11,7 +11,7 @@ aliases: ["Awakened Zurkhwood"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 230
+BookSource: "Out of the Abyss p. 230"
 ---
 # [Awakened Zurkhwood](2-Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md)
 *Source: Out of the Abyss p. 230*  

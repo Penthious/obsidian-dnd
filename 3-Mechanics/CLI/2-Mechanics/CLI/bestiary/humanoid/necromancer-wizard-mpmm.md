@@ -13,7 +13,7 @@ aliases: ["Necromancer Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217"
 ---
 # [Necromancer Wizard](2-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*  

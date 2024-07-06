@@ -12,7 +12,7 @@ aliases: ["Amrik Vanthampur"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 30
+BookSource: "Baldur's Gate: Descent Into Avernus p. 30"
 ---
 # [Amrik Vanthampur](2-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 30*  

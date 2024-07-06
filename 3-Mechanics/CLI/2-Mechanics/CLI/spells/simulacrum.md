@@ -13,7 +13,7 @@ classes:
 aliases: ["Simulacrum"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 276. Available in the SRD.
+BookSource: "Player's Handbook p. 276. Available in the SRD."
 ---
 # Simulacrum
 *7th-level, Illusion*  

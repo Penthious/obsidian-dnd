@@ -13,7 +13,7 @@ aliases: ["Polar Bear"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 334, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 334, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Polar Bear](2-Mechanics/CLI/bestiary/beast/polar-bear.md)
 *Source: Monster Manual p. 334, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dragon Heist, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

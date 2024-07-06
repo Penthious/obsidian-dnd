@@ -11,7 +11,7 @@ aliases: ["Oriq Recruiter"]
 NoteIcon: monster
 BestiaryType: humanoid (warlock)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 202
+BookSource: "Strixhaven: A Curriculum of Chaos p. 202"
 ---
 # [Oriq Recruiter](2-Mechanics/CLI/bestiary/humanoid/oriq-recruiter-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 202*  

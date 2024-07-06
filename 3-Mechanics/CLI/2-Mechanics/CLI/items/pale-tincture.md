@@ -8,7 +8,7 @@ tags:
 aliases: ["Pale Tincture"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Pale Tincture
 *Adventuring Gear, poison*  

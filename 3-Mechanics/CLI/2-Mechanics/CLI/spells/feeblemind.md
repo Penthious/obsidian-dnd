@@ -19,7 +19,7 @@ classes:
 aliases: ["Feeblemind"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 239. Available in the SRD.
+BookSource: "Player's Handbook p. 239. Available in the SRD."
 ---
 # Feeblemind
 *8th-level, Enchantment*  

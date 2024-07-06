@@ -12,7 +12,7 @@ aliases: ["Drufi"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 64
+BookSource: "Tomb of Annihilation p. 64"
 ---
 # [Drufi](2-Mechanics/CLI/bestiary/npc/drufi-toa.md)
 *Source: Tomb of Annihilation p. 64*  

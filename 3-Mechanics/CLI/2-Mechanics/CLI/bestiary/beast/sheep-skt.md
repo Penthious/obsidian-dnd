@@ -11,7 +11,7 @@ aliases: ["Sheep"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 142
+BookSource: "Storm King's Thunder p. 142"
 ---
 # [Sheep](2-Mechanics/CLI/bestiary/beast/sheep-skt.md)
 *Source: Storm King's Thunder p. 142*  

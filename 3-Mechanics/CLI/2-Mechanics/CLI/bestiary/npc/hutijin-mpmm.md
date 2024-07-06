@@ -12,7 +12,7 @@ aliases: ["Hutijin"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175"
 ---
 # [Hutijin](2-Mechanics/CLI/bestiary/npc/hutijin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175*  

@@ -11,7 +11,7 @@ aliases: ["Night Blade"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 233
+BookSource: "Baldur's Gate: Descent Into Avernus p. 233"
 ---
 # [Night Blade](2-Mechanics/CLI/bestiary/humanoid/night-blade-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  

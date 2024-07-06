@@ -11,7 +11,7 @@ aliases: ["Deadstone Cleft Stone Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 146
+BookSource: "Storm King's Thunder p. 146"
 ---
 # [Deadstone Cleft Stone Giant](2-Mechanics/CLI/bestiary/giant/deadstone-cleft-stone-giant-skt.md)
 *Source: Storm King's Thunder p. 146*  

@@ -11,7 +11,7 @@ aliases: ["Groff"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 194
+BookSource: "Strixhaven: A Curriculum of Chaos p. 194"
 ---
 # [Groff](2-Mechanics/CLI/bestiary/plant/groff-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 194*  

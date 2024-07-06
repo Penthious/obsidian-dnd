@@ -10,7 +10,7 @@ tags:
 aliases: ["Belt of Cloud Giant Strength"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 155. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 155. Available in the SRD."
 ---
 # Belt of Cloud Giant Strength
 *Wondrous Item, major, legendary (requires attunement)*  

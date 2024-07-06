@@ -12,7 +12,7 @@ aliases: ["Spider King"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 74
+BookSource: "Out of the Abyss p. 74"
 ---
 # [Spider King](2-Mechanics/CLI/bestiary/npc/spider-king-oota.md)
 *Source: Out of the Abyss p. 74*  

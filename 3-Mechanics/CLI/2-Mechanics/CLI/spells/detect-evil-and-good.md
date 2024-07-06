@@ -17,7 +17,7 @@ classes:
 aliases: ["Detect Evil and Good"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 231. Available in the SRD.
+BookSource: "Player's Handbook p. 231. Available in the SRD."
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Drow Poison"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 258. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 258. Available in the SRD."
 ---
 # Drow Poison
 *Adventuring Gear, poison*  

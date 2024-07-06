@@ -12,7 +12,7 @@ aliases: ["Hrabbaz"]
 NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 205
+BookSource: "Waterdeep: Dragon Heist p. 205"
 ---
 # [Hrabbaz](2-Mechanics/CLI/bestiary/npc/hrabbaz-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  

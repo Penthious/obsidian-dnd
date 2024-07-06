@@ -11,7 +11,7 @@ aliases: ["Animated Jade Serpent"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 92
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 92"
 ---
 # [Animated Jade Serpent](2-Mechanics/CLI/bestiary/construct/animated-jade-serpent-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 92*  

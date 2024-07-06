@@ -11,7 +11,7 @@ aliases: ["Young Bulette"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 139
+BookSource: "Princes of the Apocalypse p. 139"
 ---
 # [Young Bulette](2-Mechanics/CLI/bestiary/beast/young-bulette-pota.md)
 *Source: Princes of the Apocalypse p. 139*  

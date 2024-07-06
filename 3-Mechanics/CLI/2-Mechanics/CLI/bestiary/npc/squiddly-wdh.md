@@ -12,7 +12,7 @@ aliases: ["Squiddly"]
 NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 63
+BookSource: "Waterdeep: Dragon Heist p. 63"
 ---
 # [Squiddly](2-Mechanics/CLI/bestiary/npc/squiddly-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  

@@ -11,7 +11,7 @@ aliases: ["Ogre Goblin Hucker"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 50
+BookSource: "Storm King's Thunder p. 50"
 ---
 # [Ogre Goblin Hucker](2-Mechanics/CLI/bestiary/giant/ogre-goblin-hucker-skt.md)
 *Source: Storm King's Thunder p. 50*  

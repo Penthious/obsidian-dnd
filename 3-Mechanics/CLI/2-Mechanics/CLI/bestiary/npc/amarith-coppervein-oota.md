@@ -12,7 +12,7 @@ aliases: ["Amarith Coppervein"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 142
+BookSource: "Out of the Abyss p. 142"
 ---
 # [Amarith Coppervein](2-Mechanics/CLI/bestiary/npc/amarith-coppervein-oota.md)
 *Source: Out of the Abyss p. 142*  

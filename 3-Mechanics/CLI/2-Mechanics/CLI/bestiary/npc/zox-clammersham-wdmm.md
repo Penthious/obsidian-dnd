@@ -12,7 +12,7 @@ aliases: ["Zox Clammersham"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 176
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 176"
 ---
 # [Zox Clammersham](2-Mechanics/CLI/bestiary/npc/zox-clammersham-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 176*  

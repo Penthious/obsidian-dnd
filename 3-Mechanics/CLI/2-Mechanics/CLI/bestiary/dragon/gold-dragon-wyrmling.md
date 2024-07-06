@@ -11,7 +11,7 @@ aliases: ["Gold Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 115. Available in the SRD.
+BookSource: "Monster Manual p. 115. Available in the SRD."
 ---
 # [Gold Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling.md)
 *Source: Monster Manual p. 115. Available in the SRD.*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Ring of Three Wishes"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 193. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 193. Available in the SRD."
 ---
 # Ring of Three Wishes
 *Ring, major, legendary*  

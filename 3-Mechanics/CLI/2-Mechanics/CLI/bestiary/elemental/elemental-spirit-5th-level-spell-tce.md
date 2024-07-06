@@ -11,7 +11,7 @@ aliases: ["Elemental Spirit (5th-level Spell)"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 111
+BookSource: "Tasha's Cauldron of Everything p. 111"
 ---
 # [Elemental Spirit (5th-level Spell)](2-Mechanics/CLI/bestiary/elemental/elemental-spirit-5th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 111*  

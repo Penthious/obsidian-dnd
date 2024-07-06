@@ -12,7 +12,7 @@ aliases: ["Naxene Drathkala"]
 NoteIcon: npc
 BestiaryType: humanoid (Turami human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 252
+BookSource: "Storm King's Thunder p. 252"
 ---
 # [Naxene Drathkala](2-Mechanics/CLI/bestiary/npc/naxene-drathkala-skt.md)
 *Source: Storm King's Thunder p. 252*  

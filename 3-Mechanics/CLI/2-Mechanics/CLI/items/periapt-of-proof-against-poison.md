@@ -9,7 +9,7 @@ tags:
 aliases: ["Periapt of Proof against Poison"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 184. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 184. Available in the SRD."
 ---
 # Periapt of Proof against Poison
 *Wondrous Item, major, rare*  

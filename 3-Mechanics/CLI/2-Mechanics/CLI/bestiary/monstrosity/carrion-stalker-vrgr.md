@@ -11,7 +11,7 @@ aliases: ["Carrion Stalker"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 230
+BookSource: "Van Richten's Guide to Ravenloft p. 230"
 ---
 # [Carrion Stalker](2-Mechanics/CLI/bestiary/monstrosity/carrion-stalker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 230*  

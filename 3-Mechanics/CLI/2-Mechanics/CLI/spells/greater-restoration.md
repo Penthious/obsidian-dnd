@@ -25,7 +25,7 @@ classes:
 aliases: ["Greater Restoration"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 246. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 246. Available in the SRD and the Basic Rules."
 ---
 # Greater Restoration
 *5th-level, Abjuration*  

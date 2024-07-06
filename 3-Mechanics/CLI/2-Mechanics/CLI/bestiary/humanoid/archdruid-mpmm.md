@@ -15,7 +15,7 @@ aliases: ["Archdruid"]
 NoteIcon: monster
 BestiaryType: humanoid (druid)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210"
 ---
 # [Archdruid](2-Mechanics/CLI/bestiary/humanoid/archdruid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210*  

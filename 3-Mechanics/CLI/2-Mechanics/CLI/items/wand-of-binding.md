@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Binding"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 209. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 209. Available in the SRD."
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  

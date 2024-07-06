@@ -12,7 +12,7 @@ aliases: ["Qawasha"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 35
+BookSource: "Tomb of Annihilation p. 35"
 ---
 # [Qawasha](2-Mechanics/CLI/bestiary/npc/qawasha-toa.md)
 *Source: Tomb of Annihilation p. 35*  

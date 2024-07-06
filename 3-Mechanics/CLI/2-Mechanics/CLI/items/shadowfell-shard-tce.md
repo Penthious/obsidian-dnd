@@ -9,7 +9,7 @@ tags:
 aliases: ["Shadowfell Shard"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 135
+BookSource: "Tasha's Cauldron of Everything p. 135"
 ---
 # Shadowfell Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

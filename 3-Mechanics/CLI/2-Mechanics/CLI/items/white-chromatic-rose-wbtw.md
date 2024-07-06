@@ -8,7 +8,7 @@ tags:
 aliases: ["White Chromatic Rose"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 208
+BookSource: "The Wild Beyond the Witchlight p. 208"
 ---
 # White Chromatic Rose
 *Wondrous Item, rare*  

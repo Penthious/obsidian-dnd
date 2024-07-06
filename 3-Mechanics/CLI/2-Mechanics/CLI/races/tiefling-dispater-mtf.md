@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Dispater)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 21
+BookSource: "Mordenkainen's Tome of Foes p. 21"
 ---
 # Tiefling (Dispater)
 *Source: Mordenkainen's Tome of Foes p. 21*  

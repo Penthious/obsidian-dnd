@@ -9,7 +9,7 @@ tags:
 aliases: ["Slumbering Scaled Ornament"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 27
+BookSource: "Fizban's Treasury of Dragons p. 27"
 ---
 # Slumbering Scaled Ornament
 *Wondrous Item, uncommon (requires attunement)*  

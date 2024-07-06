@@ -14,7 +14,7 @@ aliases: ["Ogre Bolt Launcher"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220"
 ---
 # [Ogre Bolt Launcher](2-Mechanics/CLI/bestiary/giant/ogre-bolt-launcher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  

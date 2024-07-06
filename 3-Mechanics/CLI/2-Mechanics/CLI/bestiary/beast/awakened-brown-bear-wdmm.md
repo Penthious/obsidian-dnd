@@ -11,7 +11,7 @@ aliases: ["Awakened Brown Bear"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 72
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 72"
 ---
 # [Awakened Brown Bear](2-Mechanics/CLI/bestiary/beast/awakened-brown-bear-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 72*  

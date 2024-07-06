@@ -11,7 +11,7 @@ aliases: ["Young Sea Serpent"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 219
+BookSource: "Fizban's Treasury of Dragons p. 219"
 ---
 # [Young Sea Serpent](2-Mechanics/CLI/bestiary/dragon/young-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  

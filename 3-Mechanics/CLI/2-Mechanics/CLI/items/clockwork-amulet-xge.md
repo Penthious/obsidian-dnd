@@ -9,7 +9,7 @@ tags:
 aliases: ["Clockwork Amulet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 137
+BookSource: "Xanathar's Guide to Everything p. 137"
 ---
 # Clockwork Amulet
 *Wondrous Item, minor, common*  

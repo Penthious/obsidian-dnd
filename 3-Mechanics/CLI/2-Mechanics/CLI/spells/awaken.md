@@ -13,7 +13,7 @@ classes:
 aliases: ["Awaken"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 216. Available in the SRD.
+BookSource: "Player's Handbook p. 216. Available in the SRD."
 ---
 # Awaken
 *5th-level, Transmutation*  

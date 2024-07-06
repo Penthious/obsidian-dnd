@@ -19,7 +19,7 @@ classes:
 aliases: ["Create Undead"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 229. Available in the SRD.
+BookSource: "Player's Handbook p. 229. Available in the SRD."
 ---
 # Create Undead
 *6th-level, Necromancy*  

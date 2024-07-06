@@ -10,7 +10,7 @@ tags:
 aliases: ["Wyllow's Staff of Flowers"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 75
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 75"
 ---
 # Wyllow's Staff of Flowers
 *Staff, common (requires attunement)*  

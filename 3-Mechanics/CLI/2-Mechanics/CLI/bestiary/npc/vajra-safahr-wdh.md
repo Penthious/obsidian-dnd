@@ -12,7 +12,7 @@ aliases: ["Vajra Safahr"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 217
+BookSource: "Waterdeep: Dragon Heist p. 217"
 ---
 # [Vajra Safahr](2-Mechanics/CLI/bestiary/npc/vajra-safahr-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 217*  

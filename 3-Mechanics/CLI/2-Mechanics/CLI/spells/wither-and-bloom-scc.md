@@ -19,7 +19,7 @@ classes:
 aliases: ["Wither and Bloom"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Strixhaven: A Curriculum of Chaos p. 38
+BookSource: "Strixhaven: A Curriculum of Chaos p. 38"
 ---
 # Wither and Bloom
 *2nd-level, Necromancy*  

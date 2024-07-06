@@ -11,7 +11,7 @@ aliases: ["Sergeant"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 197
+BookSource: "Waterdeep: Dragon Heist p. 197"
 ---
 # [Sergeant](2-Mechanics/CLI/bestiary/humanoid/sergeant-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 197*  

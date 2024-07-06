@@ -12,7 +12,7 @@ aliases: ["Baron Vargas Vallakovich"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 105
+BookSource: "Curse of Strahd p. 105"
 ---
 # [Baron Vargas Vallakovich](2-Mechanics/CLI/bestiary/npc/baron-vargas-vallakovich-cos.md)
 *Source: Curse of Strahd p. 105*  

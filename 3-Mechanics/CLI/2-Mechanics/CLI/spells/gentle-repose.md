@@ -24,7 +24,7 @@ classes:
 aliases: ["Gentle Repose"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 245. Available in the SRD.
+BookSource: "Player's Handbook p. 245. Available in the SRD."
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

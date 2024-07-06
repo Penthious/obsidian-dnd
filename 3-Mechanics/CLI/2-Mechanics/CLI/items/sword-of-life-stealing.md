@@ -10,7 +10,7 @@ tags:
 aliases: ["Sword of Life Stealing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 206. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 206. Available in the SRD."
 ---
 # Sword of Life Stealing
 *Generic Variant, major, rare (requires attunement)*  

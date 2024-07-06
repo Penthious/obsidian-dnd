@@ -9,7 +9,7 @@ tags:
 aliases: ["Cloak of Billowing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Cloak of Billowing
 *Wondrous Item, minor, common*  

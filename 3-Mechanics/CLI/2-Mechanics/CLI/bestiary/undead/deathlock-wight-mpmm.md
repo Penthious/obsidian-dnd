@@ -11,7 +11,7 @@ aliases: ["Deathlock Wight"]
 NoteIcon: monster
 BestiaryType: undead (warlock)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129"
 ---
 # [Deathlock Wight](2-Mechanics/CLI/bestiary/undead/deathlock-wight-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  

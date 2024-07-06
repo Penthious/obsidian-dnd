@@ -13,7 +13,7 @@ classes:
 aliases: ["Staggering Smite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 278
+BookSource: "Player's Handbook p. 278"
 ---
 # Staggering Smite
 *4th-level, Evocation*  

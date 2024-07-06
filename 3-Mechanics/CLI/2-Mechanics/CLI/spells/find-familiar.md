@@ -16,7 +16,7 @@ classes:
 aliases: ["Find Familiar"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 240. Available in the SRD.
+BookSource: "Player's Handbook p. 240. Available in the SRD."
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  

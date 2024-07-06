@@ -12,7 +12,7 @@ aliases: ["Grabstab"]
 NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 89
+BookSource: "Tomb of Annihilation p. 89"
 ---
 # [Grabstab](2-Mechanics/CLI/bestiary/npc/grabstab-toa.md)
 *Source: Tomb of Annihilation p. 89*  

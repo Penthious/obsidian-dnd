@@ -14,7 +14,7 @@ aliases: ["Redcap"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188"
 ---
 # [Redcap](2-Mechanics/CLI/bestiary/fey/redcap-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  

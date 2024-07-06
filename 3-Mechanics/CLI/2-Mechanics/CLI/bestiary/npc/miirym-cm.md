@@ -12,7 +12,7 @@ aliases: ["Miirym"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 16
+BookSource: "Candlekeep Mysteries p. 16"
 ---
 # [Miirym](2-Mechanics/CLI/bestiary/npc/miirym-cm.md)
 *Source: Candlekeep Mysteries p. 16*  

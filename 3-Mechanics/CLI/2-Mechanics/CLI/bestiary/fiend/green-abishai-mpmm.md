@@ -12,7 +12,7 @@ aliases: ["Green Abishai"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162"
 ---
 # [Green Abishai](2-Mechanics/CLI/bestiary/fiend/green-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  

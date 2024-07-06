@@ -12,7 +12,7 @@ aliases: ["Yevgeni Krushkin"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 100
+BookSource: "Curse of Strahd p. 100"
 ---
 # [Yevgeni Krushkin](2-Mechanics/CLI/bestiary/npc/yevgeni-krushkin-cos.md)
 *Source: Curse of Strahd p. 100*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Halfling (Lightfoot)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 28. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 28. Available in the SRD and the Basic Rules."
 ---
 # Halfling (Lightfoot)
 *Source: Player's Handbook p. 28. Available in the SRD and the Basic Rules.*  

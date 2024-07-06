@@ -19,7 +19,7 @@ classes:
 aliases: ["Investiture of Wind"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 160
+BookSource: "Xanathar's Guide to Everything p. 160"
 ---
 # Investiture of Wind
 *6th-level, Transmutation*  

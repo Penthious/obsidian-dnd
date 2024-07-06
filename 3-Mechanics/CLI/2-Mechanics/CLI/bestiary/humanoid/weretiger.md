@@ -15,7 +15,7 @@ aliases: ["Weretiger"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 210, Tomb of Annihilation, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 210, Tomb of Annihilation, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Weretiger](2-Mechanics/CLI/bestiary/humanoid/weretiger.md)
 *Source: Monster Manual p. 210, Tomb of Annihilation, Journeys through the Radiant Citadel. Available in the SRD.*  

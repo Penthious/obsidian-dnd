@@ -13,7 +13,7 @@ aliases: ["Duergar Warlord"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192"
 ---
 # [Duergar Warlord](2-Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  

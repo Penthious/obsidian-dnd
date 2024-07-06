@@ -13,7 +13,7 @@ aliases: ["Kettlesteam the Kenku"]
 NoteIcon: npc
 BestiaryType: humanoid (kenku, warlock)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 52
+BookSource: "The Wild Beyond the Witchlight p. 52"
 ---
 # [Kettlesteam the Kenku](2-Mechanics/CLI/bestiary/npc/kettlesteam-the-kenku-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 52*  

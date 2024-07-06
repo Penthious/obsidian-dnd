@@ -11,7 +11,7 @@ aliases: ["Booyahg Slave of the Archfey"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 42
+BookSource: "Volo's Guide to Monsters p. 42"
 ---
 # [Booyahg Slave of the Archfey](2-Mechanics/CLI/bestiary/humanoid/booyahg-slave-of-the-archfey-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  

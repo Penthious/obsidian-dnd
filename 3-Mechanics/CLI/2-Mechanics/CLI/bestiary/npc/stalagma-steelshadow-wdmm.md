@@ -12,7 +12,7 @@ aliases: ["Stalagma Steelshadow"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 273
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 273"
 ---
 # [Stalagma Steelshadow](2-Mechanics/CLI/bestiary/npc/stalagma-steelshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 273*  

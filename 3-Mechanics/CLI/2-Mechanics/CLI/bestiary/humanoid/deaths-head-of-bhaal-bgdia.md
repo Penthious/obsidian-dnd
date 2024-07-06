@@ -11,7 +11,7 @@ aliases: ["Death's Head of Bhaal"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 233
+BookSource: "Baldur's Gate: Descent Into Avernus p. 233"
 ---
 # [Death's Head of Bhaal](2-Mechanics/CLI/bestiary/humanoid/deaths-head-of-bhaal-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  

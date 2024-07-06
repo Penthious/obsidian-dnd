@@ -11,7 +11,7 @@ aliases: ["Carnivorous Flower"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 67
+BookSource: "The Rise of Tiamat p. 67"
 ---
 # [Carnivorous Flower](2-Mechanics/CLI/bestiary/plant/carnivorous-flower-rot.md)
 *Source: The Rise of Tiamat p. 67*  

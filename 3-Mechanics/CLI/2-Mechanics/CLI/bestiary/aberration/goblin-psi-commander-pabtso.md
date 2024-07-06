@@ -11,7 +11,7 @@ aliases: ["Goblin Psi Commander"]
 NoteIcon: monster
 BestiaryType: aberration (goblinoid)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 216
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 216"
 ---
 # [Goblin Psi Commander](2-Mechanics/CLI/bestiary/aberration/goblin-psi-commander-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 216*  

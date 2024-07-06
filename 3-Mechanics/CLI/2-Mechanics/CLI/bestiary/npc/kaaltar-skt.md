@@ -12,7 +12,7 @@ aliases: ["Kaaltar"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 197
+BookSource: "Storm King's Thunder p. 197"
 ---
 # [Kaaltar](2-Mechanics/CLI/bestiary/npc/kaaltar-skt.md)
 *Source: Storm King's Thunder p. 197*  

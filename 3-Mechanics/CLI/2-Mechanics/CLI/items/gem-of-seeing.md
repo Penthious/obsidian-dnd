@@ -10,7 +10,7 @@ tags:
 aliases: ["Gem of Seeing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 172. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 172. Available in the SRD."
 ---
 # Gem of Seeing
 *Wondrous Item, major, rare (requires attunement)*  

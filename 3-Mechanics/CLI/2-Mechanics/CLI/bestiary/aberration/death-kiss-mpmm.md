@@ -12,7 +12,7 @@ aliases: ["Death Kiss"]
 NoteIcon: monster
 BestiaryType: aberration (beholder)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124"
 ---
 # [Death Kiss](2-Mechanics/CLI/bestiary/aberration/death-kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*  

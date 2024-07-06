@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Magic Missiles"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 211. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 211. Available in the SRD and the Basic Rules."
 ---
 # Wand of Magic Missiles
 *Wand, major, uncommon*  

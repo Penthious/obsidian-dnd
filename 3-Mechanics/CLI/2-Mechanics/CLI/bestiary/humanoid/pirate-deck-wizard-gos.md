@@ -11,7 +11,7 @@ aliases: ["Pirate Deck Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 248
+BookSource: "Ghosts of Saltmarsh p. 248"
 ---
 # [Pirate Deck Wizard](2-Mechanics/CLI/bestiary/humanoid/pirate-deck-wizard-gos.md)
 *Source: Ghosts of Saltmarsh p. 248*  

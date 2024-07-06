@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Invisibility"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 191. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 191. Available in the SRD."
 ---
 # Ring of Invisibility
 *Ring, major, legendary (requires attunement)*  

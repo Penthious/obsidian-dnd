@@ -9,7 +9,7 @@ tags:
 aliases: ["Saddle of the Cavalier"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199
+BookSource: "Dungeon Master's Guide p. 199"
 ---
 # Saddle of the Cavalier
 *Wondrous Item, minor, uncommon*  

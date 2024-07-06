@@ -12,7 +12,7 @@ aliases: ["Dragonpriest"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 16
+BookSource: "Tales from the Yawning Portal p. 16"
 ---
 # [Dragonpriest](2-Mechanics/CLI/bestiary/npc/dragonpriest-tftyp.md)
 *Source: Tales from the Yawning Portal p. 16*  

@@ -12,7 +12,7 @@ aliases: ["Melannor Fellbranch"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 36
+BookSource: "Waterdeep: Dragon Heist p. 36"
 ---
 # [Melannor Fellbranch](2-Mechanics/CLI/bestiary/npc/melannor-fellbranch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 36*  

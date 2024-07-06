@@ -11,7 +11,7 @@ aliases: ["Dragonborn of Tiamat"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 185
+BookSource: "Fizban's Treasury of Dragons p. 185"
 ---
 # [Dragonborn of Tiamat](2-Mechanics/CLI/bestiary/humanoid/dragonborn-of-tiamat-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 185*  

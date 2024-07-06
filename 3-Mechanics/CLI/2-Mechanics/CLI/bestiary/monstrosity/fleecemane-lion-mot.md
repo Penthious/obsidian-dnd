@@ -11,7 +11,7 @@ aliases: ["Fleecemane Lion"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 223
+BookSource: "Mythic Odysseys of Theros p. 223"
 ---
 # [Fleecemane Lion](2-Mechanics/CLI/bestiary/monstrosity/fleecemane-lion-mot.md)
 *Source: Mythic Odysseys of Theros p. 223*  

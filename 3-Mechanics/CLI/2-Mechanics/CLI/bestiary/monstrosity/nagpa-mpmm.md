@@ -17,7 +17,7 @@ aliases: ["Nagpa"]
 NoteIcon: monster
 BestiaryType: monstrosity (wizard)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215"
 ---
 # [Nagpa](2-Mechanics/CLI/bestiary/monstrosity/nagpa-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  

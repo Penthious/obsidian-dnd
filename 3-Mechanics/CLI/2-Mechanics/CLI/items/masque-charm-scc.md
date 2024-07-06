@@ -8,7 +8,7 @@ tags:
 aliases: ["Masque Charm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 127
+BookSource: "Strixhaven: A Curriculum of Chaos p. 127"
 ---
 # Masque Charm
 *Wondrous Item, common*  

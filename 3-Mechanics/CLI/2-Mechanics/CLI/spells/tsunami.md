@@ -11,7 +11,7 @@ classes:
 aliases: ["Tsunami"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 284
+BookSource: "Player's Handbook p. 284"
 ---
 # Tsunami
 *8th-level, Conjuration*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Astromancy Archive"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 120
+BookSource: "Tasha's Cauldron of Everything p. 120"
 ---
 # Astromancy Archive
 *Wondrous Item, rare (requires attunement by a wizard)*  

@@ -11,7 +11,7 @@ aliases: ["Bronze Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 109, Dragons of Stormwreck Isle. Available in the SRD.
+BookSource: "Monster Manual p. 109, Dragons of Stormwreck Isle. Available in the SRD."
 ---
 # [Bronze Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling.md)
 *Source: Monster Manual p. 109, Dragons of Stormwreck Isle. Available in the SRD.*  

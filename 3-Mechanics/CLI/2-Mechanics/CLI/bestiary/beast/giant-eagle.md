@@ -15,7 +15,7 @@ aliases: ["Giant Eagle"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 324, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 324, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Giant Eagle](2-Mechanics/CLI/bestiary/beast/giant-eagle.md)
 *Source: Monster Manual p. 324, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Maze"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 258. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 258. Available in the SRD and the Basic Rules."
 ---
 # Maze
 *8th-level, Conjuration*  

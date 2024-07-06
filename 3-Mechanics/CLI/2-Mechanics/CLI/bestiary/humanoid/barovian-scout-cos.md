@@ -11,7 +11,7 @@ aliases: ["Barovian Scout"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 29
+BookSource: "Curse of Strahd p. 29"
 ---
 # [Barovian Scout](2-Mechanics/CLI/bestiary/humanoid/barovian-scout-cos.md)
 *Source: Curse of Strahd p. 29*  

@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Carrion Crawler"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Carrion Crawler](2-Mechanics/CLI/bestiary/monstrosity/reduced-threat-carrion-crawler-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

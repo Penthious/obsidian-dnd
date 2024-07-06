@@ -11,7 +11,7 @@ aliases: ["Sahuagin Deep Diver"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 250
+BookSource: "Ghosts of Saltmarsh p. 250"
 ---
 # [Sahuagin Deep Diver](2-Mechanics/CLI/bestiary/humanoid/sahuagin-deep-diver-gos.md)
 *Source: Ghosts of Saltmarsh p. 250*  

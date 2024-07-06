@@ -12,7 +12,7 @@ aliases: ["Xardorok Sunblight"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 287
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 287"
 ---
 # [Xardorok Sunblight](2-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 287*  

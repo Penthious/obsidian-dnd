@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Flesh Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Flesh Golem](2-Mechanics/CLI/bestiary/construct/reduced-threat-flesh-golem-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

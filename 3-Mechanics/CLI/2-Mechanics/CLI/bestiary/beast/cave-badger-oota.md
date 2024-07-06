@@ -11,7 +11,7 @@ aliases: ["Cave Badger"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 96
+BookSource: "Out of the Abyss p. 96"
 ---
 # [Cave Badger](2-Mechanics/CLI/bestiary/beast/cave-badger-oota.md)
 *Source: Out of the Abyss p. 96*  

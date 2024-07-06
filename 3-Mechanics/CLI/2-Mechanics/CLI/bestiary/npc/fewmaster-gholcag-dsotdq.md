@@ -12,7 +12,7 @@ aliases: ["Fewmaster Gholcag"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 74
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 74"
 ---
 # [Fewmaster Gholcag](2-Mechanics/CLI/bestiary/npc/fewmaster-gholcag-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 74*  

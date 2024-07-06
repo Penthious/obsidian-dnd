@@ -12,7 +12,7 @@ aliases: ["Rezmir"]
 NoteIcon: npc
 BestiaryType: humanoid (half-black dragon)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 93, The Rise of Tiamat
+BookSource: "Hoard of the Dragon Queen p. 93, The Rise of Tiamat"
 ---
 # [Rezmir](2-Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 93, The Rise of Tiamat*  

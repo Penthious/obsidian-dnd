@@ -11,7 +11,7 @@ aliases: ["Ashen Rider"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 213
+BookSource: "Mythic Odysseys of Theros p. 213"
 ---
 # [Ashen Rider](2-Mechanics/CLI/bestiary/celestial/ashen-rider-mot.md)
 *Source: Mythic Odysseys of Theros p. 213*  

@@ -12,7 +12,7 @@ aliases: ["Shalendra Floshin"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 119
+BookSource: "Tales from the Yawning Portal p. 119"
 ---
 # [Shalendra Floshin](2-Mechanics/CLI/bestiary/npc/shalendra-floshin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 119*  

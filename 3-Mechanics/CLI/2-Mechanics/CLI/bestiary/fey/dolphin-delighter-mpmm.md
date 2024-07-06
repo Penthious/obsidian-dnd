@@ -13,7 +13,7 @@ aliases: ["Dolphin Delighter"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 97
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 97"
 ---
 # [Dolphin Delighter](2-Mechanics/CLI/bestiary/fey/dolphin-delighter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  

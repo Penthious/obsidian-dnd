@@ -27,7 +27,7 @@ classes:
 aliases: ["Enhance Ability"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 237. Available in the SRD.
+BookSource: "Player's Handbook p. 237. Available in the SRD."
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  

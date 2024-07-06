@@ -13,7 +13,7 @@ aliases: ["Star Spawn Grue"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234"
 ---
 # [Star Spawn Grue](2-Mechanics/CLI/bestiary/aberration/star-spawn-grue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  

@@ -15,7 +15,7 @@ aliases: ["Nightwalker"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216"
 ---
 # [Nightwalker](2-Mechanics/CLI/bestiary/undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  

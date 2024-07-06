@@ -13,7 +13,7 @@ aliases: ["Young Gold Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 115. Available in the SRD.
+BookSource: "Monster Manual p. 115. Available in the SRD."
 ---
 # [Young Gold Dragon](2-Mechanics/CLI/bestiary/dragon/young-gold-dragon.md)
 *Source: Monster Manual p. 115. Available in the SRD.*  

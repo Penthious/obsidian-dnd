@@ -16,7 +16,7 @@ aliases: ["Giant Toad"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 329, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 329, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Giant Toad](2-Mechanics/CLI/bestiary/beast/giant-toad.md)
 *Source: Monster Manual p. 329, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

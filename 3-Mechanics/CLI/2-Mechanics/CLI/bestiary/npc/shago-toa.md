@@ -12,7 +12,7 @@ aliases: ["Shago"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 35
+BookSource: "Tomb of Annihilation p. 35"
 ---
 # [Shago](2-Mechanics/CLI/bestiary/npc/shago-toa.md)
 *Source: Tomb of Annihilation p. 35*  

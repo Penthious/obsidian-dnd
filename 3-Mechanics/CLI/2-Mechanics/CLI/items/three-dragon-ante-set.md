@@ -7,7 +7,7 @@ tags:
 aliases: ["Three-Dragon Ante Set"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 154. Available in the Basic Rules."
 ---
 # Three-Dragon Ante Set
 *Gaming Set*  

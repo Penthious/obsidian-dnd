@@ -11,7 +11,7 @@ aliases: ["Prismari Professor of Perfection"]
 NoteIcon: monster
 BestiaryType: humanoid (sorcerer)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 206
+BookSource: "Strixhaven: A Curriculum of Chaos p. 206"
 ---
 # [Prismari Professor of Perfection](2-Mechanics/CLI/bestiary/humanoid/prismari-professor-of-perfection-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 206*  

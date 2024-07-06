@@ -17,7 +17,7 @@ classes:
 aliases: ["Bless"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 219. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 219. Available in the SRD and the Basic Rules."
 ---
 # Bless
 *1st-level, Enchantment*  

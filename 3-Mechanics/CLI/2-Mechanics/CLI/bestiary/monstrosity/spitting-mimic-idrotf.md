@@ -11,7 +11,7 @@ aliases: ["Spitting Mimic"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 302
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 302"
 ---
 # [Spitting Mimic](2-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 302*  

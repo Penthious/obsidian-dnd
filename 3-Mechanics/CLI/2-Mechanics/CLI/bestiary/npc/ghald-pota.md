@@ -12,7 +12,7 @@ aliases: ["Ghald"]
 NoteIcon: npc
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 210
+BookSource: "Princes of the Apocalypse p. 210"
 ---
 # [Ghald](2-Mechanics/CLI/bestiary/npc/ghald-pota.md)
 *Source: Princes of the Apocalypse p. 210*  

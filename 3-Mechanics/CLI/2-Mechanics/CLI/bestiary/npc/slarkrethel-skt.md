@@ -12,7 +12,7 @@ aliases: ["Slarkrethel"]
 NoteIcon: npc
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 224
+BookSource: "Storm King's Thunder p. 224"
 ---
 # [Slarkrethel](2-Mechanics/CLI/bestiary/npc/slarkrethel-skt.md)
 *Source: Storm King's Thunder p. 224*  

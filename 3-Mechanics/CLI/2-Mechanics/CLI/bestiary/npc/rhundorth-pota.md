@@ -12,7 +12,7 @@ aliases: ["Rhundorth"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 140
+BookSource: "Princes of the Apocalypse p. 140"
 ---
 # [Rhundorth](2-Mechanics/CLI/bestiary/npc/rhundorth-pota.md)
 *Source: Princes of the Apocalypse p. 140*  

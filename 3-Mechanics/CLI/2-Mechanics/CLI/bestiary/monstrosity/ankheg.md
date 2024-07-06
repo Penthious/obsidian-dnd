@@ -13,7 +13,7 @@ aliases: ["Ankheg"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 21, Princes of the Apocalypse, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 21, Princes of the Apocalypse, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Ankheg](2-Mechanics/CLI/bestiary/monstrosity/ankheg.md)
 *Source: Monster Manual p. 21, Princes of the Apocalypse, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.*  

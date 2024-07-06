@@ -8,7 +8,7 @@ tags:
 aliases: ["Biza's Breath"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Journeys through the Radiant Citadel p. 70
+BookSource: "Journeys through the Radiant Citadel p. 70"
 ---
 # Biza's Breath
 *Adventuring Gear, poison*  

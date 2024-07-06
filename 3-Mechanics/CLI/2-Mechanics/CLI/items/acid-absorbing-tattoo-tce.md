@@ -9,7 +9,7 @@ tags:
 aliases: ["Acid Absorbing Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 119
+BookSource: "Tasha's Cauldron of Everything p. 119"
 ---
 # Acid Absorbing Tattoo
 *Wondrous Item, very rare (requires attunement)*  

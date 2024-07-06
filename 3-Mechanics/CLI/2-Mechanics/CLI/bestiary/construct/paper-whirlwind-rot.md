@@ -11,7 +11,7 @@ aliases: ["Paper Whirlwind"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 72
+BookSource: "The Rise of Tiamat p. 72"
 ---
 # [Paper Whirlwind](2-Mechanics/CLI/bestiary/construct/paper-whirlwind-rot.md)
 *Source: The Rise of Tiamat p. 72*  

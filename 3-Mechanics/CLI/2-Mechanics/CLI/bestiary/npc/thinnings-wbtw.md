@@ -12,7 +12,7 @@ aliases: ["Thinnings"]
 NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 15
+BookSource: "The Wild Beyond the Witchlight p. 15"
 ---
 # [Thinnings](2-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 15*  

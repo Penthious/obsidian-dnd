@@ -27,7 +27,7 @@ classes:
 aliases: ["Locate Object"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 256. Available in the SRD.
+BookSource: "Player's Handbook p. 256. Available in the SRD."
 ---
 # Locate Object
 *2nd-level, Divination*  

@@ -12,7 +12,7 @@ aliases: ["Wyllow"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 70
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 70"
 ---
 # [Wyllow](2-Mechanics/CLI/bestiary/npc/wyllow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 70*  

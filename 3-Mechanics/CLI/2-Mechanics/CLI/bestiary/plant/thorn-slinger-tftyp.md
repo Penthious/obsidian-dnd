@@ -11,7 +11,7 @@ aliases: ["Thorn Slinger"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 246
+BookSource: "Tales from the Yawning Portal p. 246"
 ---
 # [Thorn Slinger](2-Mechanics/CLI/bestiary/plant/thorn-slinger-tftyp.md)
 *Source: Tales from the Yawning Portal p. 246*  

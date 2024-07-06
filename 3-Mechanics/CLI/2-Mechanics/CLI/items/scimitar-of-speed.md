@@ -13,7 +13,7 @@ tags:
 aliases: ["Scimitar of Speed"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 199. Available in the SRD."
 ---
 # Scimitar of Speed
 *Melee Weapon, major, very rare (requires attunement)*  

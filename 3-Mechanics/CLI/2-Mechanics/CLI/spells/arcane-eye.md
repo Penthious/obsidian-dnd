@@ -23,7 +23,7 @@ classes:
 aliases: ["Arcane Eye"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 214. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 214. Available in the SRD and the Basic Rules."
 ---
 # Arcane Eye
 *4th-level, Divination*  

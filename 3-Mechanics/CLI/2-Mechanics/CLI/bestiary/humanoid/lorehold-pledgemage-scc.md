@@ -11,7 +11,7 @@ aliases: ["Lorehold Pledgemage"]
 NoteIcon: monster
 BestiaryType: humanoid (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 197
+BookSource: "Strixhaven: A Curriculum of Chaos p. 197"
 ---
 # [Lorehold Pledgemage](2-Mechanics/CLI/bestiary/humanoid/lorehold-pledgemage-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 197*  

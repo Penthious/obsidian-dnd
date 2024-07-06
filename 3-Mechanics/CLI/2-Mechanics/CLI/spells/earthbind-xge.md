@@ -21,7 +21,7 @@ classes:
 aliases: ["Earthbind"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 154
+BookSource: "Xanathar's Guide to Everything p. 154"
 ---
 # Earthbind
 *2nd-level, Transmutation*  

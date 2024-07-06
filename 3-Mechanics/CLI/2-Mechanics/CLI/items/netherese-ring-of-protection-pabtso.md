@@ -9,7 +9,7 @@ tags:
 aliases: ["Netherese Ring of Protection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 50
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 50"
 ---
 # Netherese Ring of Protection
 *Ring, rare (requires attunement)*  

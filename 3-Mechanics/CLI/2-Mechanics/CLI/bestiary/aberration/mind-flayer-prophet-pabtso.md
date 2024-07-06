@@ -11,7 +11,7 @@ aliases: ["Mind Flayer Prophet"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 210
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 210"
 ---
 # [Mind Flayer Prophet](2-Mechanics/CLI/bestiary/aberration/mind-flayer-prophet-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 210*  

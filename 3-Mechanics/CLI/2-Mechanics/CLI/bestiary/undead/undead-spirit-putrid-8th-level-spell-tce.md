@@ -11,7 +11,7 @@ aliases: ["Undead Spirit (Putrid, 8th-Level Spell)"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 114
+BookSource: "Tasha's Cauldron of Everything p. 114"
 ---
 # [Undead Spirit (Putrid, 8th-Level Spell)](2-Mechanics/CLI/bestiary/undead/undead-spirit-putrid-8th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  

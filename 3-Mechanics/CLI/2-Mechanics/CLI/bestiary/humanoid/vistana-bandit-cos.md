@@ -11,7 +11,7 @@ aliases: ["Vistana Bandit"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 28
+BookSource: "Curse of Strahd p. 28"
 ---
 # [Vistana Bandit](2-Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)
 *Source: Curse of Strahd p. 28*  

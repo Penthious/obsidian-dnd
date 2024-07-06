@@ -11,7 +11,7 @@ aliases: ["Red Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 76
+BookSource: "The Rise of Tiamat p. 76"
 ---
 # [Red Wizard](2-Mechanics/CLI/bestiary/humanoid/red-wizard-rot.md)
 *Source: The Rise of Tiamat p. 76*  

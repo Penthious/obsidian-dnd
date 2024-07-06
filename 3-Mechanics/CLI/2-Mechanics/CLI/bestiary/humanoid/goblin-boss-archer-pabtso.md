@@ -11,7 +11,7 @@ aliases: ["Goblin Boss Archer"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 60
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 60"
 ---
 # [Goblin Boss Archer](2-Mechanics/CLI/bestiary/humanoid/goblin-boss-archer-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 60*  

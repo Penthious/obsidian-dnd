@@ -21,7 +21,7 @@ classes:
 aliases: ["Elemental Bane"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 155
+BookSource: "Xanathar's Guide to Everything p. 155"
 ---
 # Elemental Bane
 *4th-level, Transmutation*  

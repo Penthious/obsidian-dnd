@@ -31,7 +31,7 @@ classes:
 aliases: ["Thunderclap"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 168
+BookSource: "Xanathar's Guide to Everything p. 168"
 ---
 # Thunderclap
 *cantrip, Evocation*  

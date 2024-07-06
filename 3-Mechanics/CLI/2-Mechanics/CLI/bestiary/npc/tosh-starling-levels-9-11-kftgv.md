@@ -12,7 +12,7 @@ aliases: ["Tosh Starling (Levels 9-11)"]
 NoteIcon: npc
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 8
+BookSource: "Keys from the Golden Vault p. 8"
 ---
 # [Tosh Starling (Levels 9-11)](2-Mechanics/CLI/bestiary/npc/tosh-starling-levels-9-11-kftgv.md)
 *Source: Keys from the Golden Vault p. 8*  

@@ -14,7 +14,7 @@ aliases: ["Adult Kruthik"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212"
 ---
 # [Adult Kruthik](2-Mechanics/CLI/bestiary/monstrosity/adult-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  

@@ -12,7 +12,7 @@ aliases: ["Winter Wolf"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 340, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 340, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Winter Wolf](2-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md)
 *Source: Monster Manual p. 340, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

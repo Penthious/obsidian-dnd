@@ -11,7 +11,7 @@ aliases: ["Bugbear Lieutenant"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 173
+BookSource: "Tales from the Yawning Portal p. 173"
 ---
 # [Bugbear Lieutenant](2-Mechanics/CLI/bestiary/humanoid/bugbear-lieutenant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 173*  

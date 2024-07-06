@@ -9,7 +9,7 @@ tags:
 aliases: ["Book of Vile Darkness (Variant)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Keys from the Golden Vault p. 207
+BookSource: "Keys from the Golden Vault p. 207"
 ---
 # Book of Vile Darkness (Variant)
 *Wondrous Item, artifact (requires attunement)*  

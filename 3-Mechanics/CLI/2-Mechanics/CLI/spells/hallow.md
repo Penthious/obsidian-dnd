@@ -15,7 +15,7 @@ classes:
 aliases: ["Hallow"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 249. Available in the SRD.
+BookSource: "Player's Handbook p. 249. Available in the SRD."
 ---
 # Hallow
 *5th-level, Evocation*  

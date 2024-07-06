@@ -9,7 +9,7 @@ tags:
 aliases: ["Illuminator's Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 129
+BookSource: "Tasha's Cauldron of Everything p. 129"
 ---
 # Illuminator's Tattoo
 *Wondrous Item, common (requires attunement)*  

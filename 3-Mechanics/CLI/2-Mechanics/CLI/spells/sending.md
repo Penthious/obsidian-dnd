@@ -27,7 +27,7 @@ classes:
 aliases: ["Sending"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 274. Available in the SRD.
+BookSource: "Player's Handbook p. 274. Available in the SRD."
 ---
 # Sending
 *3rd-level, Evocation*  

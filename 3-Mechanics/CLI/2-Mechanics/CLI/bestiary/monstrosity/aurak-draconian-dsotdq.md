@@ -11,7 +11,7 @@ aliases: ["Aurak Draconian"]
 NoteIcon: monster
 BestiaryType: monstrosity (sorcerer)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 196
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 196"
 ---
 # [Aurak Draconian](2-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 196*  

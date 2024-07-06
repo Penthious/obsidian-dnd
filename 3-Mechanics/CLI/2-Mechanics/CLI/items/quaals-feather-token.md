@@ -8,7 +8,7 @@ tags:
 aliases: ["Quaal's Feather Token"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188
+BookSource: "Dungeon Master's Guide p. 188"
 ---
 # Quaal's Feather Token
 *Wondrous Item, rare*  

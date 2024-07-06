@@ -9,7 +9,7 @@ tags:
 aliases: ["Tome of Understanding"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 209. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 209. Available in the SRD."
 ---
 # Tome of Understanding
 *Wondrous Item, major, very rare*  

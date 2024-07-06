@@ -17,7 +17,7 @@ classes:
 aliases: ["Mordenkainen's Faithful Hound"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 261. Available in the SRD (as 'Faithful Hound').
+BookSource: "Player's Handbook p. 261. Available in the SRD (as 'Faithful Hound')."
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  

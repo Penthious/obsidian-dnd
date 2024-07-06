@@ -11,7 +11,7 @@ aliases: ["Hound of Ill Omen"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Xanathar's Guide to Everything p. 50
+BookSource: "Xanathar's Guide to Everything p. 50"
 ---
 # [Hound of Ill Omen](2-Mechanics/CLI/bestiary/monstrosity/hound-of-ill-omen-xge.md)
 *Source: Xanathar's Guide to Everything p. 50*  

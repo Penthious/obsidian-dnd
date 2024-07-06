@@ -10,7 +10,7 @@ tags:
 aliases: ["Robe of Eyes"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 193. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 193. Available in the SRD."
 ---
 # Robe of Eyes
 *Wondrous Item, major, rare (requires attunement)*  

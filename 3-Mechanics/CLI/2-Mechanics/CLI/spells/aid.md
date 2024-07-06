@@ -21,7 +21,7 @@ classes:
 aliases: ["Aid"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 211. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 211. Available in the SRD and the Basic Rules."
 ---
 # Aid
 *2nd-level, Abjuration*  

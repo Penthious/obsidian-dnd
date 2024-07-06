@@ -27,7 +27,7 @@ classes:
 aliases: ["Stone Shape"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 278. Available in the SRD.
+BookSource: "Player's Handbook p. 278. Available in the SRD."
 ---
 # Stone Shape
 *4th-level, Transmutation*  

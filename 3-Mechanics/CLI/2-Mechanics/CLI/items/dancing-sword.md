@@ -10,7 +10,7 @@ tags:
 aliases: ["Dancing Sword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 161. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 161. Available in the SRD."
 ---
 # Dancing Sword
 *Generic Variant, major, very rare (requires attunement)*  

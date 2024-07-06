@@ -12,7 +12,7 @@ aliases: ["Great Chief Halric Bonesnapper"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 89
+BookSource: "Storm King's Thunder p. 89"
 ---
 # [Great Chief Halric Bonesnapper](2-Mechanics/CLI/bestiary/npc/great-chief-halric-bonesnapper-skt.md)
 *Source: Storm King's Thunder p. 89*  

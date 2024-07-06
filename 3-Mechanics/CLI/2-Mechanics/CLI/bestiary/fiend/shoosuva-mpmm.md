@@ -15,7 +15,7 @@ aliases: ["Shoosuva"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137"
 ---
 # [Shoosuva](2-Mechanics/CLI/bestiary/fiend/shoosuva-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  

@@ -27,7 +27,7 @@ classes:
 aliases: ["Minor Illusion"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 260. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 260. Available in the SRD and the Basic Rules."
 ---
 # Minor Illusion
 *cantrip, Illusion*  

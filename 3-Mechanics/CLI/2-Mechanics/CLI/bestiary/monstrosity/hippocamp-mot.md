@@ -11,7 +11,7 @@ aliases: ["Hippocamp"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 227
+BookSource: "Mythic Odysseys of Theros p. 227"
 ---
 # [Hippocamp](2-Mechanics/CLI/bestiary/monstrosity/hippocamp-mot.md)
 *Source: Mythic Odysseys of Theros p. 227*  

@@ -18,7 +18,7 @@ aliases: ["Orc Eye of Gruumsh"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Orc Eye of Gruumsh](2-Mechanics/CLI/bestiary/humanoid/orc-eye-of-gruumsh.md)
 *Source: Monster Manual p. 247, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden*  

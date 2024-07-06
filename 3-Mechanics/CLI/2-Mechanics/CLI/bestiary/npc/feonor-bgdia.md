@@ -12,7 +12,7 @@ aliases: ["Feonor"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 130
+BookSource: "Baldur's Gate: Descent Into Avernus p. 130"
 ---
 # [Feonor](2-Mechanics/CLI/bestiary/npc/feonor-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 130*  

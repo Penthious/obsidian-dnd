@@ -12,7 +12,7 @@ aliases: ["Spellix Romwod"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 144
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 144"
 ---
 # [Spellix Romwod](2-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 144*  

@@ -13,7 +13,7 @@ aliases: ["Jackalwere"]
 NoteIcon: monster
 BestiaryType: humanoid (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 193, Princes of the Apocalypse, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 193, Princes of the Apocalypse, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel"
 ---
 # [Jackalwere](2-Mechanics/CLI/bestiary/humanoid/jackalwere.md)
 *Source: Monster Manual p. 193, Princes of the Apocalypse, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Journeys through the Radiant Citadel*  

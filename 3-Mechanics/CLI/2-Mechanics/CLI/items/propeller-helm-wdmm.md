@@ -9,7 +9,7 @@ tags:
 aliases: ["Propeller Helm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 251
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 251"
 ---
 # Propeller Helm
 *Wondrous Item, uncommon (requires attunement by a small humanoid)*  

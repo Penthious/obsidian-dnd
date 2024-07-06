@@ -7,7 +7,7 @@ tags:
 aliases: ["Silver (sp)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 143
+BookSource: "Player's Handbook p. 143"
 ---
 # Silver (sp)
 *Coinage*  

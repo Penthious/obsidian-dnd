@@ -21,7 +21,7 @@ classes:
 aliases: ["Protection from Poison"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 270. Available in the SRD.
+BookSource: "Player's Handbook p. 270. Available in the SRD."
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

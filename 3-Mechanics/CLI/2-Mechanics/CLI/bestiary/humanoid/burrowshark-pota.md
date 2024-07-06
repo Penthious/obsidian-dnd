@@ -11,7 +11,7 @@ aliases: ["Burrowshark"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 196
+BookSource: "Princes of the Apocalypse p. 196"
 ---
 # [Burrowshark](2-Mechanics/CLI/bestiary/humanoid/burrowshark-pota.md)
 *Source: Princes of the Apocalypse p. 196*  

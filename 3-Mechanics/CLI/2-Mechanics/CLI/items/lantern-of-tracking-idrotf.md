@@ -8,7 +8,7 @@ tags:
 aliases: ["Lantern of Tracking"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 314
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 314"
 ---
 # Lantern of Tracking
 *Wondrous Item, common*  

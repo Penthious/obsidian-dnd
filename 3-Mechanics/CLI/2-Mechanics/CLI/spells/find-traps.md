@@ -17,7 +17,7 @@ classes:
 aliases: ["Find Traps"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 241. Available in the SRD.
+BookSource: "Player's Handbook p. 241. Available in the SRD."
 ---
 # Find Traps
 *2nd-level, Divination*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Armor of Thunder Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 152. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 152. Available in the SRD."
 ---
 # Armor of Thunder Resistance
 *Generic Variant, major, rare (requires attunement)*  

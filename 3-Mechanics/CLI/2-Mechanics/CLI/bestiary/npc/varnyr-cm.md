@@ -12,7 +12,7 @@ aliases: ["Varnyr"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 63
+BookSource: "Candlekeep Mysteries p. 63"
 ---
 # [Varnyr](2-Mechanics/CLI/bestiary/npc/varnyr-cm.md)
 *Source: Candlekeep Mysteries p. 63*  

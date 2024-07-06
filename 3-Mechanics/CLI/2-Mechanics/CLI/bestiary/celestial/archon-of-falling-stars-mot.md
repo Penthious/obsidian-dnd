@@ -11,7 +11,7 @@ aliases: ["Archon of Falling Stars"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 212
+BookSource: "Mythic Odysseys of Theros p. 212"
 ---
 # [Archon of Falling Stars](2-Mechanics/CLI/bestiary/celestial/archon-of-falling-stars-mot.md)
 *Source: Mythic Odysseys of Theros p. 212*  

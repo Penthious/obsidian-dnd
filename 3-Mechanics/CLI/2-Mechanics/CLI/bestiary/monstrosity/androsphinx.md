@@ -12,7 +12,7 @@ aliases: ["Androsphinx"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 281, Mythic Odysseys of Theros, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 281, Mythic Odysseys of Theros, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Androsphinx](2-Mechanics/CLI/bestiary/monstrosity/androsphinx.md)
 *Source: Monster Manual p. 281, Mythic Odysseys of Theros, Candlekeep Mysteries. Available in the SRD.*  

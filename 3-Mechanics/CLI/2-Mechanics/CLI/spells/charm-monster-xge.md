@@ -23,7 +23,7 @@ classes:
 aliases: ["Charm Monster"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 151
+BookSource: "Xanathar's Guide to Everything p. 151"
 ---
 # Charm Monster
 *4th-level, Enchantment*  

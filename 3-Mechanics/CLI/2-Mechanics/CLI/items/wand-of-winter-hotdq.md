@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Winter"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Hoard of the Dragon Queen p. 94
+BookSource: "Hoard of the Dragon Queen p. 94"
 ---
 # Wand of Winter
 *Wand, rare (requires attunement)*  

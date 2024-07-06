@@ -10,7 +10,7 @@ tags:
 aliases: ["Efreeti Chain"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 167
+BookSource: "Dungeon Master's Guide p. 167"
 ---
 # Efreeti Chain
 *Heavy Armor, major, legendary (requires attunement)*  

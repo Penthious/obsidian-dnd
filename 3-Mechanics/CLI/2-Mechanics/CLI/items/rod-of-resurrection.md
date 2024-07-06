@@ -10,7 +10,7 @@ tags:
 aliases: ["Rod of Resurrection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 197
+BookSource: "Dungeon Master's Guide p. 197"
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  

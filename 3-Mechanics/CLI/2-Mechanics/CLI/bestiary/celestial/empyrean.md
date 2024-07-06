@@ -11,7 +11,7 @@ aliases: ["Empyrean"]
 NoteIcon: monster
 BestiaryType: celestial (titan)
 SourceType: Bestiary
-BookSource: Monster Manual p. 130, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros
+BookSource: "Monster Manual p. 130, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros"
 ---
 # [Empyrean](2-Mechanics/CLI/bestiary/celestial/empyrean.md)
 *Source: Monster Manual p. 130, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros*  

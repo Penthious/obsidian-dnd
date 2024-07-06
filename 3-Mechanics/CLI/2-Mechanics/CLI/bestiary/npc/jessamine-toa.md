@@ -12,7 +12,7 @@ aliases: ["Jessamine"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 26
+BookSource: "Tomb of Annihilation p. 26"
 ---
 # [Jessamine](2-Mechanics/CLI/bestiary/npc/jessamine-toa.md)
 *Source: Tomb of Annihilation p. 26*  

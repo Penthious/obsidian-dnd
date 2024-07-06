@@ -9,7 +9,7 @@ tags:
 aliases: ["Amulet of Protection from Turning"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 228
+BookSource: "Tales from the Yawning Portal p. 228"
 ---
 # Amulet of Protection from Turning
 *Wondrous Item, rare (requires attunement)*  

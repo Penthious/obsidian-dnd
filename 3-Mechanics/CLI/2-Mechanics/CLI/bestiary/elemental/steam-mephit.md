@@ -12,7 +12,7 @@ aliases: ["Steam Mephit"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 217, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD.
+BookSource: "Monster Manual p. 217, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD."
 ---
 # [Steam Mephit](2-Mechanics/CLI/bestiary/elemental/steam-mephit.md)
 *Source: Monster Manual p. 217, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation. Available in the SRD.*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Cuddly Strixhaven Mascot"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 38
+BookSource: "Strixhaven: A Curriculum of Chaos p. 38"
 ---
 # Cuddly Strixhaven Mascot
 *Wondrous Item, common*  

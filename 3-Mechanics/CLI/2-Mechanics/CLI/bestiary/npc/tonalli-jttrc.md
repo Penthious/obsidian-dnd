@@ -12,7 +12,7 @@ aliases: ["Tonalli"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 110
+BookSource: "Journeys through the Radiant Citadel p. 110"
 ---
 # [Tonalli](2-Mechanics/CLI/bestiary/npc/tonalli-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 110*  

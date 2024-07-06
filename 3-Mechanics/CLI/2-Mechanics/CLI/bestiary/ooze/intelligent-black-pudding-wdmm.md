@@ -11,7 +11,7 @@ aliases: ["Intelligent Black Pudding"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 244
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 244"
 ---
 # [Intelligent Black Pudding](2-Mechanics/CLI/bestiary/ooze/intelligent-black-pudding-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 244*  

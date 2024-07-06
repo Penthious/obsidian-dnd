@@ -7,7 +7,7 @@ tags:
 aliases: ["Energy Cell"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Energy Cell
 *Ammunition (Firearm)*  

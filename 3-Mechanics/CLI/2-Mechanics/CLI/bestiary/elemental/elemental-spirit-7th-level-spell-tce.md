@@ -11,7 +11,7 @@ aliases: ["Elemental Spirit (7th-level Spell)"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 111
+BookSource: "Tasha's Cauldron of Everything p. 111"
 ---
 # [Elemental Spirit (7th-level Spell)](2-Mechanics/CLI/bestiary/elemental/elemental-spirit-7th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 111*  

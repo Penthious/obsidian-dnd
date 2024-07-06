@@ -12,7 +12,7 @@ aliases: ["Oceanus"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 246
+BookSource: "Ghosts of Saltmarsh p. 246"
 ---
 # [Oceanus](2-Mechanics/CLI/bestiary/npc/oceanus-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  

@@ -11,7 +11,7 @@ aliases: ["Thayan Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 246
+BookSource: "Tales from the Yawning Portal p. 246"
 ---
 # [Thayan Warrior](2-Mechanics/CLI/bestiary/humanoid/thayan-warrior-tftyp.md)
 *Source: Tales from the Yawning Portal p. 246*  

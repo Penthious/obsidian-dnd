@@ -11,7 +11,7 @@ aliases: ["Brigganock"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 230
+BookSource: "The Wild Beyond the Witchlight p. 230"
 ---
 # [Brigganock](2-Mechanics/CLI/bestiary/fey/brigganock-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 230*  

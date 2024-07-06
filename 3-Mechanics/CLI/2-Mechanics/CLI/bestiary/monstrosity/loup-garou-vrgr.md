@@ -11,7 +11,7 @@ aliases: ["Loup Garou"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 237
+BookSource: "Van Richten's Guide to Ravenloft p. 237"
 ---
 # [Loup Garou](2-Mechanics/CLI/bestiary/monstrosity/loup-garou-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 237*  

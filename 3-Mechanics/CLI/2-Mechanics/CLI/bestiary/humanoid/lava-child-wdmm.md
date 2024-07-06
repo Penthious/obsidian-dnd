@@ -11,7 +11,7 @@ aliases: ["Lava Child"]
 NoteIcon: monster
 BestiaryType: humanoid (lava child)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 313
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 313"
 ---
 # [Lava Child](2-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 313*  

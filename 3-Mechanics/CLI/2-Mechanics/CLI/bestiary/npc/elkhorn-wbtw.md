@@ -12,7 +12,7 @@ aliases: ["Elkhorn"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 224
+BookSource: "The Wild Beyond the Witchlight p. 224"
 ---
 # [Elkhorn](2-Mechanics/CLI/bestiary/npc/elkhorn-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 224*  

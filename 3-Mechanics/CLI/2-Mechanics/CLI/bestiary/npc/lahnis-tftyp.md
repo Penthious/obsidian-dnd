@@ -12,7 +12,7 @@ aliases: ["Lahnis"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 131
+BookSource: "Tales from the Yawning Portal p. 131"
 ---
 # [Lahnis](2-Mechanics/CLI/bestiary/npc/lahnis-tftyp.md)
 *Source: Tales from the Yawning Portal p. 131*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Elixir of Health"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 168
+BookSource: "Dungeon Master's Guide p. 168"
 ---
 # Elixir of Health
 *Potion, minor, rare*  

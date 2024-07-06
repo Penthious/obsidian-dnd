@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Cold Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 192. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 192. Available in the SRD and the Basic Rules."
 ---
 # Ring of Cold Resistance
 *Ring, major, rare (requires attunement)*  

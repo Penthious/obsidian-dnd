@@ -12,7 +12,7 @@ aliases: ["Zorak Lightdrinker"]
 NoteIcon: npc
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 204
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 204"
 ---
 # [Zorak Lightdrinker](2-Mechanics/CLI/bestiary/npc/zorak-lightdrinker-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 204*  

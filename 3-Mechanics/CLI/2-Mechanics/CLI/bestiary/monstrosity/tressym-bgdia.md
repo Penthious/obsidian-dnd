@@ -11,7 +11,7 @@ aliases: ["Tressym"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 241
+BookSource: "Baldur's Gate: Descent Into Avernus p. 241"
 ---
 # [Tressym](2-Mechanics/CLI/bestiary/monstrosity/tressym-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 241*  

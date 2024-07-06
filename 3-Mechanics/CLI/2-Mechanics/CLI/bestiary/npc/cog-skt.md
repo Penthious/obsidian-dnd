@@ -12,7 +12,7 @@ aliases: ["Cog"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 209
+BookSource: "Storm King's Thunder p. 209"
 ---
 # [Cog](2-Mechanics/CLI/bestiary/npc/cog-skt.md)
 *Source: Storm King's Thunder p. 209*  

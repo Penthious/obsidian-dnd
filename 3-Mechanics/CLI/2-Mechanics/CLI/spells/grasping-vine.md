@@ -15,7 +15,7 @@ classes:
 aliases: ["Grasping Vine"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 246
+BookSource: "Player's Handbook p. 246"
 ---
 # Grasping Vine
 *4th-level, Conjuration*  

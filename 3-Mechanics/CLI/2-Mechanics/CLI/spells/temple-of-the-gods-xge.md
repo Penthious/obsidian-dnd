@@ -13,7 +13,7 @@ classes:
 aliases: ["Temple of the Gods"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 167
+BookSource: "Xanathar's Guide to Everything p. 167"
 ---
 # Temple of the Gods
 *7th-level, Conjuration*  

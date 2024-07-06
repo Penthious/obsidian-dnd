@@ -8,7 +8,7 @@ tags:
 aliases: ["Mind Crystal (Subtle)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 218
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 218"
 ---
 # Mind Crystal (Subtle)
 *Wondrous Item, common*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Potion of Vitality"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 188. Available in the Basic Rules."
 ---
 # Potion of Vitality
 *Potion, minor, very rare*  

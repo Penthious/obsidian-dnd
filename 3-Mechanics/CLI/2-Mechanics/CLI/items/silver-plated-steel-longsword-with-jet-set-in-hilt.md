@@ -7,7 +7,7 @@ tags:
 aliases: ["Silver-plated steel longsword with jet set in hilt"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Silver-plated steel longsword with jet set in hilt
 *Art object*  

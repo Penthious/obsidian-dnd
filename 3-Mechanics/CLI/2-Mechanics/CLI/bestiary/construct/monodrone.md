@@ -11,7 +11,7 @@ aliases: ["Monodrone"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 224, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault
+BookSource: "Monster Manual p. 224, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault"
 ---
 # [Monodrone](2-Mechanics/CLI/bestiary/construct/monodrone.md)
 *Source: Monster Manual p. 224, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault*  

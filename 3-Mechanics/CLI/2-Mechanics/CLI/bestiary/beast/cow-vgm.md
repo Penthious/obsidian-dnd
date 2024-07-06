@@ -12,7 +12,7 @@ aliases: ["Cow"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 207
+BookSource: "Volo's Guide to Monsters p. 207"
 ---
 # [Cow](2-Mechanics/CLI/bestiary/beast/cow-vgm.md)
 *Source: Volo's Guide to Monsters p. 207*  

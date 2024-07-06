@@ -9,7 +9,7 @@ tags:
 aliases: ["Orc Stone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 264
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 264"
 ---
 # Orc Stone
 *Wondrous Item, uncommon (requires attunement by a recipient only)*  

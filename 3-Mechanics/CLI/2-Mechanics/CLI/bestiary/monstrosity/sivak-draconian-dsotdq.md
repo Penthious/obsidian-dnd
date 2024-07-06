@@ -11,7 +11,7 @@ aliases: ["Sivak Draconian"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 199
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 199"
 ---
 # [Sivak Draconian](2-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 199*  

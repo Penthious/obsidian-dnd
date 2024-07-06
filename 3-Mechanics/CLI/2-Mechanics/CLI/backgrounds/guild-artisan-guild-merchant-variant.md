@@ -7,7 +7,7 @@ tags:
 aliases: ["Guild Artisan (Guild Merchant) (Variant)"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 133
+BookSource: "Player's Handbook p. 133"
 ---
 # Guild Artisan (Guild Merchant) (Variant)
 *Source: Player's Handbook p. 133*  

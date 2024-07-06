@@ -11,7 +11,7 @@ tags:
 aliases: ["Pathfinder's Greataxe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 175
+BookSource: "Princes of the Apocalypse p. 175"
 ---
 # Pathfinder's Greataxe
 *Melee Weapon, unknown (magic)*  

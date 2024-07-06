@@ -11,7 +11,7 @@ aliases: ["Engineer"]
 NoteIcon: monster
 BestiaryType: humanoid (Rock gnome)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 141
+BookSource: "Waterdeep: Dragon Heist p. 141"
 ---
 # [Engineer](2-Mechanics/CLI/bestiary/humanoid/engineer-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 141*  

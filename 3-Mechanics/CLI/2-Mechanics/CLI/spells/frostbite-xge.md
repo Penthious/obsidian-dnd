@@ -29,7 +29,7 @@ classes:
 aliases: ["Frostbite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 156
+BookSource: "Xanathar's Guide to Everything p. 156"
 ---
 # Frostbite
 *cantrip, Evocation*  

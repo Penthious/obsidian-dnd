@@ -11,7 +11,7 @@ aliases: ["Spore Servant Octopus"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 46
+BookSource: "Dragons of Stormwreck Isle p. 46"
 ---
 # [Spore Servant Octopus](2-Mechanics/CLI/bestiary/plant/spore-servant-octopus-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 46*  

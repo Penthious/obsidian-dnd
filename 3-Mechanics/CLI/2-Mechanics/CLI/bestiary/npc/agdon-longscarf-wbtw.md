@@ -12,7 +12,7 @@ aliases: ["Agdon Longscarf"]
 NoteIcon: npc
 BestiaryType: fey (harengon)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 73
+BookSource: "The Wild Beyond the Witchlight p. 73"
 ---
 # [Agdon Longscarf](2-Mechanics/CLI/bestiary/npc/agdon-longscarf-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 73*  

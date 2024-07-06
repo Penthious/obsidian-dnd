@@ -12,7 +12,7 @@ aliases: ["Vanifer"]
 NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 203
+BookSource: "Princes of the Apocalypse p. 203"
 ---
 # [Vanifer](2-Mechanics/CLI/bestiary/npc/vanifer-pota.md)
 *Source: Princes of the Apocalypse p. 203*  

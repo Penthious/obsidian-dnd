@@ -13,7 +13,7 @@ aliases: ["Urwin Martikov"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 98
+BookSource: "Curse of Strahd p. 98"
 ---
 # [Urwin Martikov](2-Mechanics/CLI/bestiary/npc/urwin-martikov-cos.md)
 *Source: Curse of Strahd p. 98*  

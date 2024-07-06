@@ -11,7 +11,7 @@ aliases: ["Burnished Hart"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 211
+BookSource: "Mythic Odysseys of Theros p. 211"
 ---
 # [Burnished Hart](2-Mechanics/CLI/bestiary/construct/burnished-hart-mot.md)
 *Source: Mythic Odysseys of Theros p. 211*  

@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Beholder"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Beholder](2-Mechanics/CLI/bestiary/aberration/reduced-threat-beholder-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

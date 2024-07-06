@@ -12,7 +12,7 @@ aliases: ["Ayik Ur"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 211
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 211"
 ---
 # [Ayik Ur](2-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  

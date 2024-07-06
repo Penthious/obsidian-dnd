@@ -7,7 +7,7 @@ tags:
 aliases: ["Large gold bracelet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Large gold bracelet
 *Art object*  

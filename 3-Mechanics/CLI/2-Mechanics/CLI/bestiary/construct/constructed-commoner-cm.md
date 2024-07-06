@@ -11,7 +11,7 @@ aliases: ["Constructed Commoner"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 149
+BookSource: "Candlekeep Mysteries p. 149"
 ---
 # [Constructed Commoner](2-Mechanics/CLI/bestiary/construct/constructed-commoner-cm.md)
 *Source: Candlekeep Mysteries p. 149*  

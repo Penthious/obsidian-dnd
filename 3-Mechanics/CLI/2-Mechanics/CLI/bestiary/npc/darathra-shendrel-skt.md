@@ -12,7 +12,7 @@ aliases: ["Darathra Shendrel"]
 NoteIcon: npc
 BestiaryType: humanoid (Chondathan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 253
+BookSource: "Storm King's Thunder p. 253"
 ---
 # [Darathra Shendrel](2-Mechanics/CLI/bestiary/npc/darathra-shendrel-skt.md)
 *Source: Storm King's Thunder p. 253*  

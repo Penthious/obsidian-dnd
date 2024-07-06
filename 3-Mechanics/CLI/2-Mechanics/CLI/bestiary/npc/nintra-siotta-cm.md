@@ -12,7 +12,7 @@ aliases: ["Nintra Siotta"]
 NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 197
+BookSource: "Candlekeep Mysteries p. 197"
 ---
 # [Nintra Siotta](2-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md)
 *Source: Candlekeep Mysteries p. 197*  

@@ -11,7 +11,7 @@ aliases: ["Draconian Dreadnought"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 177
+BookSource: "Fizban's Treasury of Dragons p. 177"
 ---
 # [Draconian Dreadnought](2-Mechanics/CLI/bestiary/monstrosity/draconian-dreadnought-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 177*  

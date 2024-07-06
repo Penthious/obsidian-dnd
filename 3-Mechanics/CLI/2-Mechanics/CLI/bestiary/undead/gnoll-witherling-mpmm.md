@@ -15,7 +15,7 @@ aliases: ["Gnoll Witherling"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155"
 ---
 # [Gnoll Witherling](2-Mechanics/CLI/bestiary/undead/gnoll-witherling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Summon Fiend"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 112
+BookSource: "Tasha's Cauldron of Everything p. 112"
 ---
 # Summon Fiend
 *6th-level, Conjuration*  

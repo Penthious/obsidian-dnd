@@ -12,7 +12,7 @@ aliases: ["Rosavalda "Rose" Durst"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 217
+BookSource: "Curse of Strahd p. 217"
 ---
 # [Rosavalda "Rose" Durst](2-Mechanics/CLI/bestiary/npc/rosavalda-rose-durst-cos.md)
 *Source: Curse of Strahd p. 217*  

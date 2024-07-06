@@ -11,7 +11,7 @@ aliases: ["Flying Dagger"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 30
+BookSource: "Baldur's Gate: Descent Into Avernus p. 30"
 ---
 # [Flying Dagger](2-Mechanics/CLI/bestiary/construct/flying-dagger-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 30*  

@@ -12,7 +12,7 @@ aliases: ["Violet Fungus"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 138, Hoard of the Dragon Queen, Princes of the Apocalypse, Ghosts of Saltmarsh, Dragons of Stormwreck Isle. Available in the SRD.
+BookSource: "Monster Manual p. 138, Hoard of the Dragon Queen, Princes of the Apocalypse, Ghosts of Saltmarsh, Dragons of Stormwreck Isle. Available in the SRD."
 ---
 # [Violet Fungus](2-Mechanics/CLI/bestiary/plant/violet-fungus.md)
 *Source: Monster Manual p. 138, Hoard of the Dragon Queen, Princes of the Apocalypse, Ghosts of Saltmarsh, Dragons of Stormwreck Isle. Available in the SRD.*  

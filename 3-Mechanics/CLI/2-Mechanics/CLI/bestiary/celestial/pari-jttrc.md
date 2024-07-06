@@ -11,7 +11,7 @@ aliases: ["Pari"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 167
+BookSource: "Journeys through the Radiant Citadel p. 167"
 ---
 # [Pari](2-Mechanics/CLI/bestiary/celestial/pari-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 167*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Giant Size"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 236
+BookSource: "Storm King's Thunder p. 236"
 ---
 # Potion of Giant Size
 *Potion, legendary*  

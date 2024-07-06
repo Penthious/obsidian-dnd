@@ -11,7 +11,7 @@ aliases: ["Animated Tile Chimera"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 42
+BookSource: "The Rise of Tiamat p. 42"
 ---
 # [Animated Tile Chimera](2-Mechanics/CLI/bestiary/monstrosity/animated-tile-chimera-rot.md)
 *Source: The Rise of Tiamat p. 42*  

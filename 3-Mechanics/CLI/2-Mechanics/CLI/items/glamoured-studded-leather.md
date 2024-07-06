@@ -9,7 +9,7 @@ tags:
 aliases: ["Glamoured Studded Leather"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 172. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 172. Available in the SRD."
 ---
 # Glamoured Studded Leather
 *Light Armor, major, rare*  

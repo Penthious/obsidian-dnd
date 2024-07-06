@@ -11,7 +11,7 @@ aliases: ["Draconic Shard"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 181
+BookSource: "Fizban's Treasury of Dragons p. 181"
 ---
 # [Draconic Shard](2-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 181*  

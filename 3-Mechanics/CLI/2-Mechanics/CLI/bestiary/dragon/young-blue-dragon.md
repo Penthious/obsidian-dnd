@@ -13,7 +13,7 @@ aliases: ["Young Blue Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 91, Curse of Strahd, The Rise of Tiamat, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.
+BookSource: "Monster Manual p. 91, Curse of Strahd, The Rise of Tiamat, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Dragonlance: Shadow of the Dragon Queen. Available in the SRD."
 ---
 # [Young Blue Dragon](2-Mechanics/CLI/bestiary/dragon/young-blue-dragon.md)
 *Source: Monster Manual p. 91, Curse of Strahd, The Rise of Tiamat, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Mythic Odysseys of Theros, Dragonlance: Shadow of the Dragon Queen. Available in the SRD.*  

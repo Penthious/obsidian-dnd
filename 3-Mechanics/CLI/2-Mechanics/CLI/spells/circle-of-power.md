@@ -15,7 +15,7 @@ classes:
 aliases: ["Circle of Power"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 221
+BookSource: "Player's Handbook p. 221"
 ---
 # Circle of Power
 *5th-level, Abjuration*  

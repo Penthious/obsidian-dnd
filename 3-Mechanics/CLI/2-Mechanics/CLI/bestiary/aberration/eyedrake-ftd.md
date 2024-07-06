@@ -11,7 +11,7 @@ aliases: ["Eyedrake"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 199
+BookSource: "Fizban's Treasury of Dragons p. 199"
 ---
 # [Eyedrake](2-Mechanics/CLI/bestiary/aberration/eyedrake-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 199*  

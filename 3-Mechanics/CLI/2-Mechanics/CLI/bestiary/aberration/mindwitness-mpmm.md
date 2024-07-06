@@ -12,7 +12,7 @@ aliases: ["Mindwitness"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176"
 ---
 # [Mindwitness](2-Mechanics/CLI/bestiary/aberration/mindwitness-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Murgaxor's Elixir of Life"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 179
+BookSource: "Strixhaven: A Curriculum of Chaos p. 179"
 ---
 # Murgaxor's Elixir of Life
 *Adventuring Gear, unknown*  

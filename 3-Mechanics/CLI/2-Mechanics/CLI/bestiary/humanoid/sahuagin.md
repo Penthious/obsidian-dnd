@@ -13,7 +13,7 @@ aliases: ["Sahuagin"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Monster Manual p. 263, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.
+BookSource: "Monster Manual p. 263, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Sahuagin](2-Mechanics/CLI/bestiary/humanoid/sahuagin.md)
 *Source: Monster Manual p. 263, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  

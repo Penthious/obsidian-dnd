@@ -12,7 +12,7 @@ aliases: ["Raven Uth Vogler"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 53
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 53"
 ---
 # [Raven Uth Vogler](2-Mechanics/CLI/bestiary/npc/raven-uth-vogler-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 53*  

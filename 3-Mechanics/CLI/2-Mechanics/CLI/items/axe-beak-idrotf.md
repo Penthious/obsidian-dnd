@@ -7,7 +7,7 @@ tags:
 aliases: ["Axe Beak"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 20
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 20"
 ---
 # Axe Beak
 *Mount*  

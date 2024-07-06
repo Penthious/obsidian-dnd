@@ -9,7 +9,7 @@ tags:
 aliases: ["Unbreakable Arrow"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 139
+BookSource: "Xanathar's Guide to Everything p. 139"
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  

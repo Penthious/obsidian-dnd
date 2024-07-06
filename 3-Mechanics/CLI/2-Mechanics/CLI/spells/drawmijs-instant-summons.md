@@ -14,7 +14,7 @@ classes:
 aliases: ["Drawmij's Instant Summons"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 235. Available in the SRD (as 'Instant Summons').
+BookSource: "Player's Handbook p. 235. Available in the SRD (as 'Instant Summons')."
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

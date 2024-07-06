@@ -7,7 +7,7 @@ tags:
 aliases: ["Custom Background"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 126
+BookSource: "Player's Handbook p. 126"
 ---
 # Custom Background
 *Source: Player's Handbook p. 126*  

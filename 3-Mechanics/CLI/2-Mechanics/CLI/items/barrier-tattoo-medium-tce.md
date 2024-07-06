@@ -9,7 +9,7 @@ tags:
 aliases: ["Barrier Tattoo (Medium)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 122
+BookSource: "Tasha's Cauldron of Everything p. 122"
 ---
 # Barrier Tattoo (Medium)
 *Wondrous Item, rare (requires attunement)*  

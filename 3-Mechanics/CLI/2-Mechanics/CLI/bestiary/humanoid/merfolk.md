@@ -13,7 +13,7 @@ aliases: ["Merfolk"]
 NoteIcon: monster
 BestiaryType: humanoid (merfolk)
 SourceType: Bestiary
-BookSource: Monster Manual p. 218, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 218, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Merfolk](2-Mechanics/CLI/bestiary/humanoid/merfolk.md)
 *Source: Monster Manual p. 218, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

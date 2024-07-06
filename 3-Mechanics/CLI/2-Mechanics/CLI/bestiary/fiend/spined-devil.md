@@ -11,7 +11,7 @@ aliases: ["Spined Devil"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 78, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault
+BookSource: "Monster Manual p. 78, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault"
 ---
 # [Spined Devil](2-Mechanics/CLI/bestiary/fiend/spined-devil.md)
 *Source: Monster Manual p. 78, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault*  

@@ -12,7 +12,7 @@ aliases: ["Turlang"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 107
+BookSource: "Storm King's Thunder p. 107"
 ---
 # [Turlang](2-Mechanics/CLI/bestiary/npc/turlang-skt.md)
 *Source: Storm King's Thunder p. 107*  

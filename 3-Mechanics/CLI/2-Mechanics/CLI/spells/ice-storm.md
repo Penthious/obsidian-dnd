@@ -27,7 +27,7 @@ classes:
 aliases: ["Ice Storm"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 252. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 252. Available in the SRD and the Basic Rules."
 ---
 # Ice Storm
 *4th-level, Evocation*  

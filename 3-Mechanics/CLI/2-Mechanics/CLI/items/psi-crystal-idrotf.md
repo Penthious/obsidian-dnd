@@ -9,7 +9,7 @@ tags:
 aliases: ["Psi Crystal"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 315
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 315"
 ---
 # Psi Crystal
 *Wondrous Item, uncommon (requires attunement by a creature with an intelligence score of 3 or higher)*  

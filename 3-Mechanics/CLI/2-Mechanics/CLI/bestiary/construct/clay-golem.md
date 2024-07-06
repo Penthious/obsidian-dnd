@@ -11,7 +11,7 @@ aliases: ["Clay Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Monster Manual p. 168, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 168, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Clay Golem](2-Mechanics/CLI/bestiary/construct/clay-golem.md)
 *Source: Monster Manual p. 168, Curse of Strahd, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragonlance: Shadow of the Dragon Queen, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

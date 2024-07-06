@@ -12,7 +12,7 @@ aliases: ["Tlincalli"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193"
 ---
 # [Tlincalli](2-Mechanics/CLI/bestiary/monstrosity/tlincalli-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*  

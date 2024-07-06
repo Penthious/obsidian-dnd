@@ -12,7 +12,7 @@ aliases: ["Istrid Horn"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 199
+BookSource: "Waterdeep: Dragon Heist p. 199"
 ---
 # [Istrid Horn](2-Mechanics/CLI/bestiary/npc/istrid-horn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 199*  

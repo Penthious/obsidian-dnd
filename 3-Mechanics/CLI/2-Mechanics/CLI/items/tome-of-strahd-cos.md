@@ -7,7 +7,7 @@ tags:
 aliases: ["Tome of Strahd"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 221
+BookSource: "Curse of Strahd p. 221"
 ---
 # Tome of Strahd
 *Adventuring Gear*  

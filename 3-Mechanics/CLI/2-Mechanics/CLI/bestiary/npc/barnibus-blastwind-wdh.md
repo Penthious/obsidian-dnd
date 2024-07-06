@@ -12,7 +12,7 @@ aliases: ["Barnibus Blastwind"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 195
+BookSource: "Waterdeep: Dragon Heist p. 195"
 ---
 # [Barnibus Blastwind](2-Mechanics/CLI/bestiary/npc/barnibus-blastwind-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 195*  

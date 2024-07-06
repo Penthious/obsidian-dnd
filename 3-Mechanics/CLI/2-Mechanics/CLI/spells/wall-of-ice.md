@@ -13,7 +13,7 @@ classes:
 aliases: ["Wall of Ice"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 285. Available in the SRD.
+BookSource: "Player's Handbook p. 285. Available in the SRD."
 ---
 # Wall of Ice
 *6th-level, Evocation*  

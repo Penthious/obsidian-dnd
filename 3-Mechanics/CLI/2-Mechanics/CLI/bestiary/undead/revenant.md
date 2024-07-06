@@ -17,7 +17,7 @@ aliases: ["Revenant"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 259, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 259, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Revenant](2-Mechanics/CLI/bestiary/undead/revenant.md)
 *Source: Monster Manual p. 259, Curse of Strahd, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk*  

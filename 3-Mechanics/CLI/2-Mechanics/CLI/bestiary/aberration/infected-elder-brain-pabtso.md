@@ -11,7 +11,7 @@ aliases: ["Infected Elder Brain"]
 NoteIcon: monster
 BestiaryType: aberration (mind flayer)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 159
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 159"
 ---
 # [Infected Elder Brain](2-Mechanics/CLI/bestiary/aberration/infected-elder-brain-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 159*  

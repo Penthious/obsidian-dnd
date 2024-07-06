@@ -11,7 +11,7 @@ aliases: ["Nightmare Shepherd"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 221
+BookSource: "Mythic Odysseys of Theros p. 221"
 ---
 # [Nightmare Shepherd](2-Mechanics/CLI/bestiary/fiend/nightmare-shepherd-mot.md)
 *Source: Mythic Odysseys of Theros p. 221*  

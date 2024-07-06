@@ -35,7 +35,7 @@ classes:
 aliases: ["Banishment"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 217. Available in the SRD.
+BookSource: "Player's Handbook p. 217. Available in the SRD."
 ---
 # Banishment
 *4th-level, Abjuration*  

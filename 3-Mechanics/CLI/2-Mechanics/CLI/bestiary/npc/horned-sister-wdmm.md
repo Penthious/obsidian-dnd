@@ -12,7 +12,7 @@ aliases: ["Horned Sister"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 118
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 118"
 ---
 # [Horned Sister](2-Mechanics/CLI/bestiary/npc/horned-sister-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 118*  

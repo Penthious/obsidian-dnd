@@ -11,7 +11,7 @@ classes:
 aliases: ["Wall of Thorns"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 287. Available in the SRD.
+BookSource: "Player's Handbook p. 287. Available in the SRD."
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  

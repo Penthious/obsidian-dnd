@@ -9,7 +9,7 @@ tags:
 aliases: ["Rod of Security"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 197. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 197. Available in the SRD."
 ---
 # Rod of Security
 *Rod, major, very rare*  

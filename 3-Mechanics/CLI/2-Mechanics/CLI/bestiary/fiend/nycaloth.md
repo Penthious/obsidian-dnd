@@ -11,7 +11,7 @@ aliases: ["Nycaloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Monster Manual p. 314, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 314, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Nycaloth](2-Mechanics/CLI/bestiary/fiend/nycaloth.md)
 *Source: Monster Manual p. 314, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

@@ -11,7 +11,7 @@ aliases: ["Dragon Tortoise"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 205
+BookSource: "Candlekeep Mysteries p. 205"
 ---
 # [Dragon Tortoise](2-Mechanics/CLI/bestiary/dragon/dragon-tortoise-cm.md)
 *Source: Candlekeep Mysteries p. 205*  

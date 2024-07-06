@@ -7,7 +7,7 @@ tags:
 aliases: ["White Ghost Orchid Seed"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Journeys through the Radiant Citadel p. 212
+BookSource: "Journeys through the Radiant Citadel p. 212"
 ---
 # White Ghost Orchid Seed
 *Adventuring Gear*  

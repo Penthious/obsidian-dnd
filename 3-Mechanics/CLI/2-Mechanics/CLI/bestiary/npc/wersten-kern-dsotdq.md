@@ -12,7 +12,7 @@ aliases: ["Wersten Kern"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 209
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 209"
 ---
 # [Wersten Kern](2-Mechanics/CLI/bestiary/npc/wersten-kern-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 209*  

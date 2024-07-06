@@ -9,7 +9,7 @@ tags:
 aliases: ["Quaal's Feather Token, Fan"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Fan').
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Fan')."
 ---
 # Quaal's Feather Token, Fan
 *Wondrous Item, minor, rare*  

@@ -11,7 +11,7 @@ aliases: ["Bestial Spirit (Air, 4th-Level Spell)"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 109
+BookSource: "Tasha's Cauldron of Everything p. 109"
 ---
 # [Bestial Spirit (Air, 4th-Level Spell)](2-Mechanics/CLI/bestiary/beast/bestial-spirit-air-4th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  

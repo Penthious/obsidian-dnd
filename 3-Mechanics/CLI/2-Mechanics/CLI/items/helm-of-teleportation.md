@@ -10,7 +10,7 @@ tags:
 aliases: ["Helm of Teleportation"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 174. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 174. Available in the SRD."
 ---
 # Helm of Teleportation
 *Wondrous Item, major, rare (requires attunement)*  

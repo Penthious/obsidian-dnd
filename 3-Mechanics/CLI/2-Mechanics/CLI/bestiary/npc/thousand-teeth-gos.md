@@ -12,7 +12,7 @@ aliases: ["Thousand Teeth"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 256
+BookSource: "Ghosts of Saltmarsh p. 256"
 ---
 # [Thousand Teeth](2-Mechanics/CLI/bestiary/npc/thousand-teeth-gos.md)
 *Source: Ghosts of Saltmarsh p. 256*  

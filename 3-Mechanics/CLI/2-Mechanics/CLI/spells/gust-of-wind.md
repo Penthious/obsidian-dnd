@@ -25,7 +25,7 @@ classes:
 aliases: ["Gust of Wind"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 248. Available in the SRD.
+BookSource: "Player's Handbook p. 248. Available in the SRD."
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

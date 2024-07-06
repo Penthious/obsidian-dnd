@@ -12,7 +12,7 @@ aliases: ["Viln Tirin"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 202
+BookSource: "Out of the Abyss p. 202"
 ---
 # [Viln Tirin](2-Mechanics/CLI/bestiary/npc/viln-tirin-oota.md)
 *Source: Out of the Abyss p. 202*  

@@ -15,7 +15,7 @@ classes:
 aliases: ["Produce Flame"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 269. Available in the SRD.
+BookSource: "Player's Handbook p. 269. Available in the SRD."
 ---
 # Produce Flame
 *cantrip, Conjuration*  

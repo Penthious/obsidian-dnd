@@ -14,7 +14,7 @@ tags:
 aliases: ["Oathbow"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 183. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 183. Available in the SRD."
 ---
 # Oathbow
 *Ranged Weapon, major, very rare (requires attunement)*  

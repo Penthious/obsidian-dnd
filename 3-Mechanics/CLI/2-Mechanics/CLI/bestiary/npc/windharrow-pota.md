@@ -12,7 +12,7 @@ aliases: ["Windharrow"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 192
+BookSource: "Princes of the Apocalypse p. 192"
 ---
 # [Windharrow](2-Mechanics/CLI/bestiary/npc/windharrow-pota.md)
 *Source: Princes of the Apocalypse p. 192*  

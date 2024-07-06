@@ -7,7 +7,7 @@ tags:
 aliases: ["Harengon"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 22
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 22"
 ---
 # Harengon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 22*  

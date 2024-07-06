@@ -12,7 +12,7 @@ aliases: ["Grazilaxx"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 29
+BookSource: "Out of the Abyss p. 29"
 ---
 # [Grazilaxx](2-Mechanics/CLI/bestiary/npc/grazilaxx-oota.md)
 *Source: Out of the Abyss p. 29*  

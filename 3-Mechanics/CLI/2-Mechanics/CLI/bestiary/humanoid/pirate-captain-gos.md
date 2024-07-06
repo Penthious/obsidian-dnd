@@ -11,7 +11,7 @@ aliases: ["Pirate Captain"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 247
+BookSource: "Ghosts of Saltmarsh p. 247"
 ---
 # [Pirate Captain](2-Mechanics/CLI/bestiary/humanoid/pirate-captain-gos.md)
 *Source: Ghosts of Saltmarsh p. 247*  

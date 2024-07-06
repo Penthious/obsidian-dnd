@@ -12,7 +12,7 @@ aliases: ["Mirt"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 211
+BookSource: "Waterdeep: Dragon Heist p. 211"
 ---
 # [Mirt](2-Mechanics/CLI/bestiary/npc/mirt-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 211*  

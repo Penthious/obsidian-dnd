@@ -9,7 +9,7 @@ tags:
 aliases: ["Horn of Valhalla, Iron"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 175. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 175. Available in the SRD."
 ---
 # Horn of Valhalla, Iron
 *Wondrous Item, major, legendary*  

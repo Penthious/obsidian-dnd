@@ -11,7 +11,7 @@ aliases: ["Oracle"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 238
+BookSource: "Mythic Odysseys of Theros p. 238"
 ---
 # [Oracle](2-Mechanics/CLI/bestiary/humanoid/oracle-mot.md)
 *Source: Mythic Odysseys of Theros p. 238*  

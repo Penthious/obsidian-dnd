@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Dragon's Majesty"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 24
+BookSource: "Fizban's Treasury of Dragons p. 24"
 ---
 # Potion of Dragon's Majesty
 *Potion, legendary*  

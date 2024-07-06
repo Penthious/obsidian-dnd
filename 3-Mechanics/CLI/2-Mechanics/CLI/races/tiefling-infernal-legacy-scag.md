@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Infernal Legacy)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Sword Coast Adventurer's Guide p. 118
+BookSource: "Sword Coast Adventurer's Guide p. 118"
 ---
 # Tiefling (Infernal Legacy)
 *Source: Sword Coast Adventurer's Guide p. 118*  

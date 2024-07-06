@@ -9,7 +9,7 @@ tags:
 aliases: ["Wakened Dragon's Wrath Weapon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 25
+BookSource: "Fizban's Treasury of Dragons p. 25"
 ---
 # Wakened Dragon's Wrath Weapon
 *Generic Variant, very rare (requires attunement)*  

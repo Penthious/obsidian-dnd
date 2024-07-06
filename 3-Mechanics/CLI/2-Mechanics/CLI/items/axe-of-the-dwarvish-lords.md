@@ -12,7 +12,7 @@ tags:
 aliases: ["Axe of the Dwarvish Lords"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 221
+BookSource: "Dungeon Master's Guide p. 221"
 ---
 # Axe of the Dwarvish Lords
 *Melee Weapon, artifact (requires attunement)*  

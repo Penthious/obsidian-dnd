@@ -12,7 +12,7 @@ aliases: ["Xocopol"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 112
+BookSource: "Journeys through the Radiant Citadel p. 112"
 ---
 # [Xocopol](2-Mechanics/CLI/bestiary/npc/xocopol-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 112*  

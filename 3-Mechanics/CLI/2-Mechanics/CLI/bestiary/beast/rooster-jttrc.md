@@ -11,7 +11,7 @@ aliases: ["Rooster"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 206
+BookSource: "Journeys through the Radiant Citadel p. 206"
 ---
 # [Rooster](2-Mechanics/CLI/bestiary/beast/rooster-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 206*  

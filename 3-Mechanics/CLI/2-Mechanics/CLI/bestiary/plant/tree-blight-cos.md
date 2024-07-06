@@ -11,7 +11,7 @@ aliases: ["Tree Blight"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 230, The Wild Beyond the Witchlight
+BookSource: "Curse of Strahd p. 230, The Wild Beyond the Witchlight"
 ---
 # [Tree Blight](2-Mechanics/CLI/bestiary/plant/tree-blight-cos.md)
 *Source: Curse of Strahd p. 230, The Wild Beyond the Witchlight*  

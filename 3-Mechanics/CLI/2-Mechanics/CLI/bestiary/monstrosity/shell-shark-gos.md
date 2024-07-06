@@ -11,7 +11,7 @@ aliases: ["Shell Shark"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 252
+BookSource: "Ghosts of Saltmarsh p. 252"
 ---
 # [Shell Shark](2-Mechanics/CLI/bestiary/monstrosity/shell-shark-gos.md)
 *Source: Ghosts of Saltmarsh p. 252*  

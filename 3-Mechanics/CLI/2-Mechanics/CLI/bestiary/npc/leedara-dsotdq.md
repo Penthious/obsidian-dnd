@@ -12,7 +12,7 @@ aliases: ["Leedara"]
 NoteIcon: npc
 BestiaryType: undead (elf)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 58
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 58"
 ---
 # [Leedara](2-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 58*  

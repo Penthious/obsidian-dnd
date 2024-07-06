@@ -11,7 +11,7 @@ aliases: ["Abhorrent Overlord"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 219
+BookSource: "Mythic Odysseys of Theros p. 219"
 ---
 # [Abhorrent Overlord](2-Mechanics/CLI/bestiary/fiend/abhorrent-overlord-mot.md)
 *Source: Mythic Odysseys of Theros p. 219*  

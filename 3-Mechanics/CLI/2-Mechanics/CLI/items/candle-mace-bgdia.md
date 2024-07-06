@@ -8,7 +8,7 @@ tags:
 aliases: ["Candle Mace"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 39
+BookSource: "Baldur's Gate: Descent Into Avernus p. 39"
 ---
 # Candle Mace
 *Melee Weapon, unknown (magic)*  

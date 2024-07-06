@@ -9,7 +9,7 @@ tags:
 aliases: ["Slumbering Dragon Vessel"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 27
+BookSource: "Fizban's Treasury of Dragons p. 27"
 ---
 # Slumbering Dragon Vessel
 *Wondrous Item, uncommon (requires attunement)*  

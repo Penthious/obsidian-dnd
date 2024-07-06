@@ -7,7 +7,7 @@ tags:
 aliases: ["Witchlight Hand"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: The Wild Beyond the Witchlight p. 11
+BookSource: "The Wild Beyond the Witchlight p. 11"
 ---
 # Witchlight Hand
 *Source: The Wild Beyond the Witchlight p. 11*  

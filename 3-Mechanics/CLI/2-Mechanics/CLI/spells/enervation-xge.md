@@ -15,7 +15,7 @@ classes:
 aliases: ["Enervation"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 155
+BookSource: "Xanathar's Guide to Everything p. 155"
 ---
 # Enervation
 *5th-level, Necromancy*  

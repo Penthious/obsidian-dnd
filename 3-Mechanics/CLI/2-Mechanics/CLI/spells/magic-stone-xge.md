@@ -19,7 +19,7 @@ classes:
 aliases: ["Magic Stone"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 160
+BookSource: "Xanathar's Guide to Everything p. 160"
 ---
 # Magic Stone
 *cantrip, Transmutation*  

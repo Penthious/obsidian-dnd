@@ -11,7 +11,7 @@ aliases: ["Zhent Martial Arts Adept"]
 NoteIcon: monster
 BestiaryType: humanoid (Lightfoot halfling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 160
+BookSource: "Waterdeep: Dragon Heist p. 160"
 ---
 # [Zhent Martial Arts Adept](2-Mechanics/CLI/bestiary/humanoid/zhent-martial-arts-adept-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 160*  

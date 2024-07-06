@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Wight"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Wight](2-Mechanics/CLI/bestiary/undead/reduced-threat-wight-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

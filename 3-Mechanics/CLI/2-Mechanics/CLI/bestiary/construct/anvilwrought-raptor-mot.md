@@ -11,7 +11,7 @@ aliases: ["Anvilwrought Raptor"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 209
+BookSource: "Mythic Odysseys of Theros p. 209"
 ---
 # [Anvilwrought Raptor](2-Mechanics/CLI/bestiary/construct/anvilwrought-raptor-mot.md)
 *Source: Mythic Odysseys of Theros p. 209*  

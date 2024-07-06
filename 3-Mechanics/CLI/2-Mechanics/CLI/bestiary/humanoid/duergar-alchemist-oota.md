@@ -11,7 +11,7 @@ aliases: ["Duergar Alchemist"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 76
+BookSource: "Out of the Abyss p. 76"
 ---
 # [Duergar Alchemist](2-Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota.md)
 *Source: Out of the Abyss p. 76*  

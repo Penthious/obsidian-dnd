@@ -14,7 +14,7 @@ aliases: ["Yeth Hound"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201"
 ---
 # [Yeth Hound](2-Mechanics/CLI/bestiary/fey/yeth-hound-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*  

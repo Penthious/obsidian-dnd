@@ -12,7 +12,7 @@ aliases: ["Sinensa"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 45
+BookSource: "Dragons of Stormwreck Isle p. 45"
 ---
 # [Sinensa](2-Mechanics/CLI/bestiary/npc/sinensa-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 45*  

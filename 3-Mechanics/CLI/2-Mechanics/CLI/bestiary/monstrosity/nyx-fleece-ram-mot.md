@@ -11,7 +11,7 @@ aliases: ["Nyx-Fleece Ram"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 233
+BookSource: "Mythic Odysseys of Theros p. 233"
 ---
 # [Nyx-Fleece Ram](2-Mechanics/CLI/bestiary/monstrosity/nyx-fleece-ram-mot.md)
 *Source: Mythic Odysseys of Theros p. 233*  

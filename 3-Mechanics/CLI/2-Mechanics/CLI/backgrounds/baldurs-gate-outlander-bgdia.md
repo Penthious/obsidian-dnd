@@ -7,7 +7,7 @@ tags:
 aliases: ["Baldur's Gate Outlander"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Baldur's Gate: Descent Into Avernus p. 204
+BookSource: "Baldur's Gate: Descent Into Avernus p. 204"
 ---
 # Baldur's Gate Outlander
 *Source: Baldur's Gate: Descent Into Avernus p. 204*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Iron Flask"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 178. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 178. Available in the SRD."
 ---
 # Iron Flask
 *Wondrous Item, major, legendary*  

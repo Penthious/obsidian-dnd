@@ -12,7 +12,7 @@ aliases: ["Langdedrosa Cyanwrath"]
 NoteIcon: npc
 BestiaryType: humanoid (half-dragon)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 91
+BookSource: "Hoard of the Dragon Queen p. 91"
 ---
 # [Langdedrosa Cyanwrath](2-Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 91*  

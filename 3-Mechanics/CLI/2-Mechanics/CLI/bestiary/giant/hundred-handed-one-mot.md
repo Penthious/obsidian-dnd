@@ -11,7 +11,7 @@ aliases: ["Hundred-Handed One"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 225
+BookSource: "Mythic Odysseys of Theros p. 225"
 ---
 # [Hundred-Handed One](2-Mechanics/CLI/bestiary/giant/hundred-handed-one-mot.md)
 *Source: Mythic Odysseys of Theros p. 225*  

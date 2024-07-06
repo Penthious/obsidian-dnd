@@ -12,7 +12,7 @@ aliases: ["White Jade Emperor"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 197
+BookSource: "Journeys through the Radiant Citadel p. 197"
 ---
 # [White Jade Emperor](2-Mechanics/CLI/bestiary/npc/white-jade-emperor-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 197*  

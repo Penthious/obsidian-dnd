@@ -27,7 +27,7 @@ classes:
 aliases: ["Haste"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 250. Available in the SRD.
+BookSource: "Player's Handbook p. 250. Available in the SRD."
 ---
 # Haste
 *3rd-level, Transmutation*  

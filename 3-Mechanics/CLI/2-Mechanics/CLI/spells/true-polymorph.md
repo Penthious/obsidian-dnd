@@ -17,7 +17,7 @@ classes:
 aliases: ["True Polymorph"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 283. Available in the SRD.
+BookSource: "Player's Handbook p. 283. Available in the SRD."
 ---
 # True Polymorph
 *9th-level, Transmutation*  

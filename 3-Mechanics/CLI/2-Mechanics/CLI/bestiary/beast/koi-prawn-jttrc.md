@@ -11,7 +11,7 @@ aliases: ["Koi Prawn"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 26
+BookSource: "Journeys through the Radiant Citadel p. 26"
 ---
 # [Koi Prawn](2-Mechanics/CLI/bestiary/beast/koi-prawn-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 26*  

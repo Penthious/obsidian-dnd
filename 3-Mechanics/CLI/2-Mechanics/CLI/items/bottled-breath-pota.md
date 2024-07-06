@@ -8,7 +8,7 @@ tags:
 aliases: ["Bottled Breath"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 222
+BookSource: "Princes of the Apocalypse p. 222"
 ---
 # Bottled Breath
 *Potion, uncommon*  

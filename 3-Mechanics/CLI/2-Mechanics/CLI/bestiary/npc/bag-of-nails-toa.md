@@ -12,7 +12,7 @@ aliases: ["Bag of Nails"]
 NoteIcon: npc
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 102
+BookSource: "Tomb of Annihilation p. 102"
 ---
 # [Bag of Nails](2-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md)
 *Source: Tomb of Annihilation p. 102*  

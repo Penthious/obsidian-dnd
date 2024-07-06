@@ -12,7 +12,7 @@ aliases: ["Mortlock Vanthampur"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 26
+BookSource: "Baldur's Gate: Descent Into Avernus p. 26"
 ---
 # [Mortlock Vanthampur](2-Mechanics/CLI/bestiary/npc/mortlock-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 26*  

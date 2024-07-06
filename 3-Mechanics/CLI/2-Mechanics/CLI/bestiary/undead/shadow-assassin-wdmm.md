@@ -11,7 +11,7 @@ aliases: ["Shadow Assassin"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 316
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 316"
 ---
 # [Shadow Assassin](2-Mechanics/CLI/bestiary/undead/shadow-assassin-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 316*  

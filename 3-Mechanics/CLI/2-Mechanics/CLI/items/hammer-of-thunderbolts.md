@@ -12,7 +12,7 @@ tags:
 aliases: ["Hammer of Thunderbolts"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 173. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 173. Available in the SRD."
 ---
 # Hammer of Thunderbolts
 *Melee Weapon, major, legendary*  

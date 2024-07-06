@@ -11,7 +11,7 @@ aliases: ["Knight of the Black Sword"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 259
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 259"
 ---
 # [Knight of the Black Sword](2-Mechanics/CLI/bestiary/humanoid/knight-of-the-black-sword-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 259*  

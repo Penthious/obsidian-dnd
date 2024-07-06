@@ -15,7 +15,7 @@ aliases: ["Constrictor Snake"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 320, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 320, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules."
 ---
 # [Constrictor Snake](2-Mechanics/CLI/bestiary/beast/constrictor-snake.md)
 *Source: Monster Manual p. 320, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage. Available in the SRD and the Basic Rules.*  

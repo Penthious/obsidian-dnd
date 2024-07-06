@@ -12,7 +12,7 @@ aliases: ["Nanny Pu'pu"]
 NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 72
+BookSource: "Tomb of Annihilation p. 72"
 ---
 # [Nanny Pu'pu](2-Mechanics/CLI/bestiary/npc/nanny-pupu-toa.md)
 *Source: Tomb of Annihilation p. 72*  

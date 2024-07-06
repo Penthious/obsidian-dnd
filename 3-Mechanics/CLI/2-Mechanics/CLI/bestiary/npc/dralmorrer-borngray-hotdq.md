@@ -12,7 +12,7 @@ aliases: ["Dralmorrer Borngray"]
 NoteIcon: npc
 BestiaryType: humanoid (High elf)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 90
+BookSource: "Hoard of the Dragon Queen p. 90"
 ---
 # [Dralmorrer Borngray](2-Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 90*  

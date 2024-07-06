@@ -8,7 +8,7 @@ tags:
 aliases: ["Soul Bag"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Monster Manual p. 179
+BookSource: "Monster Manual p. 179"
 ---
 # Soul Bag
 *Other, very rare*  

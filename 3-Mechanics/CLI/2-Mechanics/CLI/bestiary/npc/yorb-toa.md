@@ -12,7 +12,7 @@ aliases: ["Yorb"]
 NoteIcon: npc
 BestiaryType: humanoid (grung)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 108
+BookSource: "Tomb of Annihilation p. 108"
 ---
 # [Yorb](2-Mechanics/CLI/bestiary/npc/yorb-toa.md)
 *Source: Tomb of Annihilation p. 108*  

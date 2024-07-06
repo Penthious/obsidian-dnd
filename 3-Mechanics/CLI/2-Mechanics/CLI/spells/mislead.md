@@ -19,7 +19,7 @@ classes:
 aliases: ["Mislead"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 260. Available in the SRD.
+BookSource: "Player's Handbook p. 260. Available in the SRD."
 ---
 # Mislead
 *5th-level, Illusion*  

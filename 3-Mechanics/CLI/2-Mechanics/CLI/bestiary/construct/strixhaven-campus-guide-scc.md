@@ -11,7 +11,7 @@ aliases: ["Strixhaven Campus Guide"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 217
+BookSource: "Strixhaven: A Curriculum of Chaos p. 217"
 ---
 # [Strixhaven Campus Guide](2-Mechanics/CLI/bestiary/construct/strixhaven-campus-guide-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 217*  

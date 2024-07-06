@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragon-Touched Focus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 26
+BookSource: "Fizban's Treasury of Dragons p. 26"
 ---
 # Dragon-Touched Focus
 *Wondrous Item, varies (requires attunement by a spellcaster)*  

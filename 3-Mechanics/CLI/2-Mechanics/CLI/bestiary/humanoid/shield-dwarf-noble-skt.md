@@ -11,7 +11,7 @@ aliases: ["Shield Dwarf Noble"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 78
+BookSource: "Storm King's Thunder p. 78"
 ---
 # [Shield Dwarf Noble](2-Mechanics/CLI/bestiary/humanoid/shield-dwarf-noble-skt.md)
 *Source: Storm King's Thunder p. 78*  

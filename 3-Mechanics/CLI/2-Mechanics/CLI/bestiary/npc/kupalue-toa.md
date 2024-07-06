@@ -12,7 +12,7 @@ aliases: ["Kupalué"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 35
+BookSource: "Tomb of Annihilation p. 35"
 ---
 # [Kupalué](2-Mechanics/CLI/bestiary/npc/kupalue-toa.md)
 *Source: Tomb of Annihilation p. 35*  

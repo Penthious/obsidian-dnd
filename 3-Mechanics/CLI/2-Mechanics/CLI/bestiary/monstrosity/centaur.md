@@ -13,7 +13,7 @@ aliases: ["Centaur"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 38, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 38, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Centaur](2-Mechanics/CLI/bestiary/monstrosity/centaur.md)
 *Source: Monster Manual p. 38, Storm King's Thunder, Tales from the Yawning Portal, Ghosts of Saltmarsh, Mythic Odysseys of Theros, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

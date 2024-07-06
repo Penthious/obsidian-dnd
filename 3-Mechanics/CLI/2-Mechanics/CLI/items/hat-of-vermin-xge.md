@@ -9,7 +9,7 @@ tags:
 aliases: ["Hat of Vermin"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 137
+BookSource: "Xanathar's Guide to Everything p. 137"
 ---
 # Hat of Vermin
 *Wondrous Item, minor, common*  

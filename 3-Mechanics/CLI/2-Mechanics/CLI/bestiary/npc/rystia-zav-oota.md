@@ -12,7 +12,7 @@ aliases: ["Rystia Zav"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 135
+BookSource: "Out of the Abyss p. 135"
 ---
 # [Rystia Zav](2-Mechanics/CLI/bestiary/npc/rystia-zav-oota.md)
 *Source: Out of the Abyss p. 135*  

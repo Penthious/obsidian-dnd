@@ -23,7 +23,7 @@ classes:
 aliases: ["Longstrider"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 256. Available in the SRD.
+BookSource: "Player's Handbook p. 256. Available in the SRD."
 ---
 # Longstrider
 *1st-level, Transmutation*  

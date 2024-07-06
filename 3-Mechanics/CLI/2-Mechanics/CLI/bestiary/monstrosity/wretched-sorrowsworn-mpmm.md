@@ -14,7 +14,7 @@ aliases: ["Wretched Sorrowsworn"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233"
 ---
 # [Wretched Sorrowsworn](2-Mechanics/CLI/bestiary/monstrosity/wretched-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  

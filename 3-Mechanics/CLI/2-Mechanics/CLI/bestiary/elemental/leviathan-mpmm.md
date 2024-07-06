@@ -13,7 +13,7 @@ aliases: ["Leviathan"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198"
 ---
 # [Leviathan](2-Mechanics/CLI/bestiary/elemental/leviathan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*  

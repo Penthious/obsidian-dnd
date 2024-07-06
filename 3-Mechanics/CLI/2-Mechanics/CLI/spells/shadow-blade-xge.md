@@ -19,7 +19,7 @@ classes:
 aliases: ["Shadow Blade"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 164
+BookSource: "Xanathar's Guide to Everything p. 164"
 ---
 # Shadow Blade
 *2nd-level, Illusion*  

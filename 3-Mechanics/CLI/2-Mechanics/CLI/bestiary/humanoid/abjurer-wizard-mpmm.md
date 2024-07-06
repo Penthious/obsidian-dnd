@@ -12,7 +12,7 @@ aliases: ["Abjurer Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209"
 ---
 # [Abjurer Wizard](2-Mechanics/CLI/bestiary/humanoid/abjurer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209*  

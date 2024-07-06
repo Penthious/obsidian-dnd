@@ -13,7 +13,7 @@ aliases: ["Lizard King"]
 NoteIcon: monster
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
-BookSource: Monster Manual p. 205, Princes of the Apocalypse, Ghosts of Saltmarsh, Tasha's Cauldron of Everything
+BookSource: "Monster Manual p. 205, Princes of the Apocalypse, Ghosts of Saltmarsh, Tasha's Cauldron of Everything"
 ---
 # [Lizard King](2-Mechanics/CLI/bestiary/humanoid/lizard-king.md)
 *Source: Monster Manual p. 205, Princes of the Apocalypse, Ghosts of Saltmarsh, Tasha's Cauldron of Everything*  

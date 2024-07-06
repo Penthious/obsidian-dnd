@@ -11,7 +11,7 @@ aliases: ["Lords' Alliance Spy"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 131
+BookSource: "Out of the Abyss p. 131"
 ---
 # [Lords' Alliance Spy](2-Mechanics/CLI/bestiary/humanoid/lords-alliance-spy-oota.md)
 *Source: Out of the Abyss p. 131*  

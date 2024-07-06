@@ -11,7 +11,7 @@ aliases: ["Chimeric Rat"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 246
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 246"
 ---
 # [Chimeric Rat](2-Mechanics/CLI/bestiary/beast/chimeric-rat-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  

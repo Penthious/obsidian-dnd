@@ -7,7 +7,7 @@ tags:
 aliases: ["Smuggler"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Ghosts of Saltmarsh p. 34
+BookSource: "Ghosts of Saltmarsh p. 34"
 ---
 # Smuggler
 *Source: Ghosts of Saltmarsh p. 34*  

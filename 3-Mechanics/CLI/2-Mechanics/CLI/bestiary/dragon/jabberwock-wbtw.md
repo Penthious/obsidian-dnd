@@ -11,7 +11,7 @@ aliases: ["Jabberwock"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 236
+BookSource: "The Wild Beyond the Witchlight p. 236"
 ---
 # [Jabberwock](2-Mechanics/CLI/bestiary/dragon/jabberwock-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 236*  

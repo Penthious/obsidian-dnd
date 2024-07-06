@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Watchful Rest"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 62
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 62"
 ---
 # Potion of Watchful Rest
 *Potion, common*  

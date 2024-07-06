@@ -14,7 +14,7 @@ aliases: ["Pegasus"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Monster Manual p. 250, Mythic Odysseys of Theros, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 250, Mythic Odysseys of Theros, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Pegasus](2-Mechanics/CLI/bestiary/celestial/pegasus.md)
 *Source: Monster Manual p. 250, Mythic Odysseys of Theros, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  

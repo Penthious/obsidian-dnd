@@ -13,7 +13,7 @@ classes:
 aliases: ["Prismatic Wall"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 267. Available in the SRD.
+BookSource: "Player's Handbook p. 267. Available in the SRD."
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

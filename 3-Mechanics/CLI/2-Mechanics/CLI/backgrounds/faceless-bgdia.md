@@ -7,7 +7,7 @@ tags:
 aliases: ["Faceless"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Baldur's Gate: Descent Into Avernus p. 203
+BookSource: "Baldur's Gate: Descent Into Avernus p. 203"
 ---
 # Faceless
 *Source: Baldur's Gate: Descent Into Avernus p. 203*  

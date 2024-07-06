@@ -12,7 +12,7 @@ aliases: ["Donavich"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 46
+BookSource: "Curse of Strahd p. 46"
 ---
 # [Donavich](2-Mechanics/CLI/bestiary/npc/donavich-cos.md)
 *Source: Curse of Strahd p. 46*  

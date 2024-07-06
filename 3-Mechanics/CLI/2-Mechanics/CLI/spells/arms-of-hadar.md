@@ -13,7 +13,7 @@ classes:
 aliases: ["Arms of Hadar"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 215
+BookSource: "Player's Handbook p. 215"
 ---
 # Arms of Hadar
 *1st-level, Conjuration*  

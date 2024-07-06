@@ -15,7 +15,7 @@ classes:
 aliases: ["Dawn"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 153
+BookSource: "Xanathar's Guide to Everything p. 153"
 ---
 # Dawn
 *5th-level, Evocation*  

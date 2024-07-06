@@ -11,7 +11,7 @@ aliases: ["Malformed Kraken"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 239
+BookSource: "Tales from the Yawning Portal p. 239"
 ---
 # [Malformed Kraken](2-Mechanics/CLI/bestiary/monstrosity/malformed-kraken-tftyp.md)
 *Source: Tales from the Yawning Portal p. 239*  

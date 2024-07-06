@@ -9,7 +9,7 @@ tags:
 aliases: ["Outer Essence Shard"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 133
+BookSource: "Tasha's Cauldron of Everything p. 133"
 ---
 # Outer Essence Shard
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

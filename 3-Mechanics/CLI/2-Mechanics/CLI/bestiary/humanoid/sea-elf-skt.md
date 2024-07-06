@@ -11,7 +11,7 @@ aliases: ["Sea Elf"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 70
+BookSource: "Storm King's Thunder p. 70"
 ---
 # [Sea Elf](2-Mechanics/CLI/bestiary/humanoid/sea-elf-skt.md)
 *Source: Storm King's Thunder p. 70*  

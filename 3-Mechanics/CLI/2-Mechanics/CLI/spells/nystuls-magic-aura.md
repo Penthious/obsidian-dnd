@@ -17,7 +17,7 @@ classes:
 aliases: ["Nystul's Magic Aura"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 263. Available in the SRD (as 'Arcanist's Magic Aura').
+BookSource: "Player's Handbook p. 263. Available in the SRD (as 'Arcanist's Magic Aura')."
 ---
 # Nystul's Magic Aura
 *2nd-level, Illusion*  

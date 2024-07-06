@@ -11,7 +11,7 @@ aliases: ["Amnizu"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164"
 ---
 # [Amnizu](2-Mechanics/CLI/bestiary/fiend/amnizu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*  

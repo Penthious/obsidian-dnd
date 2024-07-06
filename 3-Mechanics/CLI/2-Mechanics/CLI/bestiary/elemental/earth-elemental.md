@@ -12,7 +12,7 @@ aliases: ["Earth Elemental"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 124, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 124, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Earth Elemental](2-Mechanics/CLI/bestiary/elemental/earth-elemental.md)
 *Source: Monster Manual p. 124, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

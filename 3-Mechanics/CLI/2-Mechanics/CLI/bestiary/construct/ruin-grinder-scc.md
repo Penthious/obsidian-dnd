@@ -11,7 +11,7 @@ aliases: ["Ruin Grinder"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 211
+BookSource: "Strixhaven: A Curriculum of Chaos p. 211"
 ---
 # [Ruin Grinder](2-Mechanics/CLI/bestiary/construct/ruin-grinder-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 211*  

@@ -11,7 +11,7 @@ aliases: ["Four-Armed Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 65
+BookSource: "Hoard of the Dragon Queen p. 65"
 ---
 # [Four-Armed Troll](2-Mechanics/CLI/bestiary/giant/four-armed-troll-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 65*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Thunderous Smite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 282
+BookSource: "Player's Handbook p. 282"
 ---
 # Thunderous Smite
 *1st-level, Evocation*  

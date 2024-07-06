@@ -10,7 +10,7 @@ tags:
 aliases: ["Gloves of Swimming and Climbing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 172. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 172. Available in the SRD and the Basic Rules."
 ---
 # Gloves of Swimming and Climbing
 *Wondrous Item, major, uncommon (requires attunement)*  

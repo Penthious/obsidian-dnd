@@ -11,7 +11,7 @@ aliases: ["Barlgura"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 56, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 56, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Barlgura](2-Mechanics/CLI/bestiary/fiend/barlgura.md)
 *Source: Monster Manual p. 56, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

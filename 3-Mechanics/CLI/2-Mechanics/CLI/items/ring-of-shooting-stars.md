@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Shooting Stars"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 192. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 192. Available in the SRD."
 ---
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  

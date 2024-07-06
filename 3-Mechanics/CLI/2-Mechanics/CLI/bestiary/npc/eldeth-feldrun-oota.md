@@ -12,7 +12,7 @@ aliases: ["Eldeth Feldrun"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 6
+BookSource: "Out of the Abyss p. 6"
 ---
 # [Eldeth Feldrun](2-Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md)
 *Source: Out of the Abyss p. 6*  

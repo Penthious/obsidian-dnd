@@ -12,7 +12,7 @@ aliases: ["Zalkoré"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 79
+BookSource: "Tomb of Annihilation p. 79"
 ---
 # [Zalkoré](2-Mechanics/CLI/bestiary/npc/zalkore-toa.md)
 *Source: Tomb of Annihilation p. 79*  

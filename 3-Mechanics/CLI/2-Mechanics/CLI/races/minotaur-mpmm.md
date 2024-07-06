@@ -7,7 +7,7 @@ tags:
 aliases: ["Minotaur"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 27
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 27"
 ---
 # Minotaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 27*  

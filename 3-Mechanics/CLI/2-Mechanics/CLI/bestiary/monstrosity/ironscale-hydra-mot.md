@@ -11,7 +11,7 @@ aliases: ["Ironscale Hydra"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 231
+BookSource: "Mythic Odysseys of Theros p. 231"
 ---
 # [Ironscale Hydra](2-Mechanics/CLI/bestiary/monstrosity/ironscale-hydra-mot.md)
 *Source: Mythic Odysseys of Theros p. 231*  

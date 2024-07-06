@@ -12,7 +12,7 @@ aliases: ["Mev Flintknapper"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 103
+BookSource: "Out of the Abyss p. 103"
 ---
 # [Mev Flintknapper](2-Mechanics/CLI/bestiary/npc/mev-flintknapper-oota.md)
 *Source: Out of the Abyss p. 103*  

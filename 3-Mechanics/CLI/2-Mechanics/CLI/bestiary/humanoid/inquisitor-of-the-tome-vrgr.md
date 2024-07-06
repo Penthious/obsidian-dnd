@@ -11,7 +11,7 @@ aliases: ["Inquisitor of the Tome"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 249
+BookSource: "Van Richten's Guide to Ravenloft p. 249"
 ---
 # [Inquisitor of the Tome](2-Mechanics/CLI/bestiary/humanoid/inquisitor-of-the-tome-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 249*  

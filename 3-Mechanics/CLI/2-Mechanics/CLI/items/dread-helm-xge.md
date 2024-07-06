@@ -9,7 +9,7 @@ tags:
 aliases: ["Dread Helm"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 137
+BookSource: "Xanathar's Guide to Everything p. 137"
 ---
 # Dread Helm
 *Wondrous Item, minor, common*  

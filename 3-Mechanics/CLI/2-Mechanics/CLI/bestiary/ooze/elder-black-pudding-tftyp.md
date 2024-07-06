@@ -11,7 +11,7 @@ aliases: ["Elder Black Pudding"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 143
+BookSource: "Tales from the Yawning Portal p. 143"
 ---
 # [Elder Black Pudding](2-Mechanics/CLI/bestiary/ooze/elder-black-pudding-tftyp.md)
 *Source: Tales from the Yawning Portal p. 143*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Tome of Clear Thought"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 208. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 208. Available in the SRD."
 ---
 # Tome of Clear Thought
 *Wondrous Item, major, very rare*  

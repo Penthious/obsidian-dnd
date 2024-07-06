@@ -12,7 +12,7 @@ aliases: ["Aboleth"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 13, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 13, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Aboleth](2-Mechanics/CLI/bestiary/aberration/aboleth.md)
 *Source: Monster Manual p. 13, Princes of the Apocalypse, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

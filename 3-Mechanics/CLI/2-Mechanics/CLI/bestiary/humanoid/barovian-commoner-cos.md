@@ -11,7 +11,7 @@ aliases: ["Barovian Commoner"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 29
+BookSource: "Curse of Strahd p. 29"
 ---
 # [Barovian Commoner](2-Mechanics/CLI/bestiary/humanoid/barovian-commoner-cos.md)
 *Source: Curse of Strahd p. 29*  

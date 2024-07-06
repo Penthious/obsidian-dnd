@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Aboleth"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Aboleth](2-Mechanics/CLI/bestiary/aberration/reduced-threat-aboleth-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

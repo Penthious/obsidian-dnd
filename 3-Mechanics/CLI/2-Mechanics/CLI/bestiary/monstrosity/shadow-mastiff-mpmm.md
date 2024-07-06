@@ -14,7 +14,7 @@ aliases: ["Shadow Mastiff"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190"
 ---
 # [Shadow Mastiff](2-Mechanics/CLI/bestiary/monstrosity/shadow-mastiff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  

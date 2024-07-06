@@ -9,7 +9,7 @@ tags:
 aliases: ["Perfume of Bewitching"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Perfume of Bewitching
 *Wondrous Item, minor, common*  

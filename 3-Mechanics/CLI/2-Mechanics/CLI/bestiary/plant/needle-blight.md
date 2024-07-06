@@ -12,7 +12,7 @@ aliases: ["Needle Blight"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Needle Blight](2-Mechanics/CLI/bestiary/plant/needle-blight.md)
 *Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk*  

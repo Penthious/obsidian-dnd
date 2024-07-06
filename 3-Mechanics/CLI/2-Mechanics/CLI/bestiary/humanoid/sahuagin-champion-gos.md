@@ -11,7 +11,7 @@ aliases: ["Sahuagin Champion"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 249
+BookSource: "Ghosts of Saltmarsh p. 249"
 ---
 # [Sahuagin Champion](2-Mechanics/CLI/bestiary/humanoid/sahuagin-champion-gos.md)
 *Source: Ghosts of Saltmarsh p. 249*  

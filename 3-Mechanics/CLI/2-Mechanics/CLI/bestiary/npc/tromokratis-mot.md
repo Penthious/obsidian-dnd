@@ -12,7 +12,7 @@ aliases: ["Tromokratis"]
 NoteIcon: npc
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 254
+BookSource: "Mythic Odysseys of Theros p. 254"
 ---
 # [Tromokratis](2-Mechanics/CLI/bestiary/npc/tromokratis-mot.md)
 *Source: Mythic Odysseys of Theros p. 254*  

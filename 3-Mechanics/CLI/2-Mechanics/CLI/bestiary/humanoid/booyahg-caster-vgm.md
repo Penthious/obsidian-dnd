@@ -11,7 +11,7 @@ aliases: ["Booyahg Caster"]
 NoteIcon: monster
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 42
+BookSource: "Volo's Guide to Monsters p. 42"
 ---
 # [Booyahg Caster](2-Mechanics/CLI/bestiary/humanoid/booyahg-caster-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  

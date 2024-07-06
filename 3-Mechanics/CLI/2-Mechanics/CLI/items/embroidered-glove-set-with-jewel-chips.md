@@ -7,7 +7,7 @@ tags:
 aliases: ["Embroidered glove set with jewel chips"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Embroidered glove set with jewel chips
 *Art object*  

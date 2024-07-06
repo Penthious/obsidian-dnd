@@ -11,7 +11,7 @@ aliases: ["Chain Devil"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Monster Manual p. 72, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 72, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Chain Devil](2-Mechanics/CLI/bestiary/fiend/chain-devil.md)
 *Source: Monster Manual p. 72, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

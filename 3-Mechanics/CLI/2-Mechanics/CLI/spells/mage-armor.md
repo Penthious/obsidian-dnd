@@ -17,7 +17,7 @@ classes:
 aliases: ["Mage Armor"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 256. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 256. Available in the SRD and the Basic Rules."
 ---
 # Mage Armor
 *1st-level, Abjuration*  

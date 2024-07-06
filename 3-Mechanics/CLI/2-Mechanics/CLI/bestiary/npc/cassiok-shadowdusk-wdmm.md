@@ -12,7 +12,7 @@ aliases: ["Cassiok Shadowdusk"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 287
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 287"
 ---
 # [Cassiok Shadowdusk](2-Mechanics/CLI/bestiary/npc/cassiok-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 287*  

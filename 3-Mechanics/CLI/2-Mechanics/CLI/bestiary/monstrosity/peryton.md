@@ -13,7 +13,7 @@ aliases: ["Peryton"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 251, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel
+BookSource: "Monster Manual p. 251, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel"
 ---
 # [Peryton](2-Mechanics/CLI/bestiary/monstrosity/peryton.md)
 *Source: Monster Manual p. 251, Hoard of the Dragon Queen, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel*  

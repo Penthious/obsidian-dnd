@@ -13,7 +13,7 @@ aliases: ["Orc Claw of Luthic"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 183
+BookSource: "Volo's Guide to Monsters p. 183"
 ---
 # [Orc Claw of Luthic](2-Mechanics/CLI/bestiary/humanoid/orc-claw-of-luthic-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  

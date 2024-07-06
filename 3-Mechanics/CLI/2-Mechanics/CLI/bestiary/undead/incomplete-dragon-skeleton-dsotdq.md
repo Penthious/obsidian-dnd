@@ -11,7 +11,7 @@ aliases: ["Incomplete Dragon Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 138
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 138"
 ---
 # [Incomplete Dragon Skeleton](2-Mechanics/CLI/bestiary/undead/incomplete-dragon-skeleton-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 138*  

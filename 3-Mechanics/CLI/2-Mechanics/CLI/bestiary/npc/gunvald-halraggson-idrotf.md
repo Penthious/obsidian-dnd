@@ -12,7 +12,7 @@ aliases: ["Gunvald Halraggson"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 305
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 305"
 ---
 # [Gunvald Halraggson](2-Mechanics/CLI/bestiary/npc/gunvald-halraggson-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 305*  

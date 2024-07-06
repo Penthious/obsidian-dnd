@@ -11,7 +11,7 @@ aliases: ["Metallic Warbler"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 210
+BookSource: "Fizban's Treasury of Dragons p. 210"
 ---
 # [Metallic Warbler](2-Mechanics/CLI/bestiary/construct/metallic-warbler-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 210*  

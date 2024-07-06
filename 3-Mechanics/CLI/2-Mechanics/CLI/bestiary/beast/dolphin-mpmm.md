@@ -13,7 +13,7 @@ aliases: ["Dolphin"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208"
 ---
 # [Dolphin](2-Mechanics/CLI/bestiary/beast/dolphin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  

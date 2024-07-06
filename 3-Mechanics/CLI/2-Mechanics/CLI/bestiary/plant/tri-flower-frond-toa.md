@@ -11,7 +11,7 @@ aliases: ["Tri-flower Frond"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 234
+BookSource: "Tomb of Annihilation p. 234"
 ---
 # [Tri-flower Frond](2-Mechanics/CLI/bestiary/plant/tri-flower-frond-toa.md)
 *Source: Tomb of Annihilation p. 234*  

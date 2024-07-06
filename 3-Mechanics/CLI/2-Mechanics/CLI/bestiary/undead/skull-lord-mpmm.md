@@ -14,7 +14,7 @@ aliases: ["Skull Lord"]
 NoteIcon: monster
 BestiaryType: undead (sorcerer)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230"
 ---
 # [Skull Lord](2-Mechanics/CLI/bestiary/undead/skull-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  

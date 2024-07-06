@@ -10,7 +10,7 @@ tags:
 aliases: ["Belt of Frost Giant Strength"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 155. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 155. Available in the SRD."
 ---
 # Belt of Frost Giant Strength
 *Wondrous Item, major, very rare (requires attunement)*  

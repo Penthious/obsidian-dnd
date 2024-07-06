@@ -12,7 +12,7 @@ aliases: ["Glyster"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 241
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 241"
 ---
 # [Glyster](2-Mechanics/CLI/bestiary/npc/glyster-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 241*  

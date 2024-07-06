@@ -10,7 +10,7 @@ tags:
 aliases: ["Rod of Lordly Might"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 196. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 196. Available in the SRD."
 ---
 # Rod of Lordly Might
 *Rod, major, legendary (requires attunement)*  

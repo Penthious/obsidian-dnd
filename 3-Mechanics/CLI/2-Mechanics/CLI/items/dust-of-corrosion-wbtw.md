@@ -8,7 +8,7 @@ tags:
 aliases: ["Dust of Corrosion"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 209
+BookSource: "The Wild Beyond the Witchlight p. 209"
 ---
 # Dust of Corrosion
 *Wondrous Item, uncommon*  

@@ -12,7 +12,7 @@ aliases: ["Deepking Horgar Steelshadow V"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 82
+BookSource: "Out of the Abyss p. 82"
 ---
 # [Deepking Horgar Steelshadow V](2-Mechanics/CLI/bestiary/npc/deepking-horgar-steelshadow-v-oota.md)
 *Source: Out of the Abyss p. 82*  

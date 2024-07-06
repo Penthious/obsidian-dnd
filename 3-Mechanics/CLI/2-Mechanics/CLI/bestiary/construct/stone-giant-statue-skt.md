@@ -11,7 +11,7 @@ aliases: ["Stone Giant Statue"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 127
+BookSource: "Storm King's Thunder p. 127"
 ---
 # [Stone Giant Statue](2-Mechanics/CLI/bestiary/construct/stone-giant-statue-skt.md)
 *Source: Storm King's Thunder p. 127*  

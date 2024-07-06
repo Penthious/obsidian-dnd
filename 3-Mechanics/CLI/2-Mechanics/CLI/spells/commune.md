@@ -20,7 +20,7 @@ classes:
 aliases: ["Commune"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 223. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 223. Available in the SRD and the Basic Rules."
 ---
 # Commune
 *5th-level, Divination (ritual)*  

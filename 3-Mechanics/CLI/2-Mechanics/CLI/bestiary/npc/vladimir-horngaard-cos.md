@@ -12,7 +12,7 @@ aliases: ["Vladimir Horngaard"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 241
+BookSource: "Curse of Strahd p. 241"
 ---
 # [Vladimir Horngaard](2-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md)
 *Source: Curse of Strahd p. 241*  

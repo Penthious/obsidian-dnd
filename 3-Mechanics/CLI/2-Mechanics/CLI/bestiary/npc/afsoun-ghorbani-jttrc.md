@@ -12,7 +12,7 @@ aliases: ["Afsoun Ghorbani"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 162
+BookSource: "Journeys through the Radiant Citadel p. 162"
 ---
 # [Afsoun Ghorbani](2-Mechanics/CLI/bestiary/npc/afsoun-ghorbani-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 162*  

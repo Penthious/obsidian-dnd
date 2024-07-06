@@ -13,7 +13,7 @@ aliases: ["Derro"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158"
 ---
 # [Derro](2-Mechanics/CLI/bestiary/aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  

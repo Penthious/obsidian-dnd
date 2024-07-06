@@ -11,7 +11,7 @@ aliases: ["Snow Maiden"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 159
+BookSource: "Curse of Strahd p. 159"
 ---
 # [Snow Maiden](2-Mechanics/CLI/bestiary/undead/snow-maiden-cos.md)
 *Source: Curse of Strahd p. 159*  

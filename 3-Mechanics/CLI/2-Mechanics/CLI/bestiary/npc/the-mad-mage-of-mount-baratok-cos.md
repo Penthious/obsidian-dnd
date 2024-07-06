@@ -12,7 +12,7 @@ aliases: ["The Mad Mage of Mount Baratok"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 39
+BookSource: "Curse of Strahd p. 39"
 ---
 # [The Mad Mage of Mount Baratok](2-Mechanics/CLI/bestiary/npc/the-mad-mage-of-mount-baratok-cos.md)
 *Source: Curse of Strahd p. 39*  

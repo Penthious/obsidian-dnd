@@ -11,7 +11,7 @@ aliases: ["Dracophage Subject"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 118
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 118"
 ---
 # [Dracophage Subject](2-Mechanics/CLI/bestiary/monstrosity/dracophage-subject-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 118*  

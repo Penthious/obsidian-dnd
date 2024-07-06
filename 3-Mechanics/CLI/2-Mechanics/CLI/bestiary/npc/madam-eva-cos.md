@@ -12,7 +12,7 @@ aliases: ["Madam Eva"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 233
+BookSource: "Curse of Strahd p. 233"
 ---
 # [Madam Eva](2-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)
 *Source: Curse of Strahd p. 233*  

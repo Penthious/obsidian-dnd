@@ -12,7 +12,7 @@ aliases: ["Mummy Lord"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Monster Manual p. 229, The Rise of Tiamat, Storm King's Thunder, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 229, The Rise of Tiamat, Storm King's Thunder, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Mummy Lord](2-Mechanics/CLI/bestiary/undead/mummy-lord.md)
 *Source: Monster Manual p. 229, The Rise of Tiamat, Storm King's Thunder, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.*  

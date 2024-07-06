@@ -18,7 +18,7 @@ aliases: ["Swarm of Beetles"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 338. Available in the SRD.
+BookSource: "Monster Manual p. 338. Available in the SRD."
 ---
 # [Swarm of Beetles](2-Mechanics/CLI/bestiary/beast/swarm-of-beetles.md)
 *Source: Monster Manual p. 338. Available in the SRD.*  

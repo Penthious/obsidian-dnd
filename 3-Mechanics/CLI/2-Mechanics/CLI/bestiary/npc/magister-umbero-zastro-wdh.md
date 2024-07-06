@@ -12,7 +12,7 @@ aliases: ["Magister Umbero Zastro"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 82
+BookSource: "Waterdeep: Dragon Heist p. 82"
 ---
 # [Magister Umbero Zastro](2-Mechanics/CLI/bestiary/npc/magister-umbero-zastro-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 82*  

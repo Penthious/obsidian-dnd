@@ -12,7 +12,7 @@ aliases: ["Galazeth Prismari"]
 NoteIcon: npc
 BestiaryType: dragon (sorcerer)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 193
+BookSource: "Strixhaven: A Curriculum of Chaos p. 193"
 ---
 # [Galazeth Prismari](2-Mechanics/CLI/bestiary/npc/galazeth-prismari-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 193*  

@@ -11,7 +11,7 @@ aliases: ["Merfolk Scout"]
 NoteIcon: monster
 BestiaryType: humanoid (merfolk)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 216
+BookSource: "Ghosts of Saltmarsh p. 216"
 ---
 # [Merfolk Scout](2-Mechanics/CLI/bestiary/humanoid/merfolk-scout-gos.md)
 *Source: Ghosts of Saltmarsh p. 216*  

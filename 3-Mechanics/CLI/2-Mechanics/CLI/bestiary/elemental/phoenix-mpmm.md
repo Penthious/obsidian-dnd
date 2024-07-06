@@ -13,7 +13,7 @@ aliases: ["Phoenix"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199"
 ---
 # [Phoenix](2-Mechanics/CLI/bestiary/elemental/phoenix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  

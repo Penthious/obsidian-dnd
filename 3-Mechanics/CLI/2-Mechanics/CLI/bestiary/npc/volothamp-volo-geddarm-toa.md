@@ -12,7 +12,7 @@ aliases: ["Volothamp "Volo" Geddarm"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 235, Waterdeep: Dragon Heist
+BookSource: "Tomb of Annihilation p. 235, Waterdeep: Dragon Heist"
 ---
 # [Volothamp "Volo" Geddarm](2-Mechanics/CLI/bestiary/npc/volothamp-volo-geddarm-toa.md)
 *Source: Tomb of Annihilation p. 235, Waterdeep: Dragon Heist*  

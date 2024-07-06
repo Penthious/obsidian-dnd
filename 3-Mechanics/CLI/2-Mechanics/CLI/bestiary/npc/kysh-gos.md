@@ -12,7 +12,7 @@ aliases: ["Kysh"]
 NoteIcon: npc
 BestiaryType: humanoid (triton)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 240
+BookSource: "Ghosts of Saltmarsh p. 240"
 ---
 # [Kysh](2-Mechanics/CLI/bestiary/npc/kysh-gos.md)
 *Source: Ghosts of Saltmarsh p. 240*  

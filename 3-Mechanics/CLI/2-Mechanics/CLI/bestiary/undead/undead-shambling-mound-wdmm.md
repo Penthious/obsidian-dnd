@@ -11,7 +11,7 @@ aliases: ["Undead Shambling Mound"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 142
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 142"
 ---
 # [Undead Shambling Mound](2-Mechanics/CLI/bestiary/undead/undead-shambling-mound-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 142*  

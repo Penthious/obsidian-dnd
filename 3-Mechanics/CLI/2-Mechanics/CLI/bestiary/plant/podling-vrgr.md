@@ -11,7 +11,7 @@ aliases: ["Podling"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 227
+BookSource: "Van Richten's Guide to Ravenloft p. 227"
 ---
 # [Podling](2-Mechanics/CLI/bestiary/plant/podling-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 227*  

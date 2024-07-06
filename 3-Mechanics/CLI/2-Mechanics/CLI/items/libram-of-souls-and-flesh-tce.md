@@ -9,7 +9,7 @@ tags:
 aliases: ["Libram of Souls and Flesh"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 129
+BookSource: "Tasha's Cauldron of Everything p. 129"
 ---
 # Libram of Souls and Flesh
 *Wondrous Item, rare (requires attunement by a wizard)*  

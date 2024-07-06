@@ -11,7 +11,7 @@ aliases: ["Dretch"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 57, Curse of Strahd, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 57, Curse of Strahd, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Dretch](2-Mechanics/CLI/bestiary/fiend/dretch.md)
 *Source: Monster Manual p. 57, Curse of Strahd, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, The Wild Beyond the Witchlight. Available in the SRD.*  

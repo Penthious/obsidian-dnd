@@ -9,7 +9,7 @@ tags:
 aliases: ["Cast-Off Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Cast-Off Armor
 *Generic Variant, minor, common*  

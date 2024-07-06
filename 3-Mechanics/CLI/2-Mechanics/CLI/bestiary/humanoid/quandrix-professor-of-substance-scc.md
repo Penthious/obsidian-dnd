@@ -11,7 +11,7 @@ aliases: ["Quandrix Professor of Substance"]
 NoteIcon: monster
 BestiaryType: humanoid (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 209
+BookSource: "Strixhaven: A Curriculum of Chaos p. 209"
 ---
 # [Quandrix Professor of Substance](2-Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 209*  

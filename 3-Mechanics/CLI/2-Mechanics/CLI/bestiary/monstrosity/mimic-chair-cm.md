@@ -11,7 +11,7 @@ aliases: ["Mimic Chair"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 22
+BookSource: "Candlekeep Mysteries p. 22"
 ---
 # [Mimic Chair](2-Mechanics/CLI/bestiary/monstrosity/mimic-chair-cm.md)
 *Source: Candlekeep Mysteries p. 22*  

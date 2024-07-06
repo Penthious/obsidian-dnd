@@ -7,7 +7,7 @@ tags:
 aliases: ["Acolyte"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 127. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 127. Available in the SRD and the Basic Rules."
 ---
 # Acolyte
 *Source: Player's Handbook p. 127. Available in the SRD and the Basic Rules.*  

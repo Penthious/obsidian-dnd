@@ -12,7 +12,7 @@ aliases: ["Guthash"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 21
+BookSource: "Tales from the Yawning Portal p. 21"
 ---
 # [Guthash](2-Mechanics/CLI/bestiary/npc/guthash-tftyp.md)
 *Source: Tales from the Yawning Portal p. 21*  

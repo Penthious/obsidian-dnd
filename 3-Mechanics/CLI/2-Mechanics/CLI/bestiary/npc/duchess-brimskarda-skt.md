@@ -12,7 +12,7 @@ aliases: ["Duchess Brimskarda"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 185
+BookSource: "Storm King's Thunder p. 185"
 ---
 # [Duchess Brimskarda](2-Mechanics/CLI/bestiary/npc/duchess-brimskarda-skt.md)
 *Source: Storm King's Thunder p. 185*  

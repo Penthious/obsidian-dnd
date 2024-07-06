@@ -9,7 +9,7 @@ tags:
 aliases: ["Piwafwi (Cloak of Elvenkind)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 222
+BookSource: "Out of the Abyss p. 222"
 ---
 # Piwafwi (Cloak of Elvenkind)
 *Wondrous Item, uncommon (requires attunement)*  

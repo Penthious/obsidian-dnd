@@ -12,7 +12,7 @@ aliases: ["Thurl Merosska"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 192
+BookSource: "Princes of the Apocalypse p. 192"
 ---
 # [Thurl Merosska](2-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md)
 *Source: Princes of the Apocalypse p. 192*  

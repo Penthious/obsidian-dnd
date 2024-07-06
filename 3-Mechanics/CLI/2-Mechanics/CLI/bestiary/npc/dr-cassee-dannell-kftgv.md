@@ -12,7 +12,7 @@ aliases: ["Dr. Cassee Dannell"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 12
+BookSource: "Keys from the Golden Vault p. 12"
 ---
 # [Dr. Cassee Dannell](2-Mechanics/CLI/bestiary/npc/dr-cassee-dannell-kftgv.md)
 *Source: Keys from the Golden Vault p. 12*  

@@ -13,7 +13,7 @@ tags:
 aliases: ["Trident of Fish Command"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 209. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 209. Available in the SRD."
 ---
 # Trident of Fish Command
 *Melee Weapon, major, uncommon (requires attunement)*  

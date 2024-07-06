@@ -11,7 +11,7 @@ aliases: ["Zhentarim Thug"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 131
+BookSource: "Out of the Abyss p. 131"
 ---
 # [Zhentarim Thug](2-Mechanics/CLI/bestiary/humanoid/zhentarim-thug-oota.md)
 *Source: Out of the Abyss p. 131*  

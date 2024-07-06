@@ -11,7 +11,7 @@ aliases: ["Doomwake Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 224
+BookSource: "Mythic Odysseys of Theros p. 224"
 ---
 # [Doomwake Giant](2-Mechanics/CLI/bestiary/giant/doomwake-giant-mot.md)
 *Source: Mythic Odysseys of Theros p. 224*  

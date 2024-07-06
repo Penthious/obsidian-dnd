@@ -11,7 +11,7 @@ aliases: ["Amphisbaena"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 230, Mythic Odysseys of Theros
+BookSource: "Ghosts of Saltmarsh p. 230, Mythic Odysseys of Theros"
 ---
 # [Amphisbaena](2-Mechanics/CLI/bestiary/monstrosity/amphisbaena-gos.md)
 *Source: Ghosts of Saltmarsh p. 230, Mythic Odysseys of Theros*  

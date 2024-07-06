@@ -12,7 +12,7 @@ aliases: ["Niles Breakbone"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 47
+BookSource: "Tomb of Annihilation p. 47"
 ---
 # [Niles Breakbone](2-Mechanics/CLI/bestiary/npc/niles-breakbone-toa.md)
 *Source: Tomb of Annihilation p. 47*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Boots of False Tracks"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 136
+BookSource: "Xanathar's Guide to Everything p. 136"
 ---
 # Boots of False Tracks
 *Wondrous Item, minor, common*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Mind Control (beast)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Potion of Mind Control (beast)
 *Potion, rare*  

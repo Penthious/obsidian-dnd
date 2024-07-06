@@ -12,7 +12,7 @@ aliases: ["Vertrand Shadowdusk"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 282
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 282"
 ---
 # [Vertrand Shadowdusk](2-Mechanics/CLI/bestiary/npc/vertrand-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 282*  

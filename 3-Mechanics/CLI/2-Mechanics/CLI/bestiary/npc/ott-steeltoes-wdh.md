@@ -12,7 +12,7 @@ aliases: ["Ott Steeltoes"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 214
+BookSource: "Waterdeep: Dragon Heist p. 214"
 ---
 # [Ott Steeltoes](2-Mechanics/CLI/bestiary/npc/ott-steeltoes-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 214*  

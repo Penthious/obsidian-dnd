@@ -12,7 +12,7 @@ aliases: ["Laiba "Nana" Rosse"]
 NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 116
+BookSource: "Waterdeep: Dragon Heist p. 116"
 ---
 # [Laiba "Nana" Rosse](2-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  

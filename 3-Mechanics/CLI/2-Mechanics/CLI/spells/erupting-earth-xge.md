@@ -19,7 +19,7 @@ classes:
 aliases: ["Erupting Earth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 155
+BookSource: "Xanathar's Guide to Everything p. 155"
 ---
 # Erupting Earth
 *3rd-level, Transmutation*  

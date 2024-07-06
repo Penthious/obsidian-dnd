@@ -11,7 +11,7 @@ aliases: ["Young Winter Wolf"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 181
+BookSource: "Tales from the Yawning Portal p. 181"
 ---
 # [Young Winter Wolf](2-Mechanics/CLI/bestiary/beast/young-winter-wolf-tftyp.md)
 *Source: Tales from the Yawning Portal p. 181*  

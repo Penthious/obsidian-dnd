@@ -9,7 +9,7 @@ tags:
 aliases: ["Teeth of Dahlver-Nar"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 135
+BookSource: "Tasha's Cauldron of Everything p. 135"
 ---
 # Teeth of Dahlver-Nar
 *Wondrous Item, artifact (requires attunement)*  

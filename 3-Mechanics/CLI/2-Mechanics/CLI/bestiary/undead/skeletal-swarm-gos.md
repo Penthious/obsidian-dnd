@@ -11,7 +11,7 @@ aliases: ["Skeletal Swarm"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 254
+BookSource: "Ghosts of Saltmarsh p. 254"
 ---
 # [Skeletal Swarm](2-Mechanics/CLI/bestiary/undead/skeletal-swarm-gos.md)
 *Source: Ghosts of Saltmarsh p. 254*  

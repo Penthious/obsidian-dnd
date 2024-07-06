@@ -25,7 +25,7 @@ classes:
 aliases: ["Blur"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 219. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 219. Available in the SRD and the Basic Rules."
 ---
 # Blur
 *2nd-level, Illusion*  

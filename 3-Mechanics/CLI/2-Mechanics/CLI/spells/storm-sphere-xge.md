@@ -17,7 +17,7 @@ classes:
 aliases: ["Storm Sphere"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 166
+BookSource: "Xanathar's Guide to Everything p. 166"
 ---
 # Storm Sphere
 *4th-level, Evocation*  

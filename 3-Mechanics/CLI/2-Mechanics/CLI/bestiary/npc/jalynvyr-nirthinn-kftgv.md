@@ -12,7 +12,7 @@ aliases: ["Jalynvyr Nir'Thinn"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 155
+BookSource: "Keys from the Golden Vault p. 155"
 ---
 # [Jalynvyr Nir'Thinn](2-Mechanics/CLI/bestiary/npc/jalynvyr-nirthinn-kftgv.md)
 *Source: Keys from the Golden Vault p. 155*  

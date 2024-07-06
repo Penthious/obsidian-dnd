@@ -15,7 +15,7 @@ classes:
 aliases: ["Demiplane"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 231. Available in the SRD.
+BookSource: "Player's Handbook p. 231. Available in the SRD."
 ---
 # Demiplane
 *8th-level, Conjuration*  

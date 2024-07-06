@@ -12,7 +12,7 @@ aliases: ["Lyzandra "Lyzzie" Calderos"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 110
+BookSource: "Princes of the Apocalypse p. 110"
 ---
 # [Lyzandra "Lyzzie" Calderos](2-Mechanics/CLI/bestiary/npc/lyzandra-lyzzie-calderos-pota.md)
 *Source: Princes of the Apocalypse p. 110*  

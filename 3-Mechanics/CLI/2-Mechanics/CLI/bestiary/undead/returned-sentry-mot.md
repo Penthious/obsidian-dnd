@@ -11,7 +11,7 @@ aliases: ["Returned Sentry"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 241
+BookSource: "Mythic Odysseys of Theros p. 241"
 ---
 # [Returned Sentry](2-Mechanics/CLI/bestiary/undead/returned-sentry-mot.md)
 *Source: Mythic Odysseys of Theros p. 241*  

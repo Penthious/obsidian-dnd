@@ -12,7 +12,7 @@ aliases: ["Black Abishai"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160"
 ---
 # [Black Abishai](2-Mechanics/CLI/bestiary/fiend/black-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  

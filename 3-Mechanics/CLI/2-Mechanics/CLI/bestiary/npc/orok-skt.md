@@ -12,7 +12,7 @@ aliases: ["Orok"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 115
+BookSource: "Storm King's Thunder p. 115"
 ---
 # [Orok](2-Mechanics/CLI/bestiary/npc/orok-skt.md)
 *Source: Storm King's Thunder p. 115*  

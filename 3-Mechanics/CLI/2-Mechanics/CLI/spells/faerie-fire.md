@@ -23,7 +23,7 @@ classes:
 aliases: ["Faerie Fire"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 239. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 239. Available in the SRD and the Basic Rules."
 ---
 # Faerie Fire
 *1st-level, Evocation*  

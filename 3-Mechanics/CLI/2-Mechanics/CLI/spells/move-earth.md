@@ -17,7 +17,7 @@ classes:
 aliases: ["Move Earth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 263. Available in the SRD.
+BookSource: "Player's Handbook p. 263. Available in the SRD."
 ---
 # Move Earth
 *6th-level, Transmutation*  

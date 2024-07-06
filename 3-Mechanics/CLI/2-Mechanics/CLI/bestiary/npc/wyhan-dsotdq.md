@@ -12,7 +12,7 @@ aliases: ["Wyhan"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 79
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 79"
 ---
 # [Wyhan](2-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 79*  

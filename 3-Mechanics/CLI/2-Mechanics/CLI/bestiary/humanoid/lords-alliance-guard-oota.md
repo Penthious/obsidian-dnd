@@ -11,7 +11,7 @@ aliases: ["Lords' Alliance Guard"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 131
+BookSource: "Out of the Abyss p. 131"
 ---
 # [Lords' Alliance Guard](2-Mechanics/CLI/bestiary/humanoid/lords-alliance-guard-oota.md)
 *Source: Out of the Abyss p. 131*  

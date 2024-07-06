@@ -9,7 +9,7 @@ tags:
 aliases: ["Manual of Quickness of Action"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 181. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 181. Available in the SRD."
 ---
 # Manual of Quickness of Action
 *Wondrous Item, major, very rare*  

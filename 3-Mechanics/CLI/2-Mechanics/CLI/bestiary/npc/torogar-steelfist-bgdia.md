@@ -12,7 +12,7 @@ aliases: ["Torogar Steelfist"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 112
+BookSource: "Baldur's Gate: Descent Into Avernus p. 112"
 ---
 # [Torogar Steelfist](2-Mechanics/CLI/bestiary/npc/torogar-steelfist-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 112*  

@@ -12,7 +12,7 @@ aliases: ["Jimjar"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 6
+BookSource: "Out of the Abyss p. 6"
 ---
 # [Jimjar](2-Mechanics/CLI/bestiary/npc/jimjar-oota.md)
 *Source: Out of the Abyss p. 6*  

@@ -12,7 +12,7 @@ aliases: ["Sephek Kaltro"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 23
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 23"
 ---
 # [Sephek Kaltro](2-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 23*  

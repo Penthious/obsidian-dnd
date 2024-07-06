@@ -12,7 +12,7 @@ aliases: ["Isolde"]
 NoteIcon: npc
 BestiaryType: fey (elf)
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 86
+BookSource: "Van Richten's Guide to Ravenloft p. 86"
 ---
 # [Isolde](2-Mechanics/CLI/bestiary/npc/isolde-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 86*  

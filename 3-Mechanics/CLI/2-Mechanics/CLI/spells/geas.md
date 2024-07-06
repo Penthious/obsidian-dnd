@@ -23,7 +23,7 @@ classes:
 aliases: ["Geas"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 244. Available in the SRD.
+BookSource: "Player's Handbook p. 244. Available in the SRD."
 ---
 # Geas
 *5th-level, Enchantment*  

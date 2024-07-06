@@ -11,7 +11,7 @@ classes:
 aliases: ["Find Greater Steed"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190
+BookSource: "Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190"
 ---
 # Find Greater Steed
 *4th-level, Conjuration*  

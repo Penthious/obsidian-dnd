@@ -12,7 +12,7 @@ aliases: ["White Maw"]
 NoteIcon: npc
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 248
+BookSource: "Tales from the Yawning Portal p. 248"
 ---
 # [White Maw](2-Mechanics/CLI/bestiary/npc/white-maw-tftyp.md)
 *Source: Tales from the Yawning Portal p. 248*  

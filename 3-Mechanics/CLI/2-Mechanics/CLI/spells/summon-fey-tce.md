@@ -13,7 +13,7 @@ classes:
 aliases: ["Summon Fey"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 112
+BookSource: "Tasha's Cauldron of Everything p. 112"
 ---
 # Summon Fey
 *3rd-level, Conjuration*  

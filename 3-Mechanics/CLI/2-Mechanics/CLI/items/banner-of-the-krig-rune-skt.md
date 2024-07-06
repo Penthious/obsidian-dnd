@@ -9,7 +9,7 @@ tags:
 aliases: ["Banner of the Krig Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 233
+BookSource: "Storm King's Thunder p. 233"
 ---
 # Banner of the Krig Rune
 *Wondrous Item, rare (requires attunement)*  

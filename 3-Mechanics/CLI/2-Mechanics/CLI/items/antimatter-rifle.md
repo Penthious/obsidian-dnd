@@ -11,7 +11,7 @@ tags:
 aliases: ["Antimatter Rifle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Antimatter Rifle
 *Ranged Weapon*  

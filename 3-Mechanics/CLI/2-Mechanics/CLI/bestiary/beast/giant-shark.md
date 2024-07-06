@@ -12,7 +12,7 @@ aliases: ["Giant Shark"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 328, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 328, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules."
 ---
 # [Giant Shark](2-Mechanics/CLI/bestiary/beast/giant-shark.md)
 *Source: Monster Manual p. 328, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Journeys through the Radiant Citadel, Dragonlance: Shadow of the Dragon Queen. Available in the SRD and the Basic Rules.*  

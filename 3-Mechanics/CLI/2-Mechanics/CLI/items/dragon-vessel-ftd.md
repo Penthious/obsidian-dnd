@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragon Vessel"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 27
+BookSource: "Fizban's Treasury of Dragons p. 27"
 ---
 # Dragon Vessel
 *Wondrous Item, varies (requires attunement)*  

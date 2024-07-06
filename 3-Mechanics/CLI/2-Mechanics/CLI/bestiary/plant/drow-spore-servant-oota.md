@@ -11,7 +11,7 @@ aliases: ["Drow Spore Servant"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 229
+BookSource: "Out of the Abyss p. 229"
 ---
 # [Drow Spore Servant](2-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md)
 *Source: Out of the Abyss p. 229*  

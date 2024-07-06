@@ -12,7 +12,7 @@ aliases: ["Otto Belview"]
 NoteIcon: npc
 BestiaryType: humanoid (mongrelfolk)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 147
+BookSource: "Curse of Strahd p. 147"
 ---
 # [Otto Belview](2-Mechanics/CLI/bestiary/npc/otto-belview-cos.md)
 *Source: Curse of Strahd p. 147*  

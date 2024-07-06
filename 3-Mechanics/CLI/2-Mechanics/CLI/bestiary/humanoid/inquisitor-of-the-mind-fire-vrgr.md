@@ -11,7 +11,7 @@ aliases: ["Inquisitor of the Mind Fire"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 248
+BookSource: "Van Richten's Guide to Ravenloft p. 248"
 ---
 # [Inquisitor of the Mind Fire](2-Mechanics/CLI/bestiary/humanoid/inquisitor-of-the-mind-fire-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 248*  

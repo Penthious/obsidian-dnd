@@ -23,7 +23,7 @@ classes:
 aliases: ["Blade Ward"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 218
+BookSource: "Player's Handbook p. 218"
 ---
 # Blade Ward
 *cantrip, Abjuration*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Teleporter Ring"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 157
+BookSource: "Waterdeep: Dragon Heist p. 157"
 ---
 # Teleporter Ring
 *Ring, unknown (magic)*  

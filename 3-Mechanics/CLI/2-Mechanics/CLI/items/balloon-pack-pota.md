@@ -8,7 +8,7 @@ tags:
 aliases: ["Balloon Pack"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 222
+BookSource: "Princes of the Apocalypse p. 222"
 ---
 # Balloon Pack
 *Wondrous Item, uncommon*  

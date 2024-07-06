@@ -22,7 +22,7 @@ classes:
 aliases: ["Skywrite"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 165
+BookSource: "Xanathar's Guide to Everything p. 165"
 ---
 # Skywrite
 *2nd-level, Transmutation (ritual)*  

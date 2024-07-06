@@ -10,7 +10,7 @@ tags:
 aliases: ["Rod of Alertness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 196. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 196. Available in the SRD."
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  

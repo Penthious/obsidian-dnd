@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Withering"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 205. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 205. Available in the SRD."
 ---
 # Staff of Withering
 *Staff, major, rare (requires attunement by a cleric, druid, or warlock)*  

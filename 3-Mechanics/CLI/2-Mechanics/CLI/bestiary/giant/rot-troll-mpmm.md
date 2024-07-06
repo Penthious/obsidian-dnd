@@ -15,7 +15,7 @@ aliases: ["Rot Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244"
 ---
 # [Rot Troll](2-Mechanics/CLI/bestiary/giant/rot-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  

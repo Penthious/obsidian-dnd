@@ -12,7 +12,7 @@ aliases: ["Krell Grohlg"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 92
+BookSource: "Ghosts of Saltmarsh p. 92"
 ---
 # [Krell Grohlg](2-Mechanics/CLI/bestiary/npc/krell-grohlg-gos.md)
 *Source: Ghosts of Saltmarsh p. 92*  

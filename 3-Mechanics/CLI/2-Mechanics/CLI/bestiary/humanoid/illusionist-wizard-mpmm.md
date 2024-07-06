@@ -12,7 +12,7 @@ aliases: ["Illusionist Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214"
 ---
 # [Illusionist Wizard](2-Mechanics/CLI/bestiary/humanoid/illusionist-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214*  

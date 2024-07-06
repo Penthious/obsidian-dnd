@@ -12,7 +12,7 @@ aliases: ["Charmayne Daymore"]
 NoteIcon: npc
 BestiaryType: elemental (wizard)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 159
+BookSource: "Keys from the Golden Vault p. 159"
 ---
 # [Charmayne Daymore](2-Mechanics/CLI/bestiary/npc/charmayne-daymore-kftgv.md)
 *Source: Keys from the Golden Vault p. 159*  

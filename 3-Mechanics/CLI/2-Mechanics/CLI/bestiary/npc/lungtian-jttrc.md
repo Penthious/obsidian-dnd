@@ -12,7 +12,7 @@ aliases: ["Lungtian"]
 NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 136
+BookSource: "Journeys through the Radiant Citadel p. 136"
 ---
 # [Lungtian](2-Mechanics/CLI/bestiary/npc/lungtian-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 136*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Thermal Cube"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 316
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 316"
 ---
 # Thermal Cube
 *Wondrous Item, common*  

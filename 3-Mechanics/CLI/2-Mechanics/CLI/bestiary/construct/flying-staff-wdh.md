@@ -11,7 +11,7 @@ aliases: ["Flying Staff"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 152
+BookSource: "Waterdeep: Dragon Heist p. 152"
 ---
 # [Flying Staff](2-Mechanics/CLI/bestiary/construct/flying-staff-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 152*  

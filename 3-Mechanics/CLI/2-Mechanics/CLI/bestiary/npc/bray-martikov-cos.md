@@ -13,7 +13,7 @@ aliases: ["Bray Martikov"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 98
+BookSource: "Curse of Strahd p. 98"
 ---
 # [Bray Martikov](2-Mechanics/CLI/bestiary/npc/bray-martikov-cos.md)
 *Source: Curse of Strahd p. 98*  

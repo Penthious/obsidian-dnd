@@ -11,7 +11,7 @@ aliases: ["Beast of the Sky"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 61
+BookSource: "Tasha's Cauldron of Everything p. 61"
 ---
 # [Beast of the Sky](2-Mechanics/CLI/bestiary/beast/beast-of-the-sky-tce.md)
 *Source: Tasha's Cauldron of Everything p. 61*  

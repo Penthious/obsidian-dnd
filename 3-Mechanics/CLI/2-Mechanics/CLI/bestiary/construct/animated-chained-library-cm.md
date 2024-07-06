@@ -11,7 +11,7 @@ aliases: ["Animated Chained Library"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 24
+BookSource: "Candlekeep Mysteries p. 24"
 ---
 # [Animated Chained Library](2-Mechanics/CLI/bestiary/construct/animated-chained-library-cm.md)
 *Source: Candlekeep Mysteries p. 24*  

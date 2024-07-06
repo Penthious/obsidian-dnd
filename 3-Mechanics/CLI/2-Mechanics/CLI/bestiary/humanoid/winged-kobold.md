@@ -20,7 +20,7 @@ aliases: ["Winged Kobold"]
 NoteIcon: monster
 BestiaryType: humanoid (kobold)
 SourceType: Bestiary
-BookSource: Monster Manual p. 195, Hoard of the Dragon Queen, Tomb of Annihilation, Ghosts of Saltmarsh, Candlekeep Mysteries, Dragons of Stormwreck Isle
+BookSource: "Monster Manual p. 195, Hoard of the Dragon Queen, Tomb of Annihilation, Ghosts of Saltmarsh, Candlekeep Mysteries, Dragons of Stormwreck Isle"
 ---
 # [Winged Kobold](2-Mechanics/CLI/bestiary/humanoid/winged-kobold.md)
 *Source: Monster Manual p. 195, Hoard of the Dragon Queen, Tomb of Annihilation, Ghosts of Saltmarsh, Candlekeep Mysteries, Dragons of Stormwreck Isle*  

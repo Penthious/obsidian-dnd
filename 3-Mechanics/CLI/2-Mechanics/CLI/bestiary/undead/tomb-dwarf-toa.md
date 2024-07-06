@@ -11,7 +11,7 @@ aliases: ["Tomb Dwarf"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 135
+BookSource: "Tomb of Annihilation p. 135"
 ---
 # [Tomb Dwarf](2-Mechanics/CLI/bestiary/undead/tomb-dwarf-toa.md)
 *Source: Tomb of Annihilation p. 135*  

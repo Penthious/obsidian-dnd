@@ -11,7 +11,7 @@ aliases: ["Tiefling Acrobat"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 37
+BookSource: "Keys from the Golden Vault p. 37"
 ---
 # [Tiefling Acrobat](2-Mechanics/CLI/bestiary/humanoid/tiefling-acrobat-kftgv.md)
 *Source: Keys from the Golden Vault p. 37*  

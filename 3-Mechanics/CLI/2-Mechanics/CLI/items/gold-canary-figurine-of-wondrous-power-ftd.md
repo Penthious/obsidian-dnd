@@ -8,7 +8,7 @@ tags:
 aliases: ["Gold Canary Figurine of Wondrous Power"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 23
+BookSource: "Fizban's Treasury of Dragons p. 23"
 ---
 # Gold Canary Figurine of Wondrous Power
 *Wondrous Item, legendary*  

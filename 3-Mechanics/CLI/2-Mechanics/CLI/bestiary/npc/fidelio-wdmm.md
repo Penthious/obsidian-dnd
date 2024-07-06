@@ -12,7 +12,7 @@ aliases: ["Fidelio"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 197
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 197"
 ---
 # [Fidelio](2-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 197*  

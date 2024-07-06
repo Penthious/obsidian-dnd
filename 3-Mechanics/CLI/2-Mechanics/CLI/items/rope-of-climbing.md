@@ -9,7 +9,7 @@ tags:
 aliases: ["Rope of Climbing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 197. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 197. Available in the SRD."
 ---
 # Rope of Climbing
 *Wondrous Item, minor, uncommon*  

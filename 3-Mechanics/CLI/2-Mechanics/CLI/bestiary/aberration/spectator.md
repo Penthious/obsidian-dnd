@@ -12,7 +12,7 @@ aliases: ["Spectator"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 30, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.
+BookSource: "Monster Manual p. 30, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules."
 ---
 # [Spectator](2-Mechanics/CLI/bestiary/aberration/spectator.md)
 *Source: Monster Manual p. 30, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.*  

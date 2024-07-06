@@ -8,7 +8,7 @@ tags:
 aliases: ["Potion of Mind Control"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Potion of Mind Control
 *Potion, varies*  

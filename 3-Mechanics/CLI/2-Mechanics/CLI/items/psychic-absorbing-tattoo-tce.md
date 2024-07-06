@@ -9,7 +9,7 @@ tags:
 aliases: ["Psychic Absorbing Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 119
+BookSource: "Tasha's Cauldron of Everything p. 119"
 ---
 # Psychic Absorbing Tattoo
 *Wondrous Item, very rare (requires attunement)*  

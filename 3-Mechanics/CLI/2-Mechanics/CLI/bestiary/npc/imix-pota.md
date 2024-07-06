@@ -12,7 +12,7 @@ aliases: ["Imix"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 214
+BookSource: "Princes of the Apocalypse p. 214"
 ---
 # [Imix](2-Mechanics/CLI/bestiary/npc/imix-pota.md)
 *Source: Princes of the Apocalypse p. 214*  

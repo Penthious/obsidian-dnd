@@ -13,7 +13,7 @@ aliases: ["Cave Bear"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 334, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage
+BookSource: "Monster Manual p. 334, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage"
 ---
 # [Cave Bear](2-Mechanics/CLI/bestiary/beast/cave-bear.md)
 *Source: Monster Manual p. 334, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage*  

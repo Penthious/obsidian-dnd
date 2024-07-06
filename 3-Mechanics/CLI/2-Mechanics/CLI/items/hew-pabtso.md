@@ -10,7 +10,7 @@ tags:
 aliases: ["Hew"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 54
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 54"
 ---
 # Hew
 *Melee Weapon, uncommon*  

@@ -11,7 +11,7 @@ aliases: ["Swarm of Zombie Limbs"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 254
+BookSource: "Van Richten's Guide to Ravenloft p. 254"
 ---
 # [Swarm of Zombie Limbs](2-Mechanics/CLI/bestiary/undead/swarm-of-zombie-limbs-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 254*  

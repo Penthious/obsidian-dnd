@@ -7,7 +7,7 @@ tags:
 aliases: ["Folk Hero"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 131. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 131. Available in the Basic Rules."
 ---
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules.*  

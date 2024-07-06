@@ -9,7 +9,7 @@ tags:
 aliases: ["Ring of Water Walking"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 193. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 193. Available in the SRD."
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  

@@ -12,7 +12,7 @@ aliases: ["Rool"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 221
+BookSource: "Storm King's Thunder p. 221"
 ---
 # [Rool](2-Mechanics/CLI/bestiary/npc/rool-skt.md)
 *Source: Storm King's Thunder p. 221*  

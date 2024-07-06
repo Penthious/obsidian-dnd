@@ -11,7 +11,7 @@ aliases: ["Green Slaad"]
 NoteIcon: monster
 BestiaryType: aberration (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 277, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen
+BookSource: "Monster Manual p. 277, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen"
 ---
 # [Green Slaad](2-Mechanics/CLI/bestiary/aberration/green-slaad.md)
 *Source: Monster Manual p. 277, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen*  

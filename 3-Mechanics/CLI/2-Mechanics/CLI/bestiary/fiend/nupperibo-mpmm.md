@@ -11,7 +11,7 @@ aliases: ["Nupperibo"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168"
 ---
 # [Nupperibo](2-Mechanics/CLI/bestiary/fiend/nupperibo-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  

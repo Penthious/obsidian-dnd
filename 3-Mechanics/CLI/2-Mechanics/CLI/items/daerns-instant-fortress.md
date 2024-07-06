@@ -9,7 +9,7 @@ tags:
 aliases: ["Daern's Instant Fortress"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 160. Available in the SRD (as 'Instant Fortress').
+BookSource: "Dungeon Master's Guide p. 160. Available in the SRD (as 'Instant Fortress')."
 ---
 # Daern's Instant Fortress
 *Wondrous Item, major, rare*  

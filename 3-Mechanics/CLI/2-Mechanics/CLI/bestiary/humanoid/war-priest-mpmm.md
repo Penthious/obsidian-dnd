@@ -13,7 +13,7 @@ aliases: ["War Priest"]
 NoteIcon: monster
 BestiaryType: humanoid (cleric)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218"
 ---
 # [War Priest](2-Mechanics/CLI/bestiary/humanoid/war-priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218*  

@@ -13,7 +13,7 @@ tags:
 aliases: ["Sun Blade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 205. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 205. Available in the SRD."
 ---
 # Sun Blade
 *Melee Weapon, major, rare (requires attunement)*  

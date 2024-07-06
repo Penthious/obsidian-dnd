@@ -12,7 +12,7 @@ aliases: ["Salida"]
 NoteIcon: npc
 BestiaryType: humanoid (yuan-ti)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 35
+BookSource: "Tomb of Annihilation p. 35"
 ---
 # [Salida](2-Mechanics/CLI/bestiary/npc/salida-toa.md)
 *Source: Tomb of Annihilation p. 35*  

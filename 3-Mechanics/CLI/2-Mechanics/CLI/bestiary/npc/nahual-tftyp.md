@@ -12,7 +12,7 @@ aliases: ["Nahual"]
 NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 91
+BookSource: "Tales from the Yawning Portal p. 91"
 ---
 # [Nahual](2-Mechanics/CLI/bestiary/npc/nahual-tftyp.md)
 *Source: Tales from the Yawning Portal p. 91*  

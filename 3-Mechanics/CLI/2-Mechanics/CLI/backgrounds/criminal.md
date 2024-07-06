@@ -7,7 +7,7 @@ tags:
 aliases: ["Criminal"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 129. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 129. Available in the Basic Rules."
 ---
 # Criminal
 *Source: Player's Handbook p. 129. Available in the Basic Rules.*  

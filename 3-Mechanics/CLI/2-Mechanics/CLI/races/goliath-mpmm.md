@@ -7,7 +7,7 @@ tags:
 aliases: ["Goliath"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 21
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 21"
 ---
 # Goliath
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 21*  

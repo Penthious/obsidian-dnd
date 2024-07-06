@@ -11,7 +11,7 @@ aliases: ["Adult Red Dracolich"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 137
+BookSource: "Tasha's Cauldron of Everything p. 137"
 ---
 # [Adult Red Dracolich](2-Mechanics/CLI/bestiary/dragon/adult-red-dracolich-tce.md)
 *Source: Tasha's Cauldron of Everything p. 137*  

@@ -11,7 +11,7 @@ aliases: ["Otyugh Mutate"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 213
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 213"
 ---
 # [Otyugh Mutate](2-Mechanics/CLI/bestiary/aberration/otyugh-mutate-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 213*  

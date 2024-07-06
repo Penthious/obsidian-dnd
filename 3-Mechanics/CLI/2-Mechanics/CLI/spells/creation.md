@@ -19,7 +19,7 @@ classes:
 aliases: ["Creation"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 229. Available in the SRD.
+BookSource: "Player's Handbook p. 229. Available in the SRD."
 ---
 # Creation
 *5th-level, Illusion*  

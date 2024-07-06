@@ -11,7 +11,7 @@ aliases: ["Knucklehead Trout"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 295
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 295"
 ---
 # [Knucklehead Trout](2-Mechanics/CLI/bestiary/beast/knucklehead-trout-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 295*  

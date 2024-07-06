@@ -9,7 +9,7 @@ tags:
 aliases: ["Masquerade Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 131
+BookSource: "Tasha's Cauldron of Everything p. 131"
 ---
 # Masquerade Tattoo
 *Wondrous Item, common (requires attunement)*  

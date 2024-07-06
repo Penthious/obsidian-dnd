@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Displacer Beast"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Displacer Beast](2-Mechanics/CLI/bestiary/monstrosity/reduced-threat-displacer-beast-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

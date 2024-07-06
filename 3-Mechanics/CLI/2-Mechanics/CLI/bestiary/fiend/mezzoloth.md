@@ -11,7 +11,7 @@ aliases: ["Mezzoloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Monster Manual p. 313, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 313, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Mezzoloth](2-Mechanics/CLI/bestiary/fiend/mezzoloth.md)
 *Source: Monster Manual p. 313, Princes of the Apocalypse, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Phandelver and Below: The Shattered Obelisk*  

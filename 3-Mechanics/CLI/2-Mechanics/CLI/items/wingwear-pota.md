@@ -9,7 +9,7 @@ tags:
 aliases: ["Wingwear"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 223
+BookSource: "Princes of the Apocalypse p. 223"
 ---
 # Wingwear
 *Wondrous Item, uncommon (requires attunement)*  

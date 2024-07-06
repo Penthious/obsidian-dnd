@@ -7,7 +7,7 @@ tags:
 aliases: ["Gold jewelry box with platinum filigree"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Gold jewelry box with platinum filigree
 *Art object*  

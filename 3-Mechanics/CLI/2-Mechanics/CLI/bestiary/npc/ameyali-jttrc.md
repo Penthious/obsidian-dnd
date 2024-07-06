@@ -12,7 +12,7 @@ aliases: ["Ameyali"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 108
+BookSource: "Journeys through the Radiant Citadel p. 108"
 ---
 # [Ameyali](2-Mechanics/CLI/bestiary/npc/ameyali-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 108*  

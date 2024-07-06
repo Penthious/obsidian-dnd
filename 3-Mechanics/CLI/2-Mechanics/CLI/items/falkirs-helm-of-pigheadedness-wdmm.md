@@ -8,7 +8,7 @@ tags:
 aliases: ["Falkir's Helm of Pigheadedness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 141
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 141"
 ---
 # Falkir's Helm of Pigheadedness
 *Other, unknown (magic)*  

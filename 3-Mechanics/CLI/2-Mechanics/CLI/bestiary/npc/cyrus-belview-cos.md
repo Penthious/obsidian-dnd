@@ -12,7 +12,7 @@ aliases: ["Cyrus Belview"]
 NoteIcon: npc
 BestiaryType: humanoid (mongrelfolk)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 77
+BookSource: "Curse of Strahd p. 77"
 ---
 # [Cyrus Belview](2-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md)
 *Source: Curse of Strahd p. 77*  

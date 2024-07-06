@@ -12,7 +12,7 @@ aliases: ["Catoblepas"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129"
 ---
 # [Catoblepas](2-Mechanics/CLI/bestiary/monstrosity/catoblepas-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*  

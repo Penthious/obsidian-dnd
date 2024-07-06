@@ -9,7 +9,7 @@ tags:
 aliases: ["Scissors of Shadow Snipping"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 213
+BookSource: "The Wild Beyond the Witchlight p. 213"
 ---
 # Scissors of Shadow Snipping
 *Wondrous Item, rare (requires attunement by a fey or a spellcaster)*  

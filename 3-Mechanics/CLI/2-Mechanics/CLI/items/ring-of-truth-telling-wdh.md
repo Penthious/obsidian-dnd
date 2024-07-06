@@ -9,7 +9,7 @@ tags:
 aliases: ["Ring of Truth Telling"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 192
+BookSource: "Waterdeep: Dragon Heist p. 192"
 ---
 # Ring of Truth Telling
 *Ring, uncommon (requires attunement)*  

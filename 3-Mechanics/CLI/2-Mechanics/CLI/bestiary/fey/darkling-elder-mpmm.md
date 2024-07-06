@@ -15,7 +15,7 @@ aliases: ["Darkling Elder"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134"
 ---
 # [Darkling Elder](2-Mechanics/CLI/bestiary/fey/darkling-elder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  

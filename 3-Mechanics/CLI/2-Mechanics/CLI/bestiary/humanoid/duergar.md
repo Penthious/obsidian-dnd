@@ -12,7 +12,7 @@ aliases: ["Duergar"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Monster Manual p. 122, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 122, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Duergar](2-Mechanics/CLI/bestiary/humanoid/duergar.md)
 *Source: Monster Manual p. 122, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD.*  

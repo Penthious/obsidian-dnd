@@ -13,7 +13,7 @@ aliases: ["Grick Alpha"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 173, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 173, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Grick Alpha](2-Mechanics/CLI/bestiary/monstrosity/grick-alpha.md)
 *Source: Monster Manual p. 173, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk*  

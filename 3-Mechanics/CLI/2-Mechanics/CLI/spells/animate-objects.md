@@ -19,7 +19,7 @@ classes:
 aliases: ["Animate Objects"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 213. Available in the SRD.
+BookSource: "Player's Handbook p. 213. Available in the SRD."
 ---
 # Animate Objects
 *5th-level, Transmutation*  

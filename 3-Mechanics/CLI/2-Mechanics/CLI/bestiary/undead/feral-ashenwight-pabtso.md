@@ -11,7 +11,7 @@ aliases: ["Feral Ashenwight"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 204
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 204"
 ---
 # [Feral Ashenwight](2-Mechanics/CLI/bestiary/undead/feral-ashenwight-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 204*  

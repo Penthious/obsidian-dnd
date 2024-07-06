@@ -11,7 +11,7 @@ aliases: ["Flamewrath"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 201
+BookSource: "Princes of the Apocalypse p. 201"
 ---
 # [Flamewrath](2-Mechanics/CLI/bestiary/humanoid/flamewrath-pota.md)
 *Source: Princes of the Apocalypse p. 201*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Sentinel Shield"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199
+BookSource: "Dungeon Master's Guide p. 199"
 ---
 # Sentinel Shield
 *Shield, major, uncommon*  

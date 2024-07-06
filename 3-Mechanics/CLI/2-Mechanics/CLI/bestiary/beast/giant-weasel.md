@@ -14,7 +14,7 @@ aliases: ["Giant Weasel"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 329, Tales from the Yawning Portal, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 329, Tales from the Yawning Portal, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Giant Weasel](2-Mechanics/CLI/bestiary/beast/giant-weasel.md)
 *Source: Monster Manual p. 329, Tales from the Yawning Portal, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

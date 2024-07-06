@@ -11,7 +11,7 @@ aliases: ["Avatar of Death (DMG)"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Avatar of Death (DMG)](2-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md)
 *Source: Dungeon Master's Guide p. 164, Tasha's Cauldron of Everything. Available in the SRD.*  

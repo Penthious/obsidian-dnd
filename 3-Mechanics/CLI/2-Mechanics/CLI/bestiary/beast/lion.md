@@ -15,7 +15,7 @@ aliases: ["Lion"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 331, Tales from the Yawning Portal, Tomb of Annihilation, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 331, Tales from the Yawning Portal, Tomb of Annihilation, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Lion](2-Mechanics/CLI/bestiary/beast/lion.md)
 *Source: Monster Manual p. 331, Tales from the Yawning Portal, Tomb of Annihilation, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

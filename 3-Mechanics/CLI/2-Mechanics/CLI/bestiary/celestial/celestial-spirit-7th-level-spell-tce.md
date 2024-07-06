@@ -11,7 +11,7 @@ aliases: ["Celestial Spirit (7th-level Spell)"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 110
+BookSource: "Tasha's Cauldron of Everything p. 110"
 ---
 # [Celestial Spirit (7th-level Spell)](2-Mechanics/CLI/bestiary/celestial/celestial-spirit-7th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 110*  

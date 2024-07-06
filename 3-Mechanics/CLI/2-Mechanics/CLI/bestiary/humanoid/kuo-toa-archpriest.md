@@ -12,7 +12,7 @@ aliases: ["Kuo-toa Archpriest"]
 NoteIcon: monster
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
-BookSource: Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage
+BookSource: "Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage"
 ---
 # [Kuo-toa Archpriest](2-Mechanics/CLI/bestiary/humanoid/kuo-toa-archpriest.md)
 *Source: Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage*  

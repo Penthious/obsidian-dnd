@@ -11,7 +11,7 @@ aliases: ["Awakened Elk"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 72
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 72"
 ---
 # [Awakened Elk](2-Mechanics/CLI/bestiary/beast/awakened-elk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 72*  

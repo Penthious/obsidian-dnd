@@ -11,7 +11,7 @@ classes:
 aliases: ["Dream of the Blue Veil"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 106
+BookSource: "Tasha's Cauldron of Everything p. 106"
 ---
 # Dream of the Blue Veil
 *7th-level, Conjuration*  

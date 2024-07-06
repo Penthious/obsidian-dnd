@@ -12,7 +12,7 @@ aliases: ["Eku"]
 NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 34
+BookSource: "Tomb of Annihilation p. 34"
 ---
 # [Eku](2-Mechanics/CLI/bestiary/npc/eku-toa.md)
 *Source: Tomb of Annihilation p. 34*  

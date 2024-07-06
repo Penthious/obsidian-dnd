@@ -23,7 +23,7 @@ classes:
 aliases: ["Friends"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 244
+BookSource: "Player's Handbook p. 244"
 ---
 # Friends
 *cantrip, Enchantment*  

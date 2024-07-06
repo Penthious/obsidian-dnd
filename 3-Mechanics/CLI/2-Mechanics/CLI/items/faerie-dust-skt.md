@@ -8,7 +8,7 @@ tags:
 aliases: ["Faerie Dust"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 35
+BookSource: "Storm King's Thunder p. 35"
 ---
 # Faerie Dust
 *Other, unknown (magic)*  

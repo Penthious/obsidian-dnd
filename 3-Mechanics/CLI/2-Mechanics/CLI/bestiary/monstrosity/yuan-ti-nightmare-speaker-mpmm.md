@@ -14,7 +14,7 @@ aliases: ["Yuan-ti Nightmare Speaker"]
 NoteIcon: monster
 BestiaryType: monstrosity (warlock)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205"
 ---
 # [Yuan-ti Nightmare Speaker](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-nightmare-speaker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  

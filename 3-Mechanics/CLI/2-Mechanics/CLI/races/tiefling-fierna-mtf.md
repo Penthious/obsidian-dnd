@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Fierna)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 21
+BookSource: "Mordenkainen's Tome of Foes p. 21"
 ---
 # Tiefling (Fierna)
 *Source: Mordenkainen's Tome of Foes p. 21*  

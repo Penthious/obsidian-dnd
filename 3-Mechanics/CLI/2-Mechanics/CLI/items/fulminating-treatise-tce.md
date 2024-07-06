@@ -9,7 +9,7 @@ tags:
 aliases: ["Fulminating Treatise"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 128
+BookSource: "Tasha's Cauldron of Everything p. 128"
 ---
 # Fulminating Treatise
 *Wondrous Item, rare (requires attunement by a wizard)*  

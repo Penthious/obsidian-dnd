@@ -10,7 +10,7 @@ tags:
 aliases: ["Animated Shield"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 151. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 151. Available in the SRD."
 ---
 # Animated Shield
 *Shield, major, very rare (requires attunement)*  

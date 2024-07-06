@@ -11,7 +11,7 @@ aliases: ["Cloaker Mutate"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 212
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 212"
 ---
 # [Cloaker Mutate](2-Mechanics/CLI/bestiary/aberration/cloaker-mutate-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  

@@ -12,7 +12,7 @@ aliases: ["Felgolos"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 192
+BookSource: "Storm King's Thunder p. 192"
 ---
 # [Felgolos](2-Mechanics/CLI/bestiary/npc/felgolos-skt.md)
 *Source: Storm King's Thunder p. 192*  

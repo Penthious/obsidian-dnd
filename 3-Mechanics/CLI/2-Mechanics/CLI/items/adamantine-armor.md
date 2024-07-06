@@ -9,7 +9,7 @@ tags:
 aliases: ["Adamantine Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 150. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 150. Available in the SRD."
 ---
 # Adamantine Armor
 *Generic Variant, major, uncommon*  

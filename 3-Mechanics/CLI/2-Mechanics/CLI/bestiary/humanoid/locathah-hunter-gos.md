@@ -11,7 +11,7 @@ aliases: ["Locathah Hunter"]
 NoteIcon: monster
 BestiaryType: humanoid (locathah)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 243
+BookSource: "Ghosts of Saltmarsh p. 243"
 ---
 # [Locathah Hunter](2-Mechanics/CLI/bestiary/humanoid/locathah-hunter-gos.md)
 *Source: Ghosts of Saltmarsh p. 243*  

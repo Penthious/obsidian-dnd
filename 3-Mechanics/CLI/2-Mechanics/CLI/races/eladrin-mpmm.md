@@ -7,7 +7,7 @@ tags:
 aliases: ["Eladrin"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 13
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 13"
 ---
 # Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 13*  

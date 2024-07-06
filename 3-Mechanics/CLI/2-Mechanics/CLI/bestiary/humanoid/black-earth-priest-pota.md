@@ -11,7 +11,7 @@ aliases: ["Black Earth Priest"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 195
+BookSource: "Princes of the Apocalypse p. 195"
 ---
 # [Black Earth Priest](2-Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md)
 *Source: Princes of the Apocalypse p. 195*  

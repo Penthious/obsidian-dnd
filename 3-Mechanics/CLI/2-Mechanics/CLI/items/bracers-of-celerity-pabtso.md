@@ -9,7 +9,7 @@ tags:
 aliases: ["Bracers of Celerity"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 217
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 217"
 ---
 # Bracers of Celerity
 *Wondrous Item, rare (requires attunement)*  

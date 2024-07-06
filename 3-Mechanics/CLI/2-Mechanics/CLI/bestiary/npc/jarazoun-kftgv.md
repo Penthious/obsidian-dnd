@@ -12,7 +12,7 @@ aliases: ["Jarazoun"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 200
+BookSource: "Keys from the Golden Vault p. 200"
 ---
 # [Jarazoun](2-Mechanics/CLI/bestiary/npc/jarazoun-kftgv.md)
 *Source: Keys from the Golden Vault p. 200*  

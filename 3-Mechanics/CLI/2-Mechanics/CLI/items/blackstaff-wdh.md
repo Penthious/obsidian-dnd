@@ -10,7 +10,7 @@ tags:
 aliases: ["Blackstaff"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 190
+BookSource: "Waterdeep: Dragon Heist p. 190"
 ---
 # Blackstaff
 *Staff, legendary (requires attunement by the blackstaff heir, who must be a wizard)*  

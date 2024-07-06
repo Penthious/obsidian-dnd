@@ -12,7 +12,7 @@ aliases: ["Deep Rothé"]
 NoteIcon: monster
 BestiaryType: beast (cattle)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208"
 ---
 # [Deep Rothé](2-Mechanics/CLI/bestiary/beast/deep-rothe-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*  

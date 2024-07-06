@@ -12,7 +12,7 @@ aliases: ["Yan-C-Bin"]
 NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 221
+BookSource: "Princes of the Apocalypse p. 221"
 ---
 # [Yan-C-Bin](2-Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md)
 *Source: Princes of the Apocalypse p. 221*  

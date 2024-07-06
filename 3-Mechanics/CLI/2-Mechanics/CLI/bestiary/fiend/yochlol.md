@@ -12,7 +12,7 @@ aliases: ["Yochlol"]
 NoteIcon: monster
 BestiaryType: fiend (demon, shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 65, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 65, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Yochlol](2-Mechanics/CLI/bestiary/fiend/yochlol.md)
 *Source: Monster Manual p. 65, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk*  

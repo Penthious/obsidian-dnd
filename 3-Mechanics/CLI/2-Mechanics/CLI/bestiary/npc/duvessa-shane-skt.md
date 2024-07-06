@@ -12,7 +12,7 @@ aliases: ["Duvessa Shane"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 248
+BookSource: "Storm King's Thunder p. 248"
 ---
 # [Duvessa Shane](2-Mechanics/CLI/bestiary/npc/duvessa-shane-skt.md)
 *Source: Storm King's Thunder p. 248*  

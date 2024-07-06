@@ -11,7 +11,7 @@ tags:
 aliases: ["Shatterspike"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tales from the Yawning Portal p. 229
+BookSource: "Tales from the Yawning Portal p. 229"
 ---
 # Shatterspike
 *Melee Weapon, uncommon (requires attunement)*  

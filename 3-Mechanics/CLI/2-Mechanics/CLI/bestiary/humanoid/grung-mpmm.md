@@ -12,7 +12,7 @@ aliases: ["Grung"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156"
 ---
 # [Grung](2-Mechanics/CLI/bestiary/humanoid/grung-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*  

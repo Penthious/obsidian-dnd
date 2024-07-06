@@ -12,7 +12,7 @@ aliases: ["Maccath the Crimson"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 33
+BookSource: "The Rise of Tiamat p. 33"
 ---
 # [Maccath the Crimson](2-Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot.md)
 *Source: The Rise of Tiamat p. 33*  

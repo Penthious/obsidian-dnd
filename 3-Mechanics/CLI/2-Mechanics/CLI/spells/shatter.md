@@ -27,7 +27,7 @@ classes:
 aliases: ["Shatter"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 275. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 275. Available in the SRD and the Basic Rules."
 ---
 # Shatter
 *2nd-level, Evocation*  

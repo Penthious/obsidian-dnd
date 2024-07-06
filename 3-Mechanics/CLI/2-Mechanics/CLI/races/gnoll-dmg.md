@@ -7,7 +7,7 @@ tags:
 aliases: ["Gnoll (DMG)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Dungeon Master's Guide p. 282
+BookSource: "Dungeon Master's Guide p. 282"
 ---
 # Gnoll (DMG)
 *Source: Dungeon Master's Guide p. 282*  

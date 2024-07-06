@@ -11,7 +11,7 @@ aliases: ["Homunculus Servant"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 22
+BookSource: "Tasha's Cauldron of Everything p. 22"
 ---
 # [Homunculus Servant](2-Mechanics/CLI/bestiary/construct/homunculus-servant-tce.md)
 *Source: Tasha's Cauldron of Everything p. 22*  

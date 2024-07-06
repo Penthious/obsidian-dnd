@@ -19,7 +19,7 @@ classes:
 aliases: ["Aura of Life"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 216
+BookSource: "Player's Handbook p. 216"
 ---
 # Aura of Life
 *4th-level, Abjuration*  

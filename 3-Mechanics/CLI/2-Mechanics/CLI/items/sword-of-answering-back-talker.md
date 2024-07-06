@@ -12,7 +12,7 @@ tags:
 aliases: ["Sword of Answering (Back Talker)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 206
+BookSource: "Dungeon Master's Guide p. 206"
 ---
 # Sword of Answering (Back Talker)
 *Melee Weapon, major, legendary (requires attunement by a chaotic evil creature)*  

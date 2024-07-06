@@ -12,7 +12,7 @@ aliases: ["Jeyev Veldrews"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 75
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 75"
 ---
 # [Jeyev Veldrews](2-Mechanics/CLI/bestiary/npc/jeyev-veldrews-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 75*  

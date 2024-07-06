@@ -9,7 +9,7 @@ tags:
 aliases: ["Alchemical Compendium"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 119
+BookSource: "Tasha's Cauldron of Everything p. 119"
 ---
 # Alchemical Compendium
 *Wondrous Item, rare (requires attunement by a wizard)*  

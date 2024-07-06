@@ -11,7 +11,7 @@ aliases: ["Hellwasp"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 236
+BookSource: "Baldur's Gate: Descent Into Avernus p. 236"
 ---
 # [Hellwasp](2-Mechanics/CLI/bestiary/fiend/hellwasp-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 236*  

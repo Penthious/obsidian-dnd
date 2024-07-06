@@ -12,7 +12,7 @@ aliases: ["Iskander"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 62
+BookSource: "The Rise of Tiamat p. 62"
 ---
 # [Iskander](2-Mechanics/CLI/bestiary/npc/iskander-rot.md)
 *Source: The Rise of Tiamat p. 62*  

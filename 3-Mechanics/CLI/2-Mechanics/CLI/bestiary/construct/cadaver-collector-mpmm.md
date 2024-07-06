@@ -12,7 +12,7 @@ aliases: ["Cadaver Collector"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122"
 ---
 # [Cadaver Collector](2-Mechanics/CLI/bestiary/construct/cadaver-collector-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  

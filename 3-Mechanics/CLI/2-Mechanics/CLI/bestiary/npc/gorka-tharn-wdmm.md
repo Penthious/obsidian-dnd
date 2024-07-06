@@ -12,7 +12,7 @@ aliases: ["Gorka Tharn"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 257
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 257"
 ---
 # [Gorka Tharn](2-Mechanics/CLI/bestiary/npc/gorka-tharn-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 257*  

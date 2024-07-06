@@ -7,7 +7,7 @@ tags:
 aliases: ["Insect Repellent (block of incense)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 32
+BookSource: "Tomb of Annihilation p. 32"
 ---
 # Insect Repellent (block of incense)
 *Adventuring Gear*  

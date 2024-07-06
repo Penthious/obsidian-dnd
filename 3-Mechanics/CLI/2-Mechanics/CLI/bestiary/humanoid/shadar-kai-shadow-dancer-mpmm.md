@@ -14,7 +14,7 @@ aliases: ["Shadar-kai Shadow Dancer"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225"
 ---
 # [Shadar-kai Shadow Dancer](2-Mechanics/CLI/bestiary/humanoid/shadar-kai-shadow-dancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*  

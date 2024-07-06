@@ -11,7 +11,7 @@ aliases: ["Oriq Blood Mage"]
 NoteIcon: monster
 BestiaryType: humanoid (warlock)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 201
+BookSource: "Strixhaven: A Curriculum of Chaos p. 201"
 ---
 # [Oriq Blood Mage](2-Mechanics/CLI/bestiary/humanoid/oriq-blood-mage-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 201*  

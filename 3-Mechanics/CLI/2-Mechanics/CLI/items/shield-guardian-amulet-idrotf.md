@@ -9,7 +9,7 @@ tags:
 aliases: ["Shield Guardian Amulet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 149
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 149"
 ---
 # Shield Guardian Amulet
 *Wondrous Item, rare (requires attunement by a humanoid)*  

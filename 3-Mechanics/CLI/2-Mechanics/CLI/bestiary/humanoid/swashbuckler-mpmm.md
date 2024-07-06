@@ -13,7 +13,7 @@ aliases: ["Swashbuckler"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217"
 ---
 # [Swashbuckler](2-Mechanics/CLI/bestiary/humanoid/swashbuckler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Clothing, cold weather"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 20
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 20"
 ---
 # Clothing, cold weather
 *Adventuring Gear*  

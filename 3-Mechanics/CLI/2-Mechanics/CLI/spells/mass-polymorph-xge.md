@@ -17,7 +17,7 @@ classes:
 aliases: ["Mass Polymorph"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 160
+BookSource: "Xanathar's Guide to Everything p. 160"
 ---
 # Mass Polymorph
 *9th-level, Transmutation*  

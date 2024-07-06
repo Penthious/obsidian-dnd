@@ -7,7 +7,7 @@ tags:
 aliases: ["City Watch"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Sword Coast Adventurer's Guide p. 145
+BookSource: "Sword Coast Adventurer's Guide p. 145"
 ---
 # City Watch
 *Source: Sword Coast Adventurer's Guide p. 145*  

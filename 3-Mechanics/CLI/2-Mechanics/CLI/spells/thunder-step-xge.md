@@ -19,7 +19,7 @@ classes:
 aliases: ["Thunder Step"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 168
+BookSource: "Xanathar's Guide to Everything p. 168"
 ---
 # Thunder Step
 *3rd-level, Conjuration*  

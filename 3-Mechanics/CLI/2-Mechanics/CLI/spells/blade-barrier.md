@@ -13,7 +13,7 @@ classes:
 aliases: ["Blade Barrier"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 218. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 218. Available in the SRD and the Basic Rules."
 ---
 # Blade Barrier
 *6th-level, Evocation*  

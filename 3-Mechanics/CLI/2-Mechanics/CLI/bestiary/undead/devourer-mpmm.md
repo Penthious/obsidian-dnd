@@ -12,7 +12,7 @@ aliases: ["Devourer"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138"
 ---
 # [Devourer](2-Mechanics/CLI/bestiary/undead/devourer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138*  

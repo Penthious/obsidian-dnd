@@ -12,7 +12,7 @@ tags:
 aliases: ["Hoopak"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 188
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 188"
 ---
 # Hoopak
 *Melee Weapon*  

@@ -11,7 +11,7 @@ aliases: ["Gnoll Vampire"]
 NoteIcon: monster
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 290
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 290"
 ---
 # [Gnoll Vampire](2-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 290*  

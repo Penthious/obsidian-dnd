@@ -12,7 +12,7 @@ aliases: ["Ashtyrranthor"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 210
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 210"
 ---
 # [Ashtyrranthor](2-Mechanics/CLI/bestiary/npc/ashtyrranthor-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 210*  

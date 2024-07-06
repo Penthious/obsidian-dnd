@@ -11,7 +11,7 @@ aliases: ["Ancient Amethyst Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 160
+BookSource: "Fizban's Treasury of Dragons p. 160"
 ---
 # [Ancient Amethyst Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 160*  

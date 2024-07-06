@@ -9,7 +9,7 @@ tags:
 aliases: ["Ioun Stone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 176
+BookSource: "Dungeon Master's Guide p. 176"
 ---
 # Ioun Stone
 *Wondrous Item, varies (requires attunement)*  

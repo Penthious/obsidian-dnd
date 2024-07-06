@@ -15,7 +15,7 @@ aliases: ["Yuan-ti Pureblood"]
 NoteIcon: monster
 BestiaryType: humanoid (yuan-ti)
 SourceType: Bestiary
-BookSource: Monster Manual p. 310, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries
+BookSource: "Monster Manual p. 310, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries"
 ---
 # [Yuan-ti Pureblood](2-Mechanics/CLI/bestiary/humanoid/yuan-ti-pureblood.md)
 *Source: Monster Manual p. 310, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries*  

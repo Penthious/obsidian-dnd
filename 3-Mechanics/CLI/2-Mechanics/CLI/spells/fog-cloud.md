@@ -25,7 +25,7 @@ classes:
 aliases: ["Fog Cloud"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 243. Available in the SRD.
+BookSource: "Player's Handbook p. 243. Available in the SRD."
 ---
 # Fog Cloud
 *1st-level, Conjuration*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["+2 Weapon"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 213. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 213. Available in the SRD and the Basic Rules."
 ---
 # +2 Weapon
 *Generic Variant, major, rare*  

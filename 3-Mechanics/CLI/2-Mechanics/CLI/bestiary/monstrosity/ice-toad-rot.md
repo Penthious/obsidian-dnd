@@ -11,7 +11,7 @@ aliases: ["Ice Toad"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 90
+BookSource: "The Rise of Tiamat p. 90"
 ---
 # [Ice Toad](2-Mechanics/CLI/bestiary/monstrosity/ice-toad-rot.md)
 *Source: The Rise of Tiamat p. 90*  

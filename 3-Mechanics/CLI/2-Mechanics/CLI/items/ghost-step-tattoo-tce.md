@@ -9,7 +9,7 @@ tags:
 aliases: ["Ghost Step Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 128
+BookSource: "Tasha's Cauldron of Everything p. 128"
 ---
 # Ghost Step Tattoo
 *Wondrous Item, very rare (requires attunement)*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Maelstrom"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 160
+BookSource: "Xanathar's Guide to Everything p. 160"
 ---
 # Maelstrom
 *5th-level, Evocation*  

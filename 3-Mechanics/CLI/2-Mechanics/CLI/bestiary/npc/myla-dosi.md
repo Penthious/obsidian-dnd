@@ -12,7 +12,7 @@ aliases: ["Myla"]
 NoteIcon: npc
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 9
+BookSource: "Dragons of Stormwreck Isle p. 9"
 ---
 # [Myla](2-Mechanics/CLI/bestiary/npc/myla-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 9*  

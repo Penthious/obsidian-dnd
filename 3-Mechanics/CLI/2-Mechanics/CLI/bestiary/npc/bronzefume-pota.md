@@ -12,7 +12,7 @@ aliases: ["Bronzefume"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 92
+BookSource: "Princes of the Apocalypse p. 92"
 ---
 # [Bronzefume](2-Mechanics/CLI/bestiary/npc/bronzefume-pota.md)
 *Source: Princes of the Apocalypse p. 92*  

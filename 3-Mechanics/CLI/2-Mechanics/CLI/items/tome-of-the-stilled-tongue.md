@@ -10,7 +10,7 @@ tags:
 aliases: ["Tome of the Stilled Tongue"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 208
+BookSource: "Dungeon Master's Guide p. 208"
 ---
 # Tome of the Stilled Tongue
 *Wondrous Item, major, legendary (requires attunement by a wizard)*  

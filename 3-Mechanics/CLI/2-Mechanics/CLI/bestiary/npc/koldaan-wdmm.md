@@ -12,7 +12,7 @@ aliases: ["Kol'daan"]
 NoteIcon: npc
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 155
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 155"
 ---
 # [Kol'daan](2-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 155*  

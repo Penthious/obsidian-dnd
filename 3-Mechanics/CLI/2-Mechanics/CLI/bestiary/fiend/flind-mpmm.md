@@ -15,7 +15,7 @@ aliases: ["Flind"]
 NoteIcon: monster
 BestiaryType: fiend (gnoll)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153"
 ---
 # [Flind](2-Mechanics/CLI/bestiary/fiend/flind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  

@@ -11,7 +11,7 @@ aliases: ["Dragonfang"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 89
+BookSource: "The Rise of Tiamat p. 89"
 ---
 # [Dragonfang](2-Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md)
 *Source: The Rise of Tiamat p. 89*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Custom Lineage"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Tasha's Cauldron of Everything p. 8
+BookSource: "Tasha's Cauldron of Everything p. 8"
 ---
 # Custom Lineage
 *Source: Tasha's Cauldron of Everything p. 8*  

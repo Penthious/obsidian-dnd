@@ -12,7 +12,7 @@ aliases: ["Embric"]
 NoteIcon: npc
 BestiaryType: humanoid (Fire genasi)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 32
+BookSource: "Waterdeep: Dragon Heist p. 32"
 ---
 # [Embric](2-Mechanics/CLI/bestiary/npc/embric-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  

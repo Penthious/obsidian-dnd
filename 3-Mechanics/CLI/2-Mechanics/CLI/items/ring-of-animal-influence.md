@@ -9,7 +9,7 @@ tags:
 aliases: ["Ring of Animal Influence"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 189. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 189. Available in the SRD."
 ---
 # Ring of Animal Influence
 *Ring, major, rare*  

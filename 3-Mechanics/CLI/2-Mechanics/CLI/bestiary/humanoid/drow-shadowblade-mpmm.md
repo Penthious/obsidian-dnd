@@ -12,7 +12,7 @@ aliases: ["Drow Shadowblade"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187"
 ---
 # [Drow Shadowblade](2-Mechanics/CLI/bestiary/humanoid/drow-shadowblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*  

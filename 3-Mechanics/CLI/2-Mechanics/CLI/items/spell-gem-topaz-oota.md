@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Gem (Topaz)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 223
+BookSource: "Out of the Abyss p. 223"
 ---
 # Spell Gem (Topaz)
 *Wondrous Item, very rare (attunement optional)*  

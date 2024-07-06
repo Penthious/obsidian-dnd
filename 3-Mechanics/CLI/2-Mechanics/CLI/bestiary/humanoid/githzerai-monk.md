@@ -11,7 +11,7 @@ aliases: ["Githzerai Monk"]
 NoteIcon: monster
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Monster Manual p. 161
+BookSource: "Monster Manual p. 161"
 ---
 # [Githzerai Monk](2-Mechanics/CLI/bestiary/humanoid/githzerai-monk.md)
 *Source: Monster Manual p. 161*  

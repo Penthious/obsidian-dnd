@@ -12,7 +12,7 @@ aliases: ["Thorvin Twinbeard"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 216
+BookSource: "Waterdeep: Dragon Heist p. 216"
 ---
 # [Thorvin Twinbeard](2-Mechanics/CLI/bestiary/npc/thorvin-twinbeard-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

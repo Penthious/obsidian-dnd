@@ -8,7 +8,7 @@ tags:
 aliases: ["Adjustable Stilts"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 47
+BookSource: "Waterdeep: Dragon Heist p. 47"
 ---
 # Adjustable Stilts
 *Other, unknown*  

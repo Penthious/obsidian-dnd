@@ -8,7 +8,7 @@ tags:
 aliases: ["Sinda berries (10)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 205
+BookSource: "Tomb of Annihilation p. 205"
 ---
 # Sinda berries (10)
 *Adventuring Gear, unknown*  

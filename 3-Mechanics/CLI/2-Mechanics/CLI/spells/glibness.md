@@ -13,7 +13,7 @@ classes:
 aliases: ["Glibness"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 245. Available in the SRD.
+BookSource: "Player's Handbook p. 245. Available in the SRD."
 ---
 # Glibness
 *8th-level, Transmutation*  

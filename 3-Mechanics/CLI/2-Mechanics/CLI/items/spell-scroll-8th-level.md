@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Scroll (8th Level)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 207. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 207. Available in the SRD and the Basic Rules."
 ---
 # Spell Scroll (8th Level)
 *Scroll, minor, very rare*  

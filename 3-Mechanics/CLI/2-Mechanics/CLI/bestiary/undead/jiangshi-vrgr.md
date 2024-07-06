@@ -11,7 +11,7 @@ aliases: ["Jiangshi"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 236
+BookSource: "Van Richten's Guide to Ravenloft p. 236"
 ---
 # [Jiangshi](2-Mechanics/CLI/bestiary/undead/jiangshi-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 236*  

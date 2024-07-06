@@ -21,7 +21,7 @@ classes:
 aliases: ["Catnap"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 151
+BookSource: "Xanathar's Guide to Everything p. 151"
 ---
 # Catnap
 *3rd-level, Enchantment*  

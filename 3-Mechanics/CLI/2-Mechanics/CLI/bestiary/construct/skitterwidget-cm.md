@@ -11,7 +11,7 @@ aliases: ["Skitterwidget"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 136
+BookSource: "Candlekeep Mysteries p. 136"
 ---
 # [Skitterwidget](2-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md)
 *Source: Candlekeep Mysteries p. 136*  

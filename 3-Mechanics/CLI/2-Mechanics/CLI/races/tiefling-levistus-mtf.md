@@ -7,7 +7,7 @@ tags:
 aliases: ["Tiefling (Levistus)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 22
+BookSource: "Mordenkainen's Tome of Foes p. 22"
 ---
 # Tiefling (Levistus)
 *Source: Mordenkainen's Tome of Foes p. 22*  

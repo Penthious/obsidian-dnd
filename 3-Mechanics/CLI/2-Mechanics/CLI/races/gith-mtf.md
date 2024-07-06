@@ -7,7 +7,7 @@ tags:
 aliases: ["Gith"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen's Tome of Foes p. 96
+BookSource: "Mordenkainen's Tome of Foes p. 96"
 ---
 # Gith
 *Source: Mordenkainen's Tome of Foes p. 96*  

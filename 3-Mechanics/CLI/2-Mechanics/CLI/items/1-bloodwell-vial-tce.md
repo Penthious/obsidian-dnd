@@ -9,7 +9,7 @@ tags:
 aliases: ["+1 Bloodwell Vial"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 122
+BookSource: "Tasha's Cauldron of Everything p. 122"
 ---
 # +1 Bloodwell Vial
 *Wondrous Item, uncommon (requires attunement by a sorcerer)*  

@@ -12,7 +12,7 @@ aliases: ["Shoalar Quanderil"]
 NoteIcon: npc
 BestiaryType: humanoid (Water genasi)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 208
+BookSource: "Princes of the Apocalypse p. 208"
 ---
 # [Shoalar Quanderil](2-Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota.md)
 *Source: Princes of the Apocalypse p. 208*  

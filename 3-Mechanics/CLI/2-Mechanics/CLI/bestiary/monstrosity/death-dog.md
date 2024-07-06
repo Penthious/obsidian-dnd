@@ -12,7 +12,7 @@ aliases: ["Death Dog"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 321, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 321, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules."
 ---
 # [Death Dog](2-Mechanics/CLI/bestiary/monstrosity/death-dog.md)
 *Source: Monster Manual p. 321, Storm King's Thunder, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  

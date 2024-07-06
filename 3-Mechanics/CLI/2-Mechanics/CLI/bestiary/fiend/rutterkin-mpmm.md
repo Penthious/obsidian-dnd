@@ -11,7 +11,7 @@ aliases: ["Rutterkin"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136"
 ---
 # [Rutterkin](2-Mechanics/CLI/bestiary/fiend/rutterkin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*  

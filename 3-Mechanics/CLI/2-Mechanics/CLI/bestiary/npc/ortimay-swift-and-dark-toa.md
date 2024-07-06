@@ -12,7 +12,7 @@ aliases: ["Ortimay Swift and Dark"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 21
+BookSource: "Tomb of Annihilation p. 21"
 ---
 # [Ortimay Swift and Dark](2-Mechanics/CLI/bestiary/npc/ortimay-swift-and-dark-toa.md)
 *Source: Tomb of Annihilation p. 21*  

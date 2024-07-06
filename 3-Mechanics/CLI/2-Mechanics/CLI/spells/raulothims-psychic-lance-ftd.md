@@ -21,7 +21,7 @@ classes:
 aliases: ["Raulothim's Psychic Lance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Fizban's Treasury of Dragons p. 21
+BookSource: "Fizban's Treasury of Dragons p. 21"
 ---
 # Raulothim's Psychic Lance
 *4th-level, Enchantment*  

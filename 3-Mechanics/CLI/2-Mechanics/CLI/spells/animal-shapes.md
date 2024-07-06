@@ -11,7 +11,7 @@ classes:
 aliases: ["Animal Shapes"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 212. Available in the SRD.
+BookSource: "Player's Handbook p. 212. Available in the SRD."
 ---
 # Animal Shapes
 *8th-level, Transmutation*  

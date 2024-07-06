@@ -9,7 +9,7 @@ tags:
 aliases: ["Blod Stone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 233
+BookSource: "Storm King's Thunder p. 233"
 ---
 # Blod Stone
 *Wondrous Item, rare (requires attunement)*  

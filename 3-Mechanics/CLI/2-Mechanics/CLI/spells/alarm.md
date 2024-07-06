@@ -24,7 +24,7 @@ classes:
 aliases: ["Alarm"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 211. Available in the SRD.
+BookSource: "Player's Handbook p. 211. Available in the SRD."
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  

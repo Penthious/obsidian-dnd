@@ -11,7 +11,7 @@ aliases: ["Phylaskia"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 239
+BookSource: "Mythic Odysseys of Theros p. 239"
 ---
 # [Phylaskia](2-Mechanics/CLI/bestiary/undead/phylaskia-mot.md)
 *Source: Mythic Odysseys of Theros p. 239*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Platinum Scarf"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 24
+BookSource: "Fizban's Treasury of Dragons p. 24"
 ---
 # Platinum Scarf
 *Wondrous Item, legendary (requires attunement)*  

@@ -12,7 +12,7 @@ aliases: ["King Snurre"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 193
+BookSource: "Tales from the Yawning Portal p. 193"
 ---
 # [King Snurre](2-Mechanics/CLI/bestiary/npc/king-snurre-tftyp.md)
 *Source: Tales from the Yawning Portal p. 193*  

@@ -17,7 +17,7 @@ classes:
 aliases: ["Antimagic Field"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 213. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 213. Available in the SRD and the Basic Rules."
 ---
 # Antimagic Field
 *8th-level, Abjuration*  

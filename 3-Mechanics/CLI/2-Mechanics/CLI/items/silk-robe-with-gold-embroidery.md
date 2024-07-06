@@ -7,7 +7,7 @@ tags:
 aliases: ["Silk robe with gold embroidery"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Silk robe with gold embroidery
 *Art object*  

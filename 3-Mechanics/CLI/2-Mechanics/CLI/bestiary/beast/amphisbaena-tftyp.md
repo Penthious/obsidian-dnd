@@ -11,7 +11,7 @@ aliases: ["Amphisbaena"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 84
+BookSource: "Tales from the Yawning Portal p. 84"
 ---
 # [Amphisbaena](2-Mechanics/CLI/bestiary/beast/amphisbaena-tftyp.md)
 *Source: Tales from the Yawning Portal p. 84*  

@@ -11,7 +11,7 @@ aliases: ["Oculorb"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 214
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 214"
 ---
 # [Oculorb](2-Mechanics/CLI/bestiary/aberration/oculorb-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 214*  

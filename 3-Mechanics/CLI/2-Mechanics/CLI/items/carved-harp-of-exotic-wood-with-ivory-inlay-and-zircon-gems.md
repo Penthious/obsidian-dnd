@@ -7,7 +7,7 @@ tags:
 aliases: ["Carved harp of exotic wood with ivory inlay and zircon gems"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Carved harp of exotic wood with ivory inlay and zircon gems
 *Art object*  

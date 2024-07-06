@@ -13,7 +13,7 @@ aliases: ["Giant Vulture"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 329, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 329, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Giant Vulture](2-Mechanics/CLI/bestiary/beast/giant-vulture.md)
 *Source: Monster Manual p. 329, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

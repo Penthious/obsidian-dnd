@@ -17,7 +17,7 @@ classes:
 aliases: ["Scatter"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 164
+BookSource: "Xanathar's Guide to Everything p. 164"
 ---
 # Scatter
 *6th-level, Conjuration*  

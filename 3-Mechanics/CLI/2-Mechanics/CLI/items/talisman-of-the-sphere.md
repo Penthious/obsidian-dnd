@@ -10,7 +10,7 @@ tags:
 aliases: ["Talisman of the Sphere"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 207. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 207. Available in the SRD."
 ---
 # Talisman of the Sphere
 *Wondrous Item, major, legendary (requires attunement)*  

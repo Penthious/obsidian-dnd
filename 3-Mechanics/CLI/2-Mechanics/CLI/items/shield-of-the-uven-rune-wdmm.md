@@ -9,7 +9,7 @@ tags:
 aliases: ["Shield of the Uven Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 299
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 299"
 ---
 # Shield of the Uven Rune
 *Shield, very rare (requires attunement)*  

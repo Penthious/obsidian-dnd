@@ -12,7 +12,7 @@ aliases: ["Derro Savant"]
 NoteIcon: monster
 BestiaryType: aberration (sorcerer)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159"
 ---
 # [Derro Savant](2-Mechanics/CLI/bestiary/aberration/derro-savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  

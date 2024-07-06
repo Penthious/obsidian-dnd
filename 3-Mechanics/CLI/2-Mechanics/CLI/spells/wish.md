@@ -17,7 +17,7 @@ classes:
 aliases: ["Wish"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 288. Available in the SRD.
+BookSource: "Player's Handbook p. 288. Available in the SRD."
 ---
 # Wish
 *9th-level, Conjuration*  

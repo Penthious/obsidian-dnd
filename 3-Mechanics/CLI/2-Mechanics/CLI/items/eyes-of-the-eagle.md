@@ -10,7 +10,7 @@ tags:
 aliases: ["Eyes of the Eagle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 168. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 168. Available in the SRD."
 ---
 # Eyes of the Eagle
 *Wondrous Item, major, uncommon (requires attunement)*  

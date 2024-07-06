@@ -12,7 +12,7 @@ aliases: ["Xilonen"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 83
+BookSource: "Tales from the Yawning Portal p. 83"
 ---
 # [Xilonen](2-Mechanics/CLI/bestiary/npc/xilonen-tftyp.md)
 *Source: Tales from the Yawning Portal p. 83*  

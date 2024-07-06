@@ -13,7 +13,7 @@ aliases: ["Swarm of Cranium Rats"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133"
 ---
 # [Swarm of Cranium Rats](2-Mechanics/CLI/bestiary/aberration/swarm-of-cranium-rats-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  

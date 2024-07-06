@@ -12,7 +12,7 @@ aliases: ["Terenzio Cassalanter"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 115
+BookSource: "Waterdeep: Dragon Heist p. 115"
 ---
 # [Terenzio Cassalanter](2-Mechanics/CLI/bestiary/npc/terenzio-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 115*  

@@ -11,7 +11,7 @@ aliases: ["Aspect of Bahamut"]
 NoteIcon: monster
 BestiaryType: dragon (metallic)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 165
+BookSource: "Fizban's Treasury of Dragons p. 165"
 ---
 # [Aspect of Bahamut](2-Mechanics/CLI/bestiary/dragon/aspect-of-bahamut-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 165*  

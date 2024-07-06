@@ -12,7 +12,7 @@ aliases: ["Bakaris the Younger"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 57
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 57"
 ---
 # [Bakaris the Younger](2-Mechanics/CLI/bestiary/npc/bakaris-the-younger-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 57*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Devastation Orb"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 222
+BookSource: "Princes of the Apocalypse p. 222"
 ---
 # Devastation Orb
 *Wondrous Item, very rare*  

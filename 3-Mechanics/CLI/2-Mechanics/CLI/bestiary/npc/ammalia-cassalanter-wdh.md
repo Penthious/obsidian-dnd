@@ -12,7 +12,7 @@ aliases: ["Ammalia Cassalanter"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 193
+BookSource: "Waterdeep: Dragon Heist p. 193"
 ---
 # [Ammalia Cassalanter](2-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 193*  

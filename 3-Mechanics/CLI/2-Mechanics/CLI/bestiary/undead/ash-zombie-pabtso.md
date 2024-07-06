@@ -11,7 +11,7 @@ aliases: ["Ash Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 52
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 52"
 ---
 # [Ash Zombie](2-Mechanics/CLI/bestiary/undead/ash-zombie-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 52*  

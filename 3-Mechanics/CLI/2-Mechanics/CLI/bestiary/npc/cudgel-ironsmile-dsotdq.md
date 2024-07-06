@@ -12,7 +12,7 @@ aliases: ["Cudgel Ironsmile"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 58
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 58"
 ---
 # [Cudgel Ironsmile](2-Mechanics/CLI/bestiary/npc/cudgel-ironsmile-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 58*  

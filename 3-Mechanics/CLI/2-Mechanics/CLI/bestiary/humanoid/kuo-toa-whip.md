@@ -12,7 +12,7 @@ aliases: ["Kuo-toa Whip"]
 NoteIcon: monster
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
-BookSource: Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh
+BookSource: "Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh"
 ---
 # [Kuo-toa Whip](2-Mechanics/CLI/bestiary/humanoid/kuo-toa-whip.md)
 *Source: Monster Manual p. 200, Princes of the Apocalypse, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh*  

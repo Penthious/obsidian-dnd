@@ -9,7 +9,7 @@ tags:
 aliases: ["Elven Chain"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 168. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 168. Available in the SRD."
 ---
 # Elven Chain
 *Medium Armor, major, rare*  

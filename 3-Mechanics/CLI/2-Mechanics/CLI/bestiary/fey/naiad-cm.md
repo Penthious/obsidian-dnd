@@ -11,7 +11,7 @@ aliases: ["Naiad"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 84
+BookSource: "Candlekeep Mysteries p. 84"
 ---
 # [Naiad](2-Mechanics/CLI/bestiary/fey/naiad-cm.md)
 *Source: Candlekeep Mysteries p. 84*  

@@ -11,7 +11,7 @@ aliases: ["Carrionette"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 231
+BookSource: "Van Richten's Guide to Ravenloft p. 231"
 ---
 # [Carrionette](2-Mechanics/CLI/bestiary/construct/carrionette-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 231*  

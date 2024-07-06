@@ -12,7 +12,7 @@ aliases: ["Sharda"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 103
+BookSource: "Storm King's Thunder p. 103"
 ---
 # [Sharda](2-Mechanics/CLI/bestiary/npc/sharda-skt.md)
 *Source: Storm King's Thunder p. 103*  

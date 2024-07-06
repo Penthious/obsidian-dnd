@@ -11,7 +11,7 @@ aliases: ["Chuul Spore Servant"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 228
+BookSource: "Out of the Abyss p. 228"
 ---
 # [Chuul Spore Servant](2-Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota.md)
 *Source: Out of the Abyss p. 228*  

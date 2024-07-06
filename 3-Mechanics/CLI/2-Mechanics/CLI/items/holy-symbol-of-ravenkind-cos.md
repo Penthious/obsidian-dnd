@@ -9,7 +9,7 @@ tags:
 aliases: ["Holy Symbol of Ravenkind"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 222
+BookSource: "Curse of Strahd p. 222"
 ---
 # Holy Symbol of Ravenkind
 *Wondrous Item, legendary (requires attunement by a cleric or paladin of good alignment)*  

@@ -11,7 +11,7 @@ aliases: ["Panopticus Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 106
+BookSource: "Waterdeep: Dragon Heist p. 106"
 ---
 # [Panopticus Wizard](2-Mechanics/CLI/bestiary/humanoid/panopticus-wizard-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 106*  

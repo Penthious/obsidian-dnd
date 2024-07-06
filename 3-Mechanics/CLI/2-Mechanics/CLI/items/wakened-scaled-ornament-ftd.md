@@ -9,7 +9,7 @@ tags:
 aliases: ["Wakened Scaled Ornament"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 27
+BookSource: "Fizban's Treasury of Dragons p. 27"
 ---
 # Wakened Scaled Ornament
 *Wondrous Item, very rare (requires attunement)*  

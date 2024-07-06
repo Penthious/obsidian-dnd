@@ -12,7 +12,7 @@ aliases: ["Maw of Sekolah"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 244
+BookSource: "Ghosts of Saltmarsh p. 244"
 ---
 # [Maw of Sekolah](2-Mechanics/CLI/bestiary/npc/maw-of-sekolah-gos.md)
 *Source: Ghosts of Saltmarsh p. 244*  

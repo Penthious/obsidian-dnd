@@ -9,7 +9,7 @@ tags:
 aliases: ["Harkon's Bite"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Van Richten's Guide to Ravenloft p. 137
+BookSource: "Van Richten's Guide to Ravenloft p. 137"
 ---
 # Harkon's Bite
 *Wondrous Item, uncommon (requires attunement)*  

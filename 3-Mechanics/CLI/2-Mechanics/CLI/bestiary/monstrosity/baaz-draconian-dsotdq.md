@@ -11,7 +11,7 @@ aliases: ["Baaz Draconian"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 197
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 197"
 ---
 # [Baaz Draconian](2-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 197*  

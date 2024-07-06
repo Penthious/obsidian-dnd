@@ -21,7 +21,7 @@ classes:
 aliases: ["Fly"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 243. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 243. Available in the SRD and the Basic Rules."
 ---
 # Fly
 *3rd-level, Transmutation*  

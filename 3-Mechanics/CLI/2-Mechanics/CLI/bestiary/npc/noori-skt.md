@@ -12,7 +12,7 @@ aliases: ["Noori"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 127
+BookSource: "Storm King's Thunder p. 127"
 ---
 # [Noori](2-Mechanics/CLI/bestiary/npc/noori-skt.md)
 *Source: Storm King's Thunder p. 127*  

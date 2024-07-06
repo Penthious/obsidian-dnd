@@ -12,7 +12,7 @@ aliases: ["Beldora"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 249
+BookSource: "Storm King's Thunder p. 249"
 ---
 # [Beldora](2-Mechanics/CLI/bestiary/npc/beldora-skt.md)
 *Source: Storm King's Thunder p. 249*  

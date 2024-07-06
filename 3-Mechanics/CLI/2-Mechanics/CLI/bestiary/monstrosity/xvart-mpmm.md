@@ -13,7 +13,7 @@ aliases: ["Xvart"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200"
 ---
 # [Xvart](2-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  

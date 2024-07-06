@@ -10,7 +10,7 @@ tags:
 aliases: ["Slippers of Spider Climbing"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 200. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 200. Available in the SRD."
 ---
 # Slippers of Spider Climbing
 *Wondrous Item, major, uncommon (requires attunement)*  

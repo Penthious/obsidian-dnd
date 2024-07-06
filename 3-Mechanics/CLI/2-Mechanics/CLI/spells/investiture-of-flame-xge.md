@@ -19,7 +19,7 @@ classes:
 aliases: ["Investiture of Flame"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 159
+BookSource: "Xanathar's Guide to Everything p. 159"
 ---
 # Investiture of Flame
 *6th-level, Transmutation*  

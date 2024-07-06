@@ -13,7 +13,7 @@ aliases: ["Snarla"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 102
+BookSource: "Tales from the Yawning Portal p. 102"
 ---
 # [Snarla](2-Mechanics/CLI/bestiary/npc/snarla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 102*  

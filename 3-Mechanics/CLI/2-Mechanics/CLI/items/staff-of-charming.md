@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Charming"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 201. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 201. Available in the SRD."
 ---
 # Staff of Charming
 *Staff, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

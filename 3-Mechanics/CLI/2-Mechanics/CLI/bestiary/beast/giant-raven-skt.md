@@ -11,7 +11,7 @@ aliases: ["Giant Raven"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 66
+BookSource: "Storm King's Thunder p. 66"
 ---
 # [Giant Raven](2-Mechanics/CLI/bestiary/beast/giant-raven-skt.md)
 *Source: Storm King's Thunder p. 66*  

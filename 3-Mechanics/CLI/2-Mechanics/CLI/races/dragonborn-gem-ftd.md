@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragonborn (Gem)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Fizban's Treasury of Dragons p. 11
+BookSource: "Fizban's Treasury of Dragons p. 11"
 ---
 # Dragonborn (Gem)
 *Source: Fizban's Treasury of Dragons p. 11*  

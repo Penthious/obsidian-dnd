@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Protection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 191. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 191. Available in the SRD and the Basic Rules."
 ---
 # Ring of Protection
 *Ring, major, rare (requires attunement)*  

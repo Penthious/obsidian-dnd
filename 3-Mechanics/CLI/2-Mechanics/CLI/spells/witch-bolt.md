@@ -19,7 +19,7 @@ classes:
 aliases: ["Witch Bolt"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 289
+BookSource: "Player's Handbook p. 289"
 ---
 # Witch Bolt
 *1st-level, Evocation*  

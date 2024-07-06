@@ -21,7 +21,7 @@ classes:
 aliases: ["Continual Flame"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 227. Available in the SRD.
+BookSource: "Player's Handbook p. 227. Available in the SRD."
 ---
 # Continual Flame
 *2nd-level, Evocation*  

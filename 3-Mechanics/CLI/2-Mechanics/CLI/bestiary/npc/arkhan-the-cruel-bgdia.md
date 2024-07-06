@@ -12,7 +12,7 @@ aliases: ["Arkhan the Cruel"]
 NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 111
+BookSource: "Baldur's Gate: Descent Into Avernus p. 111"
 ---
 # [Arkhan the Cruel](2-Mechanics/CLI/bestiary/npc/arkhan-the-cruel-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 111*  

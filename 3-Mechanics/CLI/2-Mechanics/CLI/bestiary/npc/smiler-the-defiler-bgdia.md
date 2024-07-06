@@ -12,7 +12,7 @@ aliases: ["Smiler the Defiler"]
 NoteIcon: npc
 BestiaryType: fey (elf)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 133
+BookSource: "Baldur's Gate: Descent Into Avernus p. 133"
 ---
 # [Smiler the Defiler](2-Mechanics/CLI/bestiary/npc/smiler-the-defiler-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 133*  

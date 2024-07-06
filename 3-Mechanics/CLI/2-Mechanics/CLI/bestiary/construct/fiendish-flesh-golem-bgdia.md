@@ -11,7 +11,7 @@ aliases: ["Fiendish Flesh Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 236
+BookSource: "Baldur's Gate: Descent Into Avernus p. 236"
 ---
 # [Fiendish Flesh Golem](2-Mechanics/CLI/bestiary/construct/fiendish-flesh-golem-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 236*  

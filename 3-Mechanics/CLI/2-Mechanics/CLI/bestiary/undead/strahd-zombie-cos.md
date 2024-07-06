@@ -11,7 +11,7 @@ aliases: ["Strahd Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 241
+BookSource: "Curse of Strahd p. 241"
 ---
 # [Strahd Zombie](2-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md)
 *Source: Curse of Strahd p. 241*  

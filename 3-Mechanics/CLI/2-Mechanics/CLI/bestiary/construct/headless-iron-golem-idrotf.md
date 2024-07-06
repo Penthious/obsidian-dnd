@@ -11,7 +11,7 @@ aliases: ["Headless Iron Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 244
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 244"
 ---
 # [Headless Iron Golem](2-Mechanics/CLI/bestiary/construct/headless-iron-golem-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 244*  

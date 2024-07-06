@@ -11,7 +11,7 @@ aliases: ["Ankylosaurus Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 240
+BookSource: "Tomb of Annihilation p. 240"
 ---
 # [Ankylosaurus Zombie](2-Mechanics/CLI/bestiary/undead/ankylosaurus-zombie-toa.md)
 *Source: Tomb of Annihilation p. 240*  

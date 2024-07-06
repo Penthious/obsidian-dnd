@@ -17,7 +17,7 @@ classes:
 aliases: ["Crown of Stars"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 152
+BookSource: "Xanathar's Guide to Everything p. 152"
 ---
 # Crown of Stars
 *7th-level, Evocation*  

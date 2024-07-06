@@ -13,7 +13,7 @@ aliases: ["Duergar Despot"]
 NoteIcon: monster
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188"
 ---
 # [Duergar Despot](2-Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  

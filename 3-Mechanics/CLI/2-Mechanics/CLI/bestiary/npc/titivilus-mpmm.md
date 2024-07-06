@@ -12,7 +12,7 @@ aliases: ["Titivilus"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179"
 ---
 # [Titivilus](2-Mechanics/CLI/bestiary/npc/titivilus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179*  

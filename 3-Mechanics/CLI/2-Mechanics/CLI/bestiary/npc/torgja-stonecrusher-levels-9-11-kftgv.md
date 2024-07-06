@@ -12,7 +12,7 @@ aliases: ["Torgja Stonecrusher (Levels 9-11)"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 8
+BookSource: "Keys from the Golden Vault p. 8"
 ---
 # [Torgja Stonecrusher (Levels 9-11)](2-Mechanics/CLI/bestiary/npc/torgja-stonecrusher-levels-9-11-kftgv.md)
 *Source: Keys from the Golden Vault p. 8*  

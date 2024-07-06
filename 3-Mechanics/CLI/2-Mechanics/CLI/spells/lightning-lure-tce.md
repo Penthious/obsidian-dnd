@@ -23,7 +23,7 @@ classes:
 aliases: ["Lightning Lure"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 107, Sword Coast Adventurer's Guide p. 143
+BookSource: "Tasha's Cauldron of Everything p. 107, Sword Coast Adventurer's Guide p. 143"
 ---
 # Lightning Lure
 *cantrip, Evocation*  

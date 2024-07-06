@@ -12,7 +12,7 @@ aliases: ["Awakened Shrub"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 317, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 317, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Awakened Shrub](2-Mechanics/CLI/bestiary/plant/awakened-shrub.md)
 *Source: Monster Manual p. 317, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

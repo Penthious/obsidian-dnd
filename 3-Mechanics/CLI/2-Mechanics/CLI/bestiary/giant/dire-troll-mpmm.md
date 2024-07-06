@@ -16,7 +16,7 @@ aliases: ["Dire Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243"
 ---
 # [Dire Troll](2-Mechanics/CLI/bestiary/giant/dire-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  

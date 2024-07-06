@@ -11,7 +11,7 @@ aliases: ["Ashen Flying Sword"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 157
+BookSource: "Keys from the Golden Vault p. 157"
 ---
 # [Ashen Flying Sword](2-Mechanics/CLI/bestiary/elemental/ashen-flying-sword-kftgv.md)
 *Source: Keys from the Golden Vault p. 157*  

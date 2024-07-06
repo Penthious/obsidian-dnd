@@ -11,7 +11,7 @@ aliases: ["Drow Spy"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 195
+BookSource: "Out of the Abyss p. 195"
 ---
 # [Drow Spy](2-Mechanics/CLI/bestiary/humanoid/drow-spy-oota.md)
 *Source: Out of the Abyss p. 195*  

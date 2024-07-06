@@ -19,7 +19,7 @@ classes:
 aliases: ["Tasha's Hideous Laughter"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 280. Available in the SRD (as 'Hideous Laughter').
+BookSource: "Player's Handbook p. 280. Available in the SRD (as 'Hideous Laughter')."
 ---
 # Tasha's Hideous Laughter
 *1st-level, Enchantment*  

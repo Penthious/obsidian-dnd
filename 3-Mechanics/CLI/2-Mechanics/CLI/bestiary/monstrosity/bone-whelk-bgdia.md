@@ -11,7 +11,7 @@ aliases: ["Bone Whelk"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 119
+BookSource: "Baldur's Gate: Descent Into Avernus p. 119"
 ---
 # [Bone Whelk](2-Mechanics/CLI/bestiary/monstrosity/bone-whelk-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 119*  

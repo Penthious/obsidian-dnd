@@ -11,7 +11,7 @@ aliases: ["Poison Weird"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 127
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 127"
 ---
 # [Poison Weird](2-Mechanics/CLI/bestiary/elemental/poison-weird-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 127*  

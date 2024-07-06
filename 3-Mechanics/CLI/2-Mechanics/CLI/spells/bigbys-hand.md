@@ -15,7 +15,7 @@ classes:
 aliases: ["Bigby's Hand"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 218. Available in the SRD (as 'Arcane Hand').
+BookSource: "Player's Handbook p. 218. Available in the SRD (as 'Arcane Hand')."
 ---
 # Bigby's Hand
 *5th-level, Evocation*  

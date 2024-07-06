@@ -11,7 +11,7 @@ aliases: ["Juvenile Mimic"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 167
+BookSource: "Tasha's Cauldron of Everything p. 167"
 ---
 # [Juvenile Mimic](2-Mechanics/CLI/bestiary/monstrosity/juvenile-mimic-tce.md)
 *Source: Tasha's Cauldron of Everything p. 167*  

@@ -11,7 +11,7 @@ aliases: ["Animated Statue of Lolth"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 142
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 142"
 ---
 # [Animated Statue of Lolth](2-Mechanics/CLI/bestiary/construct/animated-statue-of-lolth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 142*  

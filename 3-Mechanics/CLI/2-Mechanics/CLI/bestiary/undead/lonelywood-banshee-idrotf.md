@@ -11,7 +11,7 @@ aliases: ["Lonelywood Banshee"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 81
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 81"
 ---
 # [Lonelywood Banshee](2-Mechanics/CLI/bestiary/undead/lonelywood-banshee-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 81*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Gem (Bloodstone)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Out of the Abyss p. 223
+BookSource: "Out of the Abyss p. 223"
 ---
 # Spell Gem (Bloodstone)
 *Wondrous Item, rare (attunement optional)*  

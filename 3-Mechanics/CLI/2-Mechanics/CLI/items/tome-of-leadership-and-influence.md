@@ -9,7 +9,7 @@ tags:
 aliases: ["Tome of Leadership and Influence"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 208. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 208. Available in the SRD."
 ---
 # Tome of Leadership and Influence
 *Wondrous Item, major, very rare*  

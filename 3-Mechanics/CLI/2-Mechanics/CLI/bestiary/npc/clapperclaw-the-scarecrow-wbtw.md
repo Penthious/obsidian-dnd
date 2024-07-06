@@ -12,7 +12,7 @@ aliases: ["Clapperclaw the Scarecrow"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 78
+BookSource: "The Wild Beyond the Witchlight p. 78"
 ---
 # [Clapperclaw the Scarecrow](2-Mechanics/CLI/bestiary/npc/clapperclaw-the-scarecrow-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 78*  

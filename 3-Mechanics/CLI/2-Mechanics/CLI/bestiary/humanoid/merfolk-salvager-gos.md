@@ -11,7 +11,7 @@ aliases: ["Merfolk Salvager"]
 NoteIcon: monster
 BestiaryType: humanoid (merfolk)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 244
+BookSource: "Ghosts of Saltmarsh p. 244"
 ---
 # [Merfolk Salvager](2-Mechanics/CLI/bestiary/humanoid/merfolk-salvager-gos.md)
 *Source: Ghosts of Saltmarsh p. 244*  

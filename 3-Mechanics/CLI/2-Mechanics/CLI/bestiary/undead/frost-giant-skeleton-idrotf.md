@@ -11,7 +11,7 @@ aliases: ["Frost Giant Skeleton"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 288
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 288"
 ---
 # [Frost Giant Skeleton](2-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  

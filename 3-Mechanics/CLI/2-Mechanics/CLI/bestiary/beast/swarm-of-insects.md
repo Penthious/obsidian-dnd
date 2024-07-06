@@ -18,7 +18,7 @@ aliases: ["Swarm of Insects"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen, Tomb of Annihilation, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen, Tomb of Annihilation, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules."
 ---
 # [Swarm of Insects](2-Mechanics/CLI/bestiary/beast/swarm-of-insects.md)
 *Source: Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen, Tomb of Annihilation, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  

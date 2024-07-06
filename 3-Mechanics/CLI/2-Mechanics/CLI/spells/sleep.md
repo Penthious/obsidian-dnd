@@ -25,7 +25,7 @@ classes:
 aliases: ["Sleep"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 276. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 276. Available in the SRD and the Basic Rules."
 ---
 # Sleep
 *1st-level, Enchantment*  

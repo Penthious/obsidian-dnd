@@ -12,7 +12,7 @@ aliases: ["Obaya Uday"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 20
+BookSource: "Waterdeep: Dragon Heist p. 20"
 ---
 # [Obaya Uday](2-Mechanics/CLI/bestiary/npc/obaya-uday-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

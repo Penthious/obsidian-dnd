@@ -11,7 +11,7 @@ aliases: ["Yeti Leader"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 183
+BookSource: "Tales from the Yawning Portal p. 183"
 ---
 # [Yeti Leader](2-Mechanics/CLI/bestiary/monstrosity/yeti-leader-tftyp.md)
 *Source: Tales from the Yawning Portal p. 183*  

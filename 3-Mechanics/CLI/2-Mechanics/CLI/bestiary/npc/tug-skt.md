@@ -12,7 +12,7 @@ aliases: ["Tug"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 209
+BookSource: "Storm King's Thunder p. 209"
 ---
 # [Tug](2-Mechanics/CLI/bestiary/npc/tug-skt.md)
 *Source: Storm King's Thunder p. 209*  

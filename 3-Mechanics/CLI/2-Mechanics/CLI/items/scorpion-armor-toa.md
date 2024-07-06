@@ -9,7 +9,7 @@ tags:
 aliases: ["Scorpion Armor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 208
+BookSource: "Tomb of Annihilation p. 208"
 ---
 # Scorpion Armor
 *Heavy Armor, rare (requires attunement)*  

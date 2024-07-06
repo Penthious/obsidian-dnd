@@ -12,7 +12,7 @@ aliases: ["Princess Serissa"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 209
+BookSource: "Storm King's Thunder p. 209"
 ---
 # [Princess Serissa](2-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)
 *Source: Storm King's Thunder p. 209*  

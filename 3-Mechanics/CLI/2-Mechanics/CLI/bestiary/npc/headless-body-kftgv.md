@@ -12,7 +12,7 @@ aliases: ["Headless Body"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 51
+BookSource: "Keys from the Golden Vault p. 51"
 ---
 # [Headless Body](2-Mechanics/CLI/bestiary/npc/headless-body-kftgv.md)
 *Source: Keys from the Golden Vault p. 51*  

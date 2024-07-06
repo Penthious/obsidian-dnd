@@ -11,7 +11,7 @@ aliases: ["Strigoi"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 246
+BookSource: "Van Richten's Guide to Ravenloft p. 246"
 ---
 # [Strigoi](2-Mechanics/CLI/bestiary/monstrosity/strigoi-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 246*  

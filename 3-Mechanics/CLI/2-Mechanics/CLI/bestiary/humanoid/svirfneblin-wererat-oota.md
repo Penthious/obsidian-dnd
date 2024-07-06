@@ -12,7 +12,7 @@ aliases: ["Svirfneblin Wererat"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 97
+BookSource: "Out of the Abyss p. 97"
 ---
 # [Svirfneblin Wererat](2-Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md)
 *Source: Out of the Abyss p. 97*  

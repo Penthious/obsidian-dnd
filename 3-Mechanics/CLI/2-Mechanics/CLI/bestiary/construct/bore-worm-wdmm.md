@@ -11,7 +11,7 @@ aliases: ["Bore Worm"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 171
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 171"
 ---
 # [Bore Worm](2-Mechanics/CLI/bestiary/construct/bore-worm-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 171*  

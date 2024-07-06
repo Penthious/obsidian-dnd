@@ -12,7 +12,7 @@ aliases: ["Mjenir"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 215
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 215"
 ---
 # [Mjenir](2-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 215*  

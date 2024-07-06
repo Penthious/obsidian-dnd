@@ -11,7 +11,7 @@ aliases: ["Iron Consul"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 232
+BookSource: "Baldur's Gate: Descent Into Avernus p. 232"
 ---
 # [Iron Consul](2-Mechanics/CLI/bestiary/humanoid/iron-consul-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 232*  

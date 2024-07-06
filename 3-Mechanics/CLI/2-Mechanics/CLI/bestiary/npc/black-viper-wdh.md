@@ -12,7 +12,7 @@ aliases: ["Black Viper"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 196
+BookSource: "Waterdeep: Dragon Heist p. 196"
 ---
 # [Black Viper](2-Mechanics/CLI/bestiary/npc/black-viper-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 196*  

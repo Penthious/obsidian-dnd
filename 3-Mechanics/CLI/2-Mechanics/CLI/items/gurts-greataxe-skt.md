@@ -12,7 +12,7 @@ tags:
 aliases: ["Gurt's Greataxe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 234
+BookSource: "Storm King's Thunder p. 234"
 ---
 # Gurt's Greataxe
 *Melee Weapon, legendary (requires attunement)*  

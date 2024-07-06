@@ -12,7 +12,7 @@ aliases: ["Thwad Underbrew"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 204
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 204"
 ---
 # [Thwad Underbrew](2-Mechanics/CLI/bestiary/npc/thwad-underbrew-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 204*  

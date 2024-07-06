@@ -12,7 +12,7 @@ aliases: ["Jade Statue"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 195
+BookSource: "Journeys through the Radiant Citadel p. 195"
 ---
 # [Jade Statue](2-Mechanics/CLI/bestiary/npc/jade-statue-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 195*  

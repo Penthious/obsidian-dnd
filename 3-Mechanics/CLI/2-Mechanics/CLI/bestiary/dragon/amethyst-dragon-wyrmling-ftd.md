@@ -11,7 +11,7 @@ aliases: ["Amethyst Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 162
+BookSource: "Fizban's Treasury of Dragons p. 162"
 ---
 # [Amethyst Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/amethyst-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 162*  

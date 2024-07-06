@@ -12,7 +12,7 @@ aliases: ["Pharblex Spattergoo"]
 NoteIcon: npc
 BestiaryType: humanoid (bullywug)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 91
+BookSource: "Hoard of the Dragon Queen p. 91"
 ---
 # [Pharblex Spattergoo](2-Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 91*  

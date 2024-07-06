@@ -11,7 +11,7 @@ aliases: ["Sperm Whale"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 309
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 309"
 ---
 # [Sperm Whale](2-Mechanics/CLI/bestiary/beast/sperm-whale-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 309*  

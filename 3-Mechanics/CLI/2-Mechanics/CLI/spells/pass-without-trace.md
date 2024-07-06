@@ -19,7 +19,7 @@ classes:
 aliases: ["Pass without Trace"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 264. Available in the SRD.
+BookSource: "Player's Handbook p. 264. Available in the SRD."
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

@@ -12,7 +12,7 @@ aliases: ["Osvaldo Cassalanter"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 124
+BookSource: "Waterdeep: Dragon Heist p. 124"
 ---
 # [Osvaldo Cassalanter](2-Mechanics/CLI/bestiary/npc/osvaldo-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 124*  

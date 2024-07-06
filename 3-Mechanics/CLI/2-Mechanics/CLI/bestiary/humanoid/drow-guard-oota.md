@@ -11,7 +11,7 @@ aliases: ["Drow Guard"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 195
+BookSource: "Out of the Abyss p. 195"
 ---
 # [Drow Guard](2-Mechanics/CLI/bestiary/humanoid/drow-guard-oota.md)
 *Source: Out of the Abyss p. 195*  

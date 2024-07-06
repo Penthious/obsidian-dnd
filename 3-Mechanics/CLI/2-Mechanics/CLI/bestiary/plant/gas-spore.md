@@ -12,7 +12,7 @@ aliases: ["Gas Spore"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 138, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage
+BookSource: "Monster Manual p. 138, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage"
 ---
 # [Gas Spore](2-Mechanics/CLI/bestiary/plant/gas-spore.md)
 *Source: Monster Manual p. 138, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage*  

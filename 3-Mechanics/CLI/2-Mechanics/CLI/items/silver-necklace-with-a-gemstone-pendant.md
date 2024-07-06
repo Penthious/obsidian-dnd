@@ -7,7 +7,7 @@ tags:
 aliases: ["Silver necklace with a gemstone pendant"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Silver necklace with a gemstone pendant
 *Art object*  

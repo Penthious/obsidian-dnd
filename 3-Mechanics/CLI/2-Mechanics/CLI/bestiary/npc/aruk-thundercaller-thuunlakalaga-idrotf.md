@@ -12,7 +12,7 @@ aliases: ["Aruk Thundercaller Thuunlakalaga"]
 NoteIcon: npc
 BestiaryType: humanoid (goliath)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 169
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 169"
 ---
 # [Aruk Thundercaller Thuunlakalaga](2-Mechanics/CLI/bestiary/npc/aruk-thundercaller-thuunlakalaga-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 169*  

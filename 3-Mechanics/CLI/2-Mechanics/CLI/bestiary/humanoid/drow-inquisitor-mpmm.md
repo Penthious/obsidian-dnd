@@ -13,7 +13,7 @@ aliases: ["Drow Inquisitor"]
 NoteIcon: monster
 BestiaryType: humanoid (cleric, elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184"
 ---
 # [Drow Inquisitor](2-Mechanics/CLI/bestiary/humanoid/drow-inquisitor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*  

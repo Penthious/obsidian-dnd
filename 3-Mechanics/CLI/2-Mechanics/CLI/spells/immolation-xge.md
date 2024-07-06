@@ -13,7 +13,7 @@ classes:
 aliases: ["Immolation"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 158
+BookSource: "Xanathar's Guide to Everything p. 158"
 ---
 # Immolation
 *5th-level, Evocation*  

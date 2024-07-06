@@ -12,7 +12,7 @@ aliases: ["Ice Mephit"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 215, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 215, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Ice Mephit](2-Mechanics/CLI/bestiary/elemental/ice-mephit.md)
 *Source: Monster Manual p. 215, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, Keys from the Golden Vault. Available in the SRD.*  

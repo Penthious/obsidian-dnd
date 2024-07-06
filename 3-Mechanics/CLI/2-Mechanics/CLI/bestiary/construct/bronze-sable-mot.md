@@ -11,7 +11,7 @@ aliases: ["Bronze Sable"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 210
+BookSource: "Mythic Odysseys of Theros p. 210"
 ---
 # [Bronze Sable](2-Mechanics/CLI/bestiary/construct/bronze-sable-mot.md)
 *Source: Mythic Odysseys of Theros p. 210*  

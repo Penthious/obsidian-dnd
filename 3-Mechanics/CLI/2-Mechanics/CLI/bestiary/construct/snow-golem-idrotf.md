@@ -11,7 +11,7 @@ aliases: ["Snow Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 308
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 308"
 ---
 # [Snow Golem](2-Mechanics/CLI/bestiary/construct/snow-golem-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 308*  

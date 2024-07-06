@@ -12,7 +12,7 @@ aliases: ["Thornboldt "Thorn" Durst"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 217
+BookSource: "Curse of Strahd p. 217"
 ---
 # [Thornboldt "Thorn" Durst](2-Mechanics/CLI/bestiary/npc/thornboldt-thorn-durst-cos.md)
 *Source: Curse of Strahd p. 217*  

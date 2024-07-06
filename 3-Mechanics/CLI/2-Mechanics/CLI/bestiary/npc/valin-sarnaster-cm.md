@@ -12,7 +12,7 @@ aliases: ["Valin Sarnaster"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 182
+BookSource: "Candlekeep Mysteries p. 182"
 ---
 # [Valin Sarnaster](2-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md)
 *Source: Candlekeep Mysteries p. 182*  

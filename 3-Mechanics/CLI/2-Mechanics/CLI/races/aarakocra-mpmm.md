@@ -7,7 +7,7 @@ tags:
 aliases: ["Aarakocra"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 5
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 5"
 ---
 # Aarakocra
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 5*  

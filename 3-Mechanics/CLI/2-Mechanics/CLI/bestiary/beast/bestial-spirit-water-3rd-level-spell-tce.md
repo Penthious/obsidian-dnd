@@ -11,7 +11,7 @@ aliases: ["Bestial Spirit (Water, 3rd-Level Spell)"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 109
+BookSource: "Tasha's Cauldron of Everything p. 109"
 ---
 # [Bestial Spirit (Water, 3rd-Level Spell)](2-Mechanics/CLI/bestiary/beast/bestial-spirit-water-3rd-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  

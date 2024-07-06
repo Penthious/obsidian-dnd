@@ -11,7 +11,7 @@ aliases: ["Black Earth Guard"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 195
+BookSource: "Princes of the Apocalypse p. 195"
 ---
 # [Black Earth Guard](2-Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md)
 *Source: Princes of the Apocalypse p. 195*  

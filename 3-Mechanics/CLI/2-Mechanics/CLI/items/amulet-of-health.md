@@ -10,7 +10,7 @@ tags:
 aliases: ["Amulet of Health"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 150. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 150. Available in the SRD and the Basic Rules."
 ---
 # Amulet of Health
 *Wondrous Item, major, rare (requires attunement)*  

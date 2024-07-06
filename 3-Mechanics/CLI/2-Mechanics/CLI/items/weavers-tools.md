@@ -7,7 +7,7 @@ tags:
 aliases: ["Weaver's Tools"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154, Xanathar's Guide to Everything p. 85. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 154, Xanathar's Guide to Everything p. 85. Available in the SRD and the Basic Rules."
 ---
 # Weaver's Tools
 *Artisan's Tools*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Eldritch Claw Tattoo"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 126
+BookSource: "Tasha's Cauldron of Everything p. 126"
 ---
 # Eldritch Claw Tattoo
 *Wondrous Item, uncommon (requires attunement)*  

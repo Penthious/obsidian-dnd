@@ -11,7 +11,7 @@ aliases: ["Skeletal Knight"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 208
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 208"
 ---
 # [Skeletal Knight](2-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 208*  

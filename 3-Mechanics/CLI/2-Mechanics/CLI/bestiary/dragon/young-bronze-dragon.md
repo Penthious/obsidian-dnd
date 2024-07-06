@@ -12,7 +12,7 @@ aliases: ["Young Bronze Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 108, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 108, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Young Bronze Dragon](2-Mechanics/CLI/bestiary/dragon/young-bronze-dragon.md)
 *Source: Monster Manual p. 108, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD.*  

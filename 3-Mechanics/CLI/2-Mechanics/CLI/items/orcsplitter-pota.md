@@ -12,7 +12,7 @@ tags:
 aliases: ["Orcsplitter"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 224
+BookSource: "Princes of the Apocalypse p. 224"
 ---
 # Orcsplitter
 *Melee Weapon, legendary (requires attunement by a dwarf, fighter, or paladin of good alignment)*  

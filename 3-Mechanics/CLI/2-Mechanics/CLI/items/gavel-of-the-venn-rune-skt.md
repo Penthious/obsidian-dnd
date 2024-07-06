@@ -9,7 +9,7 @@ tags:
 aliases: ["Gavel of the Venn Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 234
+BookSource: "Storm King's Thunder p. 234"
 ---
 # Gavel of the Venn Rune
 *Wondrous Item, rare (requires attunement)*  

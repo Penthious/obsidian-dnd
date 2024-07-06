@@ -12,7 +12,7 @@ aliases: ["Vampire Warrior"]
 NoteIcon: monster
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 298
+BookSource: "Monster Manual p. 298"
 ---
 # [Vampire Warrior](2-Mechanics/CLI/bestiary/undead/vampire-warrior.md)
 *Source: Monster Manual p. 298*  

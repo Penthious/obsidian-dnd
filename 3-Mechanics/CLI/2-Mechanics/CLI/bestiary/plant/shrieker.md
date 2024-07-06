@@ -12,7 +12,7 @@ aliases: ["Shrieker"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 138, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 138, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Shrieker](2-Mechanics/CLI/bestiary/plant/shrieker.md)
 *Source: Monster Manual p. 138, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

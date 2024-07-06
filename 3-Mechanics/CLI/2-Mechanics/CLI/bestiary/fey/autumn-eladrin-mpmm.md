@@ -12,7 +12,7 @@ aliases: ["Autumn Eladrin"]
 NoteIcon: monster
 BestiaryType: fey (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195"
 ---
 # [Autumn Eladrin](2-Mechanics/CLI/bestiary/fey/autumn-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*  

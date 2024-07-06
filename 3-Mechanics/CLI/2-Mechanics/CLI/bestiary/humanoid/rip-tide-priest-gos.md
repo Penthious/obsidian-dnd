@@ -11,7 +11,7 @@ aliases: ["Rip Tide Priest"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 248
+BookSource: "Ghosts of Saltmarsh p. 248"
 ---
 # [Rip Tide Priest](2-Mechanics/CLI/bestiary/humanoid/rip-tide-priest-gos.md)
 *Source: Ghosts of Saltmarsh p. 248*  

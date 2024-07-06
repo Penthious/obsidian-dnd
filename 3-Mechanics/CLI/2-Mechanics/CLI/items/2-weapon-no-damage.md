@@ -9,7 +9,7 @@ tags:
 aliases: ["+2 Weapon (no damage)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 213
+BookSource: "Dungeon Master's Guide p. 213"
 ---
 # +2 Weapon (no damage)
 *Generic Variant, major, rare*  

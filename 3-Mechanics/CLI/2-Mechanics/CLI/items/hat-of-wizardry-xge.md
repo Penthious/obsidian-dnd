@@ -10,7 +10,7 @@ tags:
 aliases: ["Hat of Wizardry"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 137
+BookSource: "Xanathar's Guide to Everything p. 137"
 ---
 # Hat of Wizardry
 *Wondrous Item, minor, common (requires attunement by a wizard)*  

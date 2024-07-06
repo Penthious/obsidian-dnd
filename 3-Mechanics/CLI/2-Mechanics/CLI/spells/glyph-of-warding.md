@@ -23,7 +23,7 @@ classes:
 aliases: ["Glyph of Warding"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 245. Available in the SRD.
+BookSource: "Player's Handbook p. 245. Available in the SRD."
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

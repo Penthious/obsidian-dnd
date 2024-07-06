@@ -9,7 +9,7 @@ tags:
 aliases: ["Spell Scroll (Cantrip)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 199. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 199. Available in the SRD and the Basic Rules."
 ---
 # Spell Scroll (Cantrip)
 *Scroll, minor, common*  

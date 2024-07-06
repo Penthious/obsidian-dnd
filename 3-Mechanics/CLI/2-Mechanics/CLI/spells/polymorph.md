@@ -23,7 +23,7 @@ classes:
 aliases: ["Polymorph"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 266. Available in the SRD.
+BookSource: "Player's Handbook p. 266. Available in the SRD."
 ---
 # Polymorph
 *4th-level, Transmutation*  

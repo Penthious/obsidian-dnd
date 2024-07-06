@@ -11,7 +11,7 @@ aliases: ["Drow Acolyte"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 201
+BookSource: "Out of the Abyss p. 201"
 ---
 # [Drow Acolyte](2-Mechanics/CLI/bestiary/humanoid/drow-acolyte-oota.md)
 *Source: Out of the Abyss p. 201*  

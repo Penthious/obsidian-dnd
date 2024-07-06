@@ -12,7 +12,7 @@ aliases: ["Xandala"]
 NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 236
+BookSource: "Tomb of Annihilation p. 236"
 ---
 # [Xandala](2-Mechanics/CLI/bestiary/npc/xandala-toa.md)
 *Source: Tomb of Annihilation p. 236*  

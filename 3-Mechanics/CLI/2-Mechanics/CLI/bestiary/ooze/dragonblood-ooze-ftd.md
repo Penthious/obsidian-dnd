@@ -11,7 +11,7 @@ aliases: ["Dragonblood Ooze"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 182
+BookSource: "Fizban's Treasury of Dragons p. 182"
 ---
 # [Dragonblood Ooze](2-Mechanics/CLI/bestiary/ooze/dragonblood-ooze-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 182*  

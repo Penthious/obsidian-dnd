@@ -9,7 +9,7 @@ tags:
 aliases: ["Slumbering Dragon-Touched Focus"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 26
+BookSource: "Fizban's Treasury of Dragons p. 26"
 ---
 # Slumbering Dragon-Touched Focus
 *Wondrous Item, uncommon (requires attunement by a spellcaster)*  

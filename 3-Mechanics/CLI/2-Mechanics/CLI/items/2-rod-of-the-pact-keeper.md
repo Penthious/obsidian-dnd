@@ -10,7 +10,7 @@ tags:
 aliases: ["+2 Rod of the Pact Keeper"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 197
+BookSource: "Dungeon Master's Guide p. 197"
 ---
 # +2 Rod of the Pact Keeper
 *Rod, major, rare (requires attunement by a warlock)*  

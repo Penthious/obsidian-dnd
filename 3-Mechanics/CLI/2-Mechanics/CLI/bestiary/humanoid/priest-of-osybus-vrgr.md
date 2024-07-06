@@ -11,7 +11,7 @@ aliases: ["Priest of Osybus"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 241
+BookSource: "Van Richten's Guide to Ravenloft p. 241"
 ---
 # [Priest of Osybus](2-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 241*  

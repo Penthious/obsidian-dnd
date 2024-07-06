@@ -15,7 +15,7 @@ classes:
 aliases: ["Project Image"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 270. Available in the SRD.
+BookSource: "Player's Handbook p. 270. Available in the SRD."
 ---
 # Project Image
 *7th-level, Illusion*  

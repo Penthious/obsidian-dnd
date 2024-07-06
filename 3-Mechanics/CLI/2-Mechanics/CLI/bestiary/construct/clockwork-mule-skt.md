@@ -11,7 +11,7 @@ aliases: ["Clockwork Mule"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 162
+BookSource: "Storm King's Thunder p. 162"
 ---
 # [Clockwork Mule](2-Mechanics/CLI/bestiary/construct/clockwork-mule-skt.md)
 *Source: Storm King's Thunder p. 162*  

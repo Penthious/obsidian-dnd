@@ -10,7 +10,7 @@ tags:
 aliases: ["Dragon Thighbone Club"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 105
+BookSource: "Storm King's Thunder p. 105"
 ---
 # Dragon Thighbone Club
 *Melee Weapon, unknown (magic) (attunement optional)*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Horn of Valhalla"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 175
+BookSource: "Dungeon Master's Guide p. 175"
 ---
 # Horn of Valhalla
 *Wondrous Item, varies*  

@@ -11,7 +11,7 @@ aliases: ["Soldier"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Guildmasters' Guide to Ravnica p. 226, Mythic Odysseys of Theros
+BookSource: "Guildmasters' Guide to Ravnica p. 226, Mythic Odysseys of Theros"
 ---
 # [Soldier](2-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 226, Mythic Odysseys of Theros*  

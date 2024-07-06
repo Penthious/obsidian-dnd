@@ -12,7 +12,7 @@ aliases: ["Play-by-Play Generator"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 205
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 205"
 ---
 # [Play-by-Play Generator](2-Mechanics/CLI/bestiary/npc/play-by-play-generator-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 205*  

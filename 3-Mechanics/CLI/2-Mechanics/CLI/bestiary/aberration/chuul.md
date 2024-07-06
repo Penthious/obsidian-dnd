@@ -12,7 +12,7 @@ aliases: ["Chuul"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 40, Princes of the Apocalypse, The Rise of Tiamat, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 40, Princes of the Apocalypse, The Rise of Tiamat, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Chuul](2-Mechanics/CLI/bestiary/aberration/chuul.md)
 *Source: Monster Manual p. 40, Princes of the Apocalypse, The Rise of Tiamat, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

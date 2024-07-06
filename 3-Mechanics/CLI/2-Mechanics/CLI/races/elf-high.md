@@ -7,7 +7,7 @@ tags:
 aliases: ["Elf (High)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 23. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 23. Available in the SRD and the Basic Rules."
 ---
 # Elf (High)
 *Source: Player's Handbook p. 23. Available in the SRD and the Basic Rules.*  

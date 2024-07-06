@@ -11,7 +11,7 @@ aliases: ["Red Slaad"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 276, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 276, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Red Slaad](2-Mechanics/CLI/bestiary/aberration/red-slaad.md)
 *Source: Monster Manual p. 276, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Dragonlance: Shadow of the Dragon Queen, Phandelver and Below: The Shattered Obelisk*  

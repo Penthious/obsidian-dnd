@@ -12,7 +12,7 @@ aliases: ["Piercer"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 252, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden
+BookSource: "Monster Manual p. 252, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden"
 ---
 # [Piercer](2-Mechanics/CLI/bestiary/monstrosity/piercer.md)
 *Source: Monster Manual p. 252, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden*  

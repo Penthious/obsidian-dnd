@@ -11,7 +11,7 @@ aliases: ["Mage Hunter"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 199
+BookSource: "Strixhaven: A Curriculum of Chaos p. 199"
 ---
 # [Mage Hunter](2-Mechanics/CLI/bestiary/monstrosity/mage-hunter-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 199*  

@@ -12,7 +12,7 @@ aliases: ["Hjoldak Hollowhelm"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 93
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 93"
 ---
 # [Hjoldak Hollowhelm](2-Mechanics/CLI/bestiary/npc/hjoldak-hollowhelm-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 93*  

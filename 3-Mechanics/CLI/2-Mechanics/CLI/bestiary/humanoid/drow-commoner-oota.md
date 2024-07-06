@@ -11,7 +11,7 @@ aliases: ["Drow Commoner"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 194
+BookSource: "Out of the Abyss p. 194"
 ---
 # [Drow Commoner](2-Mechanics/CLI/bestiary/humanoid/drow-commoner-oota.md)
 *Source: Out of the Abyss p. 194*  

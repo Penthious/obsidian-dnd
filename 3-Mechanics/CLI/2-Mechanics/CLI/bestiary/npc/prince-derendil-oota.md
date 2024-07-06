@@ -12,7 +12,7 @@ aliases: ["Prince Derendil"]
 NoteIcon: npc
 BestiaryType: humanoid (quaggoth)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 6
+BookSource: "Out of the Abyss p. 6"
 ---
 # [Prince Derendil](2-Mechanics/CLI/bestiary/npc/prince-derendil-oota.md)
 *Source: Out of the Abyss p. 6*  

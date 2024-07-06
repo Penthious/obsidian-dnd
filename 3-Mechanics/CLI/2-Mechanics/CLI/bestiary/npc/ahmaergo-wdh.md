@@ -12,7 +12,7 @@ aliases: ["Ahmaergo"]
 NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 193
+BookSource: "Waterdeep: Dragon Heist p. 193"
 ---
 # [Ahmaergo](2-Mechanics/CLI/bestiary/npc/ahmaergo-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 193*  

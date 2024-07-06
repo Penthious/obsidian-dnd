@@ -7,7 +7,7 @@ tags:
 aliases: ["Human (Variant)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 31. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 31. Available in the Basic Rules."
 ---
 # Human (Variant)
 *Source: Player's Handbook p. 31. Available in the Basic Rules.*  

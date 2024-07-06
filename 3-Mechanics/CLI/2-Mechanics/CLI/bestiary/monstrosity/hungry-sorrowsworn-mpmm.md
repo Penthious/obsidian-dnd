@@ -14,7 +14,7 @@ aliases: ["Hungry Sorrowsworn"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232"
 ---
 # [Hungry Sorrowsworn](2-Mechanics/CLI/bestiary/monstrosity/hungry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  

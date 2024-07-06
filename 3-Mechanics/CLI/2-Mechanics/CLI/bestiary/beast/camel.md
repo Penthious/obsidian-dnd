@@ -12,7 +12,7 @@ aliases: ["Camel"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 320, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 320, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Camel](2-Mechanics/CLI/bestiary/beast/camel.md)
 *Source: Monster Manual p. 320, Ghosts of Saltmarsh, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  

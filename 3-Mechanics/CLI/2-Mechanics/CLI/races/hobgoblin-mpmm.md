@@ -7,7 +7,7 @@ tags:
 aliases: ["Hobgoblin"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 23
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 23"
 ---
 # Hobgoblin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 23*  

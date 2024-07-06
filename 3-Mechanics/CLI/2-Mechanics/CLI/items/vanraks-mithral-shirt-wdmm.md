@@ -8,7 +8,7 @@ tags:
 aliases: ["Vanrak's Mithral Shirt"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 237
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 237"
 ---
 # Vanrak's Mithral Shirt
 *Medium Armor, uncommon*  

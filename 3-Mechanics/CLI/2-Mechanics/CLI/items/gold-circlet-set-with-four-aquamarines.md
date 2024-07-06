@@ -7,7 +7,7 @@ tags:
 aliases: ["Gold circlet set with four aquamarines"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Gold circlet set with four aquamarines
 *Art object*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Amethyst Lodestone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 22
+BookSource: "Fizban's Treasury of Dragons p. 22"
 ---
 # Amethyst Lodestone
 *Wondrous Item, very rare (requires attunement)*  

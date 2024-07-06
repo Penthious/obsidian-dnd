@@ -8,7 +8,7 @@ tags:
 aliases: ["Spell Scroll"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 200
+BookSource: "Dungeon Master's Guide p. 200"
 ---
 # Spell Scroll
 *Scroll, varies*  

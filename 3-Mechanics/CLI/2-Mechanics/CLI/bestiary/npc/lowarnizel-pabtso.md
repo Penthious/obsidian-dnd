@@ -12,7 +12,7 @@ aliases: ["Lowarnizel"]
 NoteIcon: npc
 BestiaryType: dragon (young gem)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 181
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 181"
 ---
 # [Lowarnizel](2-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  

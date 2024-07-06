@@ -12,7 +12,7 @@ aliases: ["Morak Ur'gray"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 31
+BookSource: "Storm King's Thunder p. 31"
 ---
 # [Morak Ur'gray](2-Mechanics/CLI/bestiary/npc/morak-urgray-skt.md)
 *Source: Storm King's Thunder p. 31*  

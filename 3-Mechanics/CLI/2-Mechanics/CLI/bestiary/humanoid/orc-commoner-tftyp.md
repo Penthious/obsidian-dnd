@@ -11,7 +11,7 @@ aliases: ["Orc Commoner"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 167
+BookSource: "Tales from the Yawning Portal p. 167"
 ---
 # [Orc Commoner](2-Mechanics/CLI/bestiary/humanoid/orc-commoner-tftyp.md)
 *Source: Tales from the Yawning Portal p. 167*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Conjure Fey"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 226. Available in the SRD.
+BookSource: "Player's Handbook p. 226. Available in the SRD."
 ---
 # Conjure Fey
 *6th-level, Conjuration*  

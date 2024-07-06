@@ -16,7 +16,7 @@ aliases: ["Warlock of the Great Old One"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220"
 ---
 # [Warlock of the Great Old One](2-Mechanics/CLI/bestiary/humanoid/warlock-of-the-great-old-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*  

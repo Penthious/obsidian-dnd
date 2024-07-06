@@ -12,7 +12,7 @@ aliases: ["Nass Lantomir's Ghost"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 272
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 272"
 ---
 # [Nass Lantomir's Ghost](2-Mechanics/CLI/bestiary/npc/nass-lantomirs-ghost-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 272*  

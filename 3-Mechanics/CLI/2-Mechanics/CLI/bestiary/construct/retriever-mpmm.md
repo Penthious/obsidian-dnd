@@ -14,7 +14,7 @@ aliases: ["Retriever"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222"
 ---
 # [Retriever](2-Mechanics/CLI/bestiary/construct/retriever-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  

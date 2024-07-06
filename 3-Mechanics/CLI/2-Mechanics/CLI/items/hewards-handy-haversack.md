@@ -9,7 +9,7 @@ tags:
 aliases: ["Heward's Handy Haversack"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 174. Available in the SRD (as 'Handy Haversack').
+BookSource: "Dungeon Master's Guide p. 174. Available in the SRD (as 'Handy Haversack')."
 ---
 # Heward's Handy Haversack
 *Wondrous Item, minor, rare*  

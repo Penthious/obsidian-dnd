@@ -10,7 +10,7 @@ tags:
 aliases: ["Sword of Wounding"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 207. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 207. Available in the SRD."
 ---
 # Sword of Wounding
 *Generic Variant, major, rare (requires attunement)*  

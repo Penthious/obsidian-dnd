@@ -15,7 +15,7 @@ aliases: ["Werebear"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 208, Ghosts of Saltmarsh, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 208, Ghosts of Saltmarsh, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Werebear](2-Mechanics/CLI/bestiary/humanoid/werebear.md)
 *Source: Monster Manual p. 208, Ghosts of Saltmarsh, Keys from the Golden Vault. Available in the SRD.*  

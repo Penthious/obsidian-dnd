@@ -12,7 +12,7 @@ aliases: ["Henrik van der Voort"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 116
+BookSource: "Curse of Strahd p. 116"
 ---
 # [Henrik van der Voort](2-Mechanics/CLI/bestiary/npc/henrik-van-der-voort-cos.md)
 *Source: Curse of Strahd p. 116*  

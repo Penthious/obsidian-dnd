@@ -12,7 +12,7 @@ aliases: ["Therzt"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 158
+BookSource: "Tales from the Yawning Portal p. 158"
 ---
 # [Therzt](2-Mechanics/CLI/bestiary/npc/therzt-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

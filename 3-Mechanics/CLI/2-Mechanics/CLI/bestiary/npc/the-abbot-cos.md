@@ -12,7 +12,7 @@ aliases: ["The Abbot"]
 NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 151
+BookSource: "Curse of Strahd p. 151"
 ---
 # [The Abbot](2-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)
 *Source: Curse of Strahd p. 151*  

@@ -12,7 +12,7 @@ aliases: ["Grandfather Zitembe"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 20
+BookSource: "Tomb of Annihilation p. 20"
 ---
 # [Grandfather Zitembe](2-Mechanics/CLI/bestiary/npc/grandfather-zitembe-toa.md)
 *Source: Tomb of Annihilation p. 20*  

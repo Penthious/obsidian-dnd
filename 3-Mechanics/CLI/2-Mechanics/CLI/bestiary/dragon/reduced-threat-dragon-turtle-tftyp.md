@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Dragon Turtle"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Dragon Turtle](2-Mechanics/CLI/bestiary/dragon/reduced-threat-dragon-turtle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

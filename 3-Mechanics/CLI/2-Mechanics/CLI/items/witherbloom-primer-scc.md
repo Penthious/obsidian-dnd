@@ -9,7 +9,7 @@ tags:
 aliases: ["Witherbloom Primer"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 39
+BookSource: "Strixhaven: A Curriculum of Chaos p. 39"
 ---
 # Witherbloom Primer
 *Wondrous Item, uncommon (requires attunement by a spellcaster)*  

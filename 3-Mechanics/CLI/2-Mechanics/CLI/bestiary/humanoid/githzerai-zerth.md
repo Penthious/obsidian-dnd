@@ -11,7 +11,7 @@ aliases: ["Githzerai Zerth"]
 NoteIcon: monster
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
-BookSource: Monster Manual p. 161, Waterdeep: Dungeon of the Mad Mage
+BookSource: "Monster Manual p. 161, Waterdeep: Dungeon of the Mad Mage"
 ---
 # [Githzerai Zerth](2-Mechanics/CLI/bestiary/humanoid/githzerai-zerth.md)
 *Source: Monster Manual p. 161, Waterdeep: Dungeon of the Mad Mage*  

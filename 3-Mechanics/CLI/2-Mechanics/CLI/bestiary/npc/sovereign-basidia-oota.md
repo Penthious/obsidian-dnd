@@ -12,7 +12,7 @@ aliases: ["Sovereign Basidia"]
 NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 88
+BookSource: "Out of the Abyss p. 88"
 ---
 # [Sovereign Basidia](2-Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md)
 *Source: Out of the Abyss p. 88*  

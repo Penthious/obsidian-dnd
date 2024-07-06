@@ -12,7 +12,7 @@ aliases: ["Obmi"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 196
+BookSource: "Tales from the Yawning Portal p. 196"
 ---
 # [Obmi](2-Mechanics/CLI/bestiary/npc/obmi-tftyp.md)
 *Source: Tales from the Yawning Portal p. 196*  

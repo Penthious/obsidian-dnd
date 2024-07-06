@@ -7,7 +7,7 @@ tags:
 aliases: ["Kobold"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 25
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 25"
 ---
 # Kobold
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 25*  

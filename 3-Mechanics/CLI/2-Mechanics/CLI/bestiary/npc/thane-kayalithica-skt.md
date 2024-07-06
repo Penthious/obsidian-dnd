@@ -12,7 +12,7 @@ aliases: ["Thane Kayalithica"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 153
+BookSource: "Storm King's Thunder p. 153"
 ---
 # [Thane Kayalithica](2-Mechanics/CLI/bestiary/npc/thane-kayalithica-skt.md)
 *Source: Storm King's Thunder p. 153*  

@@ -15,7 +15,7 @@ classes:
 aliases: ["Shillelagh"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 275. Available in the SRD.
+BookSource: "Player's Handbook p. 275. Available in the SRD."
 ---
 # Shillelagh
 *cantrip, Transmutation*  

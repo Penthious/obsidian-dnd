@@ -12,7 +12,7 @@ aliases: ["Star Spawn Larva Mage"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235"
 ---
 # [Star Spawn Larva Mage](2-Mechanics/CLI/bestiary/aberration/star-spawn-larva-mage-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  

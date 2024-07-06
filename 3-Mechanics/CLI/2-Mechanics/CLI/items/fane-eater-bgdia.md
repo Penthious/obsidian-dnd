@@ -11,7 +11,7 @@ tags:
 aliases: ["Fane-Eater"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 223
+BookSource: "Baldur's Gate: Descent Into Avernus p. 223"
 ---
 # Fane-Eater
 *Melee Weapon, legendary (requires attunement by an evil cleric or paladin)*  

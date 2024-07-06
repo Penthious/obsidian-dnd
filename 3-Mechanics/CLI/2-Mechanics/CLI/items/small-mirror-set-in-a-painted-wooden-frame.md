@@ -7,7 +7,7 @@ tags:
 aliases: ["Small mirror set in a painted wooden frame"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Small mirror set in a painted wooden frame
 *Art object*  

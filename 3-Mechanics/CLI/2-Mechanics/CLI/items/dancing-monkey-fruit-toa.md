@@ -8,7 +8,7 @@ tags:
 aliases: ["Dancing Monkey Fruit"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 205
+BookSource: "Tomb of Annihilation p. 205"
 ---
 # Dancing Monkey Fruit
 *Other, unknown (magic)*  

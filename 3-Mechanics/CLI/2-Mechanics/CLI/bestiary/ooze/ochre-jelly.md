@@ -12,7 +12,7 @@ aliases: ["Ochre Jelly"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Monster Manual p. 243, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 243, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Ochre Jelly](2-Mechanics/CLI/bestiary/ooze/ochre-jelly.md)
 *Source: Monster Manual p. 243, Princes of the Apocalypse, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  

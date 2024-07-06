@@ -12,7 +12,7 @@ aliases: ["Milivoj"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 97
+BookSource: "Curse of Strahd p. 97"
 ---
 # [Milivoj](2-Mechanics/CLI/bestiary/npc/milivoj-cos.md)
 *Source: Curse of Strahd p. 97*  

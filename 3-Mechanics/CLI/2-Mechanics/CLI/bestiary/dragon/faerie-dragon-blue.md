@@ -12,7 +12,7 @@ aliases: ["Faerie Dragon (Blue)"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 133
+BookSource: "Monster Manual p. 133"
 ---
 # [Faerie Dragon (Blue)](2-Mechanics/CLI/bestiary/dragon/faerie-dragon-blue.md)
 *Source: Monster Manual p. 133*  

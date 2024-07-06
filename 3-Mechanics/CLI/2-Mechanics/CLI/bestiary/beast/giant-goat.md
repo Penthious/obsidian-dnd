@@ -14,7 +14,7 @@ aliases: ["Giant Goat"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 326, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 326, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Giant Goat](2-Mechanics/CLI/bestiary/beast/giant-goat.md)
 *Source: Monster Manual p. 326, Storm King's Thunder, Icewind Dale: Rime of the Frostmaiden, Curse of Strahd, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

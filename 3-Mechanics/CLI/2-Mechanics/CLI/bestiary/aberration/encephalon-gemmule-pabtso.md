@@ -11,7 +11,7 @@ aliases: ["Encephalon Gemmule"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 206
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 206"
 ---
 # [Encephalon Gemmule](2-Mechanics/CLI/bestiary/aberration/encephalon-gemmule-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 206*  

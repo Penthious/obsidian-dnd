@@ -11,7 +11,7 @@ aliases: ["Undead Spirit (Ghostly, 9th-Level Spell)"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 114
+BookSource: "Tasha's Cauldron of Everything p. 114"
 ---
 # [Undead Spirit (Ghostly, 9th-Level Spell)](2-Mechanics/CLI/bestiary/undead/undead-spirit-ghostly-9th-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  

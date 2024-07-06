@@ -12,7 +12,7 @@ aliases: ["Dalamar"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 111
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 111"
 ---
 # [Dalamar](2-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 111*  

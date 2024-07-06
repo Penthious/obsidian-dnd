@@ -12,7 +12,7 @@ aliases: ["Na"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 228
+BookSource: "Tomb of Annihilation p. 228"
 ---
 # [Na](2-Mechanics/CLI/bestiary/npc/na-toa.md)
 *Source: Tomb of Annihilation p. 228*  

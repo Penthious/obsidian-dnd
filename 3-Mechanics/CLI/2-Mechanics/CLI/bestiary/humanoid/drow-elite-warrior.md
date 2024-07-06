@@ -12,7 +12,7 @@ aliases: ["Drow Elite Warrior"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Monster Manual p. 128, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 128, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Drow Elite Warrior](2-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md)
 *Source: Monster Manual p. 128, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Bag of Tricks, Tan"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 154. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 154. Available in the SRD."
 ---
 # Bag of Tricks, Tan
 *Wondrous Item, major, uncommon*  

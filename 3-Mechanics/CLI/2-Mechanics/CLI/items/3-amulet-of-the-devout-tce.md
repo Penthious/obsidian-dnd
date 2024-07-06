@@ -9,7 +9,7 @@ tags:
 aliases: ["+3 Amulet of the Devout"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 119
+BookSource: "Tasha's Cauldron of Everything p. 119"
 ---
 # +3 Amulet of the Devout
 *Wondrous Item, very rare (requires attunement by a cleric or paladin)*  

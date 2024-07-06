@@ -11,7 +11,7 @@ aliases: ["Winged Lion"]
 NoteIcon: monster
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 214
+BookSource: "Mythic Odysseys of Theros p. 214"
 ---
 # [Winged Lion](2-Mechanics/CLI/bestiary/celestial/winged-lion-mot.md)
 *Source: Mythic Odysseys of Theros p. 214*  

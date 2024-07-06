@@ -7,7 +7,7 @@ tags:
 aliases: ["Bottle stopper cork embossed with gold leaf and set with amethysts"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Bottle stopper cork embossed with gold leaf and set with amethysts
 *Art object*  

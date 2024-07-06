@@ -9,7 +9,7 @@ tags:
 aliases: ["Mindblasting Cap"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Phandelver and Below: The Shattered Obelisk p. 218
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 218"
 ---
 # Mindblasting Cap
 *Wondrous Item, very rare (requires attunement)*  

@@ -12,7 +12,7 @@ aliases: ["Bheur Hag"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160"
 ---
 # [Bheur Hag](2-Mechanics/CLI/bestiary/fey/bheur-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  

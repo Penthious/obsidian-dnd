@@ -9,7 +9,7 @@ tags:
 aliases: ["Ascendant Dragon Vessel"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 27
+BookSource: "Fizban's Treasury of Dragons p. 27"
 ---
 # Ascendant Dragon Vessel
 *Wondrous Item, legendary (requires attunement)*  

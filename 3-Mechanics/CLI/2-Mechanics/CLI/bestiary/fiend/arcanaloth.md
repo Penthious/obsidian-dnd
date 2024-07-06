@@ -11,7 +11,7 @@ aliases: ["Arcanaloth"]
 NoteIcon: monster
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
-BookSource: Monster Manual p. 313, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 313, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Arcanaloth](2-Mechanics/CLI/bestiary/fiend/arcanaloth.md)
 *Source: Monster Manual p. 313, Curse of Strahd, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk*  

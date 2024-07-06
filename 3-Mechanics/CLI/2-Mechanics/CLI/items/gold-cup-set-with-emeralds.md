@@ -7,7 +7,7 @@ tags:
 aliases: ["Gold cup set with emeralds"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Gold cup set with emeralds
 *Art object*  

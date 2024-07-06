@@ -11,7 +11,7 @@ aliases: ["Merregon"]
 NoteIcon: monster
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166"
 ---
 # [Merregon](2-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  

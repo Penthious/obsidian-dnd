@@ -13,7 +13,7 @@ aliases: ["Mouth of Grolantor"]
 NoteIcon: monster
 BestiaryType: giant (hill giant)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149"
 ---
 # [Mouth of Grolantor](2-Mechanics/CLI/bestiary/giant/mouth-of-grolantor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  

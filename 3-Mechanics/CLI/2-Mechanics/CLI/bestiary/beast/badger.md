@@ -12,7 +12,7 @@ aliases: ["Badger"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 318, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 318, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Badger](2-Mechanics/CLI/bestiary/beast/badger.md)
 *Source: Monster Manual p. 318, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

@@ -23,7 +23,7 @@ classes:
 aliases: ["Cone of Cold"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 224. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 224. Available in the SRD and the Basic Rules."
 ---
 # Cone of Cold
 *5th-level, Evocation*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Conjure Barrage"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 225
+BookSource: "Player's Handbook p. 225"
 ---
 # Conjure Barrage
 *3rd-level, Conjuration*  

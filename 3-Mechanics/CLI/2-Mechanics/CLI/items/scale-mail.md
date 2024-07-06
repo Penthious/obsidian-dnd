@@ -7,7 +7,7 @@ tags:
 aliases: ["Scale Mail"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 144. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 144. Available in the SRD and the Basic Rules."
 ---
 # Scale Mail
 *Medium Armor*  

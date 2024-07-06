@@ -13,7 +13,7 @@ classes:
 aliases: ["Summon Undead"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 114
+BookSource: "Tasha's Cauldron of Everything p. 114"
 ---
 # Summon Undead
 *3rd-level, Necromancy*  

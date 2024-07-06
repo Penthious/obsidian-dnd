@@ -11,7 +11,7 @@ aliases: ["Tabaxi Minstrel"]
 NoteIcon: monster
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 233
+BookSource: "Tomb of Annihilation p. 233"
 ---
 # [Tabaxi Minstrel](2-Mechanics/CLI/bestiary/humanoid/tabaxi-minstrel-toa.md)
 *Source: Tomb of Annihilation p. 233*  

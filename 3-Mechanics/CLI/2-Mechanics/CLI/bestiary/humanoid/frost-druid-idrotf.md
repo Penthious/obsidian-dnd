@@ -11,7 +11,7 @@ aliases: ["Frost Druid"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 288
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 288"
 ---
 # [Frost Druid](2-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 288*  

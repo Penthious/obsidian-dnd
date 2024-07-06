@@ -12,7 +12,7 @@ aliases: ["Estia"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 189
+BookSource: "Tales from the Yawning Portal p. 189"
 ---
 # [Estia](2-Mechanics/CLI/bestiary/npc/estia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 189*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Crystal Ball (Legendary Version)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 159
+BookSource: "Dungeon Master's Guide p. 159"
 ---
 # Crystal Ball (Legendary Version)
 *Wondrous Item, major, legendary (requires attunement)*  

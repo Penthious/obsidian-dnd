@@ -11,7 +11,7 @@ aliases: ["Atropal"]
 NoteIcon: monster
 BestiaryType: undead (titan)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 214
+BookSource: "Tomb of Annihilation p. 214"
 ---
 # [Atropal](2-Mechanics/CLI/bestiary/undead/atropal-toa.md)
 *Source: Tomb of Annihilation p. 214*  

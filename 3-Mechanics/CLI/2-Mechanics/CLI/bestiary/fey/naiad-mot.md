@@ -11,7 +11,7 @@ aliases: ["Naiad"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 236, Candlekeep Mysteries
+BookSource: "Mythic Odysseys of Theros p. 236, Candlekeep Mysteries"
 ---
 # [Naiad](2-Mechanics/CLI/bestiary/fey/naiad-mot.md)
 *Source: Mythic Odysseys of Theros p. 236, Candlekeep Mysteries*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Lamp"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 152. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 152. Available in the SRD and the Basic Rules."
 ---
 # Lamp
 *Adventuring Gear*  

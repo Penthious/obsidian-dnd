@@ -11,7 +11,7 @@ aliases: ["Dragon Blessed"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 188
+BookSource: "Fizban's Treasury of Dragons p. 188"
 ---
 # [Dragon Blessed](2-Mechanics/CLI/bestiary/humanoid/dragon-blessed-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 188*  

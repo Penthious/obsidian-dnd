@@ -12,7 +12,7 @@ aliases: ["Blink Dog"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Monster Manual p. 318, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 318, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Blink Dog](2-Mechanics/CLI/bestiary/fey/blink-dog.md)
 *Source: Monster Manual p. 318, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

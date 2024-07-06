@@ -9,7 +9,7 @@ tags:
 aliases: ["Battle Standard of Infernal Power"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 223
+BookSource: "Baldur's Gate: Descent Into Avernus p. 223"
 ---
 # Battle Standard of Infernal Power
 *Wondrous Item, very rare (requires attunement)*  

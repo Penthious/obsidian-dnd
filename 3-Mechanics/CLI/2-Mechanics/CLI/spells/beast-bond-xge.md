@@ -13,7 +13,7 @@ classes:
 aliases: ["Beast Bond"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 150
+BookSource: "Xanathar's Guide to Everything p. 150"
 ---
 # Beast Bond
 *1st-level, Divination*  

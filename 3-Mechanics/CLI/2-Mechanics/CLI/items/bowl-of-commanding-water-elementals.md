@@ -9,7 +9,7 @@ tags:
 aliases: ["Bowl of Commanding Water Elementals"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 156. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 156. Available in the SRD."
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous Item, major, rare*  

@@ -12,7 +12,7 @@ aliases: ["Rakshasa"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Monster Manual p. 257, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.
+BookSource: "Monster Manual p. 257, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Rakshasa](2-Mechanics/CLI/bestiary/fiend/rakshasa.md)
 *Source: Monster Manual p. 257, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.*  

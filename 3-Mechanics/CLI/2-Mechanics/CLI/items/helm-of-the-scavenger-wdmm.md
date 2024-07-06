@@ -9,7 +9,7 @@ tags:
 aliases: ["Helm of the Scavenger"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 297
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 297"
 ---
 # Helm of the Scavenger
 *Wondrous Item, legendary (requires attunement by a spellcaster)*  

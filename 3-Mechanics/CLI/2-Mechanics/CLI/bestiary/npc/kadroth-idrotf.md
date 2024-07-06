@@ -12,7 +12,7 @@ aliases: ["Kadroth"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 42
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 42"
 ---
 # [Kadroth](2-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 42*  

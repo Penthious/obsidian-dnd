@@ -31,7 +31,7 @@ classes:
 aliases: ["Locate Creature"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 256. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 256. Available in the SRD and the Basic Rules."
 ---
 # Locate Creature
 *4th-level, Divination*  

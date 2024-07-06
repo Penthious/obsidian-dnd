@@ -12,7 +12,7 @@ aliases: ["Saeth Cromley"]
 NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 216
+BookSource: "Waterdeep: Dragon Heist p. 216"
 ---
 # [Saeth Cromley](2-Mechanics/CLI/bestiary/npc/saeth-cromley-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 216*  

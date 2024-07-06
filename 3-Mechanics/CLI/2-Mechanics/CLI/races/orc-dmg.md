@@ -7,7 +7,7 @@ tags:
 aliases: ["Orc (DMG)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Dungeon Master's Guide p. 282
+BookSource: "Dungeon Master's Guide p. 282"
 ---
 # Orc (DMG)
 *Source: Dungeon Master's Guide p. 282*  

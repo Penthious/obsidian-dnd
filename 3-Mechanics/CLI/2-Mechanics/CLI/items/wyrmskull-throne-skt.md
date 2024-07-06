@@ -8,7 +8,7 @@ tags:
 aliases: ["Wyrmskull Throne"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 237
+BookSource: "Storm King's Thunder p. 237"
 ---
 # Wyrmskull Throne
 *Wondrous Item, artifact*  

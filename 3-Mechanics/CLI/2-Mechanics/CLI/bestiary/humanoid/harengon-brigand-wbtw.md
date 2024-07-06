@@ -11,7 +11,7 @@ aliases: ["Harengon Brigand"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 235
+BookSource: "The Wild Beyond the Witchlight p. 235"
 ---
 # [Harengon Brigand](2-Mechanics/CLI/bestiary/humanoid/harengon-brigand-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 235*  

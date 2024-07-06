@@ -9,7 +9,7 @@ tags:
 aliases: ["Witchlight Watch"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 25
+BookSource: "The Wild Beyond the Witchlight p. 25"
 ---
 # Witchlight Watch
 *Wondrous Item, legendary (requires attunement by a mister witch or his handpicked successor)*  

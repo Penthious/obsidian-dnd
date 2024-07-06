@@ -13,7 +13,7 @@ classes:
 aliases: ["Otiluke's Freezing Sphere"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 263. Available in the SRD (as 'Freezing Sphere').
+BookSource: "Player's Handbook p. 263. Available in the SRD (as 'Freezing Sphere')."
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

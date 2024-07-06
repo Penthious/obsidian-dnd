@@ -11,7 +11,7 @@ aliases: ["Crystal Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 210
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 210"
 ---
 # [Crystal Golem](2-Mechanics/CLI/bestiary/construct/crystal-golem-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 210*  

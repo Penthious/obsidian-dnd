@@ -12,7 +12,7 @@ aliases: ["Jobal"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 26
+BookSource: "Tomb of Annihilation p. 26"
 ---
 # [Jobal](2-Mechanics/CLI/bestiary/npc/jobal-toa.md)
 *Source: Tomb of Annihilation p. 26*  

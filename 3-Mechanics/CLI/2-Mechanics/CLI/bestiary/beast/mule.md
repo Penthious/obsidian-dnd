@@ -14,7 +14,7 @@ aliases: ["Mule"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 333, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 333, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Mule](2-Mechanics/CLI/bestiary/beast/mule.md)
 *Source: Monster Manual p. 333, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

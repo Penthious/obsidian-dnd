@@ -11,7 +11,7 @@ aliases: ["Witherbloom Professor of Decay"]
 NoteIcon: monster
 BestiaryType: humanoid (druid)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 223
+BookSource: "Strixhaven: A Curriculum of Chaos p. 223"
 ---
 # [Witherbloom Professor of Decay](2-Mechanics/CLI/bestiary/humanoid/witherbloom-professor-of-decay-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 223*  

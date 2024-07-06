@@ -33,7 +33,7 @@ classes:
 aliases: ["Mending"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 259. Available in the SRD.
+BookSource: "Player's Handbook p. 259. Available in the SRD."
 ---
 # Mending
 *cantrip, Transmutation*  

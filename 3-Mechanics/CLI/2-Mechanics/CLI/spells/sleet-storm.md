@@ -27,7 +27,7 @@ classes:
 aliases: ["Sleet Storm"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 276. Available in the SRD.
+BookSource: "Player's Handbook p. 276. Available in the SRD."
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

@@ -14,7 +14,7 @@ aliases: ["Giant Owl"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 327, Storm King's Thunder. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 327, Storm King's Thunder. Available in the SRD and the Basic Rules."
 ---
 # [Giant Owl](2-Mechanics/CLI/bestiary/beast/giant-owl.md)
 *Source: Monster Manual p. 327, Storm King's Thunder. Available in the SRD and the Basic Rules.*  

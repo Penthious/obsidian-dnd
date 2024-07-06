@@ -8,7 +8,7 @@ tags:
 aliases: ["Jade Serpent Staff"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 92
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 92"
 ---
 # Jade Serpent Staff
 *Other, unknown (magic)*  

@@ -12,7 +12,7 @@ aliases: ["Hydia Moonmusk"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 148
+BookSource: "Storm King's Thunder p. 148"
 ---
 # [Hydia Moonmusk](2-Mechanics/CLI/bestiary/npc/hydia-moonmusk-skt.md)
 *Source: Storm King's Thunder p. 148*  

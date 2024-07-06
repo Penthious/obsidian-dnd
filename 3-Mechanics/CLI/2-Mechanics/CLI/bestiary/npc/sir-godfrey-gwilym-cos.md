@@ -12,7 +12,7 @@ aliases: ["Sir Godfrey Gwilym"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 139
+BookSource: "Curse of Strahd p. 139"
 ---
 # [Sir Godfrey Gwilym](2-Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md)
 *Source: Curse of Strahd p. 139*  

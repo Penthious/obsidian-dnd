@@ -13,7 +13,7 @@ aliases: ["Lohezet"]
 NoteIcon: npc
 BestiaryType: humanoid (human, wizard)
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 205
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 205"
 ---
 # [Lohezet](2-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 205*  

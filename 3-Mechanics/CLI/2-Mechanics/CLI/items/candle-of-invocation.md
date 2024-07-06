@@ -10,7 +10,7 @@ tags:
 aliases: ["Candle of Invocation"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 157. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 157. Available in the SRD."
 ---
 # Candle of Invocation
 *Wondrous Item, major, very rare (requires attunement)*  

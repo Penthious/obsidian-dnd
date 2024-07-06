@@ -13,7 +13,7 @@ classes:
 aliases: ["Mighty Fortress"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 161
+BookSource: "Xanathar's Guide to Everything p. 161"
 ---
 # Mighty Fortress
 *8th-level, Conjuration*  

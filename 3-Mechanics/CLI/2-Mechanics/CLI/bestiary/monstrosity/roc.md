@@ -16,7 +16,7 @@ aliases: ["Roc"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Roc](2-Mechanics/CLI/bestiary/monstrosity/roc.md)
 *Source: Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.*  

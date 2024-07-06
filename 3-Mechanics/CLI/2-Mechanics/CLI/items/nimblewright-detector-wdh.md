@@ -8,7 +8,7 @@ tags:
 aliases: ["Nimblewright Detector"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 47
+BookSource: "Waterdeep: Dragon Heist p. 47"
 ---
 # Nimblewright Detector
 *Other, unknown*  

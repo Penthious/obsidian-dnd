@@ -14,7 +14,7 @@ aliases: ["Hippogriff"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 184, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 184, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist. Available in the SRD and the Basic Rules."
 ---
 # [Hippogriff](2-Mechanics/CLI/bestiary/monstrosity/hippogriff.md)
 *Source: Monster Manual p. 184, Princes of the Apocalypse, Storm King's Thunder, Waterdeep: Dragon Heist. Available in the SRD and the Basic Rules.*  

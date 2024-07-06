@@ -12,7 +12,7 @@ aliases: ["Young Copper Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 112, Storm King's Thunder. Available in the SRD.
+BookSource: "Monster Manual p. 112, Storm King's Thunder. Available in the SRD."
 ---
 # [Young Copper Dragon](2-Mechanics/CLI/bestiary/dragon/young-copper-dragon.md)
 *Source: Monster Manual p. 112, Storm King's Thunder. Available in the SRD.*  

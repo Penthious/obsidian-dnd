@@ -26,7 +26,7 @@ classes:
 aliases: ["Silence"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 275. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 275. Available in the SRD and the Basic Rules."
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

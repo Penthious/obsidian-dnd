@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Magic Detection"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 211. Available in the SRD and the Basic Rules.
+BookSource: "Dungeon Master's Guide p. 211. Available in the SRD and the Basic Rules."
 ---
 # Wand of Magic Detection
 *Wand, minor, uncommon*  

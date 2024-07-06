@@ -11,7 +11,7 @@ aliases: ["Steel Defender"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 19
+BookSource: "Tasha's Cauldron of Everything p. 19"
 ---
 # [Steel Defender](2-Mechanics/CLI/bestiary/construct/steel-defender-tce.md)
 *Source: Tasha's Cauldron of Everything p. 19*  

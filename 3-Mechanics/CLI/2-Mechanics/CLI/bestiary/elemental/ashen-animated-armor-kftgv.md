@@ -11,7 +11,7 @@ aliases: ["Ashen Animated Armor"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 157
+BookSource: "Keys from the Golden Vault p. 157"
 ---
 # [Ashen Animated Armor](2-Mechanics/CLI/bestiary/elemental/ashen-animated-armor-kftgv.md)
 *Source: Keys from the Golden Vault p. 157*  

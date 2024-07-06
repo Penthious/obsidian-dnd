@@ -12,7 +12,7 @@ aliases: ["Trepsin"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 63
+BookSource: "Hoard of the Dragon Queen p. 63"
 ---
 # [Trepsin](2-Mechanics/CLI/bestiary/npc/trepsin-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 63*  

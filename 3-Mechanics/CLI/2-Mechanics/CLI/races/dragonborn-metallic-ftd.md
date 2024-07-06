@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragonborn (Metallic)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Fizban's Treasury of Dragons p. 12
+BookSource: "Fizban's Treasury of Dragons p. 12"
 ---
 # Dragonborn (Metallic)
 *Source: Fizban's Treasury of Dragons p. 12*  

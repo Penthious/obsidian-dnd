@@ -12,7 +12,7 @@ aliases: ["Kavoda"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 78
+BookSource: "Keys from the Golden Vault p. 78"
 ---
 # [Kavoda](2-Mechanics/CLI/bestiary/npc/kavoda-kftgv.md)
 *Source: Keys from the Golden Vault p. 78*  

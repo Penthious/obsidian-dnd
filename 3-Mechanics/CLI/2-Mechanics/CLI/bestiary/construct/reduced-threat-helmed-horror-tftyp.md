@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Helmed Horror"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Helmed Horror](2-Mechanics/CLI/bestiary/construct/reduced-threat-helmed-horror-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

@@ -20,7 +20,7 @@ aliases: ["Kobold"]
 NoteIcon: monster
 BestiaryType: humanoid (kobold)
 SourceType: Bestiary
-BookSource: Monster Manual p. 195, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 195, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules."
 ---
 # [Kobold](2-Mechanics/CLI/bestiary/humanoid/kobold.md)
 *Source: Monster Manual p. 195, Hoard of the Dragon Queen, The Rise of Tiamat, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules.*  

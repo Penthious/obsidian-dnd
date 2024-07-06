@@ -12,7 +12,7 @@ aliases: ["Archduke Zariel of Avernus"]
 NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 243
+BookSource: "Baldur's Gate: Descent Into Avernus p. 243"
 ---
 # [Archduke Zariel of Avernus](2-Mechanics/CLI/bestiary/npc/archduke-zariel-of-avernus-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 243*  

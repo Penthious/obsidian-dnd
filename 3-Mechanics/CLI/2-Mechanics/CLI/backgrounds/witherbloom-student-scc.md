@@ -7,7 +7,7 @@ tags:
 aliases: ["Witherbloom Student"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Strixhaven: A Curriculum of Chaos p. 36
+BookSource: "Strixhaven: A Curriculum of Chaos p. 36"
 ---
 # Witherbloom Student
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  

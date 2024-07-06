@@ -9,7 +9,7 @@ tags:
 aliases: ["Murgaxor's Orb"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 126
+BookSource: "Strixhaven: A Curriculum of Chaos p. 126"
 ---
 # Murgaxor's Orb
 *Wondrous Item, legendary (requires attunement)*  

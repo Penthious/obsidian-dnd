@@ -12,7 +12,7 @@ aliases: ["Runara"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 40
+BookSource: "Dragons of Stormwreck Isle p. 40"
 ---
 # [Runara](2-Mechanics/CLI/bestiary/npc/runara-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 40*  

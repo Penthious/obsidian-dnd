@@ -7,7 +7,7 @@ tags:
 aliases: ["Gunpowder Keg"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Gunpowder Keg
 *Explosive*  

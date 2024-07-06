@@ -7,7 +7,7 @@ tags:
 aliases: ["Block and Tackle"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 151. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 151. Available in the SRD and the Basic Rules."
 ---
 # Block and Tackle
 *Adventuring Gear*  

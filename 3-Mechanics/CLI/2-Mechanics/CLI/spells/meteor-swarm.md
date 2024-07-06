@@ -15,7 +15,7 @@ classes:
 aliases: ["Meteor Swarm"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 259. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 259. Available in the SRD and the Basic Rules."
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

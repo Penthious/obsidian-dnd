@@ -12,7 +12,7 @@ tags:
 aliases: ["Dagger of Blindsight"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 86
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 86"
 ---
 # Dagger of Blindsight
 *Melee Weapon, rare (requires attunement)*  

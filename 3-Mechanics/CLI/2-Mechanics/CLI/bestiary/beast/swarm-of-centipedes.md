@@ -18,7 +18,7 @@ aliases: ["Swarm of Centipedes"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen, Waterdeep: Dungeon of the Mad Mage. Available in the SRD.
+BookSource: "Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen, Waterdeep: Dungeon of the Mad Mage. Available in the SRD."
 ---
 # [Swarm of Centipedes](2-Mechanics/CLI/bestiary/beast/swarm-of-centipedes.md)
 *Source: Monster Manual p. 338, Curse of Strahd, Hoard of the Dragon Queen, Waterdeep: Dungeon of the Mad Mage. Available in the SRD.*  

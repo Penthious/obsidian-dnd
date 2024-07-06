@@ -18,7 +18,7 @@ aliases: ["Swarm of Wasps"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 338, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 338, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Swarm of Wasps](2-Mechanics/CLI/bestiary/beast/swarm-of-wasps.md)
 *Source: Monster Manual p. 338, Curse of Strahd, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD.*  

@@ -11,7 +11,7 @@ aliases: ["Brain Breaker"]
 NoteIcon: monster
 BestiaryType: aberration (mind flayer)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 199
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 199"
 ---
 # [Brain Breaker](2-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 199*  

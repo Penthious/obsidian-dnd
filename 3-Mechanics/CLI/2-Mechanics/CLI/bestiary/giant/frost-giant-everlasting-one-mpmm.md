@@ -12,7 +12,7 @@ aliases: ["Frost Giant Everlasting One"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148"
 ---
 # [Frost Giant Everlasting One](2-Mechanics/CLI/bestiary/giant/frost-giant-everlasting-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  

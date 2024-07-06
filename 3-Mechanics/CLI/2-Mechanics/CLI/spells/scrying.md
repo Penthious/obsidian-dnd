@@ -31,7 +31,7 @@ classes:
 aliases: ["Scrying"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 273. Available in the SRD.
+BookSource: "Player's Handbook p. 273. Available in the SRD."
 ---
 # Scrying
 *5th-level, Divination*  

@@ -11,7 +11,7 @@ aliases: ["Verbeeg Marauder"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 311
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 311"
 ---
 # [Verbeeg Marauder](2-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 311*  

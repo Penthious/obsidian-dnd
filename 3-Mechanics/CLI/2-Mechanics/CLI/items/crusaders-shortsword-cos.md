@@ -12,7 +12,7 @@ tags:
 aliases: ["Crusader's Shortsword"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 81
+BookSource: "Curse of Strahd p. 81"
 ---
 # Crusader's Shortsword
 *Melee Weapon, unknown (magic) (requires attunement)*  

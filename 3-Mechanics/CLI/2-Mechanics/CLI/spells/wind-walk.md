@@ -11,7 +11,7 @@ classes:
 aliases: ["Wind Walk"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 288. Available in the SRD.
+BookSource: "Player's Handbook p. 288. Available in the SRD."
 ---
 # Wind Walk
 *6th-level, Transmutation*  

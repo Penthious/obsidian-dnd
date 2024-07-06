@@ -11,7 +11,7 @@ aliases: ["Meletian Hoplite"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 229
+BookSource: "Mythic Odysseys of Theros p. 229"
 ---
 # [Meletian Hoplite](2-Mechanics/CLI/bestiary/humanoid/meletian-hoplite-mot.md)
 *Source: Mythic Odysseys of Theros p. 229*  

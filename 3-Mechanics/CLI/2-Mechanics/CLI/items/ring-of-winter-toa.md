@@ -9,7 +9,7 @@ tags:
 aliases: ["Ring of Winter"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 207
+BookSource: "Tomb of Annihilation p. 207"
 ---
 # Ring of Winter
 *Ring, artifact (requires attunement)*  

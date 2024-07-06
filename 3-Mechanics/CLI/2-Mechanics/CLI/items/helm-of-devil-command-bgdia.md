@@ -9,7 +9,7 @@ tags:
 aliases: ["Helm of Devil Command"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 223
+BookSource: "Baldur's Gate: Descent Into Avernus p. 223"
 ---
 # Helm of Devil Command
 *Wondrous Item, very rare (requires attunement by a creature that can speak Infernal)*  

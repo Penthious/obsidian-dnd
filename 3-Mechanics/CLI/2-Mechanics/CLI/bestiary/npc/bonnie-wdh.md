@@ -12,7 +12,7 @@ aliases: ["Bonnie"]
 NoteIcon: npc
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 20
+BookSource: "Waterdeep: Dragon Heist p. 20"
 ---
 # [Bonnie](2-Mechanics/CLI/bestiary/npc/bonnie-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

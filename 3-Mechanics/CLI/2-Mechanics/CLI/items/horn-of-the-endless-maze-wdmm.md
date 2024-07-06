@@ -8,7 +8,7 @@ tags:
 aliases: ["Horn of the Endless Maze"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 163
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 163"
 ---
 # Horn of the Endless Maze
 *Wondrous Item, rare*  

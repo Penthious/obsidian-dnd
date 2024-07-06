@@ -11,7 +11,7 @@ aliases: ["Giant Rocktopus"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 28
+BookSource: "Out of the Abyss p. 28"
 ---
 # [Giant Rocktopus](2-Mechanics/CLI/bestiary/beast/giant-rocktopus-oota.md)
 *Source: Out of the Abyss p. 28*  

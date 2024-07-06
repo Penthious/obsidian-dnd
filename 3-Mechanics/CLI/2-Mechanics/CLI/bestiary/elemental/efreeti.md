@@ -12,7 +12,7 @@ aliases: ["Efreeti"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 145, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 145, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Efreeti](2-Mechanics/CLI/bestiary/elemental/efreeti.md)
 *Source: Monster Manual p. 145, Princes of the Apocalypse, The Rise of Tiamat, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Tasha's Cauldron of Everything, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD.*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Summon Beast"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 109
+BookSource: "Tasha's Cauldron of Everything p. 109"
 ---
 # Summon Beast
 *2nd-level, Conjuration*  

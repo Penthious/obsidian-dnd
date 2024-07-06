@@ -7,7 +7,7 @@ tags:
 aliases: ["Copper (cp)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 143
+BookSource: "Player's Handbook p. 143"
 ---
 # Copper (cp)
 *Coinage*  

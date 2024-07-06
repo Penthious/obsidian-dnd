@@ -11,7 +11,7 @@ aliases: ["Ghost Dragon"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 203
+BookSource: "Fizban's Treasury of Dragons p. 203"
 ---
 # [Ghost Dragon](2-Mechanics/CLI/bestiary/undead/ghost-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 203*  

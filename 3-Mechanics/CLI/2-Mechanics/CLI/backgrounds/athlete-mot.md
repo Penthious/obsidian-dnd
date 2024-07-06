@@ -7,7 +7,7 @@ tags:
 aliases: ["Athlete"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Mythic Odysseys of Theros p. 31
+BookSource: "Mythic Odysseys of Theros p. 31"
 ---
 # Athlete
 *Source: Mythic Odysseys of Theros p. 31*  

@@ -11,7 +11,7 @@ aliases: ["Art Elemental Mascot"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 185
+BookSource: "Strixhaven: A Curriculum of Chaos p. 185"
 ---
 # [Art Elemental Mascot](2-Mechanics/CLI/bestiary/elemental/art-elemental-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 185*  

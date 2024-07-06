@@ -8,7 +8,7 @@ tags:
 aliases: ["Tankard of Plenty"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Hoard of the Dragon Queen p. 74
+BookSource: "Hoard of the Dragon Queen p. 74"
 ---
 # Tankard of Plenty
 *Other, unknown (magic)*  

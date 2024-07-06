@@ -11,7 +11,7 @@ aliases: ["Shield Dwarf Guard"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 78
+BookSource: "Storm King's Thunder p. 78"
 ---
 # [Shield Dwarf Guard](2-Mechanics/CLI/bestiary/humanoid/shield-dwarf-guard-skt.md)
 *Source: Storm King's Thunder p. 78*  

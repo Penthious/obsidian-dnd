@@ -11,7 +11,7 @@ aliases: ["Almiraj"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 211
+BookSource: "Tomb of Annihilation p. 211"
 ---
 # [Almiraj](2-Mechanics/CLI/bestiary/beast/almiraj-toa.md)
 *Source: Tomb of Annihilation p. 211*  

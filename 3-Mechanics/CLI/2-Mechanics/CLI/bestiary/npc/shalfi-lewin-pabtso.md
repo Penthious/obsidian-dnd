@@ -12,7 +12,7 @@ aliases: ["Shalfi Lewin"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 174
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 174"
 ---
 # [Shalfi Lewin](2-Mechanics/CLI/bestiary/npc/shalfi-lewin-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 174*  

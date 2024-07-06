@@ -12,7 +12,7 @@ aliases: ["Lady Dre"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 37
+BookSource: "Journeys through the Radiant Citadel p. 37"
 ---
 # [Lady Dre](2-Mechanics/CLI/bestiary/npc/lady-dre-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 37*  

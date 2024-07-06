@@ -11,7 +11,7 @@ aliases: ["Deep Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 175
+BookSource: "Fizban's Treasury of Dragons p. 175"
 ---
 # [Deep Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/deep-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 175*  

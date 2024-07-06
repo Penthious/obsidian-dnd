@@ -11,7 +11,7 @@ aliases: ["Feathergale Knight"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 189
+BookSource: "Princes of the Apocalypse p. 189"
 ---
 # [Feathergale Knight](2-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md)
 *Source: Princes of the Apocalypse p. 189*  

@@ -11,7 +11,7 @@ tags:
 aliases: ["Moonblade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 217
+BookSource: "Dungeon Master's Guide p. 217"
 ---
 # Moonblade
 *Melee Weapon, legendary (requires attunement by an elf or half-elf of neutral good alignment)*  

@@ -12,7 +12,7 @@ aliases: ["Asha Vandree"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 9
+BookSource: "Out of the Abyss p. 9"
 ---
 # [Asha Vandree](2-Mechanics/CLI/bestiary/npc/asha-vandree-oota.md)
 *Source: Out of the Abyss p. 9*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Jakarion's Staff of Frost"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 187
+BookSource: "Curse of Strahd p. 187"
 ---
 # Jakarion's Staff of Frost
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

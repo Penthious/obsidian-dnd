@@ -17,7 +17,7 @@ classes:
 aliases: ["Circle of Death"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 221. Available in the SRD.
+BookSource: "Player's Handbook p. 221. Available in the SRD."
 ---
 # Circle of Death
 *6th-level, Necromancy*  

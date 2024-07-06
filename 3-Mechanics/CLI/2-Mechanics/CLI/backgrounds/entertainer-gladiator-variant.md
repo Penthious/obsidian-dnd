@@ -7,7 +7,7 @@ tags:
 aliases: ["Entertainer (Gladiator) (Variant)"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 131
+BookSource: "Player's Handbook p. 131"
 ---
 # Entertainer (Gladiator) (Variant)
 *Source: Player's Handbook p. 131*  

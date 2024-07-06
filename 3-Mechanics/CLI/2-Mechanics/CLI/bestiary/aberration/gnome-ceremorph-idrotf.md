@@ -11,7 +11,7 @@ aliases: ["Gnome Ceremorph"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 303
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 303"
 ---
 # [Gnome Ceremorph](2-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  

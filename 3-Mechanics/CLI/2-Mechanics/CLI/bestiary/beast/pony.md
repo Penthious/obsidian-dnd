@@ -12,7 +12,7 @@ aliases: ["Pony"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 335, Storm King's Thunder, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 335, Storm King's Thunder, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Pony](2-Mechanics/CLI/bestiary/beast/pony.md)
 *Source: Monster Manual p. 335, Storm King's Thunder, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Necklace string of small pink pearls"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Necklace string of small pink pearls
 *Art object*  

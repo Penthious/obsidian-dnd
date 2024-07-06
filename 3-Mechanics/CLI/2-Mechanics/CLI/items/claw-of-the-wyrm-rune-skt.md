@@ -9,7 +9,7 @@ tags:
 aliases: ["Claw of the Wyrm Rune"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Storm King's Thunder p. 233
+BookSource: "Storm King's Thunder p. 233"
 ---
 # Claw of the Wyrm Rune
 *Wondrous Item, rare (requires attunement)*  

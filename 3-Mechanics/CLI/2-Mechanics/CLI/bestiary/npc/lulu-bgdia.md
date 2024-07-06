@@ -12,7 +12,7 @@ aliases: ["Lulu"]
 NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 5
+BookSource: "Baldur's Gate: Descent Into Avernus p. 5"
 ---
 # [Lulu](2-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 5*  

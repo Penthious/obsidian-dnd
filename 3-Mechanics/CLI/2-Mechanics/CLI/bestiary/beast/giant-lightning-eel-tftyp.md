@@ -11,7 +11,7 @@ aliases: ["Giant Lightning Eel"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 236
+BookSource: "Tales from the Yawning Portal p. 236"
 ---
 # [Giant Lightning Eel](2-Mechanics/CLI/bestiary/beast/giant-lightning-eel-tftyp.md)
 *Source: Tales from the Yawning Portal p. 236*  

@@ -27,7 +27,7 @@ classes:
 aliases: ["Prestidigitation"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 267. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 267. Available in the SRD and the Basic Rules."
 ---
 # Prestidigitation
 *cantrip, Transmutation*  

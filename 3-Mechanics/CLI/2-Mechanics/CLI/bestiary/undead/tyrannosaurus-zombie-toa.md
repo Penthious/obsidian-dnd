@@ -11,7 +11,7 @@ aliases: ["Tyrannosaurus Zombie"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 241
+BookSource: "Tomb of Annihilation p. 241"
 ---
 # [Tyrannosaurus Zombie](2-Mechanics/CLI/bestiary/undead/tyrannosaurus-zombie-toa.md)
 *Source: Tomb of Annihilation p. 241*  

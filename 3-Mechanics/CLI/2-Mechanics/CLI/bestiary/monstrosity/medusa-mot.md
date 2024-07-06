@@ -11,7 +11,7 @@ aliases: ["Medusa"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 206
+BookSource: "Mythic Odysseys of Theros p. 206"
 ---
 # [Medusa](2-Mechanics/CLI/bestiary/monstrosity/medusa-mot.md)
 *Source: Mythic Odysseys of Theros p. 206*  

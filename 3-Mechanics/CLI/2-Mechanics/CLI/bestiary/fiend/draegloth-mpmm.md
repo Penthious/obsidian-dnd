@@ -12,7 +12,7 @@ aliases: ["Draegloth"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141"
 ---
 # [Draegloth](2-Mechanics/CLI/bestiary/fiend/draegloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  

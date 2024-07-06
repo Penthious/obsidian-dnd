@@ -15,7 +15,7 @@ classes:
 aliases: ["Abi-Dalzim's Horrid Wilting"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 150
+BookSource: "Xanathar's Guide to Everything p. 150"
 ---
 # Abi-Dalzim's Horrid Wilting
 *8th-level, Necromancy*  

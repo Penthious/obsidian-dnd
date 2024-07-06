@@ -12,7 +12,7 @@ aliases: ["Intellect Devourer"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 191, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 191, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Intellect Devourer](2-Mechanics/CLI/bestiary/aberration/intellect-devourer.md)
 *Source: Monster Manual p. 191, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Phandelver and Below: The Shattered Obelisk*  

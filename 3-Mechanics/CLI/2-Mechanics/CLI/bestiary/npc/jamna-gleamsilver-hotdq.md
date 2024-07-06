@@ -12,7 +12,7 @@ aliases: ["Jamna Gleamsilver"]
 NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 91
+BookSource: "Hoard of the Dragon Queen p. 91"
 ---
 # [Jamna Gleamsilver](2-Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 91*  

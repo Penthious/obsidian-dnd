@@ -9,7 +9,7 @@ tags:
 aliases: ["Figurine of Wondrous Power, Golden Lions"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 169. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 169. Available in the SRD."
 ---
 # Figurine of Wondrous Power, Golden Lions
 *Wondrous Item, major, rare*  

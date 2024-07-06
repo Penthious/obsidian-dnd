@@ -13,7 +13,7 @@ classes:
 aliases: ["Magic Jar"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 257. Available in the SRD.
+BookSource: "Player's Handbook p. 257. Available in the SRD."
 ---
 # Magic Jar
 *6th-level, Necromancy*  

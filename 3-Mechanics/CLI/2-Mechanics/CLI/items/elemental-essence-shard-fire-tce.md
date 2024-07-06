@@ -9,7 +9,7 @@ tags:
 aliases: ["Elemental Essence Shard (Fire)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tasha's Cauldron of Everything p. 127
+BookSource: "Tasha's Cauldron of Everything p. 127"
 ---
 # Elemental Essence Shard (Fire)
 *Wondrous Item, rare (requires attunement by a sorcerer)*  

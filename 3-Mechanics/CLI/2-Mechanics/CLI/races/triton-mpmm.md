@@ -7,7 +7,7 @@ tags:
 aliases: ["Triton"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 35
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 35"
 ---
 # Triton
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  

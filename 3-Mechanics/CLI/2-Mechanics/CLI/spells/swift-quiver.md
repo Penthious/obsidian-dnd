@@ -11,7 +11,7 @@ classes:
 aliases: ["Swift Quiver"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 279
+BookSource: "Player's Handbook p. 279"
 ---
 # Swift Quiver
 *5th-level, Transmutation*  

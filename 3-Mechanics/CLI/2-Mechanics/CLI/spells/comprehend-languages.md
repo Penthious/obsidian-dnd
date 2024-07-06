@@ -22,7 +22,7 @@ classes:
 aliases: ["Comprehend Languages"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 224. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 224. Available in the SRD and the Basic Rules."
 ---
 # Comprehend Languages
 *1st-level, Divination (ritual)*  

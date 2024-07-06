@@ -13,7 +13,7 @@ classes:
 aliases: ["Summon Shadowspawn"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Tasha's Cauldron of Everything p. 113
+BookSource: "Tasha's Cauldron of Everything p. 113"
 ---
 # Summon Shadowspawn
 *3rd-level, Conjuration*  

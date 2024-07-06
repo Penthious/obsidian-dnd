@@ -13,7 +13,7 @@ classes:
 aliases: ["Wrath of Nature"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 171
+BookSource: "Xanathar's Guide to Everything p. 171"
 ---
 # Wrath of Nature
 *5th-level, Evocation*  

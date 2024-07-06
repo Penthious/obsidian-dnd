@@ -12,7 +12,7 @@ aliases: ["Dzaan"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 271
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 271"
 ---
 # [Dzaan](2-Mechanics/CLI/bestiary/npc/dzaan-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 271*  

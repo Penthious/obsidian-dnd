@@ -12,7 +12,7 @@ aliases: ["Drow House Captain"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184"
 ---
 # [Drow House Captain](2-Mechanics/CLI/bestiary/humanoid/drow-house-captain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*  

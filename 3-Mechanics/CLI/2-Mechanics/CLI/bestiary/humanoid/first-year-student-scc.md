@@ -11,7 +11,7 @@ aliases: ["First-Year Student"]
 NoteIcon: monster
 BestiaryType: humanoid (wizard)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 191
+BookSource: "Strixhaven: A Curriculum of Chaos p. 191"
 ---
 # [First-Year Student](2-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 191*  

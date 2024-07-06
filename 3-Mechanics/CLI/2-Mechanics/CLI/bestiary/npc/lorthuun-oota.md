@@ -12,7 +12,7 @@ aliases: ["Lorthuun"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 141
+BookSource: "Out of the Abyss p. 141"
 ---
 # [Lorthuun](2-Mechanics/CLI/bestiary/npc/lorthuun-oota.md)
 *Source: Out of the Abyss p. 141*  

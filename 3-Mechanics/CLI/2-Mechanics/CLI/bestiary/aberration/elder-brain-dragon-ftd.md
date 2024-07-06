@@ -11,7 +11,7 @@ aliases: ["Elder Brain Dragon"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 194
+BookSource: "Fizban's Treasury of Dragons p. 194"
 ---
 # [Elder Brain Dragon](2-Mechanics/CLI/bestiary/aberration/elder-brain-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 194*  

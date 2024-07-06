@@ -11,7 +11,7 @@ aliases: ["Gargantuan Rug of Smothering"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 56
+BookSource: "Tales from the Yawning Portal p. 56"
 ---
 # [Gargantuan Rug of Smothering](2-Mechanics/CLI/bestiary/construct/gargantuan-rug-of-smothering-tftyp.md)
 *Source: Tales from the Yawning Portal p. 56*  

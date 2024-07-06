@@ -7,7 +7,7 @@ tags:
 aliases: ["Criminal (Spy) (Variant)"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 130. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 130. Available in the Basic Rules."
 ---
 # Criminal (Spy) (Variant)
 *Source: Player's Handbook p. 130. Available in the Basic Rules.*  

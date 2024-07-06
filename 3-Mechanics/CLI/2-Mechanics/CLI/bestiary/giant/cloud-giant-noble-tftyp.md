@@ -11,7 +11,7 @@ aliases: ["Cloud Giant Noble"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 206
+BookSource: "Tales from the Yawning Portal p. 206"
 ---
 # [Cloud Giant Noble](2-Mechanics/CLI/bestiary/giant/cloud-giant-noble-tftyp.md)
 *Source: Tales from the Yawning Portal p. 206*  

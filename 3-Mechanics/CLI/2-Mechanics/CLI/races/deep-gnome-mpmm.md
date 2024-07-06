@@ -7,7 +7,7 @@ tags:
 aliases: ["Deep Gnome"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 11
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 11"
 ---
 # Deep Gnome
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 11*  

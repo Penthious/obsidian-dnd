@@ -12,7 +12,7 @@ aliases: ["Apprentice Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209"
 ---
 # [Apprentice Wizard](2-Mechanics/CLI/bestiary/humanoid/apprentice-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209*  

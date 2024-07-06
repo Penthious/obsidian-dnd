@@ -12,7 +12,7 @@ aliases: ["Nikolai Wachter"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 110
+BookSource: "Curse of Strahd p. 110"
 ---
 # [Nikolai Wachter](2-Mechanics/CLI/bestiary/npc/nikolai-wachter-cos.md)
 *Source: Curse of Strahd p. 110*  

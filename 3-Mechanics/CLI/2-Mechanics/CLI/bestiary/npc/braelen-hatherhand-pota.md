@@ -12,7 +12,7 @@ aliases: ["Braelen Hatherhand"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 156
+BookSource: "Princes of the Apocalypse p. 156"
 ---
 # [Braelen Hatherhand](2-Mechanics/CLI/bestiary/npc/braelen-hatherhand-pota.md)
 *Source: Princes of the Apocalypse p. 156*  

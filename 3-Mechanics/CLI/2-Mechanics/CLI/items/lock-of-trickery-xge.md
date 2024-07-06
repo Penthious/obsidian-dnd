@@ -9,7 +9,7 @@ tags:
 aliases: ["Lock of Trickery"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Xanathar's Guide to Everything p. 138
+BookSource: "Xanathar's Guide to Everything p. 138"
 ---
 # Lock of Trickery
 *Wondrous Item, minor, common*  

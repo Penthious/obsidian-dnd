@@ -11,7 +11,7 @@ aliases: ["Mantrap"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 227
+BookSource: "Tomb of Annihilation p. 227"
 ---
 # [Mantrap](2-Mechanics/CLI/bestiary/plant/mantrap-toa.md)
 *Source: Tomb of Annihilation p. 227*  

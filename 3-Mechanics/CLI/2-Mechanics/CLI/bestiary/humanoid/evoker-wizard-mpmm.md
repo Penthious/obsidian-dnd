@@ -12,7 +12,7 @@ aliases: ["Evoker Wizard"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214"
 ---
 # [Evoker Wizard](2-Mechanics/CLI/bestiary/humanoid/evoker-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  

@@ -12,7 +12,7 @@ aliases: ["Korred"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168"
 ---
 # [Korred](2-Mechanics/CLI/bestiary/fey/korred-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*  

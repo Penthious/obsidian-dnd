@@ -13,7 +13,7 @@ aliases: ["Y'demi"]
 NoteIcon: npc
 BestiaryType: humanoid (human, warlock)
 SourceType: Bestiary
-BookSource: Strixhaven: A Curriculum of Chaos p. 172
+BookSource: "Strixhaven: A Curriculum of Chaos p. 172"
 ---
 # [Y'demi](2-Mechanics/CLI/bestiary/npc/ydemi-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 172*  

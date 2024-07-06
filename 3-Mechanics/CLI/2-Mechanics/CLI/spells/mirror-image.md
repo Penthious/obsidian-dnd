@@ -25,7 +25,7 @@ classes:
 aliases: ["Mirror Image"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 260. Available in the SRD.
+BookSource: "Player's Handbook p. 260. Available in the SRD."
 ---
 # Mirror Image
 *2nd-level, Illusion*  

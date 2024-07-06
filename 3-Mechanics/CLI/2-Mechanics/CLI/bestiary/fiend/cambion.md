@@ -12,7 +12,7 @@ aliases: ["Cambion"]
 NoteIcon: monster
 BestiaryType: fiend
 SourceType: Bestiary
-BookSource: Monster Manual p. 36, Storm King's Thunder, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault
+BookSource: "Monster Manual p. 36, Storm King's Thunder, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault"
 ---
 # [Cambion](2-Mechanics/CLI/bestiary/fiend/cambion.md)
 *Source: Monster Manual p. 36, Storm King's Thunder, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Keys from the Golden Vault*  

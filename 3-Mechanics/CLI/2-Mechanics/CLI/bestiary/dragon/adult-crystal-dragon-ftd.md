@@ -11,7 +11,7 @@ aliases: ["Adult Crystal Dragon"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 171
+BookSource: "Fizban's Treasury of Dragons p. 171"
 ---
 # [Adult Crystal Dragon](2-Mechanics/CLI/bestiary/dragon/adult-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 171*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["Gem of Brightness"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 171. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 171. Available in the SRD."
 ---
 # Gem of Brightness
 *Wondrous Item, major, uncommon*  

@@ -11,7 +11,7 @@ aliases: ["Swarm of Mechanical Spiders"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 143
+BookSource: "Waterdeep: Dragon Heist p. 143"
 ---
 # [Swarm of Mechanical Spiders](2-Mechanics/CLI/bestiary/construct/swarm-of-mechanical-spiders-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 143*  

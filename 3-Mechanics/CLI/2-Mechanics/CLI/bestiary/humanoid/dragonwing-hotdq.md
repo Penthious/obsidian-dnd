@@ -11,7 +11,7 @@ aliases: ["Dragonwing"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 90, The Rise of Tiamat p. 89
+BookSource: "Hoard of the Dragon Queen p. 90, The Rise of Tiamat p. 89"
 ---
 # [Dragonwing](2-Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 90, The Rise of Tiamat p. 89*  

@@ -12,7 +12,7 @@ aliases: ["Tixie's Shield Guardian"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 80
+BookSource: "Keys from the Golden Vault p. 80"
 ---
 # [Tixie's Shield Guardian](2-Mechanics/CLI/bestiary/npc/tixies-shield-guardian-kftgv.md)
 *Source: Keys from the Golden Vault p. 80*  

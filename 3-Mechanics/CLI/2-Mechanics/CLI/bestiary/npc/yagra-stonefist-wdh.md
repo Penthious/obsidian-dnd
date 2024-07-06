@@ -12,7 +12,7 @@ aliases: ["Yagra Stonefist"]
 NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 20
+BookSource: "Waterdeep: Dragon Heist p. 20"
 ---
 # [Yagra Stonefist](2-Mechanics/CLI/bestiary/npc/yagra-stonefist-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  

@@ -13,7 +13,7 @@ aliases: ["Elok Jaharwon"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 67
+BookSource: "Tomb of Annihilation p. 67"
 ---
 # [Elok Jaharwon](2-Mechanics/CLI/bestiary/npc/elok-jaharwon-toa.md)
 *Source: Tomb of Annihilation p. 67*  

@@ -7,7 +7,7 @@ tags:
 aliases: ["Fine gold chain set with a fire opal"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Fine gold chain set with a fire opal
 *Art object*  

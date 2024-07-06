@@ -11,7 +11,7 @@ aliases: ["Skeletal Juggernaut"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 253
+BookSource: "Ghosts of Saltmarsh p. 253"
 ---
 # [Skeletal Juggernaut](2-Mechanics/CLI/bestiary/undead/skeletal-juggernaut-gos.md)
 *Source: Ghosts of Saltmarsh p. 253*  

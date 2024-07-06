@@ -27,7 +27,7 @@ classes:
 aliases: ["Daylight"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 230. Available in the SRD.
+BookSource: "Player's Handbook p. 230. Available in the SRD."
 ---
 # Daylight
 *3rd-level, Evocation*  

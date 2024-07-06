@@ -21,7 +21,7 @@ classes:
 aliases: ["Planar Binding"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 265. Available in the SRD.
+BookSource: "Player's Handbook p. 265. Available in the SRD."
 ---
 # Planar Binding
 *5th-level, Abjuration*  

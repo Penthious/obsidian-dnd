@@ -12,7 +12,7 @@ aliases: ["Twig Blight"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Monster Manual p. 32, Curse of Strahd, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.
+BookSource: "Monster Manual p. 32, Curse of Strahd, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules."
 ---
 # [Twig Blight](2-Mechanics/CLI/bestiary/plant/twig-blight.md)
 *Source: Monster Manual p. 32, Curse of Strahd, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.*  

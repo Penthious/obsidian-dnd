@@ -11,7 +11,7 @@ aliases: ["Kapak Draconian"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 198
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 198"
 ---
 # [Kapak Draconian](2-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 198*  

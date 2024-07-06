@@ -9,7 +9,7 @@ tags:
 aliases: ["Siren Song Lyre"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Mythic Odysseys of Theros p. 198
+BookSource: "Mythic Odysseys of Theros p. 198"
 ---
 # Siren Song Lyre
 *Instrument, rare (requires attunement)*  

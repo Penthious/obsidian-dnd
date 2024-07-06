@@ -11,7 +11,7 @@ aliases: ["Sahuagin Hatchling Swarm"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 250
+BookSource: "Ghosts of Saltmarsh p. 250"
 ---
 # [Sahuagin Hatchling Swarm](2-Mechanics/CLI/bestiary/beast/sahuagin-hatchling-swarm-gos.md)
 *Source: Ghosts of Saltmarsh p. 250*  

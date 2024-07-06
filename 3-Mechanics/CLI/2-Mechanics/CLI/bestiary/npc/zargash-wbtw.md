@@ -13,7 +13,7 @@ aliases: ["Zargash"]
 NoteIcon: npc
 BestiaryType: humanoid (cleric, human)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 223
+BookSource: "The Wild Beyond the Witchlight p. 223"
 ---
 # [Zargash](2-Mechanics/CLI/bestiary/npc/zargash-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 223*  

@@ -13,7 +13,7 @@ classes:
 aliases: ["Create Homunculus"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 152
+BookSource: "Xanathar's Guide to Everything p. 152"
 ---
 # Create Homunculus
 *6th-level, Transmutation*  

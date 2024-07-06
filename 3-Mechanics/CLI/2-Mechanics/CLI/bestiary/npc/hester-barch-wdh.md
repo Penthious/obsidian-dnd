@@ -12,7 +12,7 @@ aliases: ["Hester Barch"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 83
+BookSource: "Waterdeep: Dragon Heist p. 83"
 ---
 # [Hester Barch](2-Mechanics/CLI/bestiary/npc/hester-barch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 83*  

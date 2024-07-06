@@ -21,7 +21,7 @@ classes:
 aliases: ["Ashardalon's Stride"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Fizban's Treasury of Dragons p. 19
+BookSource: "Fizban's Treasury of Dragons p. 19"
 ---
 # Ashardalon's Stride
 *3rd-level, Transmutation*  

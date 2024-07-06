@@ -12,7 +12,7 @@ aliases: ["Warduke"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 221
+BookSource: "The Wild Beyond the Witchlight p. 221"
 ---
 # [Warduke](2-Mechanics/CLI/bestiary/npc/warduke-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 221*  

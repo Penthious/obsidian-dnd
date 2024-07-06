@@ -8,7 +8,7 @@ tags:
 aliases: ["Menga leaves (1 ounce)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Tomb of Annihilation p. 205
+BookSource: "Tomb of Annihilation p. 205"
 ---
 # Menga leaves (1 ounce)
 *Adventuring Gear, unknown*  

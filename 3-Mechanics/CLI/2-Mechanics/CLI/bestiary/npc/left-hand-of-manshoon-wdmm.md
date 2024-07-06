@@ -12,7 +12,7 @@ aliases: ["Left Hand of Manshoon"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 119
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 119"
 ---
 # [Left Hand of Manshoon](2-Mechanics/CLI/bestiary/npc/left-hand-of-manshoon-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 119*  

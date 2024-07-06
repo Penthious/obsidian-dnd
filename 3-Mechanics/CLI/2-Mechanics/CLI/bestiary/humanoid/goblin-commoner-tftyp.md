@@ -11,7 +11,7 @@ aliases: ["Goblin Commoner"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 24
+BookSource: "Tales from the Yawning Portal p. 24"
 ---
 # [Goblin Commoner](2-Mechanics/CLI/bestiary/humanoid/goblin-commoner-tftyp.md)
 *Source: Tales from the Yawning Portal p. 24*  

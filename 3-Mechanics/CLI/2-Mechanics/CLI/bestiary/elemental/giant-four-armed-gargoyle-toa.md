@@ -11,7 +11,7 @@ aliases: ["Giant Four-Armed Gargoyle"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 221
+BookSource: "Tomb of Annihilation p. 221"
 ---
 # [Giant Four-Armed Gargoyle](2-Mechanics/CLI/bestiary/elemental/giant-four-armed-gargoyle-toa.md)
 *Source: Tomb of Annihilation p. 221*  

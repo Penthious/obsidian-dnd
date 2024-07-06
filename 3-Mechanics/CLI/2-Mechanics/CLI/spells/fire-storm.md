@@ -17,7 +17,7 @@ classes:
 aliases: ["Fire Storm"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 242. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 242. Available in the SRD and the Basic Rules."
 ---
 # Fire Storm
 *7th-level, Evocation*  

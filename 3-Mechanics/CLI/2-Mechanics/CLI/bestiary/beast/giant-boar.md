@@ -14,7 +14,7 @@ aliases: ["Giant Boar"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 323, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 323, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules."
 ---
 # [Giant Boar](2-Mechanics/CLI/bestiary/beast/giant-boar.md)
 *Source: Monster Manual p. 323, Storm King's Thunder, Tomb of Annihilation, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  

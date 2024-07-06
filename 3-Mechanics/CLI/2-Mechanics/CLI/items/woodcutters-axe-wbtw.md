@@ -11,7 +11,7 @@ tags:
 aliases: ["Woodcutter's Axe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 214
+BookSource: "The Wild Beyond the Witchlight p. 214"
 ---
 # Woodcutter's Axe
 *Melee Weapon, rare*  

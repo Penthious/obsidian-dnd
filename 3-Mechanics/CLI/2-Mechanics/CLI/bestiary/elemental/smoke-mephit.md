@@ -12,7 +12,7 @@ aliases: ["Smoke Mephit"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 217, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault
+BookSource: "Monster Manual p. 217, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault"
 ---
 # [Smoke Mephit](2-Mechanics/CLI/bestiary/elemental/smoke-mephit.md)
 *Source: Monster Manual p. 217, Curse of Strahd, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault*  

@@ -12,7 +12,7 @@ aliases: ["Cinderhild"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 182
+BookSource: "Storm King's Thunder p. 182"
 ---
 # [Cinderhild](2-Mechanics/CLI/bestiary/npc/cinderhild-skt.md)
 *Source: Storm King's Thunder p. 182*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Backpack Parachute"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 47
+BookSource: "Waterdeep: Dragon Heist p. 47"
 ---
 # Backpack Parachute
 *Other, unknown*  

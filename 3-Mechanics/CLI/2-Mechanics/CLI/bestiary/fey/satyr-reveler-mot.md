@@ -11,7 +11,7 @@ aliases: ["Satyr Reveler"]
 NoteIcon: monster
 BestiaryType: fey
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 242
+BookSource: "Mythic Odysseys of Theros p. 242"
 ---
 # [Satyr Reveler](2-Mechanics/CLI/bestiary/fey/satyr-reveler-mot.md)
 *Source: Mythic Odysseys of Theros p. 242*  

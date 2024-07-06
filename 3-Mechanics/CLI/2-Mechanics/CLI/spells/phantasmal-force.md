@@ -27,7 +27,7 @@ classes:
 aliases: ["Phantasmal Force"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 264
+BookSource: "Player's Handbook p. 264"
 ---
 # Phantasmal Force
 *2nd-level, Illusion*  

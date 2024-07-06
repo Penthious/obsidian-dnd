@@ -11,7 +11,7 @@ aliases: ["Vampiric Mind Flayer"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 252
+BookSource: "Van Richten's Guide to Ravenloft p. 252"
 ---
 # [Vampiric Mind Flayer](2-Mechanics/CLI/bestiary/undead/vampiric-mind-flayer-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 252*  

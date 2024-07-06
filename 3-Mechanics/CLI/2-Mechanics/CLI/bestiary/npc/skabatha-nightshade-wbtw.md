@@ -12,7 +12,7 @@ aliases: ["Skabatha Nightshade"]
 NoteIcon: npc
 BestiaryType: fey (hag)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 218
+BookSource: "The Wild Beyond the Witchlight p. 218"
 ---
 # [Skabatha Nightshade](2-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 218*  

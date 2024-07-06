@@ -9,7 +9,7 @@ tags:
 aliases: ["Philter of Love"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 184. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 184. Available in the SRD."
 ---
 # Philter of Love
 *Potion, minor, uncommon*  

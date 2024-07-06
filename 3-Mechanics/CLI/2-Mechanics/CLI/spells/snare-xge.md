@@ -21,7 +21,7 @@ classes:
 aliases: ["Snare"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 165
+BookSource: "Xanathar's Guide to Everything p. 165"
 ---
 # Snare
 *1st-level, Abjuration*  

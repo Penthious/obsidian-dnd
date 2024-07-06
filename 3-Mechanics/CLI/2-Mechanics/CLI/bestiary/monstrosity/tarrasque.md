@@ -12,7 +12,7 @@ aliases: ["Tarrasque"]
 NoteIcon: monster
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
-BookSource: Monster Manual p. 286, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 286, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Tarrasque](2-Mechanics/CLI/bestiary/monstrosity/tarrasque.md)
 *Source: Monster Manual p. 286, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything. Available in the SRD.*  

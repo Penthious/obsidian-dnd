@@ -12,7 +12,7 @@ aliases: ["Valtagar Steelshadow"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 271
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 271"
 ---
 # [Valtagar Steelshadow](2-Mechanics/CLI/bestiary/npc/valtagar-steelshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 271*  

@@ -19,7 +19,7 @@ classes:
 aliases: ["Spike Growth"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 277. Available in the SRD.
+BookSource: "Player's Handbook p. 277. Available in the SRD."
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

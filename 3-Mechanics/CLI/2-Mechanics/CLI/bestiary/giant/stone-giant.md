@@ -14,7 +14,7 @@ aliases: ["Stone Giant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 156, Hoard of the Dragon Queen, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros. Available in the SRD.
+BookSource: "Monster Manual p. 156, Hoard of the Dragon Queen, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros. Available in the SRD."
 ---
 # [Stone Giant](2-Mechanics/CLI/bestiary/giant/stone-giant.md)
 *Source: Monster Manual p. 156, Hoard of the Dragon Queen, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros. Available in the SRD.*  

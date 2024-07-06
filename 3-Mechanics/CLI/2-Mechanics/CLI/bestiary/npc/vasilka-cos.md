@@ -12,7 +12,7 @@ aliases: ["Vasilka"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 151
+BookSource: "Curse of Strahd p. 151"
 ---
 # [Vasilka](2-Mechanics/CLI/bestiary/npc/vasilka-cos.md)
 *Source: Curse of Strahd p. 151*  

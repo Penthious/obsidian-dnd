@@ -11,7 +11,7 @@ aliases: ["Wasteland Dragonnel"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Dragonlance: Shadow of the Dragon Queen p. 201
+BookSource: "Dragonlance: Shadow of the Dragon Queen p. 201"
 ---
 # [Wasteland Dragonnel](2-Mechanics/CLI/bestiary/dragon/wasteland-dragonnel-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 201*  

@@ -12,7 +12,7 @@ aliases: ["Miros Xelbrin"]
 NoteIcon: npc
 BestiaryType: humanoid (Damaran human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 251
+BookSource: "Storm King's Thunder p. 251"
 ---
 # [Miros Xelbrin](2-Mechanics/CLI/bestiary/npc/miros-xelbrin-skt.md)
 *Source: Storm King's Thunder p. 251*  

@@ -11,7 +11,7 @@ aliases: ["Shapechanged Roper"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 106
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 106"
 ---
 # [Shapechanged Roper](2-Mechanics/CLI/bestiary/monstrosity/shapechanged-roper-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 106*  

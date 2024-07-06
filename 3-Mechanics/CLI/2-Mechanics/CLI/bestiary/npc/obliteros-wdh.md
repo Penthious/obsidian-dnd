@@ -12,7 +12,7 @@ aliases: ["Obliteros"]
 NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 66
+BookSource: "Waterdeep: Dragon Heist p. 66"
 ---
 # [Obliteros](2-Mechanics/CLI/bestiary/npc/obliteros-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 66*  

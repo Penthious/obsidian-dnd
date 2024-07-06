@@ -11,7 +11,7 @@ aliases: ["Emerald Dragon Wyrmling"]
 NoteIcon: monster
 BestiaryType: dragon (gem)
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 197
+BookSource: "Fizban's Treasury of Dragons p. 197"
 ---
 # [Emerald Dragon Wyrmling](2-Mechanics/CLI/bestiary/dragon/emerald-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 197*  

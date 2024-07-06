@@ -11,7 +11,7 @@ aliases: ["Metallic Peacekeeper"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 210
+BookSource: "Fizban's Treasury of Dragons p. 210"
 ---
 # [Metallic Peacekeeper](2-Mechanics/CLI/bestiary/construct/metallic-peacekeeper-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 210*  

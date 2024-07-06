@@ -11,7 +11,7 @@ aliases: ["Young Ogre Servant"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 171
+BookSource: "Tales from the Yawning Portal p. 171"
 ---
 # [Young Ogre Servant](2-Mechanics/CLI/bestiary/giant/young-ogre-servant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 171*  

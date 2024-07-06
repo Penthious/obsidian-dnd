@@ -14,7 +14,7 @@ aliases: ["Choker"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123"
 ---
 # [Choker](2-Mechanics/CLI/bestiary/aberration/choker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  

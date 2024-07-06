@@ -12,7 +12,7 @@ aliases: ["Lumalia"]
 NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 153
+BookSource: "Tales from the Yawning Portal p. 153"
 ---
 # [Lumalia](2-Mechanics/CLI/bestiary/npc/lumalia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 153*  

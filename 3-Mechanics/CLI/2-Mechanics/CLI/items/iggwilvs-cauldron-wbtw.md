@@ -9,7 +9,7 @@ tags:
 aliases: ["Iggwilv's Cauldron"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 209
+BookSource: "The Wild Beyond the Witchlight p. 209"
 ---
 # Iggwilv's Cauldron
 *Wondrous Item, artifact (requires attunement by a spellcaster)*  

@@ -12,7 +12,7 @@ aliases: ["Sharwyn Hucrele"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 242
+BookSource: "Tales from the Yawning Portal p. 242"
 ---
 # [Sharwyn Hucrele](2-Mechanics/CLI/bestiary/npc/sharwyn-hucrele-tftyp.md)
 *Source: Tales from the Yawning Portal p. 242*  

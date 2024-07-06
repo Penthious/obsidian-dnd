@@ -11,7 +11,7 @@ aliases: ["Animated Wand"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 299
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 299"
 ---
 # [Animated Wand](2-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 299*  

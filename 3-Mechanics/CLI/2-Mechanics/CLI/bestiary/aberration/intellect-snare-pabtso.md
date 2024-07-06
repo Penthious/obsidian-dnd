@@ -11,7 +11,7 @@ aliases: ["Intellect Snare"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 208
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 208"
 ---
 # [Intellect Snare](2-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 208*  

@@ -12,7 +12,7 @@ aliases: ["Magma Mephit"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 216, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh. Available in the SRD.
+BookSource: "Monster Manual p. 216, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh. Available in the SRD."
 ---
 # [Magma Mephit](2-Mechanics/CLI/bestiary/elemental/magma-mephit.md)
 *Source: Monster Manual p. 216, Princes of the Apocalypse, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh. Available in the SRD.*  

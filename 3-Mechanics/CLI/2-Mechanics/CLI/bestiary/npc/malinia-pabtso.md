@@ -12,7 +12,7 @@ aliases: ["Malinia"]
 NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 115
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 115"
 ---
 # [Malinia](2-Mechanics/CLI/bestiary/npc/malinia-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 115*  

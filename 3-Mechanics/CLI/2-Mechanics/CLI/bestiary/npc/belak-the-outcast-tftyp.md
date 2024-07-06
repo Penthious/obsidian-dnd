@@ -12,7 +12,7 @@ aliases: ["Belak the Outcast"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 9
+BookSource: "Tales from the Yawning Portal p. 9"
 ---
 # [Belak the Outcast](2-Mechanics/CLI/bestiary/npc/belak-the-outcast-tftyp.md)
 *Source: Tales from the Yawning Portal p. 9*  

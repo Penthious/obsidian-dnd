@@ -15,7 +15,7 @@ aliases: ["Gnoll"]
 NoteIcon: monster
 BestiaryType: humanoid (gnoll)
 SourceType: Bestiary
-BookSource: Monster Manual p. 163, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 163, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules."
 ---
 # [Gnoll](2-Mechanics/CLI/bestiary/humanoid/gnoll.md)
 *Source: Monster Manual p. 163, Princes of the Apocalypse, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Icewind Dale: Rime of the Frostmaiden. Available in the SRD and the Basic Rules.*  

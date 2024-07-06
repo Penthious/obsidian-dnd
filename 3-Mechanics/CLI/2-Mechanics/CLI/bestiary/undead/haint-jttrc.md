@@ -11,7 +11,7 @@ aliases: ["Haint"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Journeys through the Radiant Citadel p. 185
+BookSource: "Journeys through the Radiant Citadel p. 185"
 ---
 # [Haint](2-Mechanics/CLI/bestiary/undead/haint-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 185*  

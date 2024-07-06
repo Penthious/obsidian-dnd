@@ -7,7 +7,7 @@ tags:
 aliases: ["Bejeweled ivory drinking horn with gold filigree"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Bejeweled ivory drinking horn with gold filigree
 *Art object*  

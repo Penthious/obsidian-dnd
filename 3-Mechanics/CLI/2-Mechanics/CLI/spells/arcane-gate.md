@@ -17,7 +17,7 @@ classes:
 aliases: ["Arcane Gate"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 214
+BookSource: "Player's Handbook p. 214"
 ---
 # Arcane Gate
 *6th-level, Conjuration*  

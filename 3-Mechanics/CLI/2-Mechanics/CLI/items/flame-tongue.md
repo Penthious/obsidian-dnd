@@ -10,7 +10,7 @@ tags:
 aliases: ["Flame Tongue"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 170. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 170. Available in the SRD."
 ---
 # Flame Tongue
 *Generic Variant, major, rare (requires attunement)*  

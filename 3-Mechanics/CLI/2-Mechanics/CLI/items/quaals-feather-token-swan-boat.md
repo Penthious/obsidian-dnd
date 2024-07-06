@@ -9,7 +9,7 @@ tags:
 aliases: ["Quaal's Feather Token, Swan Boat"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Swan Boat').
+BookSource: "Dungeon Master's Guide p. 188. Available in the SRD (as 'Feather Token, Swan Boat')."
 ---
 # Quaal's Feather Token, Swan Boat
 *Wondrous Item, minor, rare*  

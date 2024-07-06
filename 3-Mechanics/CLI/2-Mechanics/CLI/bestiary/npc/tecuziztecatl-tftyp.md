@@ -12,7 +12,7 @@ aliases: ["Tecuziztecatl"]
 NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 245
+BookSource: "Tales from the Yawning Portal p. 245"
 ---
 # [Tecuziztecatl](2-Mechanics/CLI/bestiary/npc/tecuziztecatl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 245*  

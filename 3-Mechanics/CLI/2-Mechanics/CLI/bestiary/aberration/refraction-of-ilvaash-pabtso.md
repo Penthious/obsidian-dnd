@@ -11,7 +11,7 @@ aliases: ["Refraction of Ilvaash"]
 NoteIcon: monster
 BestiaryType: aberration (mind flayer)
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 197
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 197"
 ---
 # [Refraction of Ilvaash](2-Mechanics/CLI/bestiary/aberration/refraction-of-ilvaash-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 197*  

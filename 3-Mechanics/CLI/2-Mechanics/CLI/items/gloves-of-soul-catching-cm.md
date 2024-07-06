@@ -9,7 +9,7 @@ tags:
 aliases: ["Gloves of Soul Catching"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Candlekeep Mysteries p. 169
+BookSource: "Candlekeep Mysteries p. 169"
 ---
 # Gloves of Soul Catching
 *Wondrous Item, legendary (requires attunement)*  

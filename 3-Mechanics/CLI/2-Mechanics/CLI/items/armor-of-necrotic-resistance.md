@@ -10,7 +10,7 @@ tags:
 aliases: ["Armor of Necrotic Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 152. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 152. Available in the SRD."
 ---
 # Armor of Necrotic Resistance
 *Generic Variant, major, rare (requires attunement)*  

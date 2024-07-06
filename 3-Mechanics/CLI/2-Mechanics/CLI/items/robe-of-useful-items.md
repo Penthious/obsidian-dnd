@@ -9,7 +9,7 @@ tags:
 aliases: ["Robe of Useful Items"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 195. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 195. Available in the SRD."
 ---
 # Robe of Useful Items
 *Wondrous Item, minor, uncommon*  

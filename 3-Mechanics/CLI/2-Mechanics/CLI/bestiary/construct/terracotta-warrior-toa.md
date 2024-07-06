@@ -11,7 +11,7 @@ aliases: ["Terracotta Warrior"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 161
+BookSource: "Tomb of Annihilation p. 161"
 ---
 # [Terracotta Warrior](2-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md)
 *Source: Tomb of Annihilation p. 161*  

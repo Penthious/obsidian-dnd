@@ -19,7 +19,7 @@ classes:
 aliases: ["Mass Suggestion"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 258. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 258. Available in the SRD and the Basic Rules."
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  

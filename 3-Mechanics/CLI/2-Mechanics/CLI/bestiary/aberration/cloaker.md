@@ -12,7 +12,7 @@ aliases: ["Cloaker"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Monster Manual p. 41, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.
+BookSource: "Monster Manual p. 41, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Cloaker](2-Mechanics/CLI/bestiary/aberration/cloaker.md)
 *Source: Monster Manual p. 41, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Journeys through the Radiant Citadel, Keys from the Golden Vault, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  

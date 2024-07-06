@@ -11,7 +11,7 @@ aliases: ["Drow Cultist"]
 NoteIcon: monster
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 196
+BookSource: "Out of the Abyss p. 196"
 ---
 # [Drow Cultist](2-Mechanics/CLI/bestiary/humanoid/drow-cultist-oota.md)
 *Source: Out of the Abyss p. 196*  

@@ -11,7 +11,7 @@ aliases: ["Chardalyn Dragon"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 281
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 281"
 ---
 # [Chardalyn Dragon](2-Mechanics/CLI/bestiary/construct/chardalyn-dragon-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 281*  

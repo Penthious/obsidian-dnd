@@ -19,7 +19,7 @@ classes:
 aliases: ["Ice Knife"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 157
+BookSource: "Xanathar's Guide to Everything p. 157"
 ---
 # Ice Knife
 *1st-level, Conjuration*  

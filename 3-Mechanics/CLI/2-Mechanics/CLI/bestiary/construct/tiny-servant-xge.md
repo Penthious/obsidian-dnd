@@ -11,7 +11,7 @@ aliases: ["Tiny Servant"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Xanathar's Guide to Everything p. 169
+BookSource: "Xanathar's Guide to Everything p. 169"
 ---
 # [Tiny Servant](2-Mechanics/CLI/bestiary/construct/tiny-servant-xge.md)
 *Source: Xanathar's Guide to Everything p. 169*  

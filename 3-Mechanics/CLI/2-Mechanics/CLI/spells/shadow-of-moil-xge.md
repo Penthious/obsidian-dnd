@@ -11,7 +11,7 @@ classes:
 aliases: ["Shadow of Moil"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 164
+BookSource: "Xanathar's Guide to Everything p. 164"
 ---
 # Shadow of Moil
 *4th-level, Necromancy*  

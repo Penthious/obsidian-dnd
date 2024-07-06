@@ -7,7 +7,7 @@ tags:
 aliases: ["Elf (Wood)"]
 SourceType: "Race"
 NoteIcon: race
-BookSource: Player's Handbook p. 24. Available in the Basic Rules.
+BookSource: "Player's Handbook p. 24. Available in the Basic Rules."
 ---
 # Elf (Wood)
 *Source: Player's Handbook p. 24. Available in the Basic Rules.*  

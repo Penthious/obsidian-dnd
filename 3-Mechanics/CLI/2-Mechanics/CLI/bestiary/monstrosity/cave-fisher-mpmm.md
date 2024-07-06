@@ -12,7 +12,7 @@ aliases: ["Cave Fisher"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130"
 ---
 # [Cave Fisher](2-Mechanics/CLI/bestiary/monstrosity/cave-fisher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  

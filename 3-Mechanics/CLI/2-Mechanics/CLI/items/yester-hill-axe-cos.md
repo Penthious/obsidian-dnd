@@ -10,7 +10,7 @@ tags:
 aliases: ["Yester Hill Axe"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Curse of Strahd p. 198
+BookSource: "Curse of Strahd p. 198"
 ---
 # Yester Hill Axe
 *Melee Weapon, unknown (magic)*  

@@ -11,7 +11,7 @@ aliases: ["Kiddywidget"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 136
+BookSource: "Candlekeep Mysteries p. 136"
 ---
 # [Kiddywidget](2-Mechanics/CLI/bestiary/construct/kiddywidget-cm.md)
 *Source: Candlekeep Mysteries p. 136*  

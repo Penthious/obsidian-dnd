@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragon Wing Bow"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Fizban's Treasury of Dragons p. 23
+BookSource: "Fizban's Treasury of Dragons p. 23"
 ---
 # Dragon Wing Bow
 *Generic Variant, rare (requires attunement)*  

@@ -11,7 +11,7 @@ classes:
 aliases: ["Entangle"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 238. Available in the SRD.
+BookSource: "Player's Handbook p. 238. Available in the SRD."
 ---
 # Entangle
 *1st-level, Conjuration*  

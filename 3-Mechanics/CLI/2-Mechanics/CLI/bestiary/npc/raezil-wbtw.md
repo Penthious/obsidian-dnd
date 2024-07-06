@@ -12,7 +12,7 @@ aliases: ["Raezil"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 193
+BookSource: "The Wild Beyond the Witchlight p. 193"
 ---
 # [Raezil](2-Mechanics/CLI/bestiary/npc/raezil-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 193*  

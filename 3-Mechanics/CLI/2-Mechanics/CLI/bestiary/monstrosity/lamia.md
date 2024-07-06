@@ -12,7 +12,7 @@ aliases: ["Lamia"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 201, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.
+BookSource: "Monster Manual p. 201, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Lamia](2-Mechanics/CLI/bestiary/monstrosity/lamia.md)
 *Source: Monster Manual p. 201, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.*  

@@ -12,7 +12,7 @@ aliases: ["Tarak"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Dragons of Stormwreck Isle p. 47
+BookSource: "Dragons of Stormwreck Isle p. 47"
 ---
 # [Tarak](2-Mechanics/CLI/bestiary/npc/tarak-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  

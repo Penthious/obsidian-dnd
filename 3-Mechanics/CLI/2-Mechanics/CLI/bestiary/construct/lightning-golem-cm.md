@@ -11,7 +11,7 @@ aliases: ["Lightning Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 129
+BookSource: "Candlekeep Mysteries p. 129"
 ---
 # [Lightning Golem](2-Mechanics/CLI/bestiary/construct/lightning-golem-cm.md)
 *Source: Candlekeep Mysteries p. 129*  

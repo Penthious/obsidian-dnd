@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of the Adder"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 203
+BookSource: "Dungeon Master's Guide p. 203"
 ---
 # Staff of the Adder
 *Staff, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

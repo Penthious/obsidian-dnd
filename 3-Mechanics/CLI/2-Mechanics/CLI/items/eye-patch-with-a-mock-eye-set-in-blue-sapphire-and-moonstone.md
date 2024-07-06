@@ -7,7 +7,7 @@ tags:
 aliases: ["Eye patch with a mock eye set in blue sapphire and moonstone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 135
+BookSource: "Dungeon Master's Guide p. 135"
 ---
 # Eye patch with a mock eye set in blue sapphire and moonstone
 *Art object*  

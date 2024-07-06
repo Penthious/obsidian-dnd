@@ -8,7 +8,7 @@ tags:
 aliases: ["Orb of Gonging"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 174
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 174"
 ---
 # Orb of Gonging
 *Wondrous Item, common*  

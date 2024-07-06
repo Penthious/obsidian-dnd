@@ -12,7 +12,7 @@ aliases: ["Ougalop"]
 NoteIcon: npc
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 142
+BookSource: "Out of the Abyss p. 142"
 ---
 # [Ougalop](2-Mechanics/CLI/bestiary/npc/ougalop-oota.md)
 *Source: Out of the Abyss p. 142*  

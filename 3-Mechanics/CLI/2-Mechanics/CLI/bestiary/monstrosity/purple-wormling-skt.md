@@ -11,7 +11,7 @@ aliases: ["Purple Wormling"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 242
+BookSource: "Storm King's Thunder p. 242"
 ---
 # [Purple Wormling](2-Mechanics/CLI/bestiary/monstrosity/purple-wormling-skt.md)
 *Source: Storm King's Thunder p. 242*  

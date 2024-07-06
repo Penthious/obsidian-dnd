@@ -12,7 +12,7 @@ aliases: ["Faerl"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: Candlekeep Mysteries p. 104
+BookSource: "Candlekeep Mysteries p. 104"
 ---
 # [Faerl](2-Mechanics/CLI/bestiary/npc/faerl-cm.md)
 *Source: Candlekeep Mysteries p. 104*  

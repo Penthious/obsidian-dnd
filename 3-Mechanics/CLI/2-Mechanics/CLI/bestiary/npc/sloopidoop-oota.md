@@ -12,7 +12,7 @@ aliases: ["Sloopidoop"]
 NoteIcon: npc
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 29
+BookSource: "Out of the Abyss p. 29"
 ---
 # [Sloopidoop](2-Mechanics/CLI/bestiary/npc/sloopidoop-oota.md)
 *Source: Out of the Abyss p. 29*  

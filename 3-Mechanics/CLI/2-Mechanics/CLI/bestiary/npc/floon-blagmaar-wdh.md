@@ -12,7 +12,7 @@ aliases: ["Floon Blagmaar"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 202
+BookSource: "Waterdeep: Dragon Heist p. 202"
 ---
 # [Floon Blagmaar](2-Mechanics/CLI/bestiary/npc/floon-blagmaar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 202*  

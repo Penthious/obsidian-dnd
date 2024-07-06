@@ -12,7 +12,7 @@ aliases: ["Zygfrek Belview"]
 NoteIcon: npc
 BestiaryType: humanoid (mongrelfolk)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 148
+BookSource: "Curse of Strahd p. 148"
 ---
 # [Zygfrek Belview](2-Mechanics/CLI/bestiary/npc/zygfrek-belview-cos.md)
 *Source: Curse of Strahd p. 148*  

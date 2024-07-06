@@ -8,7 +8,7 @@ tags:
 aliases: ["Strixhaven Pennant"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Strixhaven: A Curriculum of Chaos p. 39
+BookSource: "Strixhaven: A Curriculum of Chaos p. 39"
 ---
 # Strixhaven Pennant
 *Wondrous Item, common*  

@@ -11,7 +11,7 @@ aliases: ["Reduced-Threat Stone Golem"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 113
+BookSource: "Tales from the Yawning Portal p. 113"
 ---
 # [Reduced-Threat Stone Golem](2-Mechanics/CLI/bestiary/construct/reduced-threat-stone-golem-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  

@@ -12,7 +12,7 @@ tags:
 aliases: ["Sword of Answering (Squelcher)"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 206
+BookSource: "Dungeon Master's Guide p. 206"
 ---
 # Sword of Answering (Squelcher)
 *Melee Weapon, major, legendary (requires attunement by a neutral evil creature)*  

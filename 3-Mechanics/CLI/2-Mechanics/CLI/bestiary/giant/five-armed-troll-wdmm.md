@@ -11,7 +11,7 @@ aliases: ["Five-Armed Troll"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 154
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 154"
 ---
 # [Five-Armed Troll](2-Mechanics/CLI/bestiary/giant/five-armed-troll-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 154*  

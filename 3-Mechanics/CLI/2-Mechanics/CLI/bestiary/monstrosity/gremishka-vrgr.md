@@ -11,7 +11,7 @@ aliases: ["Gremishka"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 235
+BookSource: "Van Richten's Guide to Ravenloft p. 235"
 ---
 # [Gremishka](2-Mechanics/CLI/bestiary/monstrosity/gremishka-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 235*  

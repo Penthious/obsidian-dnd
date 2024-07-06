@@ -11,7 +11,7 @@ aliases: ["Zombie Plague Spreader"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Van Richten's Guide to Ravenloft p. 255
+BookSource: "Van Richten's Guide to Ravenloft p. 255"
 ---
 # [Zombie Plague Spreader](2-Mechanics/CLI/bestiary/undead/zombie-plague-spreader-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  

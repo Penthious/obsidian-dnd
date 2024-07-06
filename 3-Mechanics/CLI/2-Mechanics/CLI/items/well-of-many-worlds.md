@@ -9,7 +9,7 @@ tags:
 aliases: ["Well of Many Worlds"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 213. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 213. Available in the SRD."
 ---
 # Well of Many Worlds
 *Wondrous Item, major, legendary*  

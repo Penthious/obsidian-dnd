@@ -11,7 +11,7 @@ aliases: ["Lacedon"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 147
+BookSource: "Tales from the Yawning Portal p. 147"
 ---
 # [Lacedon](2-Mechanics/CLI/bestiary/undead/lacedon-tftyp.md)
 *Source: Tales from the Yawning Portal p. 147*  

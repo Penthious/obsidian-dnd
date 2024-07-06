@@ -14,7 +14,7 @@ aliases: ["Blue Abishai"]
 NoteIcon: monster
 BestiaryType: fiend (devil, wizard)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161"
 ---
 # [Blue Abishai](2-Mechanics/CLI/bestiary/fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  

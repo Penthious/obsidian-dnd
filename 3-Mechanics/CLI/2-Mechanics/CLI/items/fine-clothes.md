@@ -7,7 +7,7 @@ tags:
 aliases: ["Fine Clothes"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 150. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 150. Available in the SRD and the Basic Rules."
 ---
 # Fine Clothes
 *Adventuring Gear*  

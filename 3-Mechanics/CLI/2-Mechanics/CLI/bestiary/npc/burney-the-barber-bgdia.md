@@ -12,7 +12,7 @@ aliases: ["Burney the Barber"]
 NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 129
+BookSource: "Baldur's Gate: Descent Into Avernus p. 129"
 ---
 # [Burney the Barber](2-Mechanics/CLI/bestiary/npc/burney-the-barber-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 129*  

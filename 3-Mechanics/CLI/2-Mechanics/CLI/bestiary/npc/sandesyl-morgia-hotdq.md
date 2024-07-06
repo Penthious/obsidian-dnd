@@ -12,7 +12,7 @@ aliases: ["Sandesyl Morgia"]
 NoteIcon: npc
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Hoard of the Dragon Queen p. 81
+BookSource: "Hoard of the Dragon Queen p. 81"
 ---
 # [Sandesyl Morgia](2-Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 81*  

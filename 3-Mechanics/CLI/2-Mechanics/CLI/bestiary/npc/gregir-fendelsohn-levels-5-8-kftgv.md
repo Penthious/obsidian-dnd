@@ -12,7 +12,7 @@ aliases: ["Gregir Fendelsohn (Levels 5-8)"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 8
+BookSource: "Keys from the Golden Vault p. 8"
 ---
 # [Gregir Fendelsohn (Levels 5-8)](2-Mechanics/CLI/bestiary/npc/gregir-fendelsohn-levels-5-8-kftgv.md)
 *Source: Keys from the Golden Vault p. 8*  

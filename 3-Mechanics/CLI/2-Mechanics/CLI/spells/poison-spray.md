@@ -29,7 +29,7 @@ classes:
 aliases: ["Poison Spray"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 266. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 266. Available in the SRD and the Basic Rules."
 ---
 # Poison Spray
 *cantrip, Conjuration*  

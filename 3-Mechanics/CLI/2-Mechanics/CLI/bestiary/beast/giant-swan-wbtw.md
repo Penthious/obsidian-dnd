@@ -11,7 +11,7 @@ aliases: ["Giant Swan"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 38
+BookSource: "The Wild Beyond the Witchlight p. 38"
 ---
 # [Giant Swan](2-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 38*  

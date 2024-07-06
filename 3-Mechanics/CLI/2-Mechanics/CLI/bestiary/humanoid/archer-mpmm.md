@@ -13,7 +13,7 @@ aliases: ["Archer"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210"
 ---
 # [Archer](2-Mechanics/CLI/bestiary/humanoid/archer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*  

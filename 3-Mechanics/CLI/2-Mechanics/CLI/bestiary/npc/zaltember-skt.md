@@ -12,7 +12,7 @@ aliases: ["Zaltember"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 180
+BookSource: "Storm King's Thunder p. 180"
 ---
 # [Zaltember](2-Mechanics/CLI/bestiary/npc/zaltember-skt.md)
 *Source: Storm King's Thunder p. 180*  

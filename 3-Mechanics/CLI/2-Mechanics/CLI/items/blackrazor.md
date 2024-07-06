@@ -12,7 +12,7 @@ tags:
 aliases: ["Blackrazor"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 216
+BookSource: "Dungeon Master's Guide p. 216"
 ---
 # Blackrazor
 *Melee Weapon, legendary (requires attunement by a creature of non-lawful alignment)*  

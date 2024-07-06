@@ -11,7 +11,7 @@ aliases: ["Redbrand Ruffian"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 216
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 216"
 ---
 # [Redbrand Ruffian](2-Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 216*  

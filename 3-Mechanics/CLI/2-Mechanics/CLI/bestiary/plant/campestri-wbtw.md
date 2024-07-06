@@ -11,7 +11,7 @@ aliases: ["Campestri"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 232
+BookSource: "The Wild Beyond the Witchlight p. 232"
 ---
 # [Campestri](2-Mechanics/CLI/bestiary/plant/campestri-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 232*  

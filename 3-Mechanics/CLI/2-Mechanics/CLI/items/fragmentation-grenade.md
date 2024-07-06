@@ -7,7 +7,7 @@ tags:
 aliases: ["Fragmentation Grenade"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 268
+BookSource: "Dungeon Master's Guide p. 268"
 ---
 # Fragmentation Grenade
 *Explosive*  

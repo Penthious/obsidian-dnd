@@ -13,7 +13,7 @@ aliases: ["Davian Martikov"]
 NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: Curse of Strahd p. 173
+BookSource: "Curse of Strahd p. 173"
 ---
 # [Davian Martikov](2-Mechanics/CLI/bestiary/npc/davian-martikov-cos.md)
 *Source: Curse of Strahd p. 173*  

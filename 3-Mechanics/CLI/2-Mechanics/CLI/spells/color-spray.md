@@ -19,7 +19,7 @@ classes:
 aliases: ["Color Spray"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 222. Available in the SRD.
+BookSource: "Player's Handbook p. 222. Available in the SRD."
 ---
 # Color Spray
 *1st-level, Illusion*  

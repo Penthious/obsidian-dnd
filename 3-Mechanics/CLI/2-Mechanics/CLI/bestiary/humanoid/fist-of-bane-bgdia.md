@@ -11,7 +11,7 @@ aliases: ["Fist of Bane"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 232
+BookSource: "Baldur's Gate: Descent Into Avernus p. 232"
 ---
 # [Fist of Bane](2-Mechanics/CLI/bestiary/humanoid/fist-of-bane-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 232*  

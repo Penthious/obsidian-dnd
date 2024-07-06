@@ -13,7 +13,7 @@ aliases: ["Mercion"]
 NoteIcon: npc
 BestiaryType: humanoid (cleric, human)
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 224
+BookSource: "The Wild Beyond the Witchlight p. 224"
 ---
 # [Mercion](2-Mechanics/CLI/bestiary/npc/mercion-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 224*  

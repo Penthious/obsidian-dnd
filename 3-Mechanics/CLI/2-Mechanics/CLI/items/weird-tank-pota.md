@@ -9,7 +9,7 @@ tags:
 aliases: ["Weird Tank"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Princes of the Apocalypse p. 223
+BookSource: "Princes of the Apocalypse p. 223"
 ---
 # Weird Tank
 *Wondrous Item, rare (requires attunement)*  

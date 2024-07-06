@@ -7,7 +7,7 @@ tags:
 aliases: ["Alchemist's Supplies"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154, Xanathar's Guide to Everything p. 79. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 154, Xanathar's Guide to Everything p. 79. Available in the SRD and the Basic Rules."
 ---
 # Alchemist's Supplies
 *Artisan's Tools*  

@@ -11,7 +11,7 @@ aliases: ["Azer"]
 NoteIcon: monster
 BestiaryType: elemental
 SourceType: Bestiary
-BookSource: Monster Manual p. 22, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault. Available in the SRD.
+BookSource: "Monster Manual p. 22, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault. Available in the SRD."
 ---
 # [Azer](2-Mechanics/CLI/bestiary/elemental/azer.md)
 *Source: Monster Manual p. 22, Princes of the Apocalypse, Waterdeep: Dungeon of the Mad Mage, Keys from the Golden Vault. Available in the SRD.*  

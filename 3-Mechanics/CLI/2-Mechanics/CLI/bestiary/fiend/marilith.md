@@ -11,7 +11,7 @@ aliases: ["Marilith"]
 NoteIcon: monster
 BestiaryType: fiend (demon)
 SourceType: Bestiary
-BookSource: Monster Manual p. 61, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.
+BookSource: "Monster Manual p. 61, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD."
 ---
 # [Marilith](2-Mechanics/CLI/bestiary/fiend/marilith.md)
 *Source: Monster Manual p. 61, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything. Available in the SRD.*  

@@ -12,7 +12,7 @@ aliases: ["Mister Threadneedle"]
 NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 183
+BookSource: "Tomb of Annihilation p. 183"
 ---
 # [Mister Threadneedle](2-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md)
 *Source: Tomb of Annihilation p. 183*  

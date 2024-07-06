@@ -7,7 +7,7 @@ tags:
 aliases: ["Copper chalice with silver filigree"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 134
+BookSource: "Dungeon Master's Guide p. 134"
 ---
 # Copper chalice with silver filigree
 *Art object*  

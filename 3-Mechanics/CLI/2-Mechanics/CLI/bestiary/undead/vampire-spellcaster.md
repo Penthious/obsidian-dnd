@@ -12,7 +12,7 @@ aliases: ["Vampire Spellcaster"]
 NoteIcon: monster
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
-BookSource: Monster Manual p. 298, The Rise of Tiamat
+BookSource: "Monster Manual p. 298, The Rise of Tiamat"
 ---
 # [Vampire Spellcaster](2-Mechanics/CLI/bestiary/undead/vampire-spellcaster.md)
 *Source: Monster Manual p. 298, The Rise of Tiamat*  

@@ -13,7 +13,7 @@ aliases: ["Duergar Hammerer"]
 NoteIcon: monster
 BestiaryType: construct (dwarf)
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188"
 ---
 # [Duergar Hammerer](2-Mechanics/CLI/bestiary/construct/duergar-hammerer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*  

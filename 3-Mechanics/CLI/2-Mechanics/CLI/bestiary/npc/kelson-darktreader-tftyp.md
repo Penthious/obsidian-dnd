@@ -12,7 +12,7 @@ aliases: ["Kelson Darktreader"]
 NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 132
+BookSource: "Tales from the Yawning Portal p. 132"
 ---
 # [Kelson Darktreader](2-Mechanics/CLI/bestiary/npc/kelson-darktreader-tftyp.md)
 *Source: Tales from the Yawning Portal p. 132*  

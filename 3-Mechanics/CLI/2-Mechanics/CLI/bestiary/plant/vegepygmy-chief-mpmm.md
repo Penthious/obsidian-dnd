@@ -13,7 +13,7 @@ aliases: ["Vegepygmy Chief"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197"
 ---
 # [Vegepygmy Chief](2-Mechanics/CLI/bestiary/plant/vegepygmy-chief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  

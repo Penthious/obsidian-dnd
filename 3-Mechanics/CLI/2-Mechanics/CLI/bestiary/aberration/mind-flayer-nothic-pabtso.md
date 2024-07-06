@@ -11,7 +11,7 @@ aliases: ["Mind Flayer Nothic"]
 NoteIcon: monster
 BestiaryType: aberration
 SourceType: Bestiary
-BookSource: Phandelver and Below: The Shattered Obelisk p. 155
+BookSource: "Phandelver and Below: The Shattered Obelisk p. 155"
 ---
 # [Mind Flayer Nothic](2-Mechanics/CLI/bestiary/aberration/mind-flayer-nothic-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 155*  

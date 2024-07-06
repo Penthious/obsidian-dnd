@@ -7,7 +7,7 @@ tags:
 aliases: ["Poisoner's Kit"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 154, Xanathar's Guide to Everything p. 83. Available in the SRD and the Basic Rules."
 ---
 # Poisoner's Kit
 *Tools*  

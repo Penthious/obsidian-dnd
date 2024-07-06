@@ -16,7 +16,7 @@ aliases: ["Orc Hand of Yurtrus"]
 NoteIcon: monster
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
-BookSource: Volo's Guide to Monsters p. 184
+BookSource: "Volo's Guide to Monsters p. 184"
 ---
 # [Orc Hand of Yurtrus](2-Mechanics/CLI/bestiary/humanoid/orc-hand-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  

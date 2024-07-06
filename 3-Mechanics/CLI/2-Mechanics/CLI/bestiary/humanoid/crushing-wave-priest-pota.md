@@ -11,7 +11,7 @@ aliases: ["Crushing Wave Priest"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 205
+BookSource: "Princes of the Apocalypse p. 205"
 ---
 # [Crushing Wave Priest](2-Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md)
 *Source: Princes of the Apocalypse p. 205*  

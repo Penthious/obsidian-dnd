@@ -21,7 +21,7 @@ classes:
 aliases: ["Enemies Abound"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Xanathar's Guide to Everything p. 155
+BookSource: "Xanathar's Guide to Everything p. 155"
 ---
 # Enemies Abound
 *3rd-level, Enchantment*  

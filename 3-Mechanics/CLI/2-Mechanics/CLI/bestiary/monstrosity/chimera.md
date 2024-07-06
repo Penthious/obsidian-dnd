@@ -15,7 +15,7 @@ aliases: ["Chimera"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 39, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 39, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules."
 ---
 # [Chimera](2-Mechanics/CLI/bestiary/monstrosity/chimera.md)
 *Source: Monster Manual p. 39, Princes of the Apocalypse, The Rise of Tiamat, Storm King's Thunder, Tales from the Yawning Portal, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus. Available in the SRD and the Basic Rules.*  

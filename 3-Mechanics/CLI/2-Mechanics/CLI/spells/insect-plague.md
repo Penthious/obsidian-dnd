@@ -25,7 +25,7 @@ classes:
 aliases: ["Insect Plague"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 254. Available in the SRD.
+BookSource: "Player's Handbook p. 254. Available in the SRD."
 ---
 # Insect Plague
 *5th-level, Conjuration*  

@@ -12,7 +12,7 @@ aliases: ["Gynosphinx"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Monster Manual p. 282, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.
+BookSource: "Monster Manual p. 282, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD."
 ---
 # [Gynosphinx](2-Mechanics/CLI/bestiary/monstrosity/gynosphinx.md)
 *Source: Monster Manual p. 282, Tales from the Yawning Portal, Mythic Odysseys of Theros, Journeys through the Radiant Citadel. Available in the SRD.*  

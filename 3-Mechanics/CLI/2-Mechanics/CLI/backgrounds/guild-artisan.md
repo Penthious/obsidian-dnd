@@ -7,7 +7,7 @@ tags:
 aliases: ["Guild Artisan"]
 SourceType: "Background"
 NoteIcon: background
-BookSource: Player's Handbook p. 132
+BookSource: "Player's Handbook p. 132"
 ---
 # Guild Artisan
 *Source: Player's Handbook p. 132*  

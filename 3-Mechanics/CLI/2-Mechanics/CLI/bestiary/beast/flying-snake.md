@@ -15,7 +15,7 @@ aliases: ["Flying Snake"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 322, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 322, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Flying Snake](2-Mechanics/CLI/bestiary/beast/flying-snake.md)
 *Source: Monster Manual p. 322, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Icewind Dale: Rime of the Frostmaiden, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  

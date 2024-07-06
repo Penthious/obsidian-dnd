@@ -12,7 +12,7 @@ aliases: ["Tholtz Daggerdark"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 221
+BookSource: "Storm King's Thunder p. 221"
 ---
 # [Tholtz Daggerdark](2-Mechanics/CLI/bestiary/npc/tholtz-daggerdark-skt.md)
 *Source: Storm King's Thunder p. 221*  

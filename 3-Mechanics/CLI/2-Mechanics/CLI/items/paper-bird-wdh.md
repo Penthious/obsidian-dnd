@@ -8,7 +8,7 @@ tags:
 aliases: ["Paper Bird"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dragon Heist p. 191
+BookSource: "Waterdeep: Dragon Heist p. 191"
 ---
 # Paper Bird
 *Wondrous Item, uncommon*  

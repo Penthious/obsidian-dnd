@@ -25,7 +25,7 @@ classes:
 aliases: ["Guidance"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 248. Available in the SRD and the Basic Rules.
+BookSource: "Player's Handbook p. 248. Available in the SRD and the Basic Rules."
 ---
 # Guidance
 *cantrip, Divination*  

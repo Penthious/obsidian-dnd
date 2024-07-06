@@ -11,7 +11,7 @@ aliases: ["Shadow Spirit (3rd-level Spell)"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Tasha's Cauldron of Everything p. 114
+BookSource: "Tasha's Cauldron of Everything p. 114"
 ---
 # [Shadow Spirit (3rd-level Spell)](2-Mechanics/CLI/bestiary/monstrosity/shadow-spirit-3rd-level-spell-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  

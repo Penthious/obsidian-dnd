@@ -9,7 +9,7 @@ tags:
 aliases: ["Blast Scepter"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Waterdeep: Dungeon of the Mad Mage p. 310
+BookSource: "Waterdeep: Dungeon of the Mad Mage p. 310"
 ---
 # Blast Scepter
 *Rod, very rare (requires attunement)*  

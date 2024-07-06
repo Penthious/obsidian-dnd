@@ -13,7 +13,7 @@ aliases: ["Tiger"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 339, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 339, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules."
 ---
 # [Tiger](2-Mechanics/CLI/bestiary/beast/tiger.md)
 *Source: Monster Manual p. 339, Tales from the Yawning Portal, Tomb of Annihilation, Waterdeep: Dragon Heist, Ghosts of Saltmarsh, Mythic Odysseys of Theros. Available in the SRD and the Basic Rules.*  

@@ -12,7 +12,7 @@ aliases: ["Gar Shatterkeel"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Princes of the Apocalypse p. 208
+BookSource: "Princes of the Apocalypse p. 208"
 ---
 # [Gar Shatterkeel](2-Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota.md)
 *Source: Princes of the Apocalypse p. 208*  

@@ -12,7 +12,7 @@ aliases: ["Nepartak"]
 NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 137
+BookSource: "Tomb of Annihilation p. 137"
 ---
 # [Nepartak](2-Mechanics/CLI/bestiary/npc/nepartak-toa.md)
 *Source: Tomb of Annihilation p. 137*  

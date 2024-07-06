@@ -8,7 +8,7 @@ tags:
 aliases: ["Scroll of the Comet"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Icewind Dale: Rime of the Frostmaiden p. 315
+BookSource: "Icewind Dale: Rime of the Frostmaiden p. 315"
 ---
 # Scroll of the Comet
 *Scroll, legendary*  

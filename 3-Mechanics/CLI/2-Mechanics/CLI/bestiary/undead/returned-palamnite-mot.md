@@ -11,7 +11,7 @@ aliases: ["Returned Palamnite"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 241
+BookSource: "Mythic Odysseys of Theros p. 241"
 ---
 # [Returned Palamnite](2-Mechanics/CLI/bestiary/undead/returned-palamnite-mot.md)
 *Source: Mythic Odysseys of Theros p. 241*  

@@ -9,7 +9,7 @@ tags:
 aliases: ["+1 Shield"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 200. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 200. Available in the SRD."
 ---
 # +1 Shield
 *Shield, major, uncommon*  

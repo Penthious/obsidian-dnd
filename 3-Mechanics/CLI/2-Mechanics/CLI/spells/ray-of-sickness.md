@@ -25,7 +25,7 @@ classes:
 aliases: ["Ray of Sickness"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 271
+BookSource: "Player's Handbook p. 271"
 ---
 # Ray of Sickness
 *1st-level, Necromancy*  

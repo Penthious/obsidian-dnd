@@ -12,7 +12,7 @@ aliases: ["Fomorian"]
 NoteIcon: monster
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Monster Manual p. 136, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk
+BookSource: "Monster Manual p. 136, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk"
 ---
 # [Fomorian](2-Mechanics/CLI/bestiary/giant/fomorian.md)
 *Source: Monster Manual p. 136, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries, The Wild Beyond the Witchlight, Journeys through the Radiant Citadel, Phandelver and Below: The Shattered Obelisk*  

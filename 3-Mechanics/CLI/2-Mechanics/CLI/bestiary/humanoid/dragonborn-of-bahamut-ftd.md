@@ -11,7 +11,7 @@ aliases: ["Dragonborn of Bahamut"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: Fizban's Treasury of Dragons p. 184
+BookSource: "Fizban's Treasury of Dragons p. 184"
 ---
 # [Dragonborn of Bahamut](2-Mechanics/CLI/bestiary/humanoid/dragonborn-of-bahamut-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 184*  

@@ -12,7 +12,7 @@ aliases: ["Mirran"]
 NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
-BookSource: Storm King's Thunder p. 207
+BookSource: "Storm King's Thunder p. 207"
 ---
 # [Mirran](2-Mechanics/CLI/bestiary/npc/mirran-skt.md)
 *Source: Storm King's Thunder p. 207*  

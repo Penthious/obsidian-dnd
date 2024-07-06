@@ -8,7 +8,7 @@ tags:
 aliases: ["Soul Coin"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Baldur's Gate: Descent Into Avernus p. 225
+BookSource: "Baldur's Gate: Descent Into Avernus p. 225"
 ---
 # Soul Coin
 *Wondrous Item, uncommon*  

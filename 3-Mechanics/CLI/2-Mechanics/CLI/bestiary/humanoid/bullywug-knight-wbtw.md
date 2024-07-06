@@ -11,7 +11,7 @@ aliases: ["Bullywug Knight"]
 NoteIcon: monster
 BestiaryType: humanoid
 SourceType: Bestiary
-BookSource: The Wild Beyond the Witchlight p. 231
+BookSource: "The Wild Beyond the Witchlight p. 231"
 ---
 # [Bullywug Knight](2-Mechanics/CLI/bestiary/humanoid/bullywug-knight-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 231*  

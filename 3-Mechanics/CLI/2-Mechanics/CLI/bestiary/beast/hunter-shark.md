@@ -12,7 +12,7 @@ aliases: ["Hunter Shark"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: Monster Manual p. 330, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.
+BookSource: "Monster Manual p. 330, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules."
 ---
 # [Hunter Shark](2-Mechanics/CLI/bestiary/beast/hunter-shark.md)
 *Source: Monster Manual p. 330, Princes of the Apocalypse, Storm King's Thunder, Tales from the Yawning Portal, Tomb of Annihilation, Ghosts of Saltmarsh. Available in the SRD and the Basic Rules.*  

@@ -13,7 +13,7 @@ aliases: ["Sword Wraith Commander"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241
+BookSource: "Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241"
 ---
 # [Sword Wraith Commander](2-Mechanics/CLI/bestiary/undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  

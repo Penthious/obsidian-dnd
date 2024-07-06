@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring of Resistance"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 192
+BookSource: "Dungeon Master's Guide p. 192"
 ---
 # Ring of Resistance
 *Ring, major, rare (requires attunement)*  

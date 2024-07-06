@@ -11,7 +11,7 @@ aliases: ["Two-Headed Cerberus"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: Mythic Odysseys of Theros p. 215
+BookSource: "Mythic Odysseys of Theros p. 215"
 ---
 # [Two-Headed Cerberus](2-Mechanics/CLI/bestiary/monstrosity/two-headed-cerberus-mot.md)
 *Source: Mythic Odysseys of Theros p. 215*  

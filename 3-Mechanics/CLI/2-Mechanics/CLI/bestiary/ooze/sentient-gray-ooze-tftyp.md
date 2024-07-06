@@ -11,7 +11,7 @@ aliases: ["Sentient Gray Ooze"]
 NoteIcon: monster
 BestiaryType: ooze
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 158
+BookSource: "Tales from the Yawning Portal p. 158"
 ---
 # [Sentient Gray Ooze](2-Mechanics/CLI/bestiary/ooze/sentient-gray-ooze-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  

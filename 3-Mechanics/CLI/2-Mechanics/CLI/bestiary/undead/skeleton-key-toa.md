@@ -11,7 +11,7 @@ aliases: ["Skeleton Key"]
 NoteIcon: monster
 BestiaryType: undead
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 126
+BookSource: "Tomb of Annihilation p. 126"
 ---
 # [Skeleton Key](2-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md)
 *Source: Tomb of Annihilation p. 126*  

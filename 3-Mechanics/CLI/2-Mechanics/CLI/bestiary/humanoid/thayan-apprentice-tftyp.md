@@ -11,7 +11,7 @@ aliases: ["Thayan Apprentice"]
 NoteIcon: monster
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Tales from the Yawning Portal p. 245
+BookSource: "Tales from the Yawning Portal p. 245"
 ---
 # [Thayan Apprentice](2-Mechanics/CLI/bestiary/humanoid/thayan-apprentice-tftyp.md)
 *Source: Tales from the Yawning Portal p. 245*  

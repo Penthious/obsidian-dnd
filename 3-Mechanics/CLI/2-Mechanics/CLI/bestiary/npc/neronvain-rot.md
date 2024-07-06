@@ -12,7 +12,7 @@ aliases: ["Neronvain"]
 NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: The Rise of Tiamat p. 91
+BookSource: "The Rise of Tiamat p. 91"
 ---
 # [Neronvain](2-Mechanics/CLI/bestiary/npc/neronvain-rot.md)
 *Source: The Rise of Tiamat p. 91*  

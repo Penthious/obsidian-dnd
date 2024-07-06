@@ -12,7 +12,7 @@ aliases: ["Grinda Garloth"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Waterdeep: Dragon Heist p. 65
+BookSource: "Waterdeep: Dragon Heist p. 65"
 ---
 # [Grinda Garloth](2-Mechanics/CLI/bestiary/npc/grinda-garloth-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 65*  

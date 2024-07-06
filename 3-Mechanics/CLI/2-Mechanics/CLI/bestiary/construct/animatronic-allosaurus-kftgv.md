@@ -11,7 +11,7 @@ aliases: ["Animatronic Allosaurus"]
 NoteIcon: monster
 BestiaryType: construct
 SourceType: Bestiary
-BookSource: Keys from the Golden Vault p. 22
+BookSource: "Keys from the Golden Vault p. 22"
 ---
 # [Animatronic Allosaurus](2-Mechanics/CLI/bestiary/construct/animatronic-allosaurus-kftgv.md)
 *Source: Keys from the Golden Vault p. 22*  

@@ -10,7 +10,7 @@ tags:
 aliases: ["Brooch of Shielding"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Dungeon Master's Guide p. 156. Available in the SRD.
+BookSource: "Dungeon Master's Guide p. 156. Available in the SRD."
 ---
 # Brooch of Shielding
 *Wondrous Item, major, uncommon (requires attunement)*  

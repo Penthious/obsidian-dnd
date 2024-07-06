@@ -13,7 +13,7 @@ classes:
 aliases: ["Planar Ally"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 265. Available in the SRD.
+BookSource: "Player's Handbook p. 265. Available in the SRD."
 ---
 # Planar Ally
 *6th-level, Conjuration*  

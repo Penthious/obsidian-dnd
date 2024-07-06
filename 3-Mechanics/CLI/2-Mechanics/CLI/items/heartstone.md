@@ -8,7 +8,7 @@ tags:
 aliases: ["Heartstone"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: Monster Manual p. 179
+BookSource: "Monster Manual p. 179"
 ---
 # Heartstone
 *Other, very rare*  

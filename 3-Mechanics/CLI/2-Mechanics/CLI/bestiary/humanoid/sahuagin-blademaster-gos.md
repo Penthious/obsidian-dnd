@@ -11,7 +11,7 @@ aliases: ["Sahuagin Blademaster"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: Ghosts of Saltmarsh p. 249
+BookSource: "Ghosts of Saltmarsh p. 249"
 ---
 # [Sahuagin Blademaster](2-Mechanics/CLI/bestiary/humanoid/sahuagin-blademaster-gos.md)
 *Source: Ghosts of Saltmarsh p. 249*  

@@ -8,7 +8,7 @@ tags:
 aliases: ["Ornithopter of Flying"]
 SourceType: "Magic Item"
 NoteIcon: magicitem
-BookSource: The Wild Beyond the Witchlight p. 212
+BookSource: "The Wild Beyond the Witchlight p. 212"
 ---
 # Ornithopter of Flying
 *Wondrous Item, very rare*  

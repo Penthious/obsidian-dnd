@@ -12,7 +12,7 @@ aliases: ["Droki"]
 NoteIcon: npc
 BestiaryType: humanoid (derro)
 SourceType: Bestiary
-BookSource: Out of the Abyss p. 231
+BookSource: "Out of the Abyss p. 231"
 ---
 # [Droki](2-Mechanics/CLI/bestiary/npc/droki-oota.md)
 *Source: Out of the Abyss p. 231*  

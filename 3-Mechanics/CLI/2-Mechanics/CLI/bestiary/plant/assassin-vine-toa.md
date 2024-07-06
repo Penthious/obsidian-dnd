@@ -11,7 +11,7 @@ aliases: ["Assassin Vine"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: Tomb of Annihilation p. 213, Ghosts of Saltmarsh
+BookSource: "Tomb of Annihilation p. 213, Ghosts of Saltmarsh"
 ---
 # [Assassin Vine](2-Mechanics/CLI/bestiary/plant/assassin-vine-toa.md)
 *Source: Tomb of Annihilation p. 213, Ghosts of Saltmarsh*  

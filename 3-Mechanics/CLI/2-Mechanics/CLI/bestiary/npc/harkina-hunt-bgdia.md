@@ -12,7 +12,7 @@ aliases: ["Harkina Hunt"]
 NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
-BookSource: Baldur's Gate: Descent Into Avernus p. 53
+BookSource: "Baldur's Gate: Descent Into Avernus p. 53"
 ---
 # [Harkina Hunt](2-Mechanics/CLI/bestiary/npc/harkina-hunt-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 53*  

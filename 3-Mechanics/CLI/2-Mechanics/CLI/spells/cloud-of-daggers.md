@@ -21,7 +21,7 @@ classes:
 aliases: ["Cloud of Daggers"]
 SourceType: "Spell"
 NoteIcon: spell
-BookSource: Player's Handbook p. 222
+BookSource: "Player's Handbook p. 222"
 ---
 # Cloud of Daggers
 *2nd-level, Conjuration*  

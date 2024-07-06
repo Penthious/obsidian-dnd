@@ -12,7 +12,7 @@ aliases: ["Adult Brass Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: Monster Manual p. 105, Ghosts of Saltmarsh. Available in the SRD.
+BookSource: "Monster Manual p. 105, Ghosts of Saltmarsh. Available in the SRD."
 ---
 # [Adult Brass Dragon](2-Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md)
 *Source: Monster Manual p. 105, Ghosts of Saltmarsh. Available in the SRD.*  
