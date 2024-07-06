@@ -7,8 +7,9 @@ tags:
 - monster/cr/14
 - monster/size/gargantuan
 - monster/type/fiend/demon
+- npc
 aliases: ["Crokek'toeck"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 231

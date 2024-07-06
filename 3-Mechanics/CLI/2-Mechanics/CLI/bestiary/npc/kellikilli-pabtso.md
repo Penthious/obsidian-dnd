@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/large
 - monster/type/elemental
+- npc
 aliases: ["Kellikilli"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 121

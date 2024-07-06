@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Rabbithead"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 295

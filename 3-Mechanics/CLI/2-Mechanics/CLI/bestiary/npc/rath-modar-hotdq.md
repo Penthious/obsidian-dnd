@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Rath Modar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 92, The Rise of Tiamat p. 91

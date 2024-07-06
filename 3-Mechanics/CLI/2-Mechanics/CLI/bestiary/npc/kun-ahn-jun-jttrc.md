@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Kun Ahn-Jun"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 81

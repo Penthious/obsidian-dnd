@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Gideon Lightward"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 65

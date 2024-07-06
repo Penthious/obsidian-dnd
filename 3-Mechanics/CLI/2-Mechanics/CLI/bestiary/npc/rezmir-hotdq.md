@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/medium
 - monster/type/humanoid/half-black-dragon
+- npc
 aliases: ["Rezmir"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-black dragon)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 93, The Rise of Tiamat

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/dwarf
+- npc
 aliases: ["Torgja Stonecrusher (Levels 1-4)"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 8

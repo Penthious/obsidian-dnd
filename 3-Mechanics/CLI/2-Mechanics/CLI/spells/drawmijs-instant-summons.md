@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -12,6 +12,9 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases: ["Drawmij's Instant Summons"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 235. Available in the SRD (as 'Instant Summons').
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

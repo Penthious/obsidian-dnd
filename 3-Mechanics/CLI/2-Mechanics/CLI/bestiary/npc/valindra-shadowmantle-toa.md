@@ -7,8 +7,9 @@ tags:
 - monster/cr/21
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Valindra Shadowmantle"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 58

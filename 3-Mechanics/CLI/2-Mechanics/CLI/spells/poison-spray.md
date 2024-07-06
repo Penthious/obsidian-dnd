@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -27,6 +27,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Poison Spray"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 266. Available in the SRD and the Basic Rules.
 ---
 # Poison Spray
 *cantrip, Conjuration*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Shalendra Floshin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 119

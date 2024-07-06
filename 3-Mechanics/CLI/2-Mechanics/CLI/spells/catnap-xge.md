@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/artificer
@@ -19,6 +19,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Catnap"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 151
 ---
 # Catnap
 *3rd-level, Enchantment*  

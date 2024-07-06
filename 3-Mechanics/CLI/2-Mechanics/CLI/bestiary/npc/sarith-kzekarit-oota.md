@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Sarith Kzekarit"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 7

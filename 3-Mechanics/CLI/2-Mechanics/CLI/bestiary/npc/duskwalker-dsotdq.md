@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/huge
 - monster/type/plant
+- npc
 aliases: ["Duskwalker"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 150

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/monstrosity
+- npc
 aliases: ["Marfulb"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: The Rise of Tiamat p. 35

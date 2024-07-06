@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Linan Swift"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 8

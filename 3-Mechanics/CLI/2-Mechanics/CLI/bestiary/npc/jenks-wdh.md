@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/small
 - monster/type/humanoid/human
+- npc
 aliases: ["Jenks"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 63

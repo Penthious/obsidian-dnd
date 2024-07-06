@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric
@@ -11,6 +11,9 @@ classes:
 - Cleric
 - Sorcerer (Divine Soul)
 aliases: ["Temple of the Gods"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 167
 ---
 # Temple of the Gods
 *7th-level, Conjuration*  

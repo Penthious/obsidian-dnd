@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/class/cleric/arcana-domain
@@ -9,6 +9,9 @@ tags:
 classes:
 - Cleric (Arcana Domain)
 aliases: ["Summon Fiend"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 112
 ---
 # Summon Fiend
 *6th-level, Conjuration*  

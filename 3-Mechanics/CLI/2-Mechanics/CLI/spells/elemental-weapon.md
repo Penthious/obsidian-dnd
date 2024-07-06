@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -15,6 +15,9 @@ classes:
 - Paladin
 - Warlock (The Hexblade)
 aliases: ["Elemental Weapon"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 237
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  

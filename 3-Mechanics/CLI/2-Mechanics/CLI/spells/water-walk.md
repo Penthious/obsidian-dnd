@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -22,6 +22,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Sorcerer
 aliases: ["Water Walk"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 287. Available in the SRD.
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  

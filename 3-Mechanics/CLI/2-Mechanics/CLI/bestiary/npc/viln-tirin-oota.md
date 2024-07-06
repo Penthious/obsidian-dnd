@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Viln Tirin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 202

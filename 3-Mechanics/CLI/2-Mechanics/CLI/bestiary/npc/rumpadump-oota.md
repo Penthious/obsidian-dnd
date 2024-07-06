@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/small
 - monster/type/plant
+- npc
 aliases: ["Rumpadump"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 72

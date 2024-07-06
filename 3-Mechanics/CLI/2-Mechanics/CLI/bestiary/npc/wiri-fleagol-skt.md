@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Wiri Fleagol"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 176

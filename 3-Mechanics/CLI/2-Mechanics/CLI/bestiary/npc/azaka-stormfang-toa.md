@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+- npc
 aliases: ["Azaka Stormfang"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 33

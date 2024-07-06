@@ -7,8 +7,9 @@ tags:
 - monster/cr/16
 - monster/size/medium
 - monster/type/humanoid/dragonborn
+- npc
 aliases: ["Arkhan the Cruel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 111

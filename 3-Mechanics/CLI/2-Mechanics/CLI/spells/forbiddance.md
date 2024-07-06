@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -12,6 +12,9 @@ classes:
 - Cleric
 - Sorcerer (Divine Soul)
 aliases: ["Forbiddance"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 243. Available in the SRD.
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  

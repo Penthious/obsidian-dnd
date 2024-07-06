@@ -7,8 +7,9 @@ tags:
 - monster/cr/14
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Nurvureem, The Dark Lady"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 180

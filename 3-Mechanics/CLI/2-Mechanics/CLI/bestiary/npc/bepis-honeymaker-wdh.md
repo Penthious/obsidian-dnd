@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/small
 - monster/type/humanoid/strongheart-halfling
+- npc
 aliases: ["Bepis Honeymaker"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Strongheart halfling)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 112

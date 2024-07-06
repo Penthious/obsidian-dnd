@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/class/sorcerer/divine-soul
@@ -9,6 +9,9 @@ tags:
 classes:
 - Sorcerer (Divine Soul)
 aliases: ["Summon Celestial"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 110
 ---
 # Summon Celestial
 *5th-level, Conjuration*  

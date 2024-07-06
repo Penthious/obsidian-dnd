@@ -7,8 +7,9 @@ tags:
 - monster/cr/15
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Jarlaxle Baenre"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 206

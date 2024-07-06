@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/fey/harengon
+- npc
 aliases: ["Agdon Longscarf"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey (harengon)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 73

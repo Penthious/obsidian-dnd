@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Aerisi Kalinoth"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 192

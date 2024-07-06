@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/scc
 - spell/class/bard
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Silvery Barbs"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Strixhaven: A Curriculum of Chaos p. 38
 ---
 # Silvery Barbs
 *1st-level, Enchantment*  

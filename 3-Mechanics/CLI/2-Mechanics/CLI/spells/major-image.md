@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -19,6 +19,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Major Image"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 258. Available in the SRD and the Basic Rules.
 ---
 # Major Image
 *3rd-level, Illusion*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Ignia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 184

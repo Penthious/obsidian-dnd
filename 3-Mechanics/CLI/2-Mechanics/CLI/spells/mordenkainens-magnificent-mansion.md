@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -13,6 +13,9 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases: ["Mordenkainen's Magnificent Mansion"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 261. Available in the SRD (as 'Magnificent Mansion').
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

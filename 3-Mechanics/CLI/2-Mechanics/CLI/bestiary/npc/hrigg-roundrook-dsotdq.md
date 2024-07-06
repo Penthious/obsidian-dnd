@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/dwarf
+- npc
 aliases: ["Hrigg Roundrook"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 211

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
@@ -17,6 +17,9 @@ classes:
 - Warlock (The Hexblade)
 - Wizard
 aliases: ["Phantasmal Killer"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 265. Available in the SRD.
 ---
 # Phantasmal Killer
 *4th-level, Illusion*  

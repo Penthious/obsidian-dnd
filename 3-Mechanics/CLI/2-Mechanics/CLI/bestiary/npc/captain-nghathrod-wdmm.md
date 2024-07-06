@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/aberration
+- npc
 aliases: ["Captain N'ghathrod"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 250

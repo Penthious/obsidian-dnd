@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/ftd
 - spell/class/bard
@@ -19,6 +19,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Raulothim's Psychic Lance"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Fizban's Treasury of Dragons p. 21
 ---
 # Raulothim's Psychic Lance
 *4th-level, Enchantment*  

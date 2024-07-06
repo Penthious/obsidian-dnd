@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/tiny
 - monster/type/aberration
+- npc
 aliases: ["Chishinix' Head"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 194

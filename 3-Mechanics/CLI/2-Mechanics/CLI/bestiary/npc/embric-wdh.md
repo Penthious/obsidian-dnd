@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/fire-genasi
+- npc
 aliases: ["Embric"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Fire genasi)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 32

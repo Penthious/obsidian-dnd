@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/huge
 - monster/type/giant
+- npc
 aliases: ["Count Thullen"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 198

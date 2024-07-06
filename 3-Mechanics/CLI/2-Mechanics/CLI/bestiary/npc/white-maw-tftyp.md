@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/gargantuan
 - monster/type/ooze
+- npc
 aliases: ["White Maw"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: ooze
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 248

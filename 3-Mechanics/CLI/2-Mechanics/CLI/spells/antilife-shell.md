@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/death-domain
@@ -15,6 +15,9 @@ classes:
 - Druid
 - Warlock (The Undead)
 aliases: ["Antilife Shell"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 213. Available in the SRD.
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Zikran"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 145

@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/giant
+- npc
 aliases: ["Alastrah"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 197

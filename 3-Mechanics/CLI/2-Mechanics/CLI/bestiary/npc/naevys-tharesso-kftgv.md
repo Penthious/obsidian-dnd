@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Naevys Tharesso"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 150

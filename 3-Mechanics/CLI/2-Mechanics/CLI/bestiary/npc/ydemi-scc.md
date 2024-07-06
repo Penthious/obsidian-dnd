@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/warlock
+- npc
 aliases: ["Y'demi"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, warlock)
 SourceType: Bestiary
 BookSource: Strixhaven: A Curriculum of Chaos p. 172

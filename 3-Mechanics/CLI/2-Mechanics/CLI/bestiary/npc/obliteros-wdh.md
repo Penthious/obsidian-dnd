@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/huge
 - monster/type/beast
+- npc
 aliases: ["Obliteros"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 66

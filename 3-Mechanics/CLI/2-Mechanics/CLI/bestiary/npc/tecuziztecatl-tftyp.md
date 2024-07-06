@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Tecuziztecatl"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 245

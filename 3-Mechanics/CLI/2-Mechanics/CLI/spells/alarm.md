@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -22,6 +22,9 @@ classes:
 - Sorcerer (Clockwork Soul)
 - Wizard
 aliases: ["Alarm"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 211. Available in the SRD.
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/medium
 - monster/type/celestial
+- npc
 aliases: ["Lumalia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 153

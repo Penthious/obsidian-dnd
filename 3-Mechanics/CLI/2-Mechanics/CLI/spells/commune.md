@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -18,6 +18,9 @@ classes:
 - Paladin (Oath of Glory)
 - Sorcerer (Divine Soul)
 aliases: ["Commune"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 223. Available in the SRD and the Basic Rules.
 ---
 # Commune
 *5th-level, Divination (ritual)*  

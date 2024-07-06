@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/troglodyte
+- npc
 aliases: ["Skriss"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 29

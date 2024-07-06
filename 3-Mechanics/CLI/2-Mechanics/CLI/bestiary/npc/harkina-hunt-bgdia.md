@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Harkina Hunt"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 53

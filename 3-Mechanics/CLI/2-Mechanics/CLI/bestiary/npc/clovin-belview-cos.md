@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/mongrelfolk
+- npc
 aliases: ["Clovin Belview"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (mongrelfolk)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 147

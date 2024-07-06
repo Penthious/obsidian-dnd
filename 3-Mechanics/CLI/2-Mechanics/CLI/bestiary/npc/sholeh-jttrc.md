@@ -7,8 +7,9 @@ tags:
 - monster/cr/20
 - monster/size/gargantuan
 - monster/type/dragon
+- npc
 aliases: ["Sholeh"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 14

@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/huge
 - monster/type/giant
+- npc
 aliases: ["Drufi"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 64

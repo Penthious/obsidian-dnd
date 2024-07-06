@@ -7,8 +7,9 @@ tags:
 - monster/cr/23
 - monster/size/huge
 - monster/type/fiend/demon
+- npc
 aliases: ["Juiblex"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151

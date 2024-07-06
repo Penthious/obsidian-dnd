@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/medium
 - monster/type/humanoid/shield-dwarf
+- npc
 aliases: ["Drannin Splithelm"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Shield dwarf)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 210

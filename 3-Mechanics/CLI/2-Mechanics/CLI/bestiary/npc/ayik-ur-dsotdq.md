@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Ayik Ur"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 211

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/dwarf
+- npc
 aliases: ["Ott Steeltoes"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 214

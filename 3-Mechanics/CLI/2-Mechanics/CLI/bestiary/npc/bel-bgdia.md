@@ -7,8 +7,9 @@ tags:
 - monster/cr/25
 - monster/size/large
 - monster/type/fiend/devil
+- npc
 aliases: ["Bel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 115

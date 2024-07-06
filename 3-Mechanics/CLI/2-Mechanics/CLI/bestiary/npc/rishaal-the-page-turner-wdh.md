@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/dragonborn
+- npc
 aliases: ["Rishaal the Page-Turner"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 33

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/ftd
 - spell/class/artificer
@@ -19,10 +19,13 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Ashardalon's Stride"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Fizban's Treasury of Dragons p. 19
 ---
 # Ashardalon's Stride
 *3rd-level, Transmutation*  
-![Fire follows in the footst...](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/spells/FTD/Ashardalon%27s%20Stride.webp#right "Fire follows in the footsteps of a red dragon who has cast Ashardalon's stride.")  
+![Fire follows in the footst...](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/spells/FTD/Ashardalon%27s%20Stride.webp#right)  
 
 - **Casting time:** 1 bonus
 - **Range:** Self

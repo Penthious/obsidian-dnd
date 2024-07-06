@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/sorcerer
@@ -13,6 +13,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Enervation"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 155
 ---
 # Enervation
 *5th-level, Necromancy*  

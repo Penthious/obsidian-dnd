@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Sladis Vadir"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 135

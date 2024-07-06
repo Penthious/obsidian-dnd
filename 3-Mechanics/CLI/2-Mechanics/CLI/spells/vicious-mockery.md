@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -9,6 +9,9 @@ tags:
 classes:
 - Bard
 aliases: ["Vicious Mockery"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 285. Available in the SRD.
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  

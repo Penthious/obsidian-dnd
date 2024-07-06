@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/small
 - monster/type/construct
+- npc
 aliases: ["Pidlwick II"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 236

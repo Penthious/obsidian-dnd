@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Zilchyn Q'Leptin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 137

@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Vellynne Harpell"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 273

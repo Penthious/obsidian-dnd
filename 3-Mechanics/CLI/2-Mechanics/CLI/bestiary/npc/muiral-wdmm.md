@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Muiral"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 314

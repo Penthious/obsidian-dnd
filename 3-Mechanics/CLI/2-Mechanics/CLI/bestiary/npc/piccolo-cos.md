@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/small
 - monster/type/beast
+- npc
 aliases: ["Piccolo"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 118

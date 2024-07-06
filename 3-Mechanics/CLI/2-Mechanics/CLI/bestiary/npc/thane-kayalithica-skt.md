@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/huge
 - monster/type/giant
+- npc
 aliases: ["Thane Kayalithica"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 153

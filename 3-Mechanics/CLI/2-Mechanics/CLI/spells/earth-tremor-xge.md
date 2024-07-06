@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/bard
@@ -19,6 +19,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Earth Tremor"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 155
 ---
 # Earth Tremor
 *1st-level, Evocation*  

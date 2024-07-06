@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/shield-dwarf
+- npc
 aliases: ["Ghelryn Foehammer"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Shield dwarf)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 255

@@ -7,8 +7,9 @@ tags:
 - monster/cr/20
 - monster/size/gargantuan
 - monster/type/elemental
+- npc
 aliases: ["Ogrémoch"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 216

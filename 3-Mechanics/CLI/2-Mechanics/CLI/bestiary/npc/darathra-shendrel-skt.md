@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/chondathan-human
+- npc
 aliases: ["Darathra Shendrel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Chondathan human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 253

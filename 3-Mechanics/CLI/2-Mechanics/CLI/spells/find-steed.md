@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/paladin
@@ -9,6 +9,9 @@ tags:
 classes:
 - Paladin
 aliases: ["Find Steed"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 240. Available in the SRD.
 ---
 # Find Steed
 *2nd-level, Conjuration*  

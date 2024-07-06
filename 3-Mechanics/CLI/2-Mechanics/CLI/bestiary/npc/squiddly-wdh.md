@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/small
 - monster/type/humanoid/tiefling
+- npc
 aliases: ["Squiddly"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 63

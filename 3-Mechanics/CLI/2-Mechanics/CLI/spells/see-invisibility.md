@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -23,6 +23,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["See Invisibility"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 274. Available in the SRD.
 ---
 # See Invisibility
 *2nd-level, Divination*  

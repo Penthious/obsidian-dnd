@@ -7,8 +7,9 @@ tags:
 - monster/cr/26
 - monster/size/huge
 - monster/type/fiend/demon
+- npc
 aliases: ["Demogorgon"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 90, Mordenkainen's Tome of Foes p. 144

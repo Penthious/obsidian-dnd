@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric/arcana-domain
@@ -23,6 +23,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Shape Water"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 164
 ---
 # Shape Water
 *cantrip, Transmutation*  

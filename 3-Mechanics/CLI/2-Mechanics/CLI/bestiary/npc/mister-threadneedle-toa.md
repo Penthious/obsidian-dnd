@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/construct
+- npc
 aliases: ["Mister Threadneedle"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 183

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -25,6 +25,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Dimension Door"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 233. Available in the SRD and the Basic Rules.
 ---
 # Dimension Door
 *4th-level, Conjuration*  

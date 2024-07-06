@@ -7,8 +7,9 @@ tags:
 - monster/cr/24
 - monster/size/large
 - monster/type/fiend/demon
+- npc
 aliases: ["Graz'zt"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 148, Mordenkainen's Tome of Foes p. 149

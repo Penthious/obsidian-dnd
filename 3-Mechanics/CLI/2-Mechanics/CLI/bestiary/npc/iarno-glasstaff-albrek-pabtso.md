@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/wizard
+- npc
 aliases: ["Iarno "Glasstaff" Albrek"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, wizard)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 43

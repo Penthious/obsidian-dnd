@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/huge
 - monster/type/plant
+- npc
 aliases: ["Turlang"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 107

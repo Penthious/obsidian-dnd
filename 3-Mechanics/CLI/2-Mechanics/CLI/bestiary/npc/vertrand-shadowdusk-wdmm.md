@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Vertrand Shadowdusk"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 282

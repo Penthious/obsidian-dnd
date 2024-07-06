@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/aarakocra
+- npc
 aliases: ["Asharra"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (aarakocra)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 69

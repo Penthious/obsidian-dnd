@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/half-elf
+- npc
 aliases: ["Talisolvanar "Tally" Fellbranch"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 32

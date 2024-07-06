@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/druid
@@ -9,6 +9,9 @@ tags:
 classes:
 - Druid
 aliases: ["Wind Walk"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 288. Available in the SRD.
 ---
 # Wind Walk
 *6th-level, Transmutation*  

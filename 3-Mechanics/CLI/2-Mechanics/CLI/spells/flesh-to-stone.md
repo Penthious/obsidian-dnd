@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -13,6 +13,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Flesh to Stone"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 243. Available in the SRD.
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

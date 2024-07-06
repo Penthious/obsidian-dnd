@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/artificer
@@ -15,6 +15,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Tiny Servant"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 168
 ---
 # Tiny Servant
 *3rd-level, Transmutation*  

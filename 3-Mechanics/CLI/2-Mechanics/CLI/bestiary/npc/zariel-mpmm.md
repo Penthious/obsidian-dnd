@@ -7,8 +7,9 @@ tags:
 - monster/cr/26
 - monster/size/large
 - monster/type/fiend/devil
+- npc
 aliases: ["Zariel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180

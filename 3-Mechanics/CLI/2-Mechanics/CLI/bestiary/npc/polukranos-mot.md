@@ -7,8 +7,9 @@ tags:
 - monster/cr/19
 - monster/size/gargantuan
 - monster/type/monstrosity
+- npc
 aliases: ["Polukranos"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Mythic Odysseys of Theros p. 231

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -11,6 +11,9 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases: ["Magic Jar"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 257. Available in the SRD.
 ---
 # Magic Jar
 *6th-level, Necromancy*  

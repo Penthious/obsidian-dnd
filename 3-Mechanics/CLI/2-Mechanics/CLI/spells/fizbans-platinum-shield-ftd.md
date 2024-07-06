@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/ftd
 - spell/class/cleric/arcana-domain
@@ -13,6 +13,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Fizban's Platinum Shield"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Fizban's Treasury of Dragons p. 20
 ---
 # Fizban's Platinum Shield
 *6th-level, Abjuration*  

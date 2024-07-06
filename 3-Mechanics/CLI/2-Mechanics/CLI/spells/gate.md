@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Gate"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 244. Available in the SRD and the Basic Rules.
 ---
 # Gate
 *9th-level, Conjuration*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/large
 - monster/type/giant
+- npc
 aliases: ["Sundeth"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 304

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/large
 - monster/type/beast
+- npc
 aliases: ["Maxeene"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 37

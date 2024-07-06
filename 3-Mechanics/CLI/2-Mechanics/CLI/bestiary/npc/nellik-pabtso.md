@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/large
 - monster/type/fiend/yugoloth
+- npc
 aliases: ["Nellik"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 193

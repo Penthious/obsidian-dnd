@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric/arcana-domain
@@ -17,6 +17,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Investiture of Ice"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 159
 ---
 # Investiture of Ice
 *6th-level, Transmutation*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
+- npc
 aliases: ["Kasimir Velikov"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Dusk elf)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 233

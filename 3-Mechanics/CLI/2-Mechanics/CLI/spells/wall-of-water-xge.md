@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/druid
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Wall of Water"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 170, Volo's Guide to Monsters p. 116, Mythic Odysseys of Theros
 ---
 # Wall of Water
 *3rd-level, Evocation*  

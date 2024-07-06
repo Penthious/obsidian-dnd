@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+- npc
 aliases: ["Raggadragga"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 87

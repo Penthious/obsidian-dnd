@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/sorcerer/aberrant-mind
@@ -11,6 +11,9 @@ classes:
 - Sorcerer (Aberrant Mind)
 - Warlock
 aliases: ["Hunger of Hadar"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 251
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  

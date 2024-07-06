@@ -7,8 +7,9 @@ tags:
 - monster/cr/23
 - monster/size/large
 - monster/type/fiend/demon
+- npc
 aliases: ["Fraz-Urb'luu"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146

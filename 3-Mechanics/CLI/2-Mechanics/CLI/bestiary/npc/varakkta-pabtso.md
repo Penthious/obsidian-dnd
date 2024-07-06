@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/gith
+- npc
 aliases: ["Varakkta"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 174

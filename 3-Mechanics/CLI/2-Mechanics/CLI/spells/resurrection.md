@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -13,6 +13,9 @@ classes:
 - Cleric
 - Sorcerer (Divine Soul)
 aliases: ["Resurrection"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 272. Available in the SRD and the Basic Rules.
 ---
 # Resurrection
 *7th-level, Necromancy*  

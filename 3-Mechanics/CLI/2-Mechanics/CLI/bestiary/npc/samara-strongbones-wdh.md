@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Samara Strongbones"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 104

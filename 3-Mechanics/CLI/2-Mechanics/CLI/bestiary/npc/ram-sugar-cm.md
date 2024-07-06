@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/dragonborn
+- npc
 aliases: ["Ram Sugar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 132

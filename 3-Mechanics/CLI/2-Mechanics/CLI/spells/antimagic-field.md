@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -15,6 +15,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Antimagic Field"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 213. Available in the SRD and the Basic Rules.
 ---
 # Antimagic Field
 *8th-level, Abjuration*  

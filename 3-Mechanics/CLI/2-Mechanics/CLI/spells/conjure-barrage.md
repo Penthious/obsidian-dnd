@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/battle-smith
@@ -11,6 +11,9 @@ classes:
 - Artificer (Battle Smith)
 - Ranger
 aliases: ["Conjure Barrage"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 225
 ---
 # Conjure Barrage
 *3rd-level, Conjuration*  

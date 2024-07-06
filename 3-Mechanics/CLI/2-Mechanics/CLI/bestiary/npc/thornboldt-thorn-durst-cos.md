@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/small
 - monster/type/undead
+- npc
 aliases: ["Thornboldt "Thorn" Durst"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 217

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Ghazrim DuLoc"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 141

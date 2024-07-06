@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Mirt"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 211

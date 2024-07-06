@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+- npc
 aliases: ["Turvy"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 8

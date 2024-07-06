@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/small
 - monster/type/plant
+- npc
 aliases: ["Amidor the Dandelion"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 135

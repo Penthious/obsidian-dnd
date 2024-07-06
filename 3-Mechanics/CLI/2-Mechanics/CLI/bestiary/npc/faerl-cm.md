@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Faerl"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 104

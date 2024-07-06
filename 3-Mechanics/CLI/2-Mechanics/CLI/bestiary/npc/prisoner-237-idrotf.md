@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Prisoner 237"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 160

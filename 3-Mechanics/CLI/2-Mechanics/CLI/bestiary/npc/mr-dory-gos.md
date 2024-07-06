@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/medium
 - monster/type/aberration
+- npc
 aliases: ["Mr. Dory"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Ghosts of Saltmarsh p. 246

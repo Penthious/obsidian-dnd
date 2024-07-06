@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/small
 - monster/type/humanoid/gnome
+- npc
 aliases: ["Skeemo Weirdbottle"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 200

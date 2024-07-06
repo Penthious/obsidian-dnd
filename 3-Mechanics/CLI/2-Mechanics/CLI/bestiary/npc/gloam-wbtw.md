@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/tiny
 - monster/type/undead
+- npc
 aliases: ["Gloam"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 93

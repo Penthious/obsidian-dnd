@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/fire-genasi
+- npc
 aliases: ["Bastian Thermandar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Fire genasi)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 201

@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/fiend/gnoll
+- npc
 aliases: ["Kurr"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (gnoll)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 179

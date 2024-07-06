@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -19,6 +19,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Undying)
 aliases: ["Contagion"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 227. Available in the SRD.
 ---
 # Contagion
 *5th-level, Necromancy*  

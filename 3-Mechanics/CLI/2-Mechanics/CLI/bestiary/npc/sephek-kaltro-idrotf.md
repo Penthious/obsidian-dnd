@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Sephek Kaltro"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 23

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -15,6 +15,9 @@ classes:
 - Warlock (The Genie)
 - Wizard
 aliases: ["Wish"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 288. Available in the SRD.
 ---
 # Wish
 *9th-level, Conjuration*  

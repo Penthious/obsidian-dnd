@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/half-dragon
+- npc
 aliases: ["Langdedrosa Cyanwrath"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-dragon)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 91

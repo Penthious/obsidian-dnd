@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/illuskan-human
+- npc
 aliases: ["Sharda"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 103

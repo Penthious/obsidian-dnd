@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/orc
+- npc
 aliases: ["Tosh Starling (Levels 5-8)"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 8

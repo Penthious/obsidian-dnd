@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/tabaxi
+- npc
 aliases: ["Flask of Wine"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 35

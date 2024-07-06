@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/beast
+- npc
 aliases: ["Kingsport"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 243

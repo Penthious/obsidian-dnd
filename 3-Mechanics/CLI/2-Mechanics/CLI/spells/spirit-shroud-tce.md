@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/class/fighter/eldritch-knight
@@ -13,6 +13,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer (Divine Soul)
 aliases: ["Spirit Shroud"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 108
 ---
 # Spirit Shroud
 *3rd-level, Necromancy*  

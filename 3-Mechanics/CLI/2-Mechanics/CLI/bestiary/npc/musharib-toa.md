@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/dwarf
+- npc
 aliases: ["Musharib"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 34

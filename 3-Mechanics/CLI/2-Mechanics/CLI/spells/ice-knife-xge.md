@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/druid
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Ice Knife"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 157
 ---
 # Ice Knife
 *1st-level, Conjuration*  

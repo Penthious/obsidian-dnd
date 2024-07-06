@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
+- npc
 aliases: ["Patrina Velikovna"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Dusk elf)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 89

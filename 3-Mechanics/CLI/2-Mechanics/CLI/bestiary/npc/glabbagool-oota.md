@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/large
 - monster/type/ooze
+- npc
 aliases: ["Glabbagool"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: ooze
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 35

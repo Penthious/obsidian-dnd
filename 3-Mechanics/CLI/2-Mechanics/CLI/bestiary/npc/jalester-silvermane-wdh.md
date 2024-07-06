@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Jalester Silvermane"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 205

@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/medium
 - monster/type/celestial
+- npc
 aliases: ["The Abbot"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 151

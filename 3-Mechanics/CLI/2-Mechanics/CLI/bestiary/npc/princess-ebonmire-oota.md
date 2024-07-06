@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/large
 - monster/type/ooze
+- npc
 aliases: ["Princess Ebonmire"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: ooze
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 111

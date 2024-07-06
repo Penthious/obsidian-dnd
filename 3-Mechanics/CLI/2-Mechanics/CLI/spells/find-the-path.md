@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -15,6 +15,9 @@ classes:
 - Druid
 - Sorcerer (Divine Soul)
 aliases: ["Find the Path"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 240. Available in the SRD and the Basic Rules.
 ---
 # Find the Path
 *6th-level, Divination*  

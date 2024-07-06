@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/monstrosity
+- npc
 aliases: ["Marlos Urnrayle"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 199

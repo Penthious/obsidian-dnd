@@ -7,8 +7,9 @@ tags:
 - monster/cr/14
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Wersten Kern"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 209

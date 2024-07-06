@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Nythalyn Henlifel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 114

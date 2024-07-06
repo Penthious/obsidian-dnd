@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Enna Galakiir (Levels 9-11)"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 8

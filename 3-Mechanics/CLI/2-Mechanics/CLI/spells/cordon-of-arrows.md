@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/ranger
@@ -9,6 +9,9 @@ tags:
 classes:
 - Ranger
 aliases: ["Cordon of Arrows"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 228
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  

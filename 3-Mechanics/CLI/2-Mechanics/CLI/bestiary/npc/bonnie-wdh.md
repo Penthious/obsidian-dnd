@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
+- npc
 aliases: ["Bonnie"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 20

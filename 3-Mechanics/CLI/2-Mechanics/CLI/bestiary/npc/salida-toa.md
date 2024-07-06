@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/yuan-ti
+- npc
 aliases: ["Salida"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (yuan-ti)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 35

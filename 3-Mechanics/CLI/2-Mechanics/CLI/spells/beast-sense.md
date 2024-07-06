@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/barbarian/path-of-the-totem-warrior
@@ -14,6 +14,9 @@ classes:
 - Druid
 - Ranger
 aliases: ["Beast Sense"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 217
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  

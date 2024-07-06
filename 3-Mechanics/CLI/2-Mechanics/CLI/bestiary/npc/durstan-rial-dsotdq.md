@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Durstan Rial"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 97

@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Wei Feng Ying"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 188

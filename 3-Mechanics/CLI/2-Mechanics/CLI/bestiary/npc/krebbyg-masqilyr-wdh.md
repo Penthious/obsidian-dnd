@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Krebbyg Masq'il'yr"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 67

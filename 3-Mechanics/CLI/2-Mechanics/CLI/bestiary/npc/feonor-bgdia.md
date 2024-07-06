@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Feonor"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 130

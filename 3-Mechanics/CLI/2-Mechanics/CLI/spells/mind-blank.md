@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -13,6 +13,9 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases: ["Mind Blank"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 259. Available in the SRD.
 ---
 # Mind Blank
 *8th-level, Abjuration*  

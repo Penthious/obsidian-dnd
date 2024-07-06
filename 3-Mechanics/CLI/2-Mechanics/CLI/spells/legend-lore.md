@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -19,6 +19,9 @@ classes:
 - Warlock (The Undying)
 - Wizard
 aliases: ["Legend Lore"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 254. Available in the SRD.
 ---
 # Legend Lore
 *5th-level, Divination*  

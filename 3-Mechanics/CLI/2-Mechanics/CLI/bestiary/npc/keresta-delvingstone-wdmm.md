@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/medium
 - monster/type/undead/shapechanger
+- npc
 aliases: ["Keresta Delvingstone"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 232

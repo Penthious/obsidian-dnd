@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/large
 - monster/type/construct
+- npc
 aliases: ["Maddgoth's Homunculus"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 96

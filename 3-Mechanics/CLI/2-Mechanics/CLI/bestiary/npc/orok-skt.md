@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/small
 - monster/type/humanoid/human
+- npc
 aliases: ["Orok"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 115

@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/large
 - monster/type/aberration/shapechanger
+- npc
 aliases: ["Virruza"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration (shapechanger)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 119

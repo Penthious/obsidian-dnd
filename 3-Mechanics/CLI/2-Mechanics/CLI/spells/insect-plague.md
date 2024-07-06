@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -23,6 +23,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Sorcerer
 aliases: ["Insect Plague"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 254. Available in the SRD.
 ---
 # Insect Plague
 *5th-level, Conjuration*  

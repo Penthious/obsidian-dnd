@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/sorcerer
+- npc
 aliases: ["Kelek"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, sorcerer)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 219

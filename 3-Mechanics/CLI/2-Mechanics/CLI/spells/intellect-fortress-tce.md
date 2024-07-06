@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/class/artificer
@@ -13,6 +13,9 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 aliases: ["Intellect Fortress"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 107
 ---
 # Intellect Fortress
 *3rd-level, Abjuration*  

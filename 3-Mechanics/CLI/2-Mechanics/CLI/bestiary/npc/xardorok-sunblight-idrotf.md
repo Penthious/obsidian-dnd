@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/dwarf
+- npc
 aliases: ["Xardorok Sunblight"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 287

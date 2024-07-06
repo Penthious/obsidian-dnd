@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard/college-of-glamour
@@ -25,6 +25,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Fiend)
 aliases: ["Command"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 223. Available in the SRD and the Basic Rules.
 ---
 # Command
 *1st-level, Enchantment*  

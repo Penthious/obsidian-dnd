@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -13,6 +13,9 @@ classes:
 - Paladin (Oathbreaker)
 - Sorcerer (Divine Soul)
 aliases: ["Inflict Wounds"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 253. Available in the SRD and the Basic Rules.
 ---
 # Inflict Wounds
 *1st-level, Necromancy*  

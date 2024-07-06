@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/scc
 - spell/class/artificer
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Vortex Warp"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Strixhaven: A Curriculum of Chaos p. 38
 ---
 # Vortex Warp
 *2nd-level, Conjuration*  

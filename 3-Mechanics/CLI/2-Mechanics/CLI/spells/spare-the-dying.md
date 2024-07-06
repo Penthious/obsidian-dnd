@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -19,6 +19,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Undying)
 aliases: ["Spare the Dying"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 277. Available in the SRD and the Basic Rules.
 ---
 # Spare the Dying
 *cantrip, Necromancy*  

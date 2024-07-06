@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/small
 - monster/type/humanoid/grung
+- npc
 aliases: ["Yorb"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (grung)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 108

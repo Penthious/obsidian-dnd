@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+- npc
 aliases: ["Snarla"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 102

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/scc
 - spell/class/druid
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Wither and Bloom"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Strixhaven: A Curriculum of Chaos p. 38
 ---
 # Wither and Bloom
 *2nd-level, Necromancy*  

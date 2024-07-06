@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/fey/elf
+- npc
 aliases: ["Isolde"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey (elf)
 SourceType: Bestiary
 BookSource: Van Richten's Guide to Ravenloft p. 86

@@ -7,8 +7,9 @@ tags:
 - monster/cr/15
 - monster/size/medium
 - monster/type/undead/shapechanger
+- npc
 aliases: ["Strahd von Zarovich"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 240

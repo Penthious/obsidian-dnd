@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/barbarian/path-of-the-totem-warrior
@@ -18,6 +18,9 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 aliases: ["Commune with Nature"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 224. Available in the SRD.
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/medium
 - monster/type/humanoid/tiefling
+- npc
 aliases: ["Avarice"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 269

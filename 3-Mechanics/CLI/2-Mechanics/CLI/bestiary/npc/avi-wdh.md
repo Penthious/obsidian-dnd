@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/water-genasi
+- npc
 aliases: ["Avi"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Water genasi)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 32

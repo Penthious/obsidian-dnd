@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/large
 - monster/type/giant
+- npc
 aliases: ["Blinded Troll"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 114

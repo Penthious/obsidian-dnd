@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/warlock
@@ -12,6 +12,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Contact Other Plane"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 226. Available in the SRD.
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

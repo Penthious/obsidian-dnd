@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/half-elf
+- npc
 aliases: ["Talis the White"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 93

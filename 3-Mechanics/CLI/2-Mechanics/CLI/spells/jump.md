@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -21,6 +21,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Jump"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 254. Available in the SRD.
 ---
 # Jump
 *1st-level, Transmutation*  

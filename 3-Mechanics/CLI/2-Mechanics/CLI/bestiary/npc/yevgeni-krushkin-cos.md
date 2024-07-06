@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Yevgeni Krushkin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 100

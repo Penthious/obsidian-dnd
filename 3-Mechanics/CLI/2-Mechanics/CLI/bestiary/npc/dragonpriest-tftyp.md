@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/large
 - monster/type/giant
+- npc
 aliases: ["Dragonpriest"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 16

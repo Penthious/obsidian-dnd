@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/damaran-human
+- npc
 aliases: ["Grisha"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Damaran human)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 232

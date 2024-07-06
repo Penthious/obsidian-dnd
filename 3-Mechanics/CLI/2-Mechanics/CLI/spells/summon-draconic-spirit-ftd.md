@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/ftd
 - spell/class/druid
@@ -13,6 +13,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Summon Draconic Spirit"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Fizban's Treasury of Dragons p. 21
 ---
 # Summon Draconic Spirit
 *5th-level, Conjuration*  

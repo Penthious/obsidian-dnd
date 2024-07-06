@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/tabaxi
+- npc
 aliases: ["Bag of Nails"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 102

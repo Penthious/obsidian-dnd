@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
@@ -15,6 +15,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Chromatic Orb"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 221
 ---
 # Chromatic Orb
 *1st-level, Evocation*  

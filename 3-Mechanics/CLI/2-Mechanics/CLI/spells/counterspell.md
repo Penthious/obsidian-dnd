@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
@@ -21,6 +21,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Counterspell"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 228. Available in the SRD and the Basic Rules.
 ---
 # Counterspell
 *3rd-level, Abjuration*  

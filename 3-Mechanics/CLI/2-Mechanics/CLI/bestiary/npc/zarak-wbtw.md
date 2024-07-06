@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/orc
+- npc
 aliases: ["Zarak"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 222

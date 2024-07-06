@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/small
 - monster/type/celestial
+- npc
 aliases: ["Lulu"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 5

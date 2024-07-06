@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/large
 - monster/type/giant
+- npc
 aliases: ["Zaltember"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 180

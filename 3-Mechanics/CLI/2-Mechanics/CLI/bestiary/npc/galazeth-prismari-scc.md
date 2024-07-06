@@ -7,8 +7,9 @@ tags:
 - monster/cr/23
 - monster/size/gargantuan
 - monster/type/dragon/sorcerer
+- npc
 aliases: ["Galazeth Prismari"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon (sorcerer)
 SourceType: Bestiary
 BookSource: Strixhaven: A Curriculum of Chaos p. 193

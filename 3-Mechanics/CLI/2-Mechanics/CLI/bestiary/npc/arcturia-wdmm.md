@@ -7,8 +7,9 @@ tags:
 - monster/cr/21
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Arcturia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 296

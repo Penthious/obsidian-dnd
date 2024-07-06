@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/twilight-domain
@@ -17,6 +17,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Undying)
 aliases: ["Aura of Life"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 216
 ---
 # Aura of Life
 *4th-level, Abjuration*  

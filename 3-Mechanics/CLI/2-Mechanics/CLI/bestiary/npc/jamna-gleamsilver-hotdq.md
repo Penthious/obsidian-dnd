@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/small
 - monster/type/humanoid/gnome
+- npc
 aliases: ["Jamna Gleamsilver"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 91

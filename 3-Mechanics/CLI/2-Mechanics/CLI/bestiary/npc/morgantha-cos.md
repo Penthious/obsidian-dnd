@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/fiend
+- npc
 aliases: ["Morgantha"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 48

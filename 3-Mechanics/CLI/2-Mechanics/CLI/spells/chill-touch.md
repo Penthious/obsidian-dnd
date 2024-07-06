@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -23,6 +23,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Chill Touch"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 221. Available in the SRD.
 ---
 # Chill Touch
 *cantrip, Necromancy*  

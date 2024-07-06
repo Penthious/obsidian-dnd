@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -17,6 +17,9 @@ classes:
 - Paladin (Oath of Devotion)
 - Sorcerer (Divine Soul)
 aliases: ["Beacon of Hope"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 217. Available in the SRD and the Basic Rules.
 ---
 # Beacon of Hope
 *3rd-level, Abjuration*  

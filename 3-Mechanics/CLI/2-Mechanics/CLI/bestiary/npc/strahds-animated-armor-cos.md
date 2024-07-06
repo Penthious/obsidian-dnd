@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/construct
+- npc
 aliases: ["Strahd's Animated Armor"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 227

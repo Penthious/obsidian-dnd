@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -11,6 +11,9 @@ classes:
 - Bard
 - Sorcerer (Divine Soul)
 aliases: ["Power Word Heal"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 266
 ---
 # Power Word Heal
 *9th-level, Evocation*  

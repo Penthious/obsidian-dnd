@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Volothamp "Volo" Geddarm"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 235, Waterdeep: Dragon Heist

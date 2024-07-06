@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/tabaxi
+- npc
 aliases: ["K'Tulah"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tabaxi)
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 64

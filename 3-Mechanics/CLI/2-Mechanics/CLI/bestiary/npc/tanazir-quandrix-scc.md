@@ -7,8 +7,9 @@ tags:
 - monster/cr/24
 - monster/size/gargantuan
 - monster/type/dragon/wizard
+- npc
 aliases: ["Tanazir Quandrix"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon (wizard)
 SourceType: Bestiary
 BookSource: Strixhaven: A Curriculum of Chaos p. 218

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/druid
@@ -9,6 +9,9 @@ tags:
 classes:
 - Druid
 aliases: ["Storm of Vengeance"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 279. Available in the SRD.
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

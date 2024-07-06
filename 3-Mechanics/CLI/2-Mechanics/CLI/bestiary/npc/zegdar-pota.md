@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Zegdar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 120

@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Tarul Var"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 244

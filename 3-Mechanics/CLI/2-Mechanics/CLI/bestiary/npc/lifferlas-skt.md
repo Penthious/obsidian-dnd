@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/huge
 - monster/type/plant
+- npc
 aliases: ["Lifferlas"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 250

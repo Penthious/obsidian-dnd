@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/small
 - monster/type/plant
+- npc
 aliases: ["Kupalué"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 35

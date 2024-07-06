@@ -8,8 +8,9 @@ tags:
 - monster/size/small
 - monster/type/humanoid/human
 - monster/type/humanoid/shapechanger
+- npc
 aliases: ["Bray Martikov"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 98

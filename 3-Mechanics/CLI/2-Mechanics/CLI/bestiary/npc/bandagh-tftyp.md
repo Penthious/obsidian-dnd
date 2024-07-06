@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/orc
+- npc
 aliases: ["Bandagh"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (orc)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 159

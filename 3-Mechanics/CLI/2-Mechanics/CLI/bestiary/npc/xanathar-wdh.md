@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/large
 - monster/type/aberration
+- npc
 aliases: ["Xanathar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 220

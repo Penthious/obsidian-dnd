@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/small
 - monster/type/humanoid/derro
+- npc
 aliases: ["Narrak"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (derro)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 232

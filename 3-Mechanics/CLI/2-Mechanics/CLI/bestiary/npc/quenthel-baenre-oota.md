@@ -7,8 +7,9 @@ tags:
 - monster/cr/22
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Quenthel Baenre"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 204

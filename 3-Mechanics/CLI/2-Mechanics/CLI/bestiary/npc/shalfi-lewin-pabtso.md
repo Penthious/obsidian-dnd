@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/aberration
+- npc
 aliases: ["Shalfi Lewin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 174

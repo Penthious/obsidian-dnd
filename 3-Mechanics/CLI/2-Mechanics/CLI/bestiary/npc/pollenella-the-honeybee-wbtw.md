@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/tiny
 - monster/type/beast
+- npc
 aliases: ["Pollenella the Honeybee"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 135

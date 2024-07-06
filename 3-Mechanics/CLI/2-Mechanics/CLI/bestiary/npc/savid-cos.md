@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/dusk-elf
+- npc
 aliases: ["Savid"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Dusk elf)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 133

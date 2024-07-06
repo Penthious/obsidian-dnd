@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/death-domain
@@ -21,6 +21,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Vampiric Touch"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 285. Available in the SRD.
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

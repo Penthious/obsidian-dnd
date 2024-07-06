@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/tiny
 - monster/type/aberration
+- npc
 aliases: ["Fragment of Krokulmar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 53

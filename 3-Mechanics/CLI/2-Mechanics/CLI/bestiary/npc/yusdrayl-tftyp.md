@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/small
 - monster/type/humanoid/kobold
+- npc
 aliases: ["Yusdrayl"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (kobold)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 248

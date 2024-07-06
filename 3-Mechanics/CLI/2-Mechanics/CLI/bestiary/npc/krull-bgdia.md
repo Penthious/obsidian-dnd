@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/tortle
+- npc
 aliases: ["Krull"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tortle)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 110

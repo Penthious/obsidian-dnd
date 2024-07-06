@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Amarith Coppervein"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 142

@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Liara Portyr"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/half-orc
+- npc
 aliases: ["Grum'shar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 29

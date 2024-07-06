@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/small
 - monster/type/humanoid/goblinoid
+- npc
 aliases: ["Jingle Jangle"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 70

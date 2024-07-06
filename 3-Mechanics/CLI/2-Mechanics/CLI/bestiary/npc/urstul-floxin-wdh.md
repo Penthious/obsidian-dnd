@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/illuskan-human
+- npc
 aliases: ["Urstul Floxin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 216

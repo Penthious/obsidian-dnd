@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/small
 - monster/type/humanoid
+- npc
 aliases: ["Myla"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid
 SourceType: Bestiary
 BookSource: Dragons of Stormwreck Isle p. 9

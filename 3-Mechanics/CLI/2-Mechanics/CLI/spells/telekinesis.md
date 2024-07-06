@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/psi-warrior
@@ -17,6 +17,9 @@ classes:
 - Warlock (The Great Old One)
 - Wizard
 aliases: ["Telekinesis"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 280. Available in the SRD.
 ---
 # Telekinesis
 *5th-level, Transmutation*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/medium
 - monster/type/undead/shapechanger
+- npc
 aliases: ["Sandesyl Morgia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead (shapechanger)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 81

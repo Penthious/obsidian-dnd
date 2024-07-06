@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/forge-domain
@@ -11,6 +11,9 @@ classes:
 - Cleric (Forge Domain)
 - Paladin
 aliases: ["Searing Smite"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 274
 ---
 # Searing Smite
 *1st-level, Evocation*  

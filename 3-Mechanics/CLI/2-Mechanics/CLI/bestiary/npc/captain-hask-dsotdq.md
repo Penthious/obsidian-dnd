@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/monstrosity/sorcerer
+- npc
 aliases: ["Captain Hask"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity (sorcerer)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 148

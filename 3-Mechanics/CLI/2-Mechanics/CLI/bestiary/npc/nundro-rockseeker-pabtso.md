@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Nundro Rockseeker"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 73

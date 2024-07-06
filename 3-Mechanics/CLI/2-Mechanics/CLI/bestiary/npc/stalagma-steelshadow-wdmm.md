@@ -7,8 +7,9 @@ tags:
 - monster/cr/16
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Stalagma Steelshadow"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 273

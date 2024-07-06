@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/gnome
+- npc
 aliases: ["Erky Timbers"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 22

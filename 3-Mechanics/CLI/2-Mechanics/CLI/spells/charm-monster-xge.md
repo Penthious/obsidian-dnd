@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/bard
@@ -21,6 +21,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Charm Monster"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 151
 ---
 # Charm Monster
 *4th-level, Enchantment*  

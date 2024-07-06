@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Color Spray"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 222. Available in the SRD.
 ---
 # Color Spray
 *1st-level, Illusion*  

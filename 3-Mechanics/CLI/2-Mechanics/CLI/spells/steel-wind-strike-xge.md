@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/ranger
@@ -11,6 +11,9 @@ classes:
 - Ranger
 - Wizard
 aliases: ["Steel Wind Strike"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 166
 ---
 # Steel Wind Strike
 *5th-level, Conjuration*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/17
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Themberchaud"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 53

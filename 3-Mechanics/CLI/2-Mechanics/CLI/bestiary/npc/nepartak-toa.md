@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/tiny
 - monster/type/undead
+- npc
 aliases: ["Nepartak"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 137

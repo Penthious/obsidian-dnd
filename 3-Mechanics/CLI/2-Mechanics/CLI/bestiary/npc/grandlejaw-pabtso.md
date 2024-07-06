@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/huge
 - monster/type/monstrosity
+- npc
 aliases: ["Grandlejaw"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 121

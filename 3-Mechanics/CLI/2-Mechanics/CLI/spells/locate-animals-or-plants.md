@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -14,6 +14,9 @@ classes:
 - Druid
 - Ranger
 aliases: ["Locate Animals or Plants"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 256. Available in the SRD.
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

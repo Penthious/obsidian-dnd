@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/druid
@@ -11,6 +11,9 @@ classes:
 - Druid
 - Ranger
 aliases: ["Healing Spirit"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 157
 ---
 # Healing Spirit
 *2nd-level, Conjuration*  

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -13,6 +13,9 @@ classes:
 - Druid
 - Wizard
 aliases: ["Antipathy/Sympathy"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 214. Available in the SRD.
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  

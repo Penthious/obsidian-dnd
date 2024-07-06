@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/tiefling
+- npc
 aliases: ["Laiba "Nana" Rosse"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 116

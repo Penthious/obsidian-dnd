@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/class/cleric/arcana-domain
@@ -9,6 +9,9 @@ tags:
 classes:
 - Cleric (Arcana Domain)
 aliases: ["Dream of the Blue Veil"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 106
 ---
 # Dream of the Blue Veil
 *7th-level, Conjuration*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/22
 - monster/size/large
 - monster/type/construct
+- npc
 aliases: ["Trobriand"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 294

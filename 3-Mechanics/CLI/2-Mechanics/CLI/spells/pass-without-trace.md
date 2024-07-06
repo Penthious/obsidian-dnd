@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/trickery-domain
@@ -17,6 +17,9 @@ classes:
 - Monk (Way of Shadow)
 - Ranger
 aliases: ["Pass without Trace"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 264. Available in the SRD.
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

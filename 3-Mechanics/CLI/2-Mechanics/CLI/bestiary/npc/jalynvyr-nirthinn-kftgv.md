@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/small
 - monster/type/elemental
+- npc
 aliases: ["Jalynvyr Nir'Thinn"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 155

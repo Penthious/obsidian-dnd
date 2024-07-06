@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/half-orc
+- npc
 aliases: ["Hrabbaz"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 205

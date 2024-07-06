@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/medium
 - monster/type/aberration
+- npc
 aliases: ["F'yorl"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 183

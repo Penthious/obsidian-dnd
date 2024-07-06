@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/druid
@@ -13,6 +13,9 @@ classes:
 - Druid
 - Wizard
 aliases: ["Conjure Elemental"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 225. Available in the SRD.
 ---
 # Conjure Elemental
 *5th-level, Conjuration*  

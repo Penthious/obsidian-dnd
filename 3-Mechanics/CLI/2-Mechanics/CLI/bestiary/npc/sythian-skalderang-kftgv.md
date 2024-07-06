@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/bard
 - monster/type/humanoid/tiefling
+- npc
 aliases: ["Sythian Skalderang"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (bard, tiefling)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 117

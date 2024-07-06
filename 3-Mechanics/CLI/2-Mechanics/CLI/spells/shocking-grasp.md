@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -19,6 +19,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Shocking Grasp"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 275. Available in the SRD and the Basic Rules.
 ---
 # Shocking Grasp
 *cantrip, Evocation*  

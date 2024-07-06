@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/medium
 - monster/type/humanoid/kenku
+- npc
 aliases: ["Clonk"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (kenku)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 83

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -24,6 +24,9 @@ classes:
 - Warlock (The Undying)
 - Wizard
 aliases: ["Feign Death"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 240
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  

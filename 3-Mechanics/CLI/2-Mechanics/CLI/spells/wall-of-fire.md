@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/artillerist
@@ -27,6 +27,9 @@ classes:
 - Warlock (The Fiend)
 - Wizard
 aliases: ["Wall of Fire"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 285. Available in the SRD and the Basic Rules.
 ---
 # Wall of Fire
 *4th-level, Evocation*  

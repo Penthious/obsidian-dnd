@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/idrotf
 - spell/class/fighter/eldritch-knight
@@ -13,6 +13,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Frost Fingers"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Icewind Dale: Rime of the Frostmaiden p. 318
 ---
 # Frost Fingers
 *1st-level, Evocation*  

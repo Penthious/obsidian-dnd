@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -21,6 +21,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Geas"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 244. Available in the SRD.
 ---
 # Geas
 *5th-level, Enchantment*  

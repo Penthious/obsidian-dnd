@@ -7,8 +7,9 @@ tags:
 - monster/cr/16
 - monster/size/medium
 - monster/type/fiend/devil
+- npc
 aliases: ["Titivilus"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179

@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/large
 - monster/type/humanoid/sahuagin
+- npc
 aliases: ["Ghald"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 210

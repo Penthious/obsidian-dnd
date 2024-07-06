@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/small
 - monster/type/humanoid/goblinoid
+- npc
 aliases: ["Grenl"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 25

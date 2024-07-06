@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Gregir Fendelsohn (Levels 5-8)"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 8

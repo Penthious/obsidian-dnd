@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -11,6 +11,9 @@ classes:
 - Bard
 - Warlock
 aliases: ["Glibness"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 245. Available in the SRD.
 ---
 # Glibness
 *8th-level, Transmutation*  

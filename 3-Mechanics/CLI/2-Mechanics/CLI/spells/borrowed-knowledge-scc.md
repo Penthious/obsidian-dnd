@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/scc
 - spell/class/bard
@@ -21,6 +21,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Borrowed Knowledge"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Strixhaven: A Curriculum of Chaos p. 37
 ---
 # Borrowed Knowledge
 *2nd-level, Divination*  

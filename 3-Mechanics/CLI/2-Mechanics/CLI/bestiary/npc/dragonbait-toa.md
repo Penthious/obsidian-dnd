@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/humanoid/saurial
+- npc
 aliases: ["Dragonbait"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (saurial)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 218

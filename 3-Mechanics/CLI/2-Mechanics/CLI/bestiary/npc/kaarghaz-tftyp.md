@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/troglodyte
+- npc
 aliases: ["Kaarghaz"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (troglodyte)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 45

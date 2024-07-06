@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -21,6 +21,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Celestial)
 aliases: ["Guardian of Faith"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 246. Available in the SRD and the Basic Rules.
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

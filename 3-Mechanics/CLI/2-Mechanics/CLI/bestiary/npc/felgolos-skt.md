@@ -7,8 +7,9 @@ tags:
 - monster/cr/15
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Felgolos"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 192

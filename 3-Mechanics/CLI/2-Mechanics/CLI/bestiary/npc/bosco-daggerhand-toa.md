@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Bosco Daggerhand"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 68

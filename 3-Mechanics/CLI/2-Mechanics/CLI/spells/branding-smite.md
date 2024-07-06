@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/battle-smith
@@ -13,6 +13,9 @@ classes:
 - Paladin
 - Warlock (The Hexblade)
 aliases: ["Branding Smite"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 219. Available in the SRD.
 ---
 # Branding Smite
 *2nd-level, Evocation*  

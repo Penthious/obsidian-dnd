@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Lahnis"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 131

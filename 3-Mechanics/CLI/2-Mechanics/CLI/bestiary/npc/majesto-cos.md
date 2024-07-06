@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/tiny
 - monster/type/fiend/devil
+- npc
 aliases: ["Majesto"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 115

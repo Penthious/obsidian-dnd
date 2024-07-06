@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/damaran-human
+- npc
 aliases: ["Miros Xelbrin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Damaran human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 251

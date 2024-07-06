@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/warlock
@@ -9,6 +9,9 @@ tags:
 classes:
 - Warlock
 aliases: ["Hex"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 251
 ---
 # Hex
 *1st-level, Enchantment*  

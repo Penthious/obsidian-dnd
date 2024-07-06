@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/water-genasi
+- npc
 aliases: ["Shoalar Quanderil"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Water genasi)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 208

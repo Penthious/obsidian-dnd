@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/fey
+- npc
 aliases: ["Siren"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 243, Mythic Odysseys of Theros

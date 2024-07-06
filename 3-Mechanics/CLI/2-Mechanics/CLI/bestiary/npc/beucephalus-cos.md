@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/large
 - monster/type/fiend
+- npc
 aliases: ["Beucephalus"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 93

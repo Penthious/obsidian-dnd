@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/large
 - monster/type/dragon
+- npc
 aliases: ["Otto"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 96

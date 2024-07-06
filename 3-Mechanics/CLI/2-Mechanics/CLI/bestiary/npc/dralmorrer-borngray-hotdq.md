@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/high-elf
+- npc
 aliases: ["Dralmorrer Borngray"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (High elf)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 90

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/tempest-domain
@@ -23,6 +23,9 @@ classes:
 - Warlock (The Genie)
 - Wizard
 aliases: ["Gust of Wind"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 248. Available in the SRD.
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

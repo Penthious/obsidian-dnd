@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/nature-domain
@@ -19,6 +19,9 @@ classes:
 - Warlock (The Archfey)
 - Warlock (The Great Old One)
 aliases: ["Dominate Beast"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 234. Available in the SRD.
 ---
 # Dominate Beast
 *4th-level, Enchantment*  

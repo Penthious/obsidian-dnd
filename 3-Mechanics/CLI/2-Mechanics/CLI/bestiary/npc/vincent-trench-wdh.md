@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/medium
 - monster/type/fiend
+- npc
 aliases: ["Vincent Trench"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 32

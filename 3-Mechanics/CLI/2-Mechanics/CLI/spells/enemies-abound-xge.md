@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/bard
@@ -19,6 +19,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Enemies Abound"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 155
 ---
 # Enemies Abound
 *3rd-level, Enchantment*  

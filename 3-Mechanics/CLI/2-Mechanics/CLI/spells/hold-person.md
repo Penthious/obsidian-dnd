@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -35,6 +35,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Hold Person"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 251. Available in the SRD and the Basic Rules.
 ---
 # Hold Person
 *2nd-level, Enchantment*  

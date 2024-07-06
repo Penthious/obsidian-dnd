@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -15,6 +15,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Fathomless)
 aliases: ["Create or Destroy Water"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 229. Available in the SRD.
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -25,6 +25,9 @@ classes:
 - Warlock (The Undead)
 - Wizard
 aliases: ["Phantasmal Force"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 264
 ---
 # Phantasmal Force
 *2nd-level, Illusion*  

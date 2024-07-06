@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/shou-human
+- npc
 aliases: ["Zi Liang"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Shou human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 251

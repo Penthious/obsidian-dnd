@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/dragonborn
+- npc
 aliases: ["Valetta"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dragonborn)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 47

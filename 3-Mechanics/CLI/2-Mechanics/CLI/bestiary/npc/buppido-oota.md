@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/small
 - monster/type/humanoid/derro
+- npc
 aliases: ["Buppido"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (derro)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 6

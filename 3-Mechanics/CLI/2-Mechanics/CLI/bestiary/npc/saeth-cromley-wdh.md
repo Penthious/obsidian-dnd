@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/illuskan-human
+- npc
 aliases: ["Saeth Cromley"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 216

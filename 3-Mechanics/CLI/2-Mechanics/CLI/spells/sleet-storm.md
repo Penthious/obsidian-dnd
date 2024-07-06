@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/tempest-domain
@@ -25,6 +25,9 @@ classes:
 - Warlock (The Genie)
 - Wizard
 aliases: ["Sleet Storm"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 276. Available in the SRD.
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

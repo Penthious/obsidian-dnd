@@ -7,8 +7,9 @@ tags:
 - monster/cr/21
 - monster/size/large
 - monster/type/fiend/devil
+- npc
 aliases: ["Hutijin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175

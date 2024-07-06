@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -23,6 +23,9 @@ classes:
 - Druid
 - Sorcerer (Divine Soul)
 aliases: ["Guidance"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 248. Available in the SRD and the Basic Rules.
 ---
 # Guidance
 *cantrip, Divination*  

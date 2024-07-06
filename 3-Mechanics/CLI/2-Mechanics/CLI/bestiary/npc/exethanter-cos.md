@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Exethanter"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 189

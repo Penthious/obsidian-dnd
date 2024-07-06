@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/large
 - monster/type/aberration
+- npc
 aliases: ["Lorthuun"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 141

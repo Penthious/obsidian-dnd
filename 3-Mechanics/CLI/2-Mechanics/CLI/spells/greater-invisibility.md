@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/armorer
@@ -31,6 +31,9 @@ classes:
 - Warlock (The Undead)
 - Wizard
 aliases: ["Greater Invisibility"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 246. Available in the SRD and the Basic Rules.
 ---
 # Greater Invisibility
 *4th-level, Illusion*  

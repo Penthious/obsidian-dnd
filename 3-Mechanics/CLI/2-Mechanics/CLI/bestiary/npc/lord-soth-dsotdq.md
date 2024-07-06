@@ -7,8 +7,9 @@ tags:
 - monster/cr/19
 - monster/size/medium
 - monster/type/undead/paladin
+- npc
 aliases: ["Lord Soth"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead (paladin)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 206

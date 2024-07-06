@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/nature-domain
@@ -17,6 +17,9 @@ classes:
 - Ranger
 - Warlock (The Genie)
 aliases: ["Spike Growth"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 277. Available in the SRD.
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

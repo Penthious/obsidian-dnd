@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/humanoid/lizardfolk
+- npc
 aliases: ["Othokent"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
 BookSource: Ghosts of Saltmarsh p. 81

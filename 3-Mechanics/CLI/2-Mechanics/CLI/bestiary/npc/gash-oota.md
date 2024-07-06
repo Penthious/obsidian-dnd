@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/gnoll
+- npc
 aliases: ["Gash"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnoll)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 181

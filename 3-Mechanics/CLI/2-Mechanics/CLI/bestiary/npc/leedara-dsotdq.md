@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/undead/elf
+- npc
 aliases: ["Leedara"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead (elf)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 58

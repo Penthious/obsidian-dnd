@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/druid/circle-of-the-land
@@ -27,6 +27,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Misty Step"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 260. Available in the SRD and the Basic Rules.
 ---
 # Misty Step
 *2nd-level, Conjuration*  

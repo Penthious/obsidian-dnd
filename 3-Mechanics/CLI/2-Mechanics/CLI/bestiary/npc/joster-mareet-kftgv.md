@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/medium
 - monster/type/fiend/shapechanger
+- npc
 aliases: ["Joster Mareet"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (shapechanger)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 107

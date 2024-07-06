@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -31,6 +31,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Stoneskin"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 278. Available in the SRD and the Basic Rules.
 ---
 # Stoneskin
 *4th-level, Abjuration*  

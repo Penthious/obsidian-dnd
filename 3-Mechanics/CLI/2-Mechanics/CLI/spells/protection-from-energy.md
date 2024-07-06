@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -37,6 +37,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Protection from Energy"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 270. Available in the SRD and the Basic Rules.
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  

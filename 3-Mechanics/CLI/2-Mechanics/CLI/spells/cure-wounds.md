@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -27,6 +27,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Celestial)
 aliases: ["Cure Wounds"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 230. Available in the SRD and the Basic Rules.
 ---
 # Cure Wounds
 *1st-level, Evocation*  

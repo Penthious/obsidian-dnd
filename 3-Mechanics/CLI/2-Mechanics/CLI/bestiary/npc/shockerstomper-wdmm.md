@@ -7,8 +7,9 @@ tags:
 - monster/cr/14
 - monster/size/gargantuan
 - monster/type/construct
+- npc
 aliases: ["Shockerstomper"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 174

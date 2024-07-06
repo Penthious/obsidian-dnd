@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/scc
 - spell/class/artificer
@@ -19,6 +19,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Kinetic Jaunt"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Strixhaven: A Curriculum of Chaos p. 37
 ---
 # Kinetic Jaunt
 *2nd-level, Transmutation*  

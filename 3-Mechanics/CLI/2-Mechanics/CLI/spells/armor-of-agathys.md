@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/paladin/oath-of-conquest
@@ -11,6 +11,9 @@ classes:
 - Paladin (Oath of Conquest)
 - Warlock
 aliases: ["Armor of Agathys"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 215
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  

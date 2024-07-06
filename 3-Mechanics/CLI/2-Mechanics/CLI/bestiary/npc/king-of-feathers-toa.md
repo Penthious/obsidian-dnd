@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/huge
 - monster/type/monstrosity
+- npc
 aliases: ["King of Feathers"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 106

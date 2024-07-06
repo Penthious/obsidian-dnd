@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/large
 - monster/type/plant
+- npc
 aliases: ["Sinensa"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: Dragons of Stormwreck Isle p. 45

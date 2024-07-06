@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/cleric
 - monster/type/humanoid/human
+- npc
 aliases: ["Mercion"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (cleric, human)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 224

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric/arcana-domain
@@ -11,6 +11,9 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases: ["Tenser's Transformation"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 168
 ---
 # Tenser's Transformation
 *6th-level, Transmutation*  

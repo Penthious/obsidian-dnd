@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Manshoon"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 209

@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/medium
 - monster/type/humanoid/elf
+- npc
 aliases: ["Zress Orlezziir"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 136

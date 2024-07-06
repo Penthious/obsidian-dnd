@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -41,6 +41,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Dispel Magic"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 234. Available in the SRD and the Basic Rules.
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  

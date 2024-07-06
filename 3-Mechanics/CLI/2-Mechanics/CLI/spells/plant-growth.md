@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -23,6 +23,9 @@ classes:
 - Ranger
 - Warlock (The Archfey)
 aliases: ["Plant Growth"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 266. Available in the SRD.
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/22
 - monster/size/gargantuan
 - monster/type/dragon
+- npc
 aliases: ["Claugiyliamatar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 96

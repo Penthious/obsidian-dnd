@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/tiny
 - monster/type/beast
+- npc
 aliases: ["Sylgar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 220

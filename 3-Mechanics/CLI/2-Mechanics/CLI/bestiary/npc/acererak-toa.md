@@ -7,8 +7,9 @@ tags:
 - monster/cr/23
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Acererak"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 209

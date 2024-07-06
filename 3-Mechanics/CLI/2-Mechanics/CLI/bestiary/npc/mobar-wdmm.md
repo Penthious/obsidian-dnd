@@ -8,8 +8,9 @@ tags:
 - monster/size/small
 - monster/type/humanoid/goblinoid
 - monster/type/humanoid/shapechanger
+- npc
 aliases: ["Mobar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (goblinoid, shapechanger)
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 77

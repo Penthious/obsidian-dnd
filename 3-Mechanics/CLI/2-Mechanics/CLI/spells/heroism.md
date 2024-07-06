@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/battle-smith
@@ -19,6 +19,9 @@ classes:
 - Paladin (Oath of Glory)
 - Paladin
 aliases: ["Heroism"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 250. Available in the SRD.
 ---
 # Heroism
 *1st-level, Enchantment*  

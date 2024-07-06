@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -27,6 +27,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Confusion"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 224. Available in the SRD.
 ---
 # Confusion
 *4th-level, Enchantment*  

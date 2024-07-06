@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -19,6 +19,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Fly"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 243. Available in the SRD and the Basic Rules.
 ---
 # Fly
 *3rd-level, Transmutation*  

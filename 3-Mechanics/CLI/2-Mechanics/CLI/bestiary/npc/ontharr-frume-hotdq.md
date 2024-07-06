@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Ontharr Frume"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 28

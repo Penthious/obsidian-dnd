@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Xilonen"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 83

@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Mormesk the Wraith"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 70

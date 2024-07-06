@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -19,6 +19,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Archfey)
 aliases: ["Calm Emotions"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 221. Available in the SRD.
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

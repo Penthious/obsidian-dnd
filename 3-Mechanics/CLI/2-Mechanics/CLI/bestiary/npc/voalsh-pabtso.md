@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/medium
 - monster/type/aberration
+- npc
 aliases: ["Voalsh"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 194

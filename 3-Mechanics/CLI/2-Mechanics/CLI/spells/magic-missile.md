@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/armorer
@@ -19,6 +19,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Magic Missile"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 257. Available in the SRD and the Basic Rules.
 ---
 # Magic Missile
 *1st-level, Evocation*  

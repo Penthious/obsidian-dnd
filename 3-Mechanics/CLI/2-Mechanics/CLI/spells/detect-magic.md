@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -34,6 +34,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Detect Magic"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 231. Available in the SRD and the Basic Rules.
 ---
 # Detect Magic
 *1st-level, Divination (ritual)*  

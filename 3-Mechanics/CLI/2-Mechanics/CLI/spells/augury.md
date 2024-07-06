@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/barbarian/path-of-the-ancestral-guardian
@@ -20,6 +20,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer (Divine Soul)
 aliases: ["Augury"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 215. Available in the SRD and the Basic Rules.
 ---
 # Augury
 *2nd-level, Divination (ritual)*  

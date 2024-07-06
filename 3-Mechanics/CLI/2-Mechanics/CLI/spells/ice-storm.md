@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/artillerist
@@ -25,6 +25,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Ice Storm"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 252. Available in the SRD and the Basic Rules.
 ---
 # Ice Storm
 *4th-level, Evocation*  

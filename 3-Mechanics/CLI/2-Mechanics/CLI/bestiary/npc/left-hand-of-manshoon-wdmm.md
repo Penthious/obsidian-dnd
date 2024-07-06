@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/tiny
 - monster/type/undead
+- npc
 aliases: ["Left Hand of Manshoon"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 119

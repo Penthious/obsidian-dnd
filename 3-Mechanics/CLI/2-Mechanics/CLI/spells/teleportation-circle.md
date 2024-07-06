@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -17,6 +17,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Teleportation Circle"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 282. Available in the SRD.
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

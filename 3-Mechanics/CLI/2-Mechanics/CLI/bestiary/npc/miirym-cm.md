@@ -7,8 +7,9 @@ tags:
 - monster/cr/22
 - monster/size/large
 - monster/type/undead
+- npc
 aliases: ["Miirym"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 16

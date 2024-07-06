@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -15,6 +15,9 @@ classes:
 - Cleric (Forge Domain)
 - Druid
 aliases: ["Heat Metal"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 250. Available in the SRD.
 ---
 # Heat Metal
 *2nd-level, Transmutation*  

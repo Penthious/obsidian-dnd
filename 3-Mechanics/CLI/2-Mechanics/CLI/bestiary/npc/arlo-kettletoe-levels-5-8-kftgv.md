@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/halfling
+- npc
 aliases: ["Arlo Kettletoe (Levels 5-8)"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (halfling)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 8

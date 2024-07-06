@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Arrant Quill"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 157

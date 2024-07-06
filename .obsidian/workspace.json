@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "z_Templates/TemplateNPC.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "z_Templates/TemplateNPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md",
+                "file": "z_Templates/TemplateNPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-DM Toolkit/DM Board.md"
+                "file": "z_Templates/TemplateNPC.md"
               }
             }
           },
@@ -241,11 +241,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "48dff2d45796c44b",
   "lastOpenFiles": [
-    "1-Party/NewPlayer.md",
+    "z_Templates/TemplatePlayer.md",
     "1-Party/Phandelver and Below Party/Portland.md",
     "1-DM Toolkit/DM Board.md",
+    "1-Party/NewPlayer.md",
     "1-Party/Phandelver and Below Party/Phandelver and Below Party.md",
     "1-Session Journals/2024-06-01.md",
     "1-DM Toolkit/Home.md",
@@ -269,7 +270,6 @@
     "2-World/Phandalin",
     "2-World/Logger's Camp.md",
     "2-World/Lampoteuo/The Wound/The Wound.md",
-    "3-Mechanics/CLI/2-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md",
     "z_Templates/4_Markdown/Call Out Boxes 2",
     "3-Mechanics/CLI/2-Mechanics/CLI/rules/variant-rules",
     "3-Mechanics/CLI/2-Mechanics/CLI/bestiary/undead",

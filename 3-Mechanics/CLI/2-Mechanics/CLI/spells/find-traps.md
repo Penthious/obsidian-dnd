@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -15,6 +15,9 @@ classes:
 - Ranger
 - Sorcerer (Divine Soul)
 aliases: ["Find Traps"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 241. Available in the SRD.
 ---
 # Find Traps
 *2nd-level, Divination*  

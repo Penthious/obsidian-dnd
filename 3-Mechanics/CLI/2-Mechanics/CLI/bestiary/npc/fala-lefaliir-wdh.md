@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/wood-elf
+- npc
 aliases: ["Fala Lefaliir"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Wood elf)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 32

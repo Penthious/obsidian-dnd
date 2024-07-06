@@ -7,8 +7,9 @@ tags:
 - monster/cr/17
 - monster/size/huge
 - monster/type/undead
+- npc
 aliases: ["Zikzokrishka"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 209

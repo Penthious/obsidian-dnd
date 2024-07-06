@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/small
 - monster/type/humanoid/strongheart-halfling
+- npc
 aliases: ["Oren Yogilvy"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Strongheart halfling)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 252

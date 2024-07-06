@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric
@@ -17,6 +17,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Life Transference"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 160
 ---
 # Life Transference
 *3rd-level, Necromancy*  

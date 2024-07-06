@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/light-domain
@@ -25,6 +25,9 @@ classes:
 - Warlock (The Genie)
 - Wizard
 aliases: ["Burning Hands"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 220. Available in the SRD and the Basic Rules.
 ---
 # Burning Hands
 *1st-level, Evocation*  

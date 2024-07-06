@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -19,6 +19,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Otiluke's Resilient Sphere"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 264. Available in the SRD (as 'Resilient Sphere').
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Evocation*  

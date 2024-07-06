@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/fiend/devil
+- npc
 aliases: ["Osvaldo Cassalanter"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 124

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/tethyrian-human
+- npc
 aliases: ["Orond Gralhund"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Tethyrian human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 213

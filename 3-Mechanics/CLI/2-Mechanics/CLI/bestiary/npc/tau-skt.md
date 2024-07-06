@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/shou-human
+- npc
 aliases: ["Tau"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Shou human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 103

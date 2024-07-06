@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/medium
 - monster/type/monstrosity
+- npc
 aliases: ["Auril (First Form)"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 275

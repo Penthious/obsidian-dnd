@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/half-dragon
+- npc
 aliases: ["Zindar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-dragon)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 239

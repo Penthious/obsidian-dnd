@@ -7,8 +7,9 @@ tags:
 - monster/cr/26
 - monster/size/gargantuan
 - monster/type/monstrosity/titan
+- npc
 aliases: ["Tromokratis"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
 BookSource: Mythic Odysseys of Theros p. 254

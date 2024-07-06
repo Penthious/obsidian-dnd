@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/gargantuan
 - monster/type/dragon
+- npc
 aliases: ["Bronzefume"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 92

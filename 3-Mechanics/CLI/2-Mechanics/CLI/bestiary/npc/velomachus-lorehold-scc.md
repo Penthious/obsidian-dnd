@@ -7,8 +7,9 @@ tags:
 - monster/cr/25
 - monster/size/gargantuan
 - monster/type/dragon/wizard
+- npc
 aliases: ["Velomachus Lorehold"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon (wizard)
 SourceType: Bestiary
 BookSource: Strixhaven: A Curriculum of Chaos p. 219

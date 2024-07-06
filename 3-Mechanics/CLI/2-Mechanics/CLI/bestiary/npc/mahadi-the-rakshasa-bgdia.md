@@ -7,8 +7,9 @@ tags:
 - monster/cr/14
 - monster/size/medium
 - monster/type/fiend
+- npc
 aliases: ["Mahadi the Rakshasa"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 127

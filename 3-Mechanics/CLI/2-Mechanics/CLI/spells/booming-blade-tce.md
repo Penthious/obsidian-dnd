@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/class/artificer
@@ -21,6 +21,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Booming Blade"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 106, Sword Coast Adventurer's Guide p. 142
 ---
 # Booming Blade
 *cantrip, Evocation*  

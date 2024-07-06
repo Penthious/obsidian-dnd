@@ -7,8 +7,9 @@ tags:
 - monster/cr/16
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Hlam"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 204

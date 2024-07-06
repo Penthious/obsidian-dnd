@@ -7,8 +7,9 @@ tags:
 - monster/cr/16
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Valin Sarnaster"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 182

@@ -8,8 +8,9 @@ tags:
 - monster/size/small
 - monster/type/humanoid/gnome
 - monster/type/humanoid/shapechanger
+- npc
 aliases: ["The Pudding King"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnome, shapechanger)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 233

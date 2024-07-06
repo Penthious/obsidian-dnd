@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/earth-genasi
+- npc
 aliases: ["Miraj Vizann"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Earth genasi)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 198

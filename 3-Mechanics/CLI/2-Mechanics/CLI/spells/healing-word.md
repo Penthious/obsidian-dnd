@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/alchemist
@@ -17,6 +17,9 @@ classes:
 - Druid
 - Sorcerer (Divine Soul)
 aliases: ["Healing Word"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 250. Available in the SRD and the Basic Rules.
 ---
 # Healing Word
 *1st-level, Evocation*  

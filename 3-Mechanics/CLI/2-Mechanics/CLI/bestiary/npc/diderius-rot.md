@@ -7,8 +7,9 @@ tags:
 - monster/cr/15
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Diderius"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: The Rise of Tiamat p. 40

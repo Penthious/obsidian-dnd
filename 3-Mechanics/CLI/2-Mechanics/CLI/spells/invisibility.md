@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -23,6 +23,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Invisibility"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 254. Available in the SRD and the Basic Rules.
 ---
 # Invisibility
 *2nd-level, Illusion*  

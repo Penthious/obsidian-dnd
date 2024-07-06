@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/large
 - monster/type/plant
+- npc
 aliases: ["Sovereign Basidia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: plant
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 88

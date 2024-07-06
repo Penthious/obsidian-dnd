@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/aberration/mind-flayer
 - monster/type/aberration/warlock
+- npc
 aliases: ["Qunbraxel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration (mind flayer, warlock)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 135

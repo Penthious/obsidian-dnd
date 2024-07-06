@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/artificer
@@ -20,6 +20,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Skywrite"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 165
 ---
 # Skywrite
 *2nd-level, Transmutation (ritual)*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/goliath
+- npc
 aliases: ["Aruk Thundercaller Thuunlakalaga"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (goliath)
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 169

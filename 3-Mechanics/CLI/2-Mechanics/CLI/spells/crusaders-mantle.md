@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/war-domain
@@ -11,6 +11,9 @@ classes:
 - Cleric (War Domain)
 - Paladin
 aliases: ["Crusader's Mantle"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 230
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  

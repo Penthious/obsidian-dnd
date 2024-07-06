@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/fey
+- npc
 aliases: ["Lungtian"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 136

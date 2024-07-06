@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/artillerist
@@ -17,6 +17,9 @@ classes:
 - Ranger
 - Warlock (The Genie)
 aliases: ["Wind Wall"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 288. Available in the SRD.
 ---
 # Wind Wall
 *3rd-level, Evocation*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/small
 - monster/type/humanoid/gnome
+- npc
 aliases: ["Rivibiddel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 122

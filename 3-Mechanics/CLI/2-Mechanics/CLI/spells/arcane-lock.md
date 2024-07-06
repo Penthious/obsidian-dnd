@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -15,6 +15,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Arcane Lock"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 215. Available in the SRD and the Basic Rules.
 ---
 # Arcane Lock
 *2nd-level, Abjuration*  

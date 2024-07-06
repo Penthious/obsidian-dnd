@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/battle-smith
@@ -17,6 +17,9 @@ classes:
 - Paladin
 - Sorcerer (Divine Soul)
 aliases: ["Aura of Purity"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 216
 ---
 # Aura of Purity
 *4th-level, Abjuration*  

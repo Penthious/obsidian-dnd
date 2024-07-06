@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/huge
 - monster/type/giant
+- npc
 aliases: ["Grutha"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 170

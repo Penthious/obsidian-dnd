@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
@@ -19,6 +19,9 @@ classes:
 - Warlock (The Great Old One)
 - Wizard
 aliases: ["Evard's Black Tentacles"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 238. Available in the SRD (as 'Black Tentacles').
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

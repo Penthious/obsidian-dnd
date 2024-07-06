@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/large
 - monster/type/undead
+- npc
 aliases: ["Nerozar the Defeated"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 52

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/alchemist
@@ -17,6 +17,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Melf's Acid Arrow"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 259. Available in the SRD (as 'Acid Arrow').
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

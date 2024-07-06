@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/ftd
 - spell/class/fighter/eldritch-knight
@@ -15,10 +15,13 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Rime's Binding Ice"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Fizban's Treasury of Dragons p. 21
 ---
 # Rime's Binding Ice
 *2nd-level, Evocation*  
-![Rime's binding ice adds in...](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/spells/FTD/Rime%27s%20Binding%20Ice.webp#right "Rime's binding ice adds insult to injury in the hands of a spellcasting white dragon.")  
+![Rime's binding ice adds in...](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/spells/FTD/Rime%27s%20Binding%20Ice.webp#right)  
 
 - **Casting time:** 1 action
 - **Range:** Self (30-feet cone)

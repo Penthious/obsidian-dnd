@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/large
 - monster/type/construct
+- npc
 aliases: ["Jade Statue"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 195

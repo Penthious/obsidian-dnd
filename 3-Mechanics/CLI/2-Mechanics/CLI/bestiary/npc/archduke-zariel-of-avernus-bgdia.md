@@ -7,8 +7,9 @@ tags:
 - monster/cr/26
 - monster/size/large
 - monster/type/fiend/devil
+- npc
 aliases: ["Archduke Zariel of Avernus"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 243

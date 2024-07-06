@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -11,6 +11,9 @@ classes:
 - Cleric
 - Sorcerer (Divine Soul)
 aliases: ["Holy Aura"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 251. Available in the SRD and the Basic Rules.
 ---
 # Holy Aura
 *8th-level, Abjuration*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/gith
+- npc
 aliases: ["Al'chaia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gith)
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 218

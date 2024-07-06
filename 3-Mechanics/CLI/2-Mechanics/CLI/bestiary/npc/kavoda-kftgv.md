@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/small
 - monster/type/humanoid/gnome
+- npc
 aliases: ["Kavoda"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 78

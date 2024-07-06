@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/tiny
 - monster/type/fey
+- npc
 aliases: ["Nene"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 205

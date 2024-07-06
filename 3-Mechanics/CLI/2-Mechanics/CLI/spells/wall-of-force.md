@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/armorer
@@ -17,6 +17,9 @@ classes:
 - Sorcerer (Clockwork Soul)
 - Wizard
 aliases: ["Wall of Force"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 285. Available in the SRD.
 ---
 # Wall of Force
 *5th-level, Evocation*  

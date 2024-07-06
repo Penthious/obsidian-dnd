@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/wizard
+- npc
 aliases: ["Ringlerun"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, wizard)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 227

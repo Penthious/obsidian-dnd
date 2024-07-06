@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
 - monster/type/monstrosity/yuan-ti
+- npc
 aliases: ["Oussa"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 157

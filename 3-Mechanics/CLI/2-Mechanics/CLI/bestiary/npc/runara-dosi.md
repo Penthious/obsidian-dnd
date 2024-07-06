@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Runara"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Dragons of Stormwreck Isle p. 40

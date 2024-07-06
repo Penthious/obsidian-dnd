@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Isendraug"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 164

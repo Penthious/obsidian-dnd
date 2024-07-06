@@ -7,8 +7,9 @@ tags:
 - monster/cr/25
 - monster/size/gargantuan
 - monster/type/dragon
+- npc
 aliases: ["Klauth"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 95

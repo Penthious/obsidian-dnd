@@ -7,8 +7,9 @@ tags:
 - monster/cr/17
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Zalthar Shadowdusk"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 286

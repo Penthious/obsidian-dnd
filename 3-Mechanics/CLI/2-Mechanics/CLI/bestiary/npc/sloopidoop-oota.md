@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/kuo-toa
+- npc
 aliases: ["Sloopidoop"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (kuo-toa)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 29

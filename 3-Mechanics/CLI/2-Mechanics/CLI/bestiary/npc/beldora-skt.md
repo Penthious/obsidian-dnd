@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/illuskan-human
+- npc
 aliases: ["Beldora"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Illuskan human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 249

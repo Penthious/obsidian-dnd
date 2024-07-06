@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -19,6 +19,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Undead)
 aliases: ["Bane"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 216. Available in the SRD.
 ---
 # Bane
 *1st-level, Enchantment*  

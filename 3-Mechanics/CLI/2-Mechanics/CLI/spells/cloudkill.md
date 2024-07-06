@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/alchemist
@@ -23,6 +23,9 @@ classes:
 - Warlock (The Undead)
 - Wizard
 aliases: ["Cloudkill"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 222. Available in the SRD.
 ---
 # Cloudkill
 *5th-level, Conjuration*  

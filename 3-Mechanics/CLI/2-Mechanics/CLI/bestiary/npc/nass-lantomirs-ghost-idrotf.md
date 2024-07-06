@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Nass Lantomir's Ghost"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 272

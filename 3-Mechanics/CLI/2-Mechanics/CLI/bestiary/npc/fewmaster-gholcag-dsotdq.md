@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/large
 - monster/type/giant
+- npc
 aliases: ["Fewmaster Gholcag"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 74

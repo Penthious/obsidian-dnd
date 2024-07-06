@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/large
 - monster/type/beast
+- npc
 aliases: ["Spider King"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 74

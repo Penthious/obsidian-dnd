@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/large
 - monster/type/elemental
+- npc
 aliases: ["Jarazoun"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 200

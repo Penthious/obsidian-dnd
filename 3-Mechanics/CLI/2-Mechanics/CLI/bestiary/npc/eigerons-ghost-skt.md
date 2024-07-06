@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/huge
 - monster/type/undead
+- npc
 aliases: ["Eigeron's Ghost"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 129

@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/construct
+- npc
 aliases: ["Halaster Puppet"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 31

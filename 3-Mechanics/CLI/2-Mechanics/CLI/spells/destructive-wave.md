@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/tempest-domain
@@ -11,6 +11,9 @@ classes:
 - Cleric (Tempest Domain)
 - Paladin
 aliases: ["Destructive Wave"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 231
 ---
 # Destructive Wave
 *5th-level, Evocation*  

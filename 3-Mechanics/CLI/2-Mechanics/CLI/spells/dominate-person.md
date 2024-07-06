@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -25,6 +25,9 @@ classes:
 - Warlock (The Great Old One)
 - Wizard
 aliases: ["Dominate Person"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 235. Available in the SRD and the Basic Rules.
 ---
 # Dominate Person
 *5th-level, Enchantment*  

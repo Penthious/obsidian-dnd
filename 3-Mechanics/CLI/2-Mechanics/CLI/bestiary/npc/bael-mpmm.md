@@ -7,8 +7,9 @@ tags:
 - monster/cr/19
 - monster/size/large
 - monster/type/fiend/devil
+- npc
 aliases: ["Bael"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 54, Mordenkainen's Tome of Foes p. 170

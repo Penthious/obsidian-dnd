@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/undead/mind-flayer
 - monster/type/undead/wizard
+- npc
 aliases: ["Oshundo the Alhoon"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead (mind flayer, wizard)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 153

@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/medium
 - monster/type/fiend/yugoloth
+- npc
 aliases: ["Jijibisha Manivarshi"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (yugoloth)
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 128

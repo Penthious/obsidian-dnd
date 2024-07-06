@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/fey/hag
+- npc
 aliases: ["Endelyn Moongrave"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey (hag)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 217

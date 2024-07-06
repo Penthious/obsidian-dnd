@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/medium
 - monster/type/aberration/goblinoid
+- npc
 aliases: ["Ruxithid the Chosen"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration (goblinoid)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 99

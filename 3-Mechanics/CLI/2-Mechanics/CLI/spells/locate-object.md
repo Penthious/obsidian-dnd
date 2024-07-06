@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -25,6 +25,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Locate Object"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 256. Available in the SRD.
 ---
 # Locate Object
 *2nd-level, Divination*  

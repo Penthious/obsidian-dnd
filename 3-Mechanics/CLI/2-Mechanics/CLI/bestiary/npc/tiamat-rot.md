@@ -7,8 +7,9 @@ tags:
 - monster/cr/30
 - monster/size/gargantuan
 - monster/type/fiend
+- npc
 aliases: ["Tiamat"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend
 SourceType: Bestiary
 BookSource: The Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus

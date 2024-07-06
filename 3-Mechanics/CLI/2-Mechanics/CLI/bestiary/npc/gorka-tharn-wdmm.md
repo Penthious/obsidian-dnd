@@ -7,8 +7,9 @@ tags:
 - monster/cr/15
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Gorka Tharn"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 257

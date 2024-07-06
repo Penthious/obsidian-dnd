@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/tempest-domain
@@ -23,6 +23,9 @@ classes:
 - Warlock (The Genie)
 - Wizard
 aliases: ["Fog Cloud"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 243. Available in the SRD.
 ---
 # Fog Cloud
 *1st-level, Conjuration*  

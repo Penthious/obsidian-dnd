@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -17,6 +17,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Foresight"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 244. Available in the SRD and the Basic Rules.
 ---
 # Foresight
 *9th-level, Divination*  

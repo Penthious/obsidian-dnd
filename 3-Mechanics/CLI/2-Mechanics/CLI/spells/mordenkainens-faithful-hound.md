@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -15,6 +15,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Mordenkainen's Faithful Hound"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 261. Available in the SRD (as 'Faithful Hound').
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  

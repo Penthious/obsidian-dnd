@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -13,6 +13,9 @@ classes:
 - Ranger (Drakewarden)
 - Sorcerer (Divine Soul)
 aliases: ["Thaumaturgy"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 282. Available in the SRD and the Basic Rules.
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  

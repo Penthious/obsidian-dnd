@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Naergoth Bladelord"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: The Rise of Tiamat p. 90

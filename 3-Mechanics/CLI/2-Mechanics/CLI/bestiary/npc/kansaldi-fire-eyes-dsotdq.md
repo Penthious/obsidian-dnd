@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/cleric
 - monster/type/humanoid/human
+- npc
 aliases: ["Kansaldi Fire-Eyes"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (cleric, human)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 203

@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/quaggoth
+- npc
 aliases: ["Prince Derendil"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (quaggoth)
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 6

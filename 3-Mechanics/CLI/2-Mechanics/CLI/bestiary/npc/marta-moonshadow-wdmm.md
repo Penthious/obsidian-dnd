@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Marta Moonshadow"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 46

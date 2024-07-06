@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/nature-domain
@@ -13,6 +13,9 @@ classes:
 - Druid
 - Ranger
 aliases: ["Grasping Vine"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 246
 ---
 # Grasping Vine
 *4th-level, Conjuration*  

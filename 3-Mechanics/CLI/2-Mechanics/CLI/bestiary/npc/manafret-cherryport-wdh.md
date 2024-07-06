@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/small
 - monster/type/humanoid/lightfoot-halfling
+- npc
 aliases: ["Manafret Cherryport"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Lightfoot halfling)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 149

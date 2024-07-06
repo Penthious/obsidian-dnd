@@ -7,8 +7,9 @@ tags:
 - monster/cr/16
 - monster/size/large
 - monster/type/fey
+- npc
 aliases: ["Nintra Siotta"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
 BookSource: Candlekeep Mysteries p. 197

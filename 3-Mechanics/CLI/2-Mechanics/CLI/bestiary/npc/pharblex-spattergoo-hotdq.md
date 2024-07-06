@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/bullywug
+- npc
 aliases: ["Pharblex Spattergoo"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (bullywug)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 91

@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/turami-human
+- npc
 aliases: ["Shalvus Martholio"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Turami human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 250

@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/huge
 - monster/type/monstrosity
+- npc
 aliases: ["Maw of Sekolah"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Ghosts of Saltmarsh p. 244

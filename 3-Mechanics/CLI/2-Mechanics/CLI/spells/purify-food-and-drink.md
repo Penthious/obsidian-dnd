@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -18,6 +18,9 @@ classes:
 - Paladin
 - Sorcerer (Divine Soul)
 aliases: ["Purify Food and Drink"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 270. Available in the SRD.
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

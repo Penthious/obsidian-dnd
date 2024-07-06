@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-4
 - monster/size/tiny
 - monster/type/construct
+- npc
 aliases: ["Squirt the Oilcan"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 110

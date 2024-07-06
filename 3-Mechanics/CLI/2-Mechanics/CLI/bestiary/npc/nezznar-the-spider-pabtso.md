@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/elf
 - monster/type/humanoid/wizard
+- npc
 aliases: ["Nezznar the Spider"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf, wizard)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 74

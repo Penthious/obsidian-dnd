@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -29,6 +29,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Scrying"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 273. Available in the SRD.
 ---
 # Scrying
 *5th-level, Divination*  

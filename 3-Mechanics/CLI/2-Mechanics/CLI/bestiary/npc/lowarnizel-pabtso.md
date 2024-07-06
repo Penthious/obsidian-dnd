@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/large
 - monster/type/dragon/young-gem
+- npc
 aliases: ["Lowarnizel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon (young gem)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 181

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/artificer
@@ -21,6 +21,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Absorb Elements"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 150
 ---
 # Absorb Elements
 *1st-level, Abjuration*  

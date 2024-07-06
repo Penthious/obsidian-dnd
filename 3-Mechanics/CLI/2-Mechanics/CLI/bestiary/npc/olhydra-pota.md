@@ -7,8 +7,9 @@ tags:
 - monster/cr/18
 - monster/size/huge
 - monster/type/elemental
+- npc
 aliases: ["Olhydra"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 218

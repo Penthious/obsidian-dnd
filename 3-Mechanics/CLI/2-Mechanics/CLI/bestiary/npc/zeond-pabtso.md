@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/tiny
 - monster/type/fiend/demon
+- npc
 aliases: ["Zeond"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Phandelver and Below: The Shattered Obelisk p. 43

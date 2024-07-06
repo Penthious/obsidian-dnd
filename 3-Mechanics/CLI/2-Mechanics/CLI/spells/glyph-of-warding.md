@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -21,6 +21,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Glyph of Warding"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 245. Available in the SRD.
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

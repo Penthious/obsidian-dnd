@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/large
 - monster/type/elemental
+- npc
 aliases: ["Navid"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 159

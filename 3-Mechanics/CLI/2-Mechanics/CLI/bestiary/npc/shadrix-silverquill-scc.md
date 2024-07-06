@@ -7,8 +7,9 @@ tags:
 - monster/cr/22
 - monster/size/gargantuan
 - monster/type/dragon/bard
+- npc
 aliases: ["Shadrix Silverquill"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon (bard)
 SourceType: Bestiary
 BookSource: Strixhaven: A Curriculum of Chaos p. 212

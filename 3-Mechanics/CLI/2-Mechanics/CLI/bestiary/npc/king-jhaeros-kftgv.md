@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/large
 - monster/type/construct
+- npc
 aliases: ["King Jhaeros"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 158

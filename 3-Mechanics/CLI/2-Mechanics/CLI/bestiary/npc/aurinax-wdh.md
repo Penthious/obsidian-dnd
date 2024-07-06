@@ -7,8 +7,9 @@ tags:
 - monster/cr/17
 - monster/size/huge
 - monster/type/dragon
+- npc
 aliases: ["Aurinax"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 194

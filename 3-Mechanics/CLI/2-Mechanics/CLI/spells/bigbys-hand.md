@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -13,6 +13,9 @@ classes:
 - Warlock (The Fathomless)
 - Wizard
 aliases: ["Bigby's Hand"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 218. Available in the SRD (as 'Arcane Hand').
 ---
 # Bigby's Hand
 *5th-level, Evocation*  

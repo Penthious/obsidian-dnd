@@ -7,8 +7,9 @@ tags:
 - monster/cr/21
 - monster/size/gargantuan
 - monster/type/dragon
+- npc
 aliases: ["Burney the Barber"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 129

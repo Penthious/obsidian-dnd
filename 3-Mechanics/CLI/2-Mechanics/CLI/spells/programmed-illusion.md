@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -13,6 +13,9 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases: ["Programmed Illusion"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 269. Available in the SRD.
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

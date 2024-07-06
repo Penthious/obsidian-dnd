@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/large
 - monster/type/fiend/devil
+- npc
 aliases: ["Bitter Breath"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 90

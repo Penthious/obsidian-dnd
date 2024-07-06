@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/medium
 - monster/type/elemental/wizard
+- npc
 aliases: ["Charmayne Daymore"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental (wizard)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 159

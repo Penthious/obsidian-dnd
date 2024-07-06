@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Yestabrod"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 233

@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/paladin
+- npc
 aliases: ["Strongheart"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, paladin)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 228

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/ranger
@@ -9,6 +9,9 @@ tags:
 classes:
 - Ranger
 aliases: ["Hail of Thorns"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 249
 ---
 # Hail of Thorns
 *1st-level, Conjuration*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/half-elf
+- npc
 aliases: ["Windharrow"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-elf)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 192

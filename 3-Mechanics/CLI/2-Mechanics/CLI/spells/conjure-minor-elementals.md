@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/druid
@@ -15,6 +15,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Conjure Minor Elementals"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 226. Available in the SRD.
 ---
 # Conjure Minor Elementals
 *4th-level, Conjuration*  

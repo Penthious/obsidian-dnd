@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/battle-smith
@@ -13,6 +13,9 @@ classes:
 - Paladin
 - Warlock (The Hexblade)
 aliases: ["Banishing Smite"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 216
 ---
 # Banishing Smite
 *5th-level, Abjuration*  

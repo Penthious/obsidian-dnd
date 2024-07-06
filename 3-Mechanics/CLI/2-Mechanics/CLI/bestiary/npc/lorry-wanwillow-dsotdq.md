@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/undead/kender
 - monster/type/undead/shapechanger
+- npc
 aliases: ["Lorry Wanwillow"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead (shapechanger, kender)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 177

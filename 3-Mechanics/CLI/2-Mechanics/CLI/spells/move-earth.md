@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -15,6 +15,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Move Earth"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 263. Available in the SRD.
 ---
 # Move Earth
 *6th-level, Transmutation*  

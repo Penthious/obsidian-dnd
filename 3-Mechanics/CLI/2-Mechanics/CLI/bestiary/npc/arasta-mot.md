@@ -7,8 +7,9 @@ tags:
 - monster/cr/21
 - monster/size/huge
 - monster/type/monstrosity
+- npc
 aliases: ["Arasta"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Mythic Odysseys of Theros p. 248

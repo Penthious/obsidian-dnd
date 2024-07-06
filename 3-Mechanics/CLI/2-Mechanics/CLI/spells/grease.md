@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -15,6 +15,9 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases: ["Grease"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 246. Available in the SRD.
 ---
 # Grease
 *1st-level, Conjuration*  

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/barbarian/path-of-the-ancestral-guardian
@@ -25,6 +25,9 @@ classes:
 - Warlock (The Great Old One)
 - Wizard
 aliases: ["Clairvoyance"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 222. Available in the SRD.
 ---
 # Clairvoyance
 *3rd-level, Divination*  

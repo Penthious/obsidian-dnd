@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric
@@ -14,6 +14,9 @@ classes:
 - Paladin
 - Sorcerer (Divine Soul)
 aliases: ["Ceremony"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 151
 ---
 # Ceremony
 *1st-level, Abjuration (ritual)*  

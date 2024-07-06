@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/huge
 - monster/type/giant/cloud-giant
+- npc
 aliases: ["Blagothkus"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant (cloud giant)
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 89

@@ -7,8 +7,9 @@ tags:
 - monster/cr/21
 - monster/size/large
 - monster/type/celestial
+- npc
 aliases: ["Atash"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 166

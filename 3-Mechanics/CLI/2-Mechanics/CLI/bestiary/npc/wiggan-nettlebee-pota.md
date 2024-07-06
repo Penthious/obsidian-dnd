@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/small
 - monster/type/humanoid/halfling
+- npc
 aliases: ["Wiggan Nettlebee"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (halfling)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 212

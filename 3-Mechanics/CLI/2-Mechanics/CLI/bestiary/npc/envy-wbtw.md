@@ -7,8 +7,9 @@ tags:
 - monster/cr/5
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Envy"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 178

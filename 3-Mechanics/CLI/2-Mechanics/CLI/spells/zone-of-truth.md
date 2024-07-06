@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -23,6 +23,9 @@ classes:
 - Ranger (Monster Slayer)
 - Sorcerer (Divine Soul)
 aliases: ["Zone of Truth"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 289. Available in the SRD.
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

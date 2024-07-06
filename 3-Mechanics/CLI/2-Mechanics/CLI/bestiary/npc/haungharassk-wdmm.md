@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/huge
 - monster/type/beast
+- npc
 aliases: ["Haungharassk"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 258

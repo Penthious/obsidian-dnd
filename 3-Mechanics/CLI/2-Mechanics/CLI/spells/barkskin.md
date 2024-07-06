@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/nature-domain
@@ -15,6 +15,9 @@ classes:
 - Druid
 - Ranger
 aliases: ["Barkskin"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 217. Available in the SRD.
 ---
 # Barkskin
 *2nd-level, Transmutation*  

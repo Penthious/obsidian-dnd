@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -17,6 +17,9 @@ classes:
 - Sorcerer (Lunar Sorcery)
 - Wizard
 aliases: ["Mislead"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 260. Available in the SRD.
 ---
 # Mislead
 *5th-level, Illusion*  

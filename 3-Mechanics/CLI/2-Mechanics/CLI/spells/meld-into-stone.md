@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -18,6 +18,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock (The Genie)
 aliases: ["Meld into Stone"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 259. Available in the SRD.
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

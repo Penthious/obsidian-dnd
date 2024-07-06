@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/armorer
@@ -23,6 +23,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Hypnotic Pattern"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 252. Available in the SRD.
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  

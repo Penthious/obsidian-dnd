@@ -7,8 +7,9 @@ tags:
 - monster/cr/17
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Hythonia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Mythic Odysseys of Theros p. 252

@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/elf
 - monster/type/humanoid/shadar-kai
+- npc
 aliases: ["Mister Witch"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (elf, shadar-kai)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 25

@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/small
 - monster/type/humanoid/kender
+- npc
 aliases: ["Tem Temble"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (kender)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 213

@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/bullywug
 - monster/type/humanoid/warlock
+- npc
 aliases: ["Murgaxor"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (bullywug, warlock)
 SourceType: Bestiary
 BookSource: Strixhaven: A Curriculum of Chaos p. 180

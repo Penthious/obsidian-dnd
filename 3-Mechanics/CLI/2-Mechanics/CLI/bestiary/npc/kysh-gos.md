@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/humanoid/triton
+- npc
 aliases: ["Kysh"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (triton)
 SourceType: Bestiary
 BookSource: Ghosts of Saltmarsh p. 240

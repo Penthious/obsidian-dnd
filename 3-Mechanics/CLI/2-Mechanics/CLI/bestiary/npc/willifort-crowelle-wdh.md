@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
+- npc
 aliases: ["Willifort Crowelle"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity (shapechanger)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 62

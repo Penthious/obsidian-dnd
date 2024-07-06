@@ -1,11 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/level/2
 - spell/school/conjuration
 aliases: ["Summon Beast"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 109
 ---
 # Summon Beast
 *2nd-level, Conjuration*  

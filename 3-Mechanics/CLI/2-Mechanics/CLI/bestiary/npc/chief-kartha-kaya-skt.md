@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Chief Kartha-Kaya"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 173

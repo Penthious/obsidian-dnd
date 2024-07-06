@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/twilight-domain
@@ -13,6 +13,9 @@ classes:
 - Paladin (Oath of the Crown)
 - Paladin
 aliases: ["Circle of Power"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 221
 ---
 # Circle of Power
 *5th-level, Abjuration*  

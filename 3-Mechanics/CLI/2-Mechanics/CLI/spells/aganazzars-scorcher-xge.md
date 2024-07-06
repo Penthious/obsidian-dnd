@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/fighter/eldritch-knight
@@ -15,6 +15,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Aganazzar's Scorcher"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 150
 ---
 # Aganazzar's Scorcher
 *2nd-level, Evocation*  

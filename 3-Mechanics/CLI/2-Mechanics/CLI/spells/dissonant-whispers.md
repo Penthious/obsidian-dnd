@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -13,6 +13,9 @@ classes:
 - Sorcerer (Aberrant Mind)
 - Warlock (The Great Old One)
 aliases: ["Dissonant Whispers"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 234
 ---
 # Dissonant Whispers
 *1st-level, Enchantment*  

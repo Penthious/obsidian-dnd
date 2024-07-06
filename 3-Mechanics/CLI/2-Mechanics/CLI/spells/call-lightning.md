@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/tempest-domain
@@ -13,6 +13,9 @@ classes:
 - Druid (Circle of the Land)
 - Druid
 aliases: ["Call Lightning"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 220. Available in the SRD.
 ---
 # Call Lightning
 *3rd-level, Conjuration*  

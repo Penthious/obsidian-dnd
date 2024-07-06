@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/dwarf
 - monster/type/humanoid/monk
+- npc
 aliases: ["Prisoner 13"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dwarf, monk)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 68

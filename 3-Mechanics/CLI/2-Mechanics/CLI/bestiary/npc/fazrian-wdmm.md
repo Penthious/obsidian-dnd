@@ -7,8 +7,9 @@ tags:
 - monster/cr/16
 - monster/size/large
 - monster/type/celestial
+- npc
 aliases: ["Fazrian"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: celestial
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 275

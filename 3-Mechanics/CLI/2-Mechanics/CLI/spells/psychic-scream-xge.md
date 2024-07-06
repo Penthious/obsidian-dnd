@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/bard
@@ -17,6 +17,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Psychic Scream"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 163
 ---
 # Psychic Scream
 *9th-level, Enchantment*  

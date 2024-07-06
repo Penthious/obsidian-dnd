@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/humanoid/half-orc
+- npc
 aliases: ["Ziraj the Hunter"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (half-orc)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 201

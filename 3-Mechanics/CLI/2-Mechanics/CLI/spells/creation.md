@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -17,6 +17,9 @@ classes:
 - Warlock (The Genie)
 - Wizard
 aliases: ["Creation"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 229. Available in the SRD.
 ---
 # Creation
 *5th-level, Illusion*  

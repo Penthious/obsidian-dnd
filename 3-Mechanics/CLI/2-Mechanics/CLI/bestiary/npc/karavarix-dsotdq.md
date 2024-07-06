@@ -7,8 +7,9 @@ tags:
 - monster/cr/14
 - monster/size/huge
 - monster/type/undead
+- npc
 aliases: ["Karavarix"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 183

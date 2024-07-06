@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/humanoid/any-race
+- npc
 aliases: ["Cudgel Ironsmile"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (any race)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 58

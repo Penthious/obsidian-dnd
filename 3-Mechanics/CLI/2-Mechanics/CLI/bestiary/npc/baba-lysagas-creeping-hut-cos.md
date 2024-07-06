@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/gargantuan
 - monster/type/construct
+- npc
 aliases: ["Baba Lysaga's Creeping Hut"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 226

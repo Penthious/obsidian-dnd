@@ -7,8 +7,9 @@ tags:
 - monster/cr/25
 - monster/size/large
 - monster/type/fiend/demon
+- npc
 aliases: ["Kostchtchie"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 105

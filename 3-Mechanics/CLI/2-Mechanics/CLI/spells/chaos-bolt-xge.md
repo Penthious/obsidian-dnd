@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/sorcerer
@@ -9,6 +9,9 @@ tags:
 classes:
 - Sorcerer
 aliases: ["Chaos Bolt"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 151
 ---
 # Chaos Bolt
 *1st-level, Evocation*  

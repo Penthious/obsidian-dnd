@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/small
 - monster/type/humanoid/goblinoid
+- npc
 aliases: ["Grabstab"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (goblinoid)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 89

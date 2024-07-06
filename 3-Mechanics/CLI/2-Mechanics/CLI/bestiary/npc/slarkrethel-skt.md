@@ -7,8 +7,9 @@ tags:
 - monster/cr/25
 - monster/size/gargantuan
 - monster/type/monstrosity/titan
+- npc
 aliases: ["Slarkrethel"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity (titan)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 224

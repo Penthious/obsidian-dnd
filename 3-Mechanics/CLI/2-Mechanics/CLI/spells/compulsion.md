@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -13,6 +13,9 @@ classes:
 - Cleric (Order Domain)
 - Paladin (Oath of Glory)
 aliases: ["Compulsion"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 224. Available in the SRD.
 ---
 # Compulsion
 *4th-level, Enchantment*  

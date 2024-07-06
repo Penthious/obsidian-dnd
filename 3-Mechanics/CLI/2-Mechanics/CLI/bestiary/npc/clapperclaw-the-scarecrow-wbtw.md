@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/small
 - monster/type/construct
+- npc
 aliases: ["Clapperclaw the Scarecrow"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 78

@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Torogar Steelfist"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 112

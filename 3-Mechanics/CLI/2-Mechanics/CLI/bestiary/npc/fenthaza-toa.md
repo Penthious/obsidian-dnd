@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/monstrosity/shapechanger
 - monster/type/monstrosity/yuan-ti
+- npc
 aliases: ["Fenthaza"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 113

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -21,6 +21,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Suggestion"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 279. Available in the SRD and the Basic Rules.
 ---
 # Suggestion
 *2nd-level, Enchantment*  

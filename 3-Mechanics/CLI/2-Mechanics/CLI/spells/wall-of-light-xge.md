@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/sorcerer
@@ -13,6 +13,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Wall of Light"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 170
 ---
 # Wall of Light
 *5th-level, Evocation*  

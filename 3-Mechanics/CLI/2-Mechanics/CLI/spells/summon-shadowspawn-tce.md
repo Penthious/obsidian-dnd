@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/tce
 - spell/class/fighter/eldritch-knight
@@ -11,6 +11,9 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 aliases: ["Summon Shadowspawn"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Tasha's Cauldron of Everything p. 113
 ---
 # Summon Shadowspawn
 *3rd-level, Conjuration*  

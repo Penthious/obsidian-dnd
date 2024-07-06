@@ -7,8 +7,9 @@ tags:
 - monster/cr/10
 - monster/size/medium
 - monster/type/humanoid
+- npc
 aliases: ["Red Ruin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 208

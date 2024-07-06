@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric
@@ -11,6 +11,9 @@ classes:
 - Cleric
 - Sorcerer (Divine Soul)
 aliases: ["Word of Radiance"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 171
 ---
 # Word of Radiance
 *cantrip, Evocation*  

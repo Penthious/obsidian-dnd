@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/medium
 - monster/type/undead
+- npc
 aliases: ["Sarlamir"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 102

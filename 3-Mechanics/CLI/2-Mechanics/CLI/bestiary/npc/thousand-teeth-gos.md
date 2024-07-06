@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/large
 - monster/type/monstrosity
+- npc
 aliases: ["Thousand Teeth"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: monstrosity
 SourceType: Bestiary
 BookSource: Ghosts of Saltmarsh p. 256

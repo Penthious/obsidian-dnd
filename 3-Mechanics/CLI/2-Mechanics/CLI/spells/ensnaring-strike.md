@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/paladin/oath-of-the-ancients
@@ -11,6 +11,9 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 aliases: ["Ensnaring Strike"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 237
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  

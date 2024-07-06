@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric
@@ -18,6 +18,9 @@ classes:
 - Ranger
 - Sorcerer (Divine Soul)
 aliases: ["Detect Poison and Disease"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 231. Available in the SRD.
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/tiny
 - monster/type/dragon
+- npc
 aliases: ["Sir Talavar"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 69

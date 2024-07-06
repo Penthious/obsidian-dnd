@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/medium
 - monster/type/fey/elf
+- npc
 aliases: ["Smiler the Defiler"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey (elf)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 133

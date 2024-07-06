@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/fighter/eldritch-knight
@@ -15,6 +15,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Snilloc's Snowball Swarm"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 165
 ---
 # Snilloc's Snowball Swarm
 *2nd-level, Evocation*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/11
 - monster/size/medium
 - monster/type/humanoid/human
+- npc
 aliases: ["Severin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: The Rise of Tiamat p. 92

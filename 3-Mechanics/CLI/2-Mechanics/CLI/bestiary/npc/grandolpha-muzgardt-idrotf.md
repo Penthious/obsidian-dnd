@@ -7,8 +7,9 @@ tags:
 - monster/cr/2
 - monster/size/medium
 - monster/type/humanoid/dwarf
+- npc
 aliases: ["Grandolpha Muzgardt"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (dwarf)
 SourceType: Bestiary
 BookSource: Icewind Dale: Rime of the Frostmaiden p. 176

@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/medium
 - monster/type/humanoid/mulan-human
+- npc
 aliases: ["Kaevja Cynavern"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Mulan human)
 SourceType: Bestiary
 BookSource: Waterdeep: Dragon Heist p. 158

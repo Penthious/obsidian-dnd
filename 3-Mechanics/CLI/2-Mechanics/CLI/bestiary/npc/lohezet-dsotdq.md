@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/wizard
+- npc
 aliases: ["Lohezet"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, wizard)
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 205

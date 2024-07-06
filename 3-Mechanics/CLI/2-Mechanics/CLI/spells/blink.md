@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer
@@ -23,6 +23,9 @@ classes:
 - Warlock (The Hexblade)
 - Wizard
 aliases: ["Blink"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 219. Available in the SRD.
 ---
 # Blink
 *3rd-level, Transmutation*  

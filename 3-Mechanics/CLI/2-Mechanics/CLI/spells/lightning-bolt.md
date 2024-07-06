@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/armorer
@@ -21,6 +21,9 @@ classes:
 - Warlock (The Fathomless)
 - Wizard
 aliases: ["Lightning Bolt"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 255. Available in the SRD and the Basic Rules.
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

@@ -7,8 +7,9 @@ tags:
 - monster/cr/22
 - monster/size/huge
 - monster/type/fiend/devil
+- npc
 aliases: ["Geryon"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Mordenkainen Presents: Monsters of the Multiverse p. 136, Mordenkainen's Tome of Foes p. 173

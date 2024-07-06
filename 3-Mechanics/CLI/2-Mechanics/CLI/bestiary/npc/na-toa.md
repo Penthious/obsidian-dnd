@@ -7,8 +7,9 @@ tags:
 - monster/cr/0
 - monster/size/small
 - monster/type/humanoid/human
+- npc
 aliases: ["Na"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human)
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 228

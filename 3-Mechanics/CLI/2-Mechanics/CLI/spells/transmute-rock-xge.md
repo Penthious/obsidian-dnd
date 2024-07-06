@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/artificer
@@ -13,6 +13,9 @@ classes:
 - Druid
 - Wizard
 aliases: ["Transmute Rock"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 169
 ---
 # Transmute Rock
 *5th-level, Transmutation*  

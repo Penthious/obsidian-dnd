@@ -7,8 +7,9 @@ tags:
 - monster/cr/13
 - monster/size/large
 - monster/type/aberration
+- npc
 aliases: ["Xazax the Eyemonger"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Out of the Abyss p. 142

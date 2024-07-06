@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/small
 - monster/type/humanoid/gnome
+- npc
 aliases: ["Tixie Tockworth"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (gnome)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 85

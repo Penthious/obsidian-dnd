@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/large
 - monster/type/beast
+- npc
 aliases: ["Sangzor"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Curse of Strahd p. 160

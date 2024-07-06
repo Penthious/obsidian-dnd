@@ -7,8 +7,9 @@ tags:
 - monster/cr/3
 - monster/size/medium
 - monster/type/fey
+- npc
 aliases: ["Nanny Pu'pu"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey
 SourceType: Bestiary
 BookSource: Tomb of Annihilation p. 72

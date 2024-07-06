@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/cleric/arcana-domain
@@ -13,6 +13,9 @@ classes:
 - Sorcerer
 - Wizard
 aliases: ["Meteor Swarm"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 259. Available in the SRD and the Basic Rules.
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

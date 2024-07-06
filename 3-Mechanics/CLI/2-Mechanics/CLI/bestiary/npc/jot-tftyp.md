@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/tiny
 - monster/type/fiend/demon
+- npc
 aliases: ["Jot"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (demon)
 SourceType: Bestiary
 BookSource: Tales from the Yawning Portal p. 15

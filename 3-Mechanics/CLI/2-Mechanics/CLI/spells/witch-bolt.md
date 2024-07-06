@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/fighter/eldritch-knight
@@ -17,6 +17,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Witch Bolt"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 289
 ---
 # Witch Bolt
 *1st-level, Evocation*  

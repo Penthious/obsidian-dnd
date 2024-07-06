@@ -7,8 +7,9 @@ tags:
 - monster/cr/8
 - monster/size/medium
 - monster/type/fiend/devil
+- npc
 aliases: ["Princeps Kovik"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fiend (devil)
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 91

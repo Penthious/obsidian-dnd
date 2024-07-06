@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/human
 - monster/type/humanoid/warlock
+- npc
 aliases: ["Markos Delphi"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (human, warlock)
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 53

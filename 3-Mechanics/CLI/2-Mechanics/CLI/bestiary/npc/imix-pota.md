@@ -7,8 +7,9 @@ tags:
 - monster/cr/19
 - monster/size/huge
 - monster/type/elemental
+- npc
 aliases: ["Imix"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 214

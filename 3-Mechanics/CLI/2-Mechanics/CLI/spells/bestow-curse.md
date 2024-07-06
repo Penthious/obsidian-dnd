@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/bard
@@ -23,6 +23,9 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 aliases: ["Bestow Curse"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 218. Available in the SRD.
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

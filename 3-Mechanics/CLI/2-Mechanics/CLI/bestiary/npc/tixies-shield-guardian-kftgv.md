@@ -7,8 +7,9 @@ tags:
 - monster/cr/7
 - monster/size/large
 - monster/type/construct
+- npc
 aliases: ["Tixie's Shield Guardian"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Keys from the Golden Vault p. 80

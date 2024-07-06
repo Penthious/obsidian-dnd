@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/paladin
@@ -9,6 +9,9 @@ tags:
 classes:
 - Paladin
 aliases: ["Find Greater Steed"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190
 ---
 # Find Greater Steed
 *4th-level, Conjuration*  

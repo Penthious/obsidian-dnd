@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/medium
 - monster/type/humanoid/tiefling
+- npc
 aliases: ["Vanifer"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (tiefling)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 203

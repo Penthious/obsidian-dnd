@@ -8,8 +8,9 @@ tags:
 - monster/size/medium
 - monster/type/humanoid/kenku
 - monster/type/humanoid/warlock
+- npc
 aliases: ["Kettlesteam the Kenku"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (kenku, warlock)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 52

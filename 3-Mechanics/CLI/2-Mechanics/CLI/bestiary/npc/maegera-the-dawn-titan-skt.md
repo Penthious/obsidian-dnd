@@ -7,8 +7,9 @@ tags:
 - monster/cr/23
 - monster/size/gargantuan
 - monster/type/elemental
+- npc
 aliases: ["Maegera the Dawn Titan"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: elemental
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 241

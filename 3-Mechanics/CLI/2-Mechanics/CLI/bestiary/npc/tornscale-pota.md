@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-2
 - monster/size/medium
 - monster/type/humanoid/lizardfolk
+- npc
 aliases: ["Tornscale"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (lizardfolk)
 SourceType: Bestiary
 BookSource: Princes of the Apocalypse p. 90

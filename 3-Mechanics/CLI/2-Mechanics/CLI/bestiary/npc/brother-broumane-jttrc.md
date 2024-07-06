@@ -7,8 +7,9 @@ tags:
 - monster/cr/1-8
 - monster/size/medium
 - monster/type/humanoid/merfolk
+- npc
 aliases: ["Brother Broumane"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (merfolk)
 SourceType: Bestiary
 BookSource: Journeys through the Radiant Citadel p. 178

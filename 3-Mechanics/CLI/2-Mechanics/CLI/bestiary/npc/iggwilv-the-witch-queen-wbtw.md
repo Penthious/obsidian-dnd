@@ -7,8 +7,9 @@ tags:
 - monster/cr/20
 - monster/size/medium
 - monster/type/fey/wizard
+- npc
 aliases: ["Iggwilv the Witch Queen"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: fey (wizard)
 SourceType: Bestiary
 BookSource: The Wild Beyond the Witchlight p. 205

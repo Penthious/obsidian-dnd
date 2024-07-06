@@ -7,8 +7,9 @@ tags:
 - monster/cr/9
 - monster/size/large
 - monster/type/dragon
+- npc
 aliases: ["Belephaion"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon
 SourceType: Bestiary
 BookSource: Dragonlance: Shadow of the Dragon Queen p. 157

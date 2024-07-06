@@ -7,8 +7,9 @@ tags:
 - monster/cr/
 - monster/size/medium
 - monster/type/humanoid/tethyrian-human
+- npc
 aliases: ["Narth Tezrin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: humanoid (Tethyrian human)
 SourceType: Bestiary
 BookSource: Storm King's Thunder p. 254

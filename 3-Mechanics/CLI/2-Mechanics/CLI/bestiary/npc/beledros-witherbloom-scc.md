@@ -7,8 +7,9 @@ tags:
 - monster/cr/24
 - monster/size/gargantuan
 - monster/type/dragon/druid
+- npc
 aliases: ["Beledros Witherbloom"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: dragon (druid)
 SourceType: Bestiary
 BookSource: Strixhaven: A Curriculum of Chaos p. 186

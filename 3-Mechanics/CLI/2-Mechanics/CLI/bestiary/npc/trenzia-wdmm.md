@@ -7,8 +7,9 @@ tags:
 - monster/cr/4
 - monster/size/tiny
 - monster/type/undead
+- npc
 aliases: ["Trenzia"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: undead
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 32

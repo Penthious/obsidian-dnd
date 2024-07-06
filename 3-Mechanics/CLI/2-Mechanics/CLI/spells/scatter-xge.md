@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/cleric/arcana-domain
@@ -15,6 +15,9 @@ classes:
 - Warlock
 - Wizard
 aliases: ["Scatter"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 164
 ---
 # Scatter
 *6th-level, Conjuration*  

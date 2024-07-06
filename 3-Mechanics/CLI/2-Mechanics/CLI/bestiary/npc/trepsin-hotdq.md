@@ -7,8 +7,9 @@ tags:
 - monster/cr/6
 - monster/size/large
 - monster/type/giant
+- npc
 aliases: ["Trepsin"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: giant
 SourceType: Bestiary
 BookSource: Hoard of the Dragon Queen p. 63

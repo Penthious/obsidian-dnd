@@ -7,8 +7,9 @@ tags:
 - monster/cr/1
 - monster/size/medium
 - monster/type/construct
+- npc
 aliases: ["Play-by-Play Generator"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: construct
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 205

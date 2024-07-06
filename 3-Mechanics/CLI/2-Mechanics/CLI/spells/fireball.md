@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/artificer/artillerist
@@ -23,6 +23,9 @@ classes:
 - Warlock (The Genie)
 - Wizard
 aliases: ["Fireball"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 241. Available in the SRD and the Basic Rules.
 ---
 # Fireball
 *3rd-level, Evocation*  

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/xge
 - spell/class/ranger
@@ -9,6 +9,9 @@ tags:
 classes:
 - Ranger
 aliases: ["Zephyr Strike"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Xanathar's Guide to Everything p. 171
 ---
 # Zephyr Strike
 *1st-level, Transmutation*  

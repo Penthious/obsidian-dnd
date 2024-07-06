@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclass: json5e-spell
 tags:
 - compendium/src/5e/phb
 - spell/class/druid
@@ -11,6 +11,9 @@ classes:
 - Druid
 - Warlock
 aliases: ["Conjure Fey"]
+SourceType: "Spell"
+NoteIcon: spell
+BookSource: Player's Handbook p. 226. Available in the SRD.
 ---
 # Conjure Fey
 *6th-level, Conjuration*  

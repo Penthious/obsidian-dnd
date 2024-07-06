@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/medium
 - monster/type/aberration
+- npc
 aliases: ["Berlain Shadowdusk"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: aberration
 SourceType: Bestiary
 BookSource: Waterdeep: Dungeon of the Mad Mage p. 283

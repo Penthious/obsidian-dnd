@@ -7,8 +7,9 @@ tags:
 - monster/cr/12
 - monster/size/tiny
 - monster/type/beast
+- npc
 aliases: ["Traxigor"]
-NoteIcon: monster
+NoteIcon: npc
 BestiaryType: beast
 SourceType: Bestiary
 BookSource: Baldur's Gate: Descent Into Avernus p. 50
