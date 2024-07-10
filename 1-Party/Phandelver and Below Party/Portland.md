@@ -1,7 +1,7 @@
 ---
 NoteIcon: player
 aliases:
-  - Bob
+  - Portland
 tags:
   - player
 Player: Bob
@@ -10,7 +10,7 @@ Class:
   - Barbarian
 Race:
   - Human
-level: 8
+level: 2
 hp: 71
 ac: 22
 modifier: 4

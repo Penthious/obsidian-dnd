@@ -1,9 +1,9 @@
 ---
 questObtained: 
 questStatus: In Progress
-questGiver: 
+questGiver: "[[2-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md|gundren-rockseeker-pabtso]]"
 questLocationObtained: 
-questSessionObtained: 
+questSessionObtained: "[[1-Session Journals/2024-06-01.md|2024-06-01]]"
 questNotes: 
 questLootAvail: 
 questLookEarned: 

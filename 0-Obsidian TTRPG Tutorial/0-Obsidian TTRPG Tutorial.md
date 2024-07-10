@@ -46,6 +46,7 @@ There are two different ways to trigger a Template.
 - **Insert Default Template** - `Alt+T` - I primarily use these. 
 - **Insert Templater Template** - `Alt+E` - This is used to trigger advanced templates. If you look in the left bar, there is a COG icon at the top with some buttons on that pane. Those buttons are used to Trigger Templater Templates. These are much more advanced and can move the note, rename the note, etc. These templates do not trigger correctly if you use the default template hotkey. 
   
+
 > [!NOTE] Note
 > You don't need templates for Callouts anymore. Simply right click in a note and select `Ìnsert > Callout`. From there you can right click the callout title to change the type of callout. 
 

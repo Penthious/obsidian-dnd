@@ -11,7 +11,7 @@ Class:
   - Barbarian
 Race:
   - Dragonborn
-level: 8
+level: 2
 hp: 71
 ac: 22
 modifier: 4

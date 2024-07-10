@@ -1,7 +1,7 @@
 ---
 NoteIcon: player
 aliases:
-  - Bob
+  - Sarkhaan
 tags:
   - player
   - Sarkhaan
@@ -31,11 +31,12 @@ PlayerKnownLanguages:
 
 # `=this.file.name`
 
-| Image                                              | Char Name         | Player Name    | Class         | Race         | Level         |
-| -------------------------------------------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
-| ![[ImagePlaceholder.png\|cover hsmall]] | `=this.file.name` |  `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
+| Image                                   | Char Name         | Player Name      | Class           | Race           | Level           |
+| --------------------------------------- | ----------------- | ---------------- | --------------- | -------------- | --------------- |
+| ![[sarkhaan_player.jpeg\|cover hsmall]] | `=this.file.name` | `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
 
 ```custom-frames
 frame: Sarkhaan
+style: height: 1100px;
 ```
 

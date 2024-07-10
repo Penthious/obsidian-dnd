@@ -23,16 +23,14 @@ PlayerKnownLanguages:
 ---
 
 
-
-[[Pasted image 20220612052639.png]]
-
 # `=this.file.name`
 
-| Image                                              | Char Name         | Player Name    | Class         | Race         | Level         |
-| -------------------------------------------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
-| ![[ImagePlaceholder.png\|cover hsmall]] | `=this.file.name` |  `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
+| Image                                  | Char Name         | Player Name      | Class           | Race           | Level           |
+| -------------------------------------- | ----------------- | ---------------- | --------------- | -------------- | --------------- |
+| ![[rebecca_player.jpeg\|cover hsmall]] | `=this.file.name` | `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
 
 ```custom-frames
 frame: Rebecca
+style: height: 1100px;
 ```
 

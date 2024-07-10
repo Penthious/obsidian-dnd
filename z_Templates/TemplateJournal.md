@@ -8,7 +8,7 @@ sessionstatus:
   - Occured
 type: Session Journal
 sessionDate: 2000-01-01
-players: 2
+players: 6
 Status:
   - ⏳
 OneLiner: 1 Line Summary
@@ -34,7 +34,11 @@ _%>
 # Roster 
 
 - [[Mighty Meg]] 
-- [[Fred]] 
+- [[Portland]]
+- [[Sarkhaan Alegruuth|Sarkhaan]]
+- [[Theodore Burgundy|Theodore]]
+- [[Valeria]]
+- [[Rebecca]]
 
 ## Absent
 
