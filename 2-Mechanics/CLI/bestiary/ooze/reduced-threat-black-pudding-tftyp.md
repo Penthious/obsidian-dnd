@@ -22,7 +22,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "type": "ooze"
 "alignment": "Unaligned"
 "ac": !!int "7"
-"hp": !!int "85"
+"hp": !!int "42"
 "hit_dice": "10d10 + 30"
 "stats":
 - !!int "16"
@@ -41,6 +41,11 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": ""
 "cr": "4"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "The pudding can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
 - "desc": "A creature that touches the pudding or hits it with a melee attack while\
@@ -55,7 +60,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
+- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d6\
     \ + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
     \ armor worn by the target is partly dissolved and takes a permanent and cumulative\
     \ −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces\

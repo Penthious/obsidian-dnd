@@ -53,8 +53,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   "Arcana": !!int "2"
   "Persuasion": !!int "6"
 "condition_immunities": "[charmed](/2-Mechanics/CLI/rules/conditions.md#charmed)"
-"senses": "passive Perception 11"
-"languages": "any two languages (usually Sylvan)"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "any two languages (usually Sylvan), Goblin"
 "cr": "4"
 "traits":
 - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately cast\
@@ -78,6 +78,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ [misty step](/2-Mechanics/CLI/spells/misty-step.md), [phantasmal force](/2-Mechanics/CLI/spells/phantasmal-force.md),\
     \ [seeming](/2-Mechanics/CLI/spells/seeming.md), [sleep](/2-Mechanics/CLI/spells/sleep.md)"
   "name": "Spellcasting"
+- "desc": "The goblin"
+  "name": "Nimble Escape"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

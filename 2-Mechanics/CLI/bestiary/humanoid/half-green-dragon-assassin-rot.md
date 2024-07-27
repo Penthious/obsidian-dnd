@@ -43,13 +43,14 @@ BookSource: "The Rise of Tiamat p. 56"
   "Perception": !!int "3"
   "Acrobatics": !!int "6"
 "damage_resistances": "poison"
-"senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
+"languages": "Thieves' cant plus any two languages, Draconic"
 "cr": "8"
 "traits":
 - "desc": "During its first turn, the half-dragon has advantage on attack rolls against\
     \ any creature that hasn't taken a turn. Any hit the half-dragon scores against\
-    \ a surprised creature is a critical hit."
+    \ a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) creature is a\
+    \ critical hit."
   "name": "Assassinate"
 - "desc": "If the half-dragon is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, the half-dragon instead takes no damage\
@@ -73,6 +74,10 @@ BookSource: "The Rise of Tiamat p. 56"
     \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as much\
     \ damage on a successful one."
   "name": "Light Crossbow"
+- "desc": "The half-dragon exhales poisonous gas in a 15-foot cone. Each creature\
+    \ in that area must make a DC 11 Constitution saving throw, taking 21 (6d6)\
+    \ poison damage on a failed save, or half as much damage on a successful one."
+  "name": "Poison Breath (Recharge 5-6)"
 "source":
 - "RoT"
 - "ToD"

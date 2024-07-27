@@ -87,6 +87,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 - "SatO"
 - "ToFW"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Gladiator.webp"
 ```
 ^statblock

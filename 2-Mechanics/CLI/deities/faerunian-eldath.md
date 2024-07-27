@@ -10,7 +10,7 @@ tags:
 aliases: ["Eldath", "The Quiet One", "The Guardian of Groves", "The Mother of the Waters"]
 ---
 # Eldath
-*Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 32* 
+*Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 33* 
 ![](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/deities/SCAG/Symbol%20of%20Eldath.webp#symbol)
 
 - **Alternate Names**: The Quiet One, The Guardian of Groves, The Mother of the Waters

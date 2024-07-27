@@ -24,6 +24,8 @@ title: Eldritch Cannon, Force Ballista
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
+- **Damage Immunities** poison, psychic
+- **Condition Immunities** [blinded](/2-Mechanics/CLI/rules/conditions.md#blinded), [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed), [deafened](/2-Mechanics/CLI/rules/conditions.md#deafened), [exhaustion](/2-Mechanics/CLI/rules/conditions.md#exhaustion), [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened), [grappled](/2-Mechanics/CLI/rules/conditions.md#grappled), [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated), [invisible](/2-Mechanics/CLI/rules/conditions.md#invisible), [paralyzed](/2-Mechanics/CLI/rules/conditions.md#paralyzed), [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified), [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned), [prone](/2-Mechanics/CLI/rules/conditions.md#prone), [restrained](/2-Mechanics/CLI/rules/conditions.md#restrained), [stunned](/2-Mechanics/CLI/rules/conditions.md#stunned), [unconscious](/2-Mechanics/CLI/rules/conditions.md#unconscious)
 
 ## Actions
 

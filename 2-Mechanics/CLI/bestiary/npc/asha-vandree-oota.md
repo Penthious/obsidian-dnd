@@ -39,8 +39,8 @@ BookSource: "Out of the Abyss p. 9"
   "Medicine": !!int "7"
   "Religion": !!int "5"
   "Persuasion": !!int "3"
-"senses": "passive Perception 13"
-"languages": "any two languages"
+"senses": "darkvision 120 ft., passive Perception 13"
+"languages": "any two languages, Elvish"
 "cr": "2"
 "traits":
 - "desc": "Asha is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell\
@@ -54,12 +54,19 @@ BookSource: "Out of the Abyss p. 9"
     \ (2 slots): [dispel magic](/2-Mechanics/CLI/spells/dispel-magic.md), [spirit\
     \ guardians](/2-Mechanics/CLI/spells/spirit-guardians.md)"
   "name": "Spellcasting"
+- "desc": "Asha\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
 - "desc": "As a bonus action, Asha can expend a spell slot to cause its melee weapon\
     \ attacks to magically deal an extra 10 (3d6) radiant damage to a target on\
     \ a hit. This benefit lasts until the end of the turn. If Asha expends a spell\
     \ slot of 2nd level or higher, the extra damage increases by 1d6 for each level\
     \ above 1st."
   "name": "Divine Eminence"
+- "desc": "Asha"
+  "name": "Fey Ancestry"
+- "desc": "Asha"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
     \ bludgeoning damage."

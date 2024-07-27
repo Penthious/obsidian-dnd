@@ -59,6 +59,7 @@ BookSource: "Monster Manual p. 326, Storm King's Thunder, Icewind Dale: Rime of 
 - "IDRotF"
 - "CoS"
 - "WBtW"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Giant%20Goat.webp"
 ```
 ^statblock

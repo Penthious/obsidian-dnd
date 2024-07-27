@@ -37,13 +37,20 @@ BookSource: "Out of the Abyss p. 196"
 "skillsaves":
   "Deception": !!int "2"
   "Religion": !!int "2"
-"senses": "passive Perception 10"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 120 ft., passive Perception 10"
+"languages": "any one language (usually Common), Elvish"
 "cr": "1/8"
 "traits":
+- "desc": "The drow cultist\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
 - "desc": "The cultist has advantage on saving throws against being [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed)\
     \ or [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened)."
   "name": "Dark Devotion"
+- "desc": "The drow cultist"
+  "name": "Fey Ancestry"
+- "desc": "the drow cultist"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4\
     \ (1d6 + 1) slashing damage."

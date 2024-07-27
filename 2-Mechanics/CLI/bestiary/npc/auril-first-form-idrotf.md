@@ -99,8 +99,8 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     \ weather](/2-Mechanics/CLI/spells/control-weather.md), [detect thoughts](/2-Mechanics/CLI/spells/detect-thoughts.md),\
     \ [ice storm](/2-Mechanics/CLI/spells/ice-storm.md)"
   "name": "Innate Spellcasting"
-- "desc": "Auril can't be surprised and can't be changed into another form against\
-    \ her will."
+- "desc": "Auril can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ and can't be changed into another form against her will."
   "name": "Divine Being"
 - "desc": "When Auril drops to 0 hit points, her body turns to slush and melts away.\
     \ Auril instantly reappears in her [second form](/2-Mechanics/CLI/bestiary/npc/auril-second-form-idrotf.md),\

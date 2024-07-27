@@ -39,6 +39,11 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 148"
 "senses": "passive Perception 10"
 "languages": "Common, Halfling"
 "cr": "0"
+"traits":
+- "desc": "Sing-Along"
+  "name": "Halfling Nimbleness"
+- "desc": "Sing-Along"
+  "name": "Brave"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
     \ bludgeoning damage."

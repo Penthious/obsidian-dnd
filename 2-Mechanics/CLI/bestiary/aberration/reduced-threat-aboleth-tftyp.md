@@ -23,7 +23,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
 "ac_class": "natural armor"
-"hp": !!int "135"
+"hp": !!int "67"
 "hit_dice": "18d10 + 36"
 "stats":
 - !!int "21"
@@ -34,21 +34,26 @@ BookSource: "Tales from the Yawning Portal p. 113"
 - !!int "18"
 "speed": "10 ft., swim 40 ft."
 "saves":
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "8"
-  "Constitution": !!int "6"
+  "Wisdom": !!int "4"
+  "Intelligence": !!int "6"
+  "Constitution": !!int "4"
 "skillsaves":
-  "Perception": !!int "10"
-  "History": !!int "12"
+  "Perception": !!int "8"
+  "History": !!int "10"
 "senses": "darkvision 120 ft., passive Perception 20"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "10"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "The aboleth can breathe air and water."
   "name": "Amphibious"
 - "desc": "While underwater, the aboleth is surrounded by transformative mucus. A\
     \ creature that touches the aboleth or that hits it with a melee attack while\
-    \ within 5 feet of it must make a DC 14 Constitution saving throw. On a failure,\
+    \ within 5 feet of it must make a DC 12 Constitution saving throw. On a failure,\
     \ the creature is diseased for 1d4 hours. The diseased creature can breathe\
     \ only underwater."
   "name": "Mucous Cloud"
@@ -58,9 +63,9 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "actions":
 - "desc": "The aboleth makes three tentacle attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 12\
     \ (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 14 Constitution saving throw or become diseased. The disease has no\
+    \ on a DC 12 Constitution saving throw or become diseased. The disease has no\
     \ effect for 1 minute and can be removed by any magic that cures disease. After\
     \ 1 minute, the diseased creature's skin becomes translucent and slimy, the creature\
     \ can't regain hit points unless it is underwater, and the disease can be removed\
@@ -69,11 +74,11 @@ BookSource: "Tales from the Yawning Portal p. 113"
     \ 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin\
     \ before 10 minutes have passed."
   "name": "Tentacle"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15\
+- "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15\
     \ (3d6 + 5) bludgeoning damage."
   "name": "Tail"
 - "desc": "The aboleth targets one creature it can see within 30 feet of it. The target\
-    \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed)\
+    \ must succeed on a DC 12 Wisdom saving throw or be magically [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed)\
     \ by the aboleth until the aboleth dies or until it is on a different plane of\
     \ existence from the target. The [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed)\
     \ target is under the aboleth's control and can't take reactions, and the aboleth\

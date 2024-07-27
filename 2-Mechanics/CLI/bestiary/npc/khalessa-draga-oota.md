@@ -42,8 +42,8 @@ BookSource: "Out of the Abyss p. 149"
   "Insight": !!int "4"
   "Perception": !!int "6"
   "Persuasion": !!int "5"
-"senses": "passive Perception 16"
-"languages": "any two languages, Undercommon"
+"senses": "darkvision 60 ft., passive Perception 16"
+"languages": "any two languages, Undercommon, Elvish"
 "cr": "1"
 "traits":
 - "desc": "Khalessa can innately cast the following spell, requiring no material components:\n\
@@ -60,6 +60,8 @@ BookSource: "Out of the Abyss p. 149"
     \ feet of an ally of Khalessa that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Khalessa doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Khalessa"
+  "name": "Fey Ancestry"
 "actions":
 - "desc": "Khalessa makes two melee attacks."
   "name": "Multiattack"

@@ -38,9 +38,13 @@ BookSource: "Dragonlance: Shadow of the Dragon Queen p. 58"
 "skillsaves":
   "Athletics": !!int "5"
   "Perception": !!int "2"
-"senses": "passive Perception 12"
-"languages": "any one language (usually Common)"
+"damage_resistances": "poison"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "any one language (usually Common), Dwarvish"
 "cr": "3"
+"traits":
+- "desc": "Cudgel"
+  "name": "Dwarven Resilience"
 "actions":
 - "desc": "Cudgel makes two longsword attacks. If it has a shortsword drawn, it can\
     \ also make a shortsword attack."

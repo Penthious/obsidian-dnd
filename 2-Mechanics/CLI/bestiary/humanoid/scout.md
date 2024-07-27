@@ -93,6 +93,7 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 - "SatO"
 - "GHLoE"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Scout.webp"
 ```
 ^statblock

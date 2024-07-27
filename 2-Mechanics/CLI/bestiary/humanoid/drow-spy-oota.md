@@ -41,10 +41,13 @@ BookSource: "Out of the Abyss p. 195"
   "Insight": !!int "4"
   "Perception": !!int "6"
   "Persuasion": !!int "5"
-"senses": "passive Perception 16"
-"languages": "any two languages"
+"senses": "darkvision 120 ft., passive Perception 16"
+"languages": "any two languages, Elvish"
 "cr": "1"
 "traits":
+- "desc": "The drow spy\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
 - "desc": "On each of its turns, the spy can use a bonus action to take the Dash,\
     \ Disengage, or Hide action."
   "name": "Cunning Action"
@@ -53,6 +56,10 @@ BookSource: "Out of the Abyss p. 195"
     \ feet of an ally of the spy that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and the spy doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "The drow spy"
+  "name": "Fey Ancestry"
+- "desc": "the drow spy"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "The spy makes two melee attacks."
   "name": "Multiattack"

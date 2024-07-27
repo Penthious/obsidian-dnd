@@ -50,7 +50,7 @@ The cannon is a Large object with AC 16, 80 hit points, and immunity to poison a
   "History": !!int "13"
   "Arcana": !!int "13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
-  \ (from stoneskin)"
+  \ (from stoneskin); acid"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common, Primordial, Sahuagin, Undercommon"
 "cr": "12"
@@ -83,6 +83,8 @@ The cannon is a Large object with AC 16, 80 hit points, and immunity to poison a
 - "desc": "Zikran has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
+- "desc": "Zikran"
+  "name": "Amphibious"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

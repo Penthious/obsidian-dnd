@@ -94,6 +94,7 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
 - "BMT"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Cult%20Fanatic.webp"
 ```
 ^statblock

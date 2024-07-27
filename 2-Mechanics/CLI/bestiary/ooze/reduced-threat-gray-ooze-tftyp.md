@@ -22,7 +22,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "type": "ooze"
 "alignment": "Unaligned"
 "ac": !!int "8"
-"hp": !!int "22"
+"hp": !!int "11"
 "hit_dice": "3d8 + 9"
 "stats":
 - !!int "12"
@@ -33,7 +33,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  "Stealth": !!int "2"
+  "Stealth": !!int "0"
 "damage_resistances": "acid, cold, fire"
 "condition_immunities": "[blinded](/2-Mechanics/CLI/rules/conditions.md#blinded),\
   \ [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed), [deafened](/2-Mechanics/CLI/rules/conditions.md#deafened),\
@@ -43,6 +43,11 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": ""
 "cr": "1/2"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "The ooze can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
 - "desc": "Any nonmagical weapon made of metal that hits the ooze corrodes. After\
@@ -55,7 +60,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
     \ pool or wet rock."
   "name": "False Appearance"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6\
+- "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 4 (1d6\
     \ + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing\
     \ nonmagical metal armor, its armor is partly corroded and takes a permanent and\
     \ cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty\

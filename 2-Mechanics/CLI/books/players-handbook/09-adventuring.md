@@ -130,7 +130,7 @@ If the DM determines that the adventurers encounter other creatures while they'r
 
 ##### Surprising Foes
 
-If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. See chapter 9 for more about surprise.
+If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) when combat erupts. See chapter 9 for more about surprise.
 
 #### Other Activities
 

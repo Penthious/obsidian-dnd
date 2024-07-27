@@ -58,11 +58,11 @@ A [beholder](/2-Mechanics/CLI/bestiary/aberration/beholder.md) usually drives aw
     \ 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw\
     \ if the gauth isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and can see the creature. A creature that fails the save is [stunned](/2-Mechanics/CLI/rules/conditions.md#stunned)\
-    \ until the start of its next turn.\n\nUnless surprised, a creature can avert\
-    \ its eyes at the start of its turn to avoid the saving throw. If the creature\
-    \ does so, it can't see the gauth until the start of its next turn, when it can\
-    \ avert its eyes again. If the creature looks at the gauth in the meantime, it\
-    \ must immediately make the save."
+    \ until the start of its next turn.\n\nUnless [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ a creature can avert its eyes at the start of its turn to avoid the saving throw.\
+    \ If the creature does so, it can't see the gauth until the start of its next\
+    \ turn, when it can avert its eyes again. If the creature looks at the gauth in\
+    \ the meantime, it must immediately make the save."
   "name": "Stunning Gaze"
 - "desc": "When the gauth dies, the magical energy within it explodes, and each creature\
     \ within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8)\

@@ -62,7 +62,8 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 - "desc": "Even when the cube is in plain sight, it takes a successful DC 15 Wisdom\
     \ ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) check to spot a\
     \ cube that has neither moved nor attacked. A creature that tries to enter the\
-    \ cube's space while unaware of the cube is surprised by the cube."
+    \ cube's space while unaware of the cube is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ by the cube."
   "name": "Transparent"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\
@@ -91,6 +92,7 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 - "WBtW"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Gelatinous%20Cube.webp"
 ```
 ^statblock

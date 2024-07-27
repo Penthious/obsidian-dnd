@@ -24,6 +24,8 @@ title: Longship
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)| 6 (-2)|17 (+3)| 0 (-5)| 0 (-5)| 0 (-5)|
 
+- **Damage Immunities** poison, psychic
+- **Condition Immunities** [blinded](/2-Mechanics/CLI/rules/conditions.md#blinded), [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed), [deafened](/2-Mechanics/CLI/rules/conditions.md#deafened), [exhaustion](/2-Mechanics/CLI/rules/conditions.md#exhaustion), [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened), [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated), [paralyzed](/2-Mechanics/CLI/rules/conditions.md#paralyzed), [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified), [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned), [prone](/2-Mechanics/CLI/rules/conditions.md#prone), [stunned](/2-Mechanics/CLI/rules/conditions.md#stunned), [unconscious](/2-Mechanics/CLI/rules/conditions.md#unconscious)
 
 ## Actions
 

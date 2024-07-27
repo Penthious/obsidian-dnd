@@ -44,12 +44,12 @@ BookSource: "Journeys through the Radiant Citadel p. 52"
   "Perception": !!int "3"
   "Acrobatics": !!int "6"
 "damage_resistances": "poison"
-"senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "Thieves' cant plus any two languages, Gnomish"
 "cr": "8"
 "traits":
 - "desc": "During its first turn, Paloma has advantage on attack rolls against any\
-    \ creature that hasn't taken a turn. Any hit Paloma scores against a surprised\
+    \ creature that hasn't taken a turn. Any hit Paloma scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
     \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "If Paloma is subjected to an effect that allows it to make a Dexterity\
@@ -61,6 +61,8 @@ BookSource: "Journeys through the Radiant Citadel p. 52"
     \ feet of an ally of Paloma that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Paloma doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Paloma"
+  "name": "Gnome Cunning"
 "actions":
 - "desc": "Paloma makes two shortsword attacks."
   "name": "Multiattack"

@@ -118,6 +118,7 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 - "SatO"
 - "BMT"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Marid.webp"
 ```
 ^statblock

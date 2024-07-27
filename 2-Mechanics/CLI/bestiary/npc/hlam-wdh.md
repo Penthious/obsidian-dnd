@@ -49,7 +49,8 @@ Hlam is immune to disease and doesn't require food or water. Although he ages, h
   "Religion": !!int "7"
 "damage_immunities": "poison"
 "condition_immunities": "[charmed](/2-Mechanics/CLI/rules/conditions.md#charmed),\
-  \ [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened), [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned)"
+  \ [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened), [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned),\
+  \ disease"
 "senses": "passive Perception 15"
 "languages": "all spoken languages"
 "cr": "16"

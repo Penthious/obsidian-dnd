@@ -164,7 +164,7 @@ At 6th level, you gain a feature from your Primal Path.
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are surprised at the beginning of combat and aren't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) at the beginning of combat and aren't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Instinctive Pounce (Level 7)
 _Source: Tasha's Cauldron of Everything p. 24_

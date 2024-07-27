@@ -95,6 +95,7 @@ An invisible stalker requires no air, food, drink, or sleep.
 - "PaBTSO"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Invisible%20Stalker.webp"
 ```
 ^statblock

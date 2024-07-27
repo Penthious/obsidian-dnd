@@ -54,13 +54,13 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
     \ repeat the saving throw at the end of its next turn, becoming [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified)\
     \ on a failure or ending the effect on a success. The petrification lasts until\
     \ the creature is freed by the  [greater restoration](/2-Mechanics/CLI/spells/greater-restoration.md)\
-    \ spell or other magic.\n\nUnless surprised, a creature can avert its eyes to\
-    \ avoid the saving throw at the start of its turn. If the creature does so, it\
-    \ can't see the medusa until the start of its next turn, when it can avert its\
-    \ eyes again. If the creature looks at the medusa in the meantime, it must immediately\
-    \ make the save.\n\nIf the medusa sees itself reflected on a polished surface\
-    \ within 30 feet of it and in an area of bright light, the medusa is, due to its\
-    \ curse, affected by its own gaze."
+    \ spell or other magic.\n\nUnless [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ a creature can avert its eyes to avoid the saving throw at the start of its\
+    \ turn. If the creature does so, it can't see the medusa until the start of its\
+    \ next turn, when it can avert its eyes again. If the creature looks at the medusa\
+    \ in the meantime, it must immediately make the save.\n\nIf the medusa sees itself\
+    \ reflected on a polished surface within 30 feet of it and in an area of bright\
+    \ light, the medusa is, due to its curse, affected by its own gaze."
   "name": "Petrifying Gaze"
 "actions":
 - "desc": "The medusa makes either three melee attacks—one with its snake hair, one\
@@ -82,9 +82,6 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
   "name": "Constrict"
 "source":
 - "MOT"
-- "SatO"
-- "BMT"
-- "DoDk"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MOT/Medusa.webp"
 ```
 ^statblock

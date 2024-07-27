@@ -39,13 +39,17 @@ BookSource: "Storm King's Thunder p. 28"
   "Stealth": !!int "6"
   "Perception": !!int "5"
   "Survival": !!int "5"
-"senses": "passive Perception 15"
+"senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Elvish"
 "cr": "1/2"
 "traits":
 - "desc": "The wood elf has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
+- "desc": "The wood elf"
+  "name": "Fey Ancestry"
+- "desc": "The wood elf"
+  "name": "Mask of the Wild"
 "actions":
 - "desc": "The wood elf makes two melee attacks or two ranged attacks."
   "name": "Multiattack"

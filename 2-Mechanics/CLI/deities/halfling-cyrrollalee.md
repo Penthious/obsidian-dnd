@@ -9,7 +9,7 @@ tags:
 aliases: ["Cyrrollalee"]
 ---
 # Cyrrollalee
-*Source: Mordenkainen's Tome of Foes p. 104, Tasha's Cauldron of Everything p. 32* 
+*Source: Mordenkainen's Tome of Foes p. 104, Tasha's Cauldron of Everything p. 33* 
 
 - **Alignment**: Lawful Good
 - **Domains**: Life, Peace

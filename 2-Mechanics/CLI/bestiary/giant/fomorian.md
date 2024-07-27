@@ -87,6 +87,7 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 - "SatO"
 - "ToFW"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Fomorian.webp"
 ```
 ^statblock

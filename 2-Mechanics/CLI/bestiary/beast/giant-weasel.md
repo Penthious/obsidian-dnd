@@ -53,6 +53,7 @@ BookSource: "Monster Manual p. 329, Tales from the Yawning Portal, Ghosts of Sal
 - "MM"
 - "TftYP"
 - "GoS"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Giant%20Weasel.webp"
 ```
 ^statblock

@@ -10,7 +10,7 @@ tags:
 aliases: ["Eldath"]
 ---
 # Eldath
-*Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 32. Available in the Basic Rules.* 
+*Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 33. Available in the Basic Rules.* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Life, Nature, Peace

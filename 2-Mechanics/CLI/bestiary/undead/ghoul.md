@@ -95,6 +95,7 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 - "BMT"
 - "GHLoE"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Ghoul.webp"
 ```
 ^statblock

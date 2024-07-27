@@ -33,9 +33,12 @@ BookSource: "Tales from the Yawning Portal p. 167"
 - !!int "10"
 - !!int "10"
 "speed": "30 ft."
-"senses": "passive Perception 10"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "any one language (usually Common), Orc"
 "cr": "0"
+"traits":
+- "desc": "the orc commoner"
+  "name": "Aggressive"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
     \ bludgeoning damage."

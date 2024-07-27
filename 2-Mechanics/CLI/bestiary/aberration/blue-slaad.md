@@ -108,6 +108,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 - "IDRotF"
 - "PaBTSO"
 - "SatO"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Blue%20Slaad.webp"
 ```
 ^statblock

@@ -51,8 +51,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   "History": !!int "4"
   "Arcana": !!int "4"
 "damage_resistances": "psychic"
-"senses": "darkvision 60 ft., passive Perception 11"
-"languages": "any two languages, telepathy 30 ft."
+"senses": "darkvision 60 ft., darkvision 60 ft., passive Perception 11"
+"languages": "any two languages, telepathy 30 ft., Goblin"
 "cr": "6"
 "traits":
 - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately cast\
@@ -82,6 +82,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6)\
     \ psychic damage, provided that the goblin isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)."
   "name": "Whispering Aura"
+- "desc": "The goblin"
+  "name": "Nimble Escape"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

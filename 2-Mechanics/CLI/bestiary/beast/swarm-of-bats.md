@@ -77,6 +77,7 @@ BookSource: "Monster Manual p. 337, Curse of Strahd, Hoard of the Dragon Queen, 
 - "CM"
 - "WBtW"
 - "AATM"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Swarm%20of%20Bats.webp"
 ```
 ^statblock

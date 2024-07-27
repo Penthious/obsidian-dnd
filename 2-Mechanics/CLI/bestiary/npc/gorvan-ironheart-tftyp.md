@@ -39,8 +39,9 @@ BookSource: "Tales from the Yawning Portal p. 151"
   "Medicine": !!int "7"
   "Religion": !!int "5"
   "Persuasion": !!int "3"
-"senses": "passive Perception 13"
-"languages": "any two languages"
+"damage_resistances": "poison"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "any two languages, Dwarvish"
 "cr": "2"
 "traits":
 - "desc": "Gorvan is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell\
@@ -60,6 +61,8 @@ BookSource: "Tales from the Yawning Portal p. 151"
     \ slot of 2nd level or higher, the extra damage increases by 1d6 for each level\
     \ above 1st."
   "name": "Divine Eminence"
+- "desc": "Gorvan"
+  "name": "Dwarven Resilience"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
     \ bludgeoning damage."

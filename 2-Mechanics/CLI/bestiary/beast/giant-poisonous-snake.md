@@ -59,6 +59,7 @@ BookSource: "Monster Manual p. 327, Curse of Strahd, Storm King's Thunder, Tomb 
 - "TCE"
 - "WBtW"
 - "PaBTSO"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Giant%20Poisonous%20Snake.webp"
 ```
 ^statblock

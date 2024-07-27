@@ -68,7 +68,7 @@ Endelyn's obsession with tragedy and hopelessness extends to her own life; she h
     \ points, along with anything she was wearing or carrying, and reappears 24 hours\
     \ later in the same location or the nearest unoccupied space."
   "name": "Eclipsed Doom"
-- "desc": "Endelyn can't be surprised."
+- "desc": "Endelyn can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Uncanny Awareness"
 "actions":
 - "desc": "Endelyn makes two Puppeteer's Lash attacks"

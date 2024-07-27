@@ -39,10 +39,15 @@ BookSource: "Out of the Abyss p. 97"
   "Perception": !!int "2"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
-"senses": "darkvision 60 ft. (rat form only), passive Perception 12"
-"languages": "Common (can't speak in rat form)"
+"senses": "darkvision 60 ft. (rat form only), darkvision 120 ft., passive Perception\
+  \ 12"
+"languages": "Common (can't speak in rat form), Gnomish, Terran, Undercommon"
 "cr": "2"
 "traits":
+- "desc": "The svirfneblin wererat\n\nAt will: [nondetection](/2-Mechanics/CLI/spells/nondetection.md)\
+    \ (self only)\n\n1/day each: [blindness/deafness](/2-Mechanics/CLI/spells/blindness-deafness.md),\
+    \ [blur](/2-Mechanics/CLI/spells/blur.md), [disguise self](/2-Mechanics/CLI/spells/disguise-self.md)"
+  "name": "Innate Spellcasting"
 - "desc": "The wererat can use its action to polymorph into a rat-humanoid hybrid\
     \ or into a giant rat, or back into its true form, which is humanoid. Its statistics,\
     \ other than its size, are the same in each form. Any equipment it is wearing\
@@ -51,6 +56,10 @@ BookSource: "Out of the Abyss p. 97"
 - "desc": "The wererat has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
     \ checks that rely on smell."
   "name": "Keen Smell"
+- "desc": "The svirfneblin wererat"
+  "name": "Gnome Cunning"
+- "desc": "The svirfneblin wererat"
+  "name": "Stone Camouflage"
 "actions":
 - "desc": "The wererat makes two attacks, only one of which can be a bite."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"

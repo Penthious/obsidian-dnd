@@ -24,7 +24,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
 "ac_class": "natural armor"
-"hp": !!int "136"
+"hp": !!int "68"
 "hit_dice": "13d10 + 65"
 "stats":
 - !!int "19"
@@ -35,9 +35,9 @@ BookSource: "Tales from the Yawning Portal p. 113"
 - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Strength": !!int "7"
-  "Constitution": !!int "8"
+  "Wisdom": !!int "2"
+  "Strength": !!int "5"
+  "Constitution": !!int "6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
@@ -46,21 +46,26 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "8"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "The hezrou has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
 - "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
-    \ on a DC 14 Constitution saving throw or be [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned)\
+    \ on a DC 12 Constitution saving throw or be [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned)\
     \ until the start of its next turn. On a successful saving throw, the creature\
     \ is immune to the hezrou's stench for 24 hours."
   "name": "Stench"
 "actions":
 - "desc": "The hezrou makes three attacks: one with its bite and two with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 15\
     \ (2d10 + 4) piercing damage."
   "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11\
     \ (2d6 + 4) slashing damage."
   "name": "Claws"
 "source":

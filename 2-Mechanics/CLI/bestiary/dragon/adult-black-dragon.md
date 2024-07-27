@@ -238,6 +238,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "CM"
 - "DSotDQ"
 - "KftGV"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Adult%20Black%20Dragon.webp"
 ```
 ^statblock

@@ -92,6 +92,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 - "HftT"
 - "PaBTSO"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Bugbear.webp"
 ```
 ^statblock

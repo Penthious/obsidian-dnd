@@ -41,7 +41,8 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 118"
 "skillsaves":
   "History": !!int "6"
   "Arcana": !!int "6"
-"senses": "passive Perception 11"
+"damage_resistances": "fire"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Draconic, Infernal, Undercommon"
 "cr": "6"
 "traits":
@@ -60,6 +61,9 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 118"
     \ [ice storm](/2-Mechanics/CLI/spells/ice-storm.md)\n\n5th level (1 slots):\
     \ [cone of cold](/2-Mechanics/CLI/spells/cone-of-cold.md)"
   "name": "Spellcasting"
+- "desc": "The horned sister\n\nAt will: [thaumaturgy](/2-Mechanics/CLI/spells/thaumaturgy.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [hellish rebuke](/2-Mechanics/CLI/spells/hellish-rebuke.md)"
+  "name": "Innate Spellcasting"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

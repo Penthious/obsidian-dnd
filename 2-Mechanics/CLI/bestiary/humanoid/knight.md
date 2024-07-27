@@ -92,6 +92,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 - "ToFW"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Knight.webp"
 ```
 ^statblock

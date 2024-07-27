@@ -65,6 +65,7 @@ BookSource: "Monster Manual p. 319, Princes of the Apocalypse, Storm King's Thun
 - "IDRotF"
 - "WBtW"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Brown%20Bear.webp"
 ```
 ^statblock

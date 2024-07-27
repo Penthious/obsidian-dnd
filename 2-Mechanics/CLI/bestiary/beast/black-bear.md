@@ -61,6 +61,7 @@ BookSource: "Monster Manual p. 318, Princes of the Apocalypse, Storm King's Thun
 - "IMR"
 - "SatO"
 - "ToFW"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Black%20Bear.webp"
 ```
 ^statblock

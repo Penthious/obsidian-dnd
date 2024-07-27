@@ -53,6 +53,7 @@ BookSource: "Monster Manual p. 334, Tales from the Yawning Portal, Tomb of Annih
 - "ToA"
 - "GoS"
 - "IMR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Poisonous%20Snake.webp"
 ```
 ^statblock

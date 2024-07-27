@@ -39,8 +39,8 @@ BookSource: "Tales from the Yawning Portal p. 159"
   "Medicine": !!int "4"
   "Nature": !!int "3"
   "Perception": !!int "4"
-"senses": "passive Perception 14"
-"languages": "Druidic plus any two languages"
+"senses": "darkvision 60 ft., passive Perception 14"
+"languages": "Druidic plus any two languages, Elvish"
 "cr": "2"
 "traits":
 - "desc": "Eira is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell\
@@ -52,6 +52,10 @@ BookSource: "Tales from the Yawning Portal p. 159"
     \n2nd level (3 slots): [animal messenger](/2-Mechanics/CLI/spells/animal-messenger.md),\
     \ [barkskin](/2-Mechanics/CLI/spells/barkskin.md)"
   "name": "Spellcasting"
+- "desc": "Eira"
+  "name": "Fey Ancestry"
+- "desc": "Eira"
+  "name": "Mask of the Wild"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach\
     \ 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning\

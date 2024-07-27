@@ -56,6 +56,7 @@ BookSource: "Monster Manual p. 335, Tales from the Yawning Portal, Tomb of Annih
 - "IDRotF"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Rat.webp"
 ```
 ^statblock

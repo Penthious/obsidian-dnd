@@ -11,7 +11,7 @@ tags:
 aliases: ["Angharradh"]
 ---
 # Angharradh
-*Source: Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 32* 
+*Source: Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 33* 
 
 - **Alignment**: Chaotic Good
 - **Category**: The Seldarine

@@ -78,6 +78,7 @@ BookSource: "Monster Manual p. 338, Princes of the Apocalypse, Tomb of Annihilat
 - "KftGV"
 - "PSA"
 - "GHLoE"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Swarm%20of%20Quippers.webp"
 ```
 ^statblock

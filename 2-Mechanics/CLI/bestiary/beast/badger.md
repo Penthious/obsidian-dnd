@@ -47,6 +47,7 @@ BookSource: "Monster Manual p. 318, The Wild Beyond the Witchlight. Available in
 "source":
 - "MM"
 - "WBtW"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Badger.webp"
 ```
 ^statblock

@@ -22,7 +22,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "type": "construct"
 "alignment": "Neutral"
 "ac": !!int "9"
-"hp": !!int "93"
+"hp": !!int "46"
 "hit_dice": "11d8 + 44"
 "stats":
 - !!int "19"
@@ -42,6 +42,11 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "Whenever the golem starts its turn with 40 hit points or fewer, roll a\
     \ d6. On a 6, the golem goes berserk. On each of its turns while berserk, the\
     \ golem attacks the nearest creature it can see. If no creature is near enough\
@@ -50,7 +55,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
     \ it is destroyed or regains all its hit points.\n\nThe golem's creator, if within\
     \ 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively.\
     \ The golem must be able to hear its creator, who must take an action to make\
-    \ a DC 15 Charisma ([Persuasion](/2-Mechanics/CLI/rules/skills.md#Persuasion))\
+    \ a DC 13 Charisma ([Persuasion](/2-Mechanics/CLI/rules/skills.md#Persuasion))\
     \ check. If the check succeeds, the golem ceases being berserk. If it takes damage\
     \ while still at 40 hit points or fewer, the golem might go berserk again."
   "name": "Berserk"
@@ -70,7 +75,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "actions":
 - "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13\
     \ (2d8 + 4) bludgeoning damage."
   "name": "Slam"
 "source":

@@ -43,7 +43,7 @@ BookSource: "Waterdeep: Dragon Heist p. 104"
   "Perception": !!int "6"
   "Persuasion": !!int "5"
 "senses": "passive Perception 16"
-"languages": "any two languages"
+"languages": "any two languages, Halfling"
 "cr": "1"
 "traits":
 - "desc": "On each of its turns, Samara can use a bonus action to take the Dash, Disengage,\
@@ -54,6 +54,10 @@ BookSource: "Waterdeep: Dragon Heist p. 104"
     \ feet of an ally of Samara that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Samara doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Samara"
+  "name": "Halfling Nimbleness"
+- "desc": "Samara"
+  "name": "Brave"
 "actions":
 - "desc": "Samara makes two melee attacks."
   "name": "Multiattack"

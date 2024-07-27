@@ -38,9 +38,13 @@ BookSource: "Out of the Abyss p. 142"
 "skillsaves":
   "Athletics": !!int "5"
   "Perception": !!int "2"
-"senses": "passive Perception 12"
-"languages": "any one language (usually Common)"
+"damage_resistances": "poison"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "any one language (usually Common), Dwarvish"
 "cr": "3"
+"traits":
+- "desc": "Amarith"
+  "name": "Dwarven Resilience"
 "actions":
 - "desc": "Amarith makes two longsword attacks. If it has a shortsword drawn, it can\
     \ also make a shortsword attack."

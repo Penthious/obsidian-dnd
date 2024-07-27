@@ -130,6 +130,15 @@ _Source: Player's Handbook p. 292. Available in the SRD and the Basic Rules._
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 
+## Surprised
+_Source: Player's Handbook p. 189. Available in the SRD and the Basic Rules._
+
+A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [gelatinous cube](/2-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md) glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+
+The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([Stealth](/2-Mechanics/CLI/rules/skills.md#Stealth)) checks of anyone hiding with the passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) at the start of the encounter.
+
+If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) even if the other members aren't.
+
 ## Unconscious
 _Source: Player's Handbook p. 292. Available in the SRD and the Basic Rules._
 

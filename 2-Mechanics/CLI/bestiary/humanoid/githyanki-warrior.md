@@ -106,6 +106,7 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 - "AATM"
 - "SatO"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Githyanki%20Warrior.webp"
 ```
 ^statblock

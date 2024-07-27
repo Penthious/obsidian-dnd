@@ -102,6 +102,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 - "HftT"
 - "PaBTSO"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Owlbear.webp"
 ```
 ^statblock

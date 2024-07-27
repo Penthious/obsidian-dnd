@@ -39,9 +39,14 @@ BookSource: "Journeys through the Radiant Citadel p. 20"
   "Deception": !!int "5"
   "Insight": !!int "4"
   "Persuasion": !!int "5"
-"senses": "passive Perception 12"
-"languages": "any two languages"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "any two languages, Draconic"
 "cr": "1/8"
+"traits":
+- "desc": "Kusa"
+  "name": "Sunlight Sensitivity"
+- "desc": "Kusa"
+  "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
     \ + 1) piercing damage."

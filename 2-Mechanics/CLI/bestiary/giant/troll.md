@@ -88,6 +88,7 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 - "PSZ"
 - "SatO"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Troll.webp"
 ```
 ^statblock

@@ -106,6 +106,7 @@ A banshee doesn't require air, food, drink, or sleep.
 - "JttRC"
 - "PaBTSO"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Banshee.webp"
 ```
 ^statblock

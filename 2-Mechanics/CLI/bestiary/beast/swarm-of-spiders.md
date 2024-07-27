@@ -82,6 +82,7 @@ BookSource: "Monster Manual p. 338, Curse of Strahd, Storm King's Thunder, Water
 - "DIP"
 - "MOT"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Swarm%20of%20Spiders.webp"
 ```
 ^statblock

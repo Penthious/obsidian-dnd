@@ -384,7 +384,7 @@ A waterproof satchel hangs from a submerged rope attached to the south wall of t
 
 ##### Development
 
-The bandits in area R2 notice if the characters make a lot of noise here. They burst into the room, gaining surprised if the characters don't know they're coming.
+The bandits in area R2 notice if the characters make a lot of noise here. They burst into the room, gaining [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) if the characters don't know they're coming.
 
 If the bandits fight in this area and two are defeated, the last bandit might reveal the secret door by fleeing in that direction.
 

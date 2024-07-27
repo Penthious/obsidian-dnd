@@ -64,12 +64,13 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
     \ It must repeat the saving throw at the end of its next turn. On a success, the\
     \ effect ends. On a failure, the creature is [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified)\
     \ until freed by the  [greater restoration](/2-Mechanics/CLI/spells/greater-restoration.md)\
-    \ spell or other magic.\n\nA creature that isn't surprised can avert its eyes\
-    \ to avoid the saving throw at the start of its turn. If it does so, it can't\
-    \ see the basilisk until the start of its next turn, when it can avert its eyes\
-    \ again. If it looks at the basilisk in the meantime, it must immediately make\
-    \ the save.\n\nIf the basilisk sees its reflection within 30 feet of it in bright\
-    \ light, it mistakes itself for a rival and targets itself with its gaze."
+    \ spell or other magic.\n\nA creature that isn't [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ can avert its eyes to avoid the saving throw at the start of its turn. If it\
+    \ does so, it can't see the basilisk until the start of its next turn, when it\
+    \ can avert its eyes again. If it looks at the basilisk in the meantime, it must\
+    \ immediately make the save.\n\nIf the basilisk sees its reflection within 30\
+    \ feet of it in bright light, it mistakes itself for a rival and targets itself\
+    \ with its gaze."
   "name": "Petrifying Gaze"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
@@ -84,6 +85,7 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 - "IDRotF"
 - "PSZ"
 - "PaBTSO"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Basilisk.webp"
 ```
 ^statblock

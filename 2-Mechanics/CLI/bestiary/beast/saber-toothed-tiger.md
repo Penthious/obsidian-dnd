@@ -66,6 +66,7 @@ BookSource: "Monster Manual p. 336, Mythic Odysseys of Theros, Icewind Dale: Rim
 - "JttRC"
 - "SatO"
 - "ToFW"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Saber-Toothed%20Tiger.webp"
 ```
 ^statblock

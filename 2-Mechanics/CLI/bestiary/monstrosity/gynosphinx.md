@@ -153,6 +153,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 - "IMR"
 - "MOT"
 - "JttRC"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Gynosphinx.webp"
 ```
 ^statblock

@@ -49,7 +49,8 @@ BookSource: "Journeys through the Radiant Citadel p. 158"
 "traits":
 - "desc": "During its first turn, the assassin has advantage on attack rolls against\
     \ any creature that hasn't taken a turn. Any hit the assassin scores against a\
-    \ surprised creature is a critical hit."
+    \ [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) creature is a critical\
+    \ hit."
   "name": "Assassinate"
 - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, the assassin instead takes no damage\

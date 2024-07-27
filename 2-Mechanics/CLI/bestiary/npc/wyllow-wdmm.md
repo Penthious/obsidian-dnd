@@ -44,7 +44,7 @@ Wyllow is a moon elf druid with eyes as green as emeralds. Butterflies nest in h
   "Medicine": !!int "9"
   "Nature": !!int "5"
   "Perception": !!int "9"
-"senses": "passive Perception 19"
+"senses": "darkvision 60 ft., passive Perception 19"
 "languages": "Common, Druidic, Elvish"
 "cr": "12"
 "traits":
@@ -70,6 +70,10 @@ Wyllow is a moon elf druid with eyes as green as emeralds. Butterflies nest in h
     \ shapes](/2-Mechanics/CLI/spells/animal-shapes.md)\n\n9th level (1 slots):\
     \ [foresight](/2-Mechanics/CLI/spells/foresight.md)"
   "name": "Spellcasting"
+- "desc": "Wyllow"
+  "name": "Fey Ancestry"
+- "desc": "Wyllow"
+  "name": "Mask of the Wild"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6\
     \ + 2) slashing damage."

@@ -33,9 +33,14 @@ BookSource: "Tales from the Yawning Portal p. 18"
 - !!int "10"
 - !!int "10"
 "speed": "30 ft."
-"senses": "passive Perception 10"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "any one language (usually Common), Draconic"
 "cr": "0"
+"traits":
+- "desc": "The kobold commoner"
+  "name": "Sunlight Sensitivity"
+- "desc": "The kobold commoner"
+  "name": "Pack Tactics"
 "actions":
 - "desc": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4\
     \ - 1) bludgeoning damage."

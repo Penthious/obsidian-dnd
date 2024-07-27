@@ -56,6 +56,7 @@ BookSource: "Monster Manual p. 323, Hoard of the Dragon Queen, Tales from the Ya
 - "TCE"
 - "PSX"
 - "PSA"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Giant%20Centipede.webp"
 ```
 ^statblock

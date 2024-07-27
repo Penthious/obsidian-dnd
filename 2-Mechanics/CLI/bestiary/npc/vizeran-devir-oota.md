@@ -43,8 +43,8 @@ BookSource: "Out of the Abyss p. 155"
   "Arcana": !!int "13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin)"
-"senses": "passive Perception 12"
-"languages": "any six languages"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "any six languages, Elvish"
 "cr": "12"
 "traits":
 - "desc": "Vizeran is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
@@ -71,9 +71,16 @@ BookSource: "Out of the Abyss p. 155"
     \n9th level (1 slots): [time stop](/2-Mechanics/CLI/spells/time-stop.md)\n\
     \nVizeran casts these spells on itself before combat."
   "name": "Spellcasting"
+- "desc": "Vizeran\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
 - "desc": "Vizeran has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
+- "desc": "Vizeran"
+  "name": "Fey Ancestry"
+- "desc": "Vizeran"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

@@ -33,7 +33,7 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 72"
 - !!int "6"
 "speed": "50 ft."
 "senses": "passive Perception 10"
-"languages": ""
+"languages": "one language known by its creator"
 "cr": "1/4"
 "traits":
 - "desc": "If the elk moves at least 20 feet straight toward a target and then hits\

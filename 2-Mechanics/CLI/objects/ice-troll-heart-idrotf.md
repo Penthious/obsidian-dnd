@@ -31,5 +31,6 @@ title: Ice Troll Heart
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
+- **Damage Immunities** acid, bludgeoning, cold, force, lightning, necrotic, piercing, poison, psychic, radiant, slashing, thunder
 ```
 ^statblock

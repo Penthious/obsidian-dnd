@@ -41,12 +41,16 @@ BookSource: "Tomb of Annihilation p. 34"
   "Perception": !!int "5"
   "Survival": !!int "5"
 "senses": "passive Perception 15"
-"languages": "any one language (usually Common)"
+"languages": "any one language (usually Common), Halfling"
 "cr": "1/2"
 "traits":
 - "desc": "Gondolo has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
+- "desc": "Gondolo"
+  "name": "Halfling Nimbleness"
+- "desc": "Gondolo"
+  "name": "Brave"
 "actions":
 - "desc": "Gondolo makes two melee attacks or two ranged attacks."
   "name": "Multiattack"

@@ -96,6 +96,7 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
 - "BGDIA"
 - "CM"
 - "JttRC"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Jackalwere.webp"
 ```
 ^statblock

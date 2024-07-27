@@ -27,6 +27,7 @@ title: Mangonel
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
+- **Damage Immunities** poison, psychic
 
 ## Actions
 

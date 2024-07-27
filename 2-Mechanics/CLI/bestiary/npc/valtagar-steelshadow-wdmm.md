@@ -44,8 +44,8 @@ Archmages are exceedingly rare in duergar society, and Valtagar's gift for wizar
   "History": !!int "13"
   "Arcana": !!int "13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
-  \ (from stoneskin)"
-"senses": "passive Perception 12"
+  \ (from stoneskin); poison"
+"senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Common, Dwarvish, Infernal, Terran, Troglodyte, Undercommon"
 "cr": "12"
 "traits":
@@ -76,6 +76,12 @@ Archmages are exceedingly rare in duergar society, and Valtagar's gift for wizar
 - "desc": "Valtagar has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
+- "desc": "Valtagar"
+  "name": "Dwarven Resilience"
+- "desc": "Valtagar"
+  "name": "Enlarge (Recharges after a Short or Long Rest)"
+- "desc": "Valtagar"
+  "name": "Invisibility (Recharges after a Short or Long Rest)"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

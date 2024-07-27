@@ -69,6 +69,7 @@ Dragonbait "shouts" the scent of ham while going where others fear to tread. (Tr
 "skillsaves":
   "Medicine": !!int "6"
   "Athletics": !!int "5"
+"condition_immunities": "disease"
 "senses": "passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "5"

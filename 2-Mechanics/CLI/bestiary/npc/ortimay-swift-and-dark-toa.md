@@ -42,9 +42,12 @@ BookSource: "Tomb of Annihilation p. 21"
 "skillsaves":
   "Athletics": !!int "4"
   "Deception": !!int "4"
-"senses": "passive Perception 10"
-"languages": "any two languages"
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "any two languages, Gnomish"
 "cr": "2"
+"traits":
+- "desc": "Ortimay"
+  "name": "Gnome Cunning"
 "actions":
 - "desc": "Ortimay makes three melee attacks: two with its scimitar and one with its\
     \ dagger. Or Ortimay makes two ranged attacks with its daggers."

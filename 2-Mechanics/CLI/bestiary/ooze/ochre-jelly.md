@@ -105,6 +105,7 @@ An ooze doesn't require sleep.
 - "PaBTSO"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Ochre%20Jelly.webp"
 ```
 ^statblock

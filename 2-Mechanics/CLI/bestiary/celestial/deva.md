@@ -112,6 +112,7 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 - "BMT"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Deva.webp"
 ```
 ^statblock

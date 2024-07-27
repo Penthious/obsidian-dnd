@@ -71,9 +71,10 @@ Even though the age of archons is long past, many wonder if the few surviving ar
     \ on the same plane of existence. When it teleports, the archon appears astride\
     \ the mount, along with any equipment it is wearing or carrying. While mounted\
     \ and not [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated),\
-    \ the archon can't be surprised, and both it and its mount have advantage on Dexterity\
-    \ saving throws. If the archon is reduced to 0 hit points while riding its mount,\
-    \ the mount is reduced to 0 hit points as well."
+    \ the archon can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ and both it and its mount have advantage on Dexterity saving throws. If the\
+    \ archon is reduced to 0 hit points while riding its mount, the mount is reduced\
+    \ to 0 hit points as well."
   "name": "Mount"
 - "desc": "If the archon is reduced to 0 hit points, it regains 30 hit points and\
     \ springs back to its feet with a burst of radiance. Each creature of the archon's\

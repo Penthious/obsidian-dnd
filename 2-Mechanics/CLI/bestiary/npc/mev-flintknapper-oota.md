@@ -38,9 +38,18 @@ BookSource: "Out of the Abyss p. 103"
 "skillsaves":
   "Athletics": !!int "5"
   "Perception": !!int "2"
-"senses": "passive Perception 12"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "any one language (usually Common), Gnomish, Terran, Undercommon"
 "cr": "3"
+"traits":
+- "desc": "Mev\n\nAt will: [nondetection](/2-Mechanics/CLI/spells/nondetection.md)\
+    \ (self only)\n\n1/day each: [blindness/deafness](/2-Mechanics/CLI/spells/blindness-deafness.md),\
+    \ [blur](/2-Mechanics/CLI/spells/blur.md), [disguise self](/2-Mechanics/CLI/spells/disguise-self.md)"
+  "name": "Innate Spellcasting"
+- "desc": "Mev"
+  "name": "Gnome Cunning"
+- "desc": "Mev"
+  "name": "Stone Camouflage"
 "actions":
 - "desc": "Mev makes two longsword attacks. If it has a shortsword drawn, it can also\
     \ make a shortsword attack."

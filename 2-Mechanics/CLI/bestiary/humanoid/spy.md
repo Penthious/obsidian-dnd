@@ -92,6 +92,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
 - "ToFW"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Spy.webp"
 ```
 ^statblock

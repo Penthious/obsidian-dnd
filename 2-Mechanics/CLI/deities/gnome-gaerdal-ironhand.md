@@ -9,7 +9,7 @@ tags:
 aliases: ["Gaerdal Ironhand"]
 ---
 # Gaerdal Ironhand
-*Source: Mordenkainen's Tome of Foes p. 112, Tasha's Cauldron of Everything p. 32* 
+*Source: Mordenkainen's Tome of Foes p. 112, Tasha's Cauldron of Everything p. 33* 
 
 - **Alignment**: Lawful Good
 - **Domains**: War, Peace

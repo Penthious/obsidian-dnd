@@ -153,6 +153,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 - "MOT"
 - "DSotDQ"
 - "LK"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Young%20Blue%20Dragon.webp"
 ```
 ^statblock

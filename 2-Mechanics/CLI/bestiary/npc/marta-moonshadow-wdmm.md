@@ -43,7 +43,7 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 "skillsaves":
   "History": !!int "6"
   "Arcana": !!int "6"
-"senses": "passive Perception 11"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Draconic, Dwarvish, Elvish, Undercommon"
 "cr": "6"
 "traits":
@@ -64,6 +64,8 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
   "name": "Spellcasting"
 - "desc": "Marta has advantage on saving throws against being [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed),\
     \ and magic can't put her to sleep."
+  "name": "Fey Ancestry"
+- "desc": "Marta"
   "name": "Fey Ancestry"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\

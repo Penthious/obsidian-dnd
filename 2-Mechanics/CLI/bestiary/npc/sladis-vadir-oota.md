@@ -39,8 +39,8 @@ BookSource: "Out of the Abyss p. 135"
   "Medicine": !!int "4"
   "Nature": !!int "3"
   "Perception": !!int "4"
-"senses": "passive Perception 14"
-"languages": "Druidic plus any two languages, Undercommon"
+"senses": "darkvision 60 ft., passive Perception 14"
+"languages": "Druidic plus any two languages, Undercommon, Elvish"
 "cr": "2"
 "traits":
 - "desc": "Sladis is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell\
@@ -52,6 +52,8 @@ BookSource: "Out of the Abyss p. 135"
     \n2nd level (3 slots): [animal messenger](/2-Mechanics/CLI/spells/animal-messenger.md),\
     \ [barkskin](/2-Mechanics/CLI/spells/barkskin.md)"
   "name": "Spellcasting"
+- "desc": "Sladis"
+  "name": "Fey Ancestry"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach\
     \ 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning\

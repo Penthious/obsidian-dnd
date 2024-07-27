@@ -66,6 +66,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 - "EGW"
 - "SatO"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Tyrannosaurus%20Rex.webp"
 ```
 ^statblock

@@ -14,6 +14,6 @@ aliases: ["Papazotl"]
 - **Personality.** Shrewd and conniving  
 - **Inherited flaw.** "I bow before no one and expect others to do as I command."  
 - **Enemy.** Kubazan  
-- **Power.** The host can't be surprised, gains advantage on all Wisdom checks, and never takes damage from falling.  
+- **Power.** The host can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised), gains advantage on all Wisdom checks, and never takes damage from falling.  
 
 *Source: Tomb of Annihilation p. 129*

@@ -120,6 +120,7 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 - "SatO"
 - "ToFW"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Mind%20Flayer.webp"
 ```
 ^statblock

@@ -161,7 +161,7 @@ As the characters make their way along Tsolenka Pass, they encounter a beast tha
 > The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife.
 ^549
 
-If no character has a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher, the party is surprised. Otherwise, read:
+If no character has a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher, the party is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised). Otherwise, read:
 
 > [!readaloud] 
 > 

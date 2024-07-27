@@ -92,6 +92,7 @@ The demon lord Graz'zt creates lamias from his mortal servants, granting them im
 - "MOT"
 - "CM"
 - "WBtW"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Lamia.webp"
 ```
 ^statblock

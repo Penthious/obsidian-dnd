@@ -72,12 +72,13 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
     \ repeat the saving throw at the end of its next turn, becoming [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified)\
     \ on a failure or ending the effect on a success. The petrification lasts until\
     \ the creature is freed by the [greater restoration](/2-Mechanics/CLI/spells/greater-restoration.md)\
-    \ spell or other magic. Unless surprised, a creature can avert its eyes to avoid\
-    \ the saving throw at the start of its turn. If the creature does so, it can't\
-    \ see Hythonia until the start of its next turn, when it can avert its eyes again.\
-    \ If the creature looks at Hythonia in the meantime, it must immediately make\
-    \ the save. If Hythonia sees herself reflected on a polished surface within 30\
-    \ feet of her and in an area of bright light, she is affected by her own gaze."
+    \ spell or other magic. Unless [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ a creature can avert its eyes to avoid the saving throw at the start of its\
+    \ turn. If the creature does so, it can't see Hythonia until the start of its\
+    \ next turn, when it can avert its eyes again. If the creature looks at Hythonia\
+    \ in the meantime, it must immediately make the save. If Hythonia sees herself\
+    \ reflected on a polished surface within 30 feet of her and in an area of bright\
+    \ light, she is affected by her own gaze."
   "name": "Petrifying Gaze"
 - "desc": "If Hythonia is reduced to 0 hit points, she doesn't die or fall [unconscious](/2-Mechanics/CLI/rules/conditions.md#unconscious).\
     \ Instead, she sheds her skin, regains 199 hit points, and moves up to her speed\

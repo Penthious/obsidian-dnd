@@ -246,6 +246,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 - "BGDIA"
 - "CRCotN"
 - "KftGV"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Chasme.webp"
 ```
 ^statblock

@@ -62,7 +62,8 @@ With senses sharp enough to pinpoint the locations of nearby [invisible](/2-Mech
 - "desc": "The canoloth has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
-- "desc": "The canoloth can't be surprised unless it's [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)."
+- "desc": "The canoloth can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ unless it's [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)."
   "name": "Uncanny Senses"
 "actions":
 - "desc": "The canoloth makes one Bite or Tongue attack and one Claw attack."

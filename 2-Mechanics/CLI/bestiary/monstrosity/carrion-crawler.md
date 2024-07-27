@@ -80,6 +80,7 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 - "BGDIA"
 - "IDRotF"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Carrion%20Crawler.webp"
 ```
 ^statblock

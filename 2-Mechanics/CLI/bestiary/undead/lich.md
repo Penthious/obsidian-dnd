@@ -178,6 +178,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 - "SatO"
 - "ToFW"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Lich.webp"
 ```
 ^statblock

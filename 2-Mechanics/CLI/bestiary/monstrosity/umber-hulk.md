@@ -63,11 +63,11 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
     \ On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action\
     \ but uses all its movement to move in a random direction. On a 7 or 8, the creature\
     \ makes one melee attack against a random creature, or it does nothing if no creature\
-    \ is within reach.\n\nUnless surprised, a creature can avert its eyes to avoid\
-    \ the saving throw at the start of its turn. If the creature does so, it can't\
-    \ see the umber hulk until the start of its next turn, when it can avert its eyes\
-    \ again. If the creature looks at the umber hulk in the meantime, it must immediately\
-    \ make the save."
+    \ is within reach.\n\nUnless [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ a creature can avert its eyes to avoid the saving throw at the start of its\
+    \ turn. If the creature does so, it can't see the umber hulk until the start of\
+    \ its next turn, when it can avert its eyes again. If the creature looks at the\
+    \ umber hulk in the meantime, it must immediately make the save."
   "name": "Confusing Gaze"
 - "desc": "The umber hulk can burrow through solid rock at half its burrowing speed\
     \ and leaves a 5 foot-wide, 8-foot-high tunnel in its wake."
@@ -92,6 +92,7 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
 - "PaBTSO"
 - "SatO"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Umber%20Hulk.webp"
 ```
 ^statblock

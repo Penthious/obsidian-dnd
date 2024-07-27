@@ -37,8 +37,8 @@ BookSource: "Dragonlance: Shadow of the Dragon Queen p. 87"
 "skillsaves":
   "Medicine": !!int "4"
   "Religion": !!int "2"
-"senses": "passive Perception 12"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "any one language (usually Common), Gnomish"
 "cr": "1/4"
 "traits":
 - "desc": "Tatina is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell\
@@ -48,6 +48,8 @@ BookSource: "Dragonlance: Shadow of the Dragon Queen p. 87"
     \n1st level (3 slots): [bless](/2-Mechanics/CLI/spells/bless.md), [cure wounds](/2-Mechanics/CLI/spells/cure-wounds.md),\
     \ [sanctuary](/2-Mechanics/CLI/spells/sanctuary.md)"
   "name": "Spellcasting"
+- "desc": "Tatina"
+  "name": "Gnome Cunning"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
     \ bludgeoning damage."

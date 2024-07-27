@@ -43,7 +43,7 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 176"
   "Arcana": !!int "13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin)"
-"senses": "passive Perception 12"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Aquan, Auran, Common, Gnomish, Ignan, Terran"
 "cr": "12"
 "traits":
@@ -73,6 +73,8 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 176"
   "name": "Spellcasting"
 - "desc": "Zox has advantage on saving throws against spells and other magical effects."
   "name": "Magic Resistance"
+- "desc": "Zox"
+  "name": "Gnome Cunning"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

@@ -58,7 +58,8 @@ He explains that he came to Omu to find a fabled treasure called the Navel of th
   "name": "Feline Agility"
 - "desc": "During his first turn, Bag of Nails has advantage on attack rolls against\
     \ any creature that hasn't taken a turn. Any hit Bag of Nails scores against a\
-    \ surprised creature is a critical hit."
+    \ [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) creature is a critical\
+    \ hit."
   "name": "Assassinate"
 - "desc": "If Bag of Nails is subjected to an effect that allows him to make a Dexterity\
     \ saving throw to take only half damage, Bag of Nails instead takes no damage\

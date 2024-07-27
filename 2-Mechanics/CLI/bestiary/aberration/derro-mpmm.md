@@ -73,6 +73,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "source":
 - "MPMM"
 - "MTF"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MPMM/Derro.webp"
 ```
 ^statblock

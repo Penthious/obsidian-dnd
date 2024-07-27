@@ -43,7 +43,7 @@ BookSource: "Tales from the Yawning Portal p. 126"
   "Perception": !!int "6"
   "Persuasion": !!int "5"
 "senses": "passive Perception 16"
-"languages": "any two languages"
+"languages": "any two languages, Halfling"
 "cr": "1"
 "traits":
 - "desc": "On each of its turns, Drevin can use a bonus action to take the Dash, Disengage,\
@@ -54,6 +54,10 @@ BookSource: "Tales from the Yawning Portal p. 126"
     \ feet of an ally of Drevin that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Drevin doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Drevin"
+  "name": "Halfling Nimbleness"
+- "desc": "Drevin"
+  "name": "Brave"
 "actions":
 - "desc": "Drevin makes two melee attacks."
   "name": "Multiattack"

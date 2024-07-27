@@ -82,6 +82,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 - "SatO"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Bandit.webp"
 ```
 ^statblock

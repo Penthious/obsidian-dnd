@@ -42,10 +42,14 @@ BookSource: "Out of the Abyss p. 6"
   "Insight": !!int "4"
   "Perception": !!int "6"
   "Persuasion": !!int "5"
-"senses": "passive Perception 16"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Common, Gnomish, Terran, Undercommon"
 "cr": "1"
 "traits":
+- "desc": "Jimjar\n\nAt will: [nondetection](/2-Mechanics/CLI/spells/nondetection.md)\
+    \ (self only)\n\n1/day each: [blindness/deafness](/2-Mechanics/CLI/spells/blindness-deafness.md),\
+    \ [blur](/2-Mechanics/CLI/spells/blur.md), [disguise self](/2-Mechanics/CLI/spells/disguise-self.md)"
+  "name": "Innate Spellcasting"
 - "desc": "On each of its turns, Jimjar can use a bonus action to take the Dash, Disengage,\
     \ or Hide action."
   "name": "Cunning Action"
@@ -54,6 +58,10 @@ BookSource: "Out of the Abyss p. 6"
     \ feet of an ally of Jimjar that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Jimjar doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Jimjar"
+  "name": "Gnome Cunning"
+- "desc": "Jimjar"
+  "name": "Stone Camouflage"
 "actions":
 - "desc": "Jimjar makes two melee attacks."
   "name": "Multiattack"

@@ -24,6 +24,6 @@ When you use an action to toss one of these stones into the air, the stone orbit
 
 A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
 
-You can't be surprised while this dark blue rhomboid orbits your head.
+You can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) while this dark blue rhomboid orbits your head.
 
 *Source: Dungeon Master's Guide p. 176. Available in the SRD.*

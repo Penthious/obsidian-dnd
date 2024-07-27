@@ -104,6 +104,7 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 - "ToFW"
 - "BMT"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Behir.webp"
 ```
 ^statblock

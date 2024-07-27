@@ -75,6 +75,7 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 - "JttRC"
 - "KftGV"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Ankheg.webp"
 ```
 ^statblock

@@ -12,13 +12,13 @@ Some combatants might run away when a fight turns against them. You can use this
 
 A creature might flee under any of the following circumstances:
 
-- The creature is surprised.  
+- The creature is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised).  
 - The creature is reduced to half its hit points or fewer for the first time in the battle.  
 - The creature has no way to harm the opposing side on its turn.  
 
 A group of creatures might flee under any of the following circumstances:
 
-- All the creatures in the group are surprised.  
+- All the creatures in the group are [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised).  
 - The group's leader is reduced to 0 hit points, [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated), taken prisoner, or removed from battle.  
 - The group is reduced to half its original size with no losses on the opposing side.  
 

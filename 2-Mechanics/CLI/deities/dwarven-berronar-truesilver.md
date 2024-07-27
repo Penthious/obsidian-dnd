@@ -10,7 +10,7 @@ tags:
 aliases: ["Berronar Truesilver"]
 ---
 # Berronar Truesilver
-*Source: Mordenkainen's Tome of Foes p. 73, Tasha's Cauldron of Everything p. 32* 
+*Source: Mordenkainen's Tome of Foes p. 73, Tasha's Cauldron of Everything p. 33* 
 
 - **Alignment**: Lawful Good
 - **Category**: The Mordinsamman

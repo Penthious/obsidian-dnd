@@ -50,7 +50,8 @@ BookSource: "Keys from the Golden Vault p. 8"
 "traits":
 - "desc": "During its first turn, Enna Galakiir has advantage on attack rolls against\
     \ any creature that hasn't taken a turn. Any hit Enna Galakiir scores against\
-    \ a surprised creature is a critical hit."
+    \ a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) creature is a\
+    \ critical hit."
   "name": "Assassinate"
 - "desc": "If Enna Galakiir is subjected to an effect that allows it to make a Dexterity\
     \ saving throw to take only half damage, Enna Galakiir instead takes no damage\

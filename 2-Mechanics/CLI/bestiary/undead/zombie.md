@@ -112,6 +112,7 @@ A zombie doesn't require air, food, drink, or sleep.
 - "GHLoE"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Zombie.webp"
 ```
 ^statblock

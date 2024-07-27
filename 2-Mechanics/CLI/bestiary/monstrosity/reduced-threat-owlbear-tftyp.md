@@ -23,7 +23,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "alignment": "Unaligned"
 "ac": !!int "13"
 "ac_class": "natural armor"
-"hp": !!int "59"
+"hp": !!int "29"
 "hit_dice": "7d10 + 21"
 "stats":
 - !!int "20"
@@ -34,21 +34,26 @@ BookSource: "Tales from the Yawning Portal p. 113"
 - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  "Perception": !!int "1"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "The owlbear has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
     \ checks that rely on sight or smell."
   "name": "Keen Sight and Smell"
 "actions":
 - "desc": "The owlbear makes two attacks: one with its beak and one with its claws."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10\
     \ (1d10 + 5) piercing damage."
   "name": "Beak"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14\
+- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14\
     \ (2d8 + 5) slashing damage."
   "name": "Claws"
 "source":

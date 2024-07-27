@@ -33,7 +33,7 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 72"
 - !!int "3"
 "speed": "10 ft., fly 50 ft."
 "senses": "passive Perception 10"
-"languages": ""
+"languages": "one language known by its creator"
 "cr": "1/2"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5\

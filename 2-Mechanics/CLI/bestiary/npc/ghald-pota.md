@@ -52,7 +52,7 @@ When the thieves' guild known as the Hand of Yartar comes into possession of a p
 "cr": "7"
 "traits":
 - "desc": "During its first turn, Ghald has advantage on attack rolls against any\
-    \ creature that hasn't taken a turn. Any hit Ghald scores against a surprised\
+    \ creature that hasn't taken a turn. Any hit Ghald scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
     \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "Ghald can breathe air and water, but he needs to be submerged at least\

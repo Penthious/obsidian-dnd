@@ -95,6 +95,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 - "BMT"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Veteran.webp"
 ```
 ^statblock

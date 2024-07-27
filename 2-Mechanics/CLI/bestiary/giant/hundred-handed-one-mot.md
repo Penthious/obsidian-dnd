@@ -48,7 +48,7 @@ Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten 
 "traits":
 - "desc": "The giant can take one reaction on every turn in a combat."
   "name": "Reactive"
-- "desc": "The giant can't be surprised."
+- "desc": "The giant can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Vigilant"
 "actions":
 - "desc": "The giant makes four longsword attacks or two rock attacks."

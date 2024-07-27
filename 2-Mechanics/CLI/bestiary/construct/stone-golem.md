@@ -120,6 +120,7 @@ A golem doesn't require air, food, drink, or sleep.
 - "BMT"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Stone%20Golem.webp"
 ```
 ^statblock

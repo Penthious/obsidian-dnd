@@ -43,8 +43,8 @@ BookSource: "Journeys through the Radiant Citadel p. 162"
   "Arcana": !!int "13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin)"
-"senses": "passive Perception 12"
-"languages": "any six languages"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "any six languages, Elvish"
 "cr": "12"
 "traits":
 - "desc": "Afsoun is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
@@ -74,6 +74,8 @@ BookSource: "Journeys through the Radiant Citadel p. 162"
 - "desc": "Afsoun has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"
+- "desc": "Afsoun"
+  "name": "Fey Ancestry"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

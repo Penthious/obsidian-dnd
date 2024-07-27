@@ -45,5 +45,8 @@ title: Gulthias Tree
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
+- **Damage Vulnerabilities** fire
+- **Damage Resistances** piercing
+- **Damage Immunities** necrotic, poison, psychic
 ```
 ^statblock

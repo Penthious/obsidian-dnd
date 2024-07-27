@@ -70,6 +70,7 @@ BookSource: "Monster Manual p. 329, Waterdeep: Dungeon of the Mad Mage, Ghosts o
 - "TCE"
 - "WBtW"
 - "KftGV"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Giant%20Toad.webp"
 ```
 ^statblock

@@ -53,8 +53,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   "Arcana": !!int "4"
   "Persuasion": !!int "7"
 "damage_resistances": "slashing from nonmagical attacks not made with silvered weapons"
-"senses": "darkvision 60 ft., passive Perception 11"
-"languages": "any two languages (usually Abyssal or Infernal)"
+"senses": "darkvision 60 ft., darkvision 60 ft., passive Perception 11"
+"languages": "any two languages (usually Abyssal or Infernal), Goblin"
 "cr": "7"
 "traits":
 - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately cast\
@@ -83,6 +83,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ to the roll. It can do this after the roll is made but before any of the roll's\
     \ effects occur."
   "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
+- "desc": "The goblin"
+  "name": "Nimble Escape"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
     \ bludgeoning damage plus 10 (3d6) fire damage."

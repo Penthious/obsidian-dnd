@@ -89,6 +89,7 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 - "GHLoE"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Commoner.webp"
 ```
 ^statblock

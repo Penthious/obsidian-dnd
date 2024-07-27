@@ -41,8 +41,9 @@ BookSource: "The Rise of Tiamat p. 56"
 "skillsaves":
   "Intimidation": !!int "5"
   "Athletics": !!int "10"
-"senses": "passive Perception 11"
-"languages": "any one language (usually Common)"
+"damage_resistances": "fire"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 11"
+"languages": "any one language (usually Common), Draconic"
 "cr": "5"
 "traits":
 - "desc": "The half-dragon has advantage on saving throws against being [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened)."
@@ -61,6 +62,10 @@ BookSource: "The Rise of Tiamat p. 56"
     \ (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
     \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](/2-Mechanics/CLI/rules/conditions.md#prone)."
   "name": "Shield Bash"
+- "desc": "The half-dragon exhales fire in a 15-foot cone. Each creature in that area\
+    \ must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a\
+    \ failed save, or half as much damage on a successful one."
+  "name": "Fire Breath (Recharge 5-6)"
 "reactions":
 - "desc": "The half-dragon adds 3 to its AC against one melee attack that would hit\
     \ it. To do so, the half-dragon must see the attacker and be wielding a melee\

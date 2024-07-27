@@ -28,7 +28,7 @@ You gain the following benefits while holding this magic weapon:
 
 - You gain a +2 bonus to attack and damage rolls made with it.  
 - When you roll a 20 on an attack roll with this weapon against an [orc](/2-Mechanics/CLI/bestiary/humanoid/orc.md), that [orc](/2-Mechanics/CLI/bestiary/humanoid/orc.md) must succeed on a DC 17 Constitution saving throw or drop to 0 hit points.  
-- You can't be surprised by [orcs](/2-Mechanics/CLI/bestiary/humanoid/orc.md) while you're not [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated). You are also aware when [orcs](/2-Mechanics/CLI/bestiary/humanoid/orc.md) are within 120 feet of you and aren't behind total cover, although you don't know their location.  
+- You can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) by [orcs](/2-Mechanics/CLI/bestiary/humanoid/orc.md) while you're not [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated). You are also aware when [orcs](/2-Mechanics/CLI/bestiary/humanoid/orc.md) are within 120 feet of you and aren't behind total cover, although you don't know their location.  
 - You and any of your friends within 30 feet of you can't be [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened) while you're not [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated).  
 
 ## Sentience

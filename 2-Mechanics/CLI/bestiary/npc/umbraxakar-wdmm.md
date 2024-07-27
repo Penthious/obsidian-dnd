@@ -43,6 +43,7 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 241"
   "Stealth": !!int "5"
   "Insight": !!int "7"
   "Perception": !!int "12"
+"damage_resistances": "necrotic"
 "damage_immunities": "lightning"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
@@ -52,6 +53,16 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 241"
   "name": "Amphibious"
 - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
+- "desc": "While in dim light or darkness, the dragon has resistance to damage that\
+    \ isn't force, psychic, or radiant."
+  "name": "Living Shadow"
+- "desc": "While in dim light or darkness, the dragon can take the [Hide](/2-Mechanics/CLI/rules/actions.md#Hide)\
+    \ action as a bonus action."
+  "name": "Shadow Stealth"
+- "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) checks\
+    \ that rely on sight."
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
@@ -72,9 +83,9 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 241"
     \ is successful or the effect ends for it, the creature is immune to the dragon's\
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
-- "desc": "The dragon uses one of the following breath weapons.\n\n- Lightning Breath.\
-    \ The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning\
+- "desc": "The dragon uses one of the following breath weapons.\n\n- Necrotic Breath.\
+    \ The dragon exhales necrotic in a 90-foot line that is 5 feet wide. Each creature\
+    \ in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) necrotic\
     \ damage on a failed save, or half as much damage on a successful one.  \n- Repulsion\
     \ Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature\
     \ in that area must succeed on a DC 19 Strength saving throw. On a failed save,\

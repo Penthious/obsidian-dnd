@@ -35,8 +35,13 @@ BookSource: "Tales from the Yawning Portal p. 158"
 - !!int "10"
 "speed": "30 ft."
 "senses": "passive Perception 10"
-"languages": "any one language (usually Common)"
+"languages": "any one language (usually Common), Halfling"
 "cr": "0"
+"traits":
+- "desc": "Curran"
+  "name": "Halfling Nimbleness"
+- "desc": "Curran"
+  "name": "Brave"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
     \ bludgeoning damage."

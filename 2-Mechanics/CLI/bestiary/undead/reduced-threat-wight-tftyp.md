@@ -23,7 +23,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
 "ac_class": "[studded leather](/2-Mechanics/CLI/items/studded-leather-armor.md)"
-"hp": !!int "45"
+"hp": !!int "22"
 "hit_dice": "6d8 + 18"
 "stats":
 - !!int "15"
@@ -34,8 +34,8 @@ BookSource: "Tales from the Yawning Portal p. 113"
 - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  "Stealth": !!int "2"
+  "Perception": !!int "1"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
@@ -45,6 +45,11 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "While in sunlight, the wight has disadvantage on attack rolls, as well\
     \ as on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) checks\
     \ that rely on sight."
@@ -53,8 +58,8 @@ BookSource: "Tales from the Yawning Portal p. 113"
 - "desc": "The wight makes two longsword attacks or two longbow attacks. It can use\
     \ its Life Drain in place of one longsword attack."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5\
-    \ (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 5\
+    \ (1d6 + 2) necrotic damage. The target must succeed on a DC 11 Constitution\
     \ saving throw or its hit point maximum is reduced by an amount equal to the damage\
     \ taken. This reduction lasts until the target finishes a long rest. The target\
     \ dies if this effect reduces its hit point maximum to 0.\n\nA humanoid slain\
@@ -63,10 +68,10 @@ BookSource: "Tales from the Yawning Portal p. 113"
     \ is destroyed. The wight can have no more than twelve zombies under its control\
     \ at one time."
   "name": "Life Drain"
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 6 (1d8\
     \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
   "name": "Longsword"
-- "desc": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit:\
+- "desc": "Ranged Weapon Attack: +2 to hit, range 150/600 ft., one target. Hit:\
     \ 6 (1d8 + 2) piercing damage."
   "name": "Longbow"
 "source":

@@ -49,7 +49,7 @@ BookSource: "Journeys through the Radiant Citadel p. 71"
 "cr": "8"
 "traits":
 - "desc": "During its first turn, Diva Luma has advantage on attack rolls against\
-    \ any creature that hasn't taken a turn. Any hit Diva Luma scores against a surprised\
+    \ any creature that hasn't taken a turn. Any hit Diva Luma scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
     \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "If Diva Luma is subjected to an effect that allows it to make a Dexterity\

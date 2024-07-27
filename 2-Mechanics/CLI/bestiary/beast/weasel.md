@@ -51,6 +51,7 @@ BookSource: "Monster Manual p. 340, Icewind Dale: Rime of the Frostmaiden, The W
 - "IDRotF"
 - "WBtW"
 - "PaBTSO"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Weasel.webp"
 ```
 ^statblock

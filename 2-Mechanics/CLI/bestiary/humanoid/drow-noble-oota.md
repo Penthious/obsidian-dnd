@@ -38,9 +38,17 @@ BookSource: "Out of the Abyss p. 196"
   "Deception": !!int "5"
   "Insight": !!int "4"
   "Persuasion": !!int "5"
-"senses": "passive Perception 12"
-"languages": "any two languages"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "any two languages, Elvish"
 "cr": "1/8"
+"traits":
+- "desc": "The drow noble\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
+- "desc": "The drow noble"
+  "name": "Fey Ancestry"
+- "desc": "the drow noble"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
     \ + 1) piercing damage."

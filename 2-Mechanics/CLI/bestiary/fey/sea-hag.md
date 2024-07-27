@@ -122,10 +122,11 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     \ turns, with disadvantage if the hag is within line of sight, ending the effect\
     \ on itself on a success. If a creature's saving throw is successful or the effect\
     \ ends for it, the creature is immune to the hag's Horrific Appearance for the\
-    \ next 24 hours.\n\nUnless the target is surprised or the revelation of the hag's\
-    \ true form is sudden, the target can avert its eyes and avoid making the initial\
-    \ saving throw. Until the start of its next turn, a creature that averts its eyes\
-    \ has disadvantage on attack rolls against the hag."
+    \ next 24 hours.\n\nUnless the target is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ or the revelation of the hag's true form is sudden, the target can avert its\
+    \ eyes and avoid making the initial saving throw. Until the start of its next\
+    \ turn, a creature that averts its eyes has disadvantage on attack rolls against\
+    \ the hag."
   "name": "Horrific Appearance"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\

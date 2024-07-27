@@ -53,13 +53,13 @@ BookSource: "Phandelver and Below: The Shattered Obelisk p. 110"
     \ repeat the saving throw at the end of its next turn, becoming [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified)\
     \ on a failure or ending the effect on a success. The petrification lasts until\
     \ the creature is freed by the  [greater restoration](/2-Mechanics/CLI/spells/greater-restoration.md)\
-    \ spell or other magic.\n\nUnless surprised, a creature can avert its eyes to\
-    \ avoid the saving throw at the start of its turn. If the creature does so, it\
-    \ can't see Honna until the start of its next turn, when it can avert its eyes\
-    \ again. If the creature looks at Honna in the meantime, it must immediately make\
-    \ the save.\n\nIf Honna sees itself reflected on a polished surface within 30\
-    \ feet of it and in an area of bright light, Honna is, due to its curse, affected\
-    \ by its own gaze."
+    \ spell or other magic.\n\nUnless [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ a creature can avert its eyes to avoid the saving throw at the start of its\
+    \ turn. If the creature does so, it can't see Honna until the start of its next\
+    \ turn, when it can avert its eyes again. If the creature looks at Honna in the\
+    \ meantime, it must immediately make the save.\n\nIf Honna sees itself reflected\
+    \ on a polished surface within 30 feet of it and in an area of bright light, Honna\
+    \ is, due to its curse, affected by its own gaze."
   "name": "Petrifying Gaze"
 "actions":
 - "desc": "Honna makes either three melee attacks—one with its snake hair and two\

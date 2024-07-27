@@ -33,8 +33,13 @@ BookSource: "Tales from the Yawning Portal p. 54"
 - !!int "7"
 - !!int "7"
 "speed": "40 ft."
-"senses": "darkvision 60 ft., passive Perception 8"
-"languages": "Common, Giant"
+"damage_vulnerabilities": "bludgeoning"
+"damage_immunities": "poison"
+"condition_immunities": "[exhaustion](/2-Mechanics/CLI/rules/conditions.md#exhaustion),\
+  \ [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned)"
+"senses": "darkvision 60 ft., darkvision 60 ft., passive Perception 8"
+"languages": "Common, Giant, understands all languages it spoke in life but can't\
+  \ speak"
 "cr": "2"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13\

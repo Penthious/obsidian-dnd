@@ -68,7 +68,7 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 "cr": "1/4"
 "traits":
 - "desc": "In the first round of a combat, the kenku has advantage on attack rolls\
-    \ against any creature it surprised."
+    \ against any creature it [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Ambusher"
 - "desc": "The kenku can mimic any sounds it has heard, including voices. A creature\
     \ that hears the sounds can tell they are imitations with a successful DC 14 Wisdom\

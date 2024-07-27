@@ -58,6 +58,7 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 - "EGW"
 - "IDRotF"
 - "CRCotN"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Mammoth.webp"
 ```
 ^statblock

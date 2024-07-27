@@ -173,6 +173,7 @@ Aboleths lair in subterranean lakes or the rocky depths of the ocean, often surr
 - "SatO"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Aboleth.webp"
 ```
 ^statblock

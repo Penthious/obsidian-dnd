@@ -71,13 +71,13 @@ When the Temple of Black Earth is threatened, Marlos Urnrayle retreats to the Bl
     \ repeat the saving throw at the end of its next turn, becoming [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified)\
     \ on a failure or ending the effect on a success. The petrification lasts until\
     \ the creature is freed by the [greater restoration](/2-Mechanics/CLI/spells/greater-restoration.md)\
-    \ spell or other magic.\n\nUnless surprised, a creature can avert its eyes to\
-    \ avoid the saving throw at the start of its turn. If the creature does so, it\
-    \ can't see Marlos until the start of its next turn, when it can decide to avert\
-    \ its eyes again. If the creature looks at Marlos in the meantime, it must immediately\
-    \ make the save.\n\nIf Marlos sees himself reflected on a polished surface within\
-    \ 30 feet of him and in an area of bright light, Marlos is, due to his curse,\
-    \ affected by his own gaze."
+    \ spell or other magic.\n\nUnless [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ a creature can avert its eyes to avoid the saving throw at the start of its\
+    \ turn. If the creature does so, it can't see Marlos until the start of its next\
+    \ turn, when it can decide to avert its eyes again. If the creature looks at Marlos\
+    \ in the meantime, it must immediately make the save.\n\nIf Marlos sees himself\
+    \ reflected on a polished surface within 30 feet of him and in an area of bright\
+    \ light, Marlos is, due to his curse, affected by his own gaze."
   "name": "Petrifying Gaze"
 "actions":
 - "desc": "Marlos makes three melee attacks, one with his snake hair and two with\

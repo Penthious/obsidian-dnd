@@ -86,6 +86,7 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 - "JttRC"
 - "ToFW"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Wyvern.webp"
 ```
 ^statblock

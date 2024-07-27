@@ -86,6 +86,7 @@ When a gorgon spots potential prey, it charges with a hideous clamor of metal on
 - "LoX"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Gorgon.webp"
 ```
 ^statblock

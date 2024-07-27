@@ -48,12 +48,12 @@ BookSource: "Out of the Abyss p. 151"
     \ It must repeat the saving throw at the end of its next turn. On a success, the\
     \ effect ends. On a failure, the creature is [petrified](/2-Mechanics/CLI/rules/conditions.md#petrified)\
     \ until freed by the  [greater restoration](/2-Mechanics/CLI/spells/greater-restoration.md)\
-    \ spell or other magic.\n\nA creature that isn't surprised can avert its eyes\
-    \ to avoid the saving throw at the start of its turn. If it does so, it can't\
-    \ see Veldyskar until the start of its next turn, when it can avert its eyes again.\
-    \ If it looks at Veldyskar in the meantime, it must immediately make the save.\n\
-    \nIf Veldyskar sees its reflection within 30 feet of it in bright light, it mistakes\
-    \ itself for a rival and targets itself with its gaze."
+    \ spell or other magic.\n\nA creature that isn't [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ can avert its eyes to avoid the saving throw at the start of its turn. If it\
+    \ does so, it can't see Veldyskar until the start of its next turn, when it can\
+    \ avert its eyes again. If it looks at Veldyskar in the meantime, it must immediately\
+    \ make the save.\n\nIf Veldyskar sees its reflection within 30 feet of it in bright\
+    \ light, it mistakes itself for a rival and targets itself with its gaze."
   "name": "Petrifying Gaze"
 "actions":
 - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\

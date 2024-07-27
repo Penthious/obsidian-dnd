@@ -62,11 +62,11 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
     \ and can see the creature. If the saving throw fails by 5 or more, the creature\
     \ is reduced to 0 hit points unless it is immune to the [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened)\
     \ condition. Otherwise, a creature takes 16 (3d10) psychic damage on a failed\
-    \ save.\n\nUnless surprised, a creature can avert its eyes to avoid the saving\
-    \ throw at the start of its turn. If the creature does so, it has disadvantage\
-    \ on attack rolls against the bodak until the start of its next turn. If the creature\
-    \ looks at the bodak in the meantime, that creature must immediately make the\
-    \ saving throw."
+    \ save.\n\nUnless [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ a creature can avert its eyes to avoid the saving throw at the start of its\
+    \ turn. If the creature does so, it has disadvantage on attack rolls against the\
+    \ bodak until the start of its next turn. If the creature looks at the bodak in\
+    \ the meantime, that creature must immediately make the saving throw."
   "name": "Death Gaze"
 - "desc": "The bodak takes 5 radiant damage when it starts its turn in sunlight. While\
     \ in sunlight, it has disadvantage on attack rolls and ability checks."

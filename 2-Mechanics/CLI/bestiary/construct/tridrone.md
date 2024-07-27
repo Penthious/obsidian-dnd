@@ -91,6 +91,7 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 - "ToA"
 - "KftGV"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Tridrone.webp"
 ```
 ^statblock

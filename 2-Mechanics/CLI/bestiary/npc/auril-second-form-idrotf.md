@@ -94,8 +94,8 @@ A stat block is given for each of Auril's three forms. These descriptions do not
 "languages": "all, telepathy 1000 ft."
 "cr": "10"
 "traits":
-- "desc": "Auril can't be surprised and can't be changed into another form against\
-    \ her will."
+- "desc": "Auril can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ and can't be changed into another form against her will."
   "name": "Divine Being"
 - "desc": "When Auril drops to 0 hit points, her body collapses into shards of ice,\
     \ whereupon Auril instantly reappears in her [third form](/2-Mechanics/CLI/bestiary/npc/auril-third-form-idrotf.md),\

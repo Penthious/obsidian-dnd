@@ -38,12 +38,14 @@ BookSource: "Tales from the Yawning Portal p. 119"
 "saves":
   "Wisdom": !!int "2"
   "Constitution": !!int "4"
-"senses": "passive Perception 10"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 60 ft., passive Perception 10"
+"languages": "any one language (usually Common), Elvish"
 "cr": "3"
 "traits":
 - "desc": "The knight has advantage on saving throws against being [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened)."
   "name": "Brave"
+- "desc": "Shalendra"
+  "name": "Fey Ancestry"
 "actions":
 - "desc": "The knight makes two melee attacks."
   "name": "Multiattack"

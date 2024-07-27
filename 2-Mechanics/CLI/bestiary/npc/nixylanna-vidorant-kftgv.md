@@ -50,7 +50,8 @@ BookSource: "Keys from the Golden Vault p. 130"
 "traits":
 - "desc": "During its first turn, Nixylanna Vidorant has advantage on attack rolls\
     \ against any creature that hasn't taken a turn. Any hit Nixylanna Vidorant scores\
-    \ against a surprised creature is a critical hit."
+    \ against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) creature\
+    \ is a critical hit."
   "name": "Assassinate"
 - "desc": "If Nixylanna Vidorant is subjected to an effect that allows it to make\
     \ a Dexterity saving throw to take only half damage, Nixylanna Vidorant instead\

@@ -99,6 +99,7 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 - "SatO"
 - "ToFW"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Pixie.webp"
 ```
 ^statblock

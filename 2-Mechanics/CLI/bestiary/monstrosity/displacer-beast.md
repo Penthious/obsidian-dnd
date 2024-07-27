@@ -82,6 +82,7 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 - "KftGV"
 - "SatO"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Displacer%20Beast.webp"
 ```
 ^statblock

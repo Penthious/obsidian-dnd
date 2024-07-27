@@ -39,13 +39,20 @@ BookSource: "Out of the Abyss p. 191"
   "Stealth": !!int "6"
   "Perception": !!int "5"
   "Survival": !!int "5"
-"senses": "passive Perception 15"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 120 ft., passive Perception 15"
+"languages": "any one language (usually Common), Elvish"
 "cr": "1/2"
 "traits":
+- "desc": "The drow scout\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
 - "desc": "The scout has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
+- "desc": "The drow scout"
+  "name": "Fey Ancestry"
+- "desc": "the drow scout"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "The scout makes two melee attacks or two ranged attacks."
   "name": "Multiattack"

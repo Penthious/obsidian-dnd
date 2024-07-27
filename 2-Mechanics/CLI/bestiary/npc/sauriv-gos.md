@@ -42,6 +42,9 @@ BookSource: "Ghosts of Saltmarsh p. 79"
 "senses": "passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "1/8"
+"traits":
+- "desc": "Sauriv"
+  "name": "Hold Breath"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\
     \ + 1) piercing damage."

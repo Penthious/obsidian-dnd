@@ -110,6 +110,7 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 - "GHLoE"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Shambling%20Mound.webp"
 ```
 ^statblock

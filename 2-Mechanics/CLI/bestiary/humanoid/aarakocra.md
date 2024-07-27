@@ -91,6 +91,7 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 - "IDRotF"
 - "CRCotN"
 - "LoX"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Aarakocra.webp"
 ```
 ^statblock

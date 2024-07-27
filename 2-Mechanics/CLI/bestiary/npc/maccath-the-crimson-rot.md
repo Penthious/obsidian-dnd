@@ -41,8 +41,9 @@ BookSource: "The Rise of Tiamat p. 33"
 "skillsaves":
   "History": !!int "6"
   "Arcana": !!int "6"
-"senses": "passive Perception 11"
-"languages": "any four languages"
+"damage_resistances": "fire"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "any four languages, Infernal"
 "cr": "6"
 "traits":
 - "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
@@ -60,6 +61,9 @@ BookSource: "The Rise of Tiamat p. 33"
     \ [ice storm](/2-Mechanics/CLI/spells/ice-storm.md)\n\n5th level (1 slots):\
     \ [cone of cold](/2-Mechanics/CLI/spells/cone-of-cold.md)"
   "name": "Spellcasting"
+- "desc": "Maccath\n\nAt will: [thaumaturgy](/2-Mechanics/CLI/spells/thaumaturgy.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [hellish rebuke](/2-Mechanics/CLI/spells/hellish-rebuke.md)"
+  "name": "Innate Spellcasting"
 - "desc": "Maccath the Crimson is presented in The Rise of Tiamat as a female tiefling\
     \ sorcerer and member of the Arcane Brotherhood. The [mage](/2-Mechanics/CLI/bestiary/humanoid/mage.md)\
     \ stat block, modified with tiefling racial traits, has been provided here for\

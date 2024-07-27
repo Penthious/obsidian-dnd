@@ -40,13 +40,16 @@ BookSource: "Out of the Abyss p. 6"
   "Stealth": !!int "6"
   "Perception": !!int "5"
   "Survival": !!int "5"
-"senses": "passive Perception 15"
-"languages": "any one language (usually Common)"
+"damage_resistances": "poison"
+"senses": "darkvision 60 ft., passive Perception 15"
+"languages": "any one language (usually Common), Dwarvish"
 "cr": "1/2"
 "traits":
 - "desc": "Eldeth has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
     \ checks that rely on hearing or sight."
   "name": "Keen Hearing and Sight"
+- "desc": "Eldeth"
+  "name": "Dwarven Resilience"
 "actions":
 - "desc": "Eldeth makes two melee attacks or two ranged attacks."
   "name": "Multiattack"

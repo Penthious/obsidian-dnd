@@ -44,13 +44,13 @@ BookSource: "Storm King's Thunder p. 221"
   "Perception": !!int "3"
   "Acrobatics": !!int "6"
 "damage_resistances": "poison"
-"senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "Thieves' cant plus any two languages, Orc"
 "cr": "8"
 "traits":
 - "desc": "During its first turn, Rool has advantage on attack rolls against any creature\
-    \ that hasn't taken a turn. Any hit Rool scores against a surprised creature is\
-    \ a critical hit."
+    \ that hasn't taken a turn. Any hit Rool scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "If Rool is subjected to an effect that allows it to make a Dexterity saving\
     \ throw to take only half damage, Rool instead takes no damage if it succeeds\
@@ -61,6 +61,8 @@ BookSource: "Storm King's Thunder p. 221"
     \ feet of an ally of Rool that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Rool doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Rool"
+  "name": "Relentless Endurance"
 "actions":
 - "desc": "Rool makes two shortsword attacks."
   "name": "Multiattack"

@@ -23,7 +23,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "alignment": "Unaligned"
 "ac": !!int "14"
 "ac_class": "natural armor"
-"hp": !!int "133"
+"hp": !!int "66"
 "hit_dice": "14d10 + 56"
 "stats":
 - !!int "20"
@@ -43,6 +43,11 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "Whenever the golem is subjected to acid damage, it takes no damage and\
     \ instead regains a number of hit points equal to the acid damage dealt."
   "name": "Acid Absorption"
@@ -63,9 +68,9 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "actions":
 - "desc": "The golem makes two slam attacks."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16\
+- "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 16\
     \ (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed\
-    \ on a DC 15 Constitution saving throw or have its hit point maximum reduced by\
+    \ on a DC 13 Constitution saving throw or have its hit point maximum reduced by\
     \ an amount equal to the damage taken. The target dies if this attack reduces\
     \ its hit point maximum to 0. The reduction lasts until removed by the  [greater\
     \ restoration](/2-Mechanics/CLI/spells/greater-restoration.md) spell or other\

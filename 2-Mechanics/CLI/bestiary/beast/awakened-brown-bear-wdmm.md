@@ -36,7 +36,7 @@ BookSource: "Waterdeep: Dungeon of the Mad Mage p. 72"
 "skillsaves":
   "Perception": !!int "3"
 "senses": "passive Perception 13"
-"languages": ""
+"languages": "one language known by its creator"
 "cr": "1"
 "traits":
 - "desc": "The bear has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\

@@ -96,6 +96,7 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 - "ToFW"
 - "BMT"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Roper.webp"
 ```
 ^statblock

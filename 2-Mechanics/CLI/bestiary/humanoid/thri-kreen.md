@@ -90,6 +90,7 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 - "MM"
 - "JttRC"
 - "LoX"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Thri-kreen.webp"
 ```
 ^statblock

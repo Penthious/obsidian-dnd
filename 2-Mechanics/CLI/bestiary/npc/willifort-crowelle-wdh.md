@@ -48,7 +48,7 @@ BookSource: "Waterdeep: Dragon Heist p. 62"
     \ It reverts to its true form if it dies."
   "name": "Shapechanger"
 - "desc": "In the first round of a combat, Willifort has advantage on attack rolls\
-    \ against any creature it surprised."
+    \ against any creature it [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Ambusher"
 - "desc": "If Willifort surprises a creature and hits it with an attack during the\
     \ first round of combat, the target takes an extra 10 (3d6) damage from the\

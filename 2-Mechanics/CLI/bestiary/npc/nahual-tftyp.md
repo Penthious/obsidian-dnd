@@ -48,7 +48,7 @@ BookSource: "Tales from the Yawning Portal p. 91"
     \ isn't transformed. It reverts to its true form if it dies."
   "name": "Shapechanger"
 - "desc": "In the first round of a combat, the doppelganger has advantage on attack\
-    \ rolls against any creature it has surprised."
+    \ rolls against any creature it has [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Ambusher"
 - "desc": "If the doppelganger surprises a creature and hits it with an attack during\
     \ the first round of combat, the target takes an extra 10 (3d6) damage from\

@@ -42,8 +42,8 @@ BookSource: "Baldur's Gate: Descent Into Avernus p. 46"
   "History": !!int "13"
   "Arcana": !!int "13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
-  \ (from stoneskin)"
-"senses": "passive Perception 12"
+  \ (from stoneskin); fire"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Celestial, Common, Draconic, Infernal, Primordial"
 "cr": "12"
 "traits":
@@ -71,6 +71,9 @@ BookSource: "Baldur's Gate: Descent Into Avernus p. 46"
     \n9th level (1 slots): [time stop](/2-Mechanics/CLI/spells/time-stop.md)\n\
     \nSylvira casts these spells on itself before combat."
   "name": "Spellcasting"
+- "desc": "Sylvira\n\nAt will: [thaumaturgy](/2-Mechanics/CLI/spells/thaumaturgy.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [hellish rebuke](/2-Mechanics/CLI/spells/hellish-rebuke.md)"
+  "name": "Innate Spellcasting"
 - "desc": "Sylvira has advantage on saving throws against spells and other magical\
     \ effects."
   "name": "Magic Resistance"

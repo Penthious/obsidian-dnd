@@ -118,6 +118,7 @@ A flameskull doesn't require air, food, drink, or sleep
 - "PaBTSO"
 - "SatO"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Flameskull.webp"
 ```
 ^statblock

@@ -137,6 +137,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 - "SatO"
 - "BMT"
 - "HFStCM"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Fire%20Giant.webp"
 ```
 ^statblock

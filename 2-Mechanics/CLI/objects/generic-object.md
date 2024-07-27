@@ -56,5 +56,6 @@ title: Generic Object
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
+- **Damage Immunities** Varies (see below)
 ```
 ^statblock

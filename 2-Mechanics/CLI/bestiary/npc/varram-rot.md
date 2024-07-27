@@ -40,9 +40,10 @@ BookSource: "The Rise of Tiamat p. 9"
 "skillsaves":
   "Deception": !!int "6"
   "Stealth": !!int "7"
-"damage_resistances": "one of the following: acid, cold, fire, lightning, poison"
-"senses": "passive Perception 11"
-"languages": "Common, Draconic, Infernal"
+"damage_resistances": "one of the following: acid, cold, fire, lightning, poison;\
+  \ poison"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "Common, Draconic, Infernal, Dwarvish"
 "cr": "7"
 "traits":
 - "desc": "Varram is presented in The Rise of Tiamat as a male dwarf. The [dragonsoul](/2-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md)\
@@ -64,6 +65,8 @@ BookSource: "The Rise of Tiamat p. 9"
 - "desc": "Varram has advantage on an attack roll against a creature if at least one\
     \ of Varram's allies is within 5 feet of the creature and the ally isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)."
   "name": "Pack Tactics"
+- "desc": "Varram"
+  "name": "Dwarven Resilience"
 "actions":
 - "desc": "Varram attacks twice with its shortsword."
   "name": "Multiattack"

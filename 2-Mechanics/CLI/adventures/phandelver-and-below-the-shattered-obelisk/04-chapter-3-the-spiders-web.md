@@ -458,7 +458,7 @@ The camp is depicted on map 3.3. When the characters find the camp, read the fol
 > The faint smell of smoke hangs in the air as you ascend a rugged ridge on the lower slopes of the hill. Fifty yards away, a cave mouth opens up at the bottom of a ravine. Hunkered down by a boulder twenty yards outside the cave, evidently keeping watch, is a single bugbear.
 ^10e
 
-If the characters quietly take out the lone [bugbear](/2-Mechanics/CLI/bestiary/humanoid/bugbear.md), they have a chance to surprised the raiders in the cave. If the sentry spots the characters sneaking up, or if an attack fails to take the sentry out, the sentry shouts a warning and retreats back to the cave, joining the rest of the marauders there.
+If the characters quietly take out the lone [bugbear](/2-Mechanics/CLI/bestiary/humanoid/bugbear.md), they have a chance to [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) the raiders in the cave. If the sentry spots the characters sneaking up, or if an attack fails to take the sentry out, the sentry shouts a warning and retreats back to the cave, joining the rest of the marauders there.
 
 The marauders in the cave include Brughor Axe-Biter, an [orc](/2-Mechanics/CLI/bestiary/humanoid/orc.md) with 18 hit points; four [bugbears](/2-Mechanics/CLI/bestiary/humanoid/bugbear.md); and an [ogre](/2-Mechanics/CLI/bestiary/giant/ogre.md) named Gog. Gog fights until slain, while the rest flee if Brughor is killed.
 

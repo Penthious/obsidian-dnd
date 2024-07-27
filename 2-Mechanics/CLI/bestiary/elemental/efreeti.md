@@ -129,6 +129,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 - "KftGV"
 - "SatO"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Efreeti.webp"
 ```
 ^statblock

@@ -39,7 +39,7 @@ BookSource: "Ghosts of Saltmarsh p. 92"
   "Medicine": !!int "4"
   "Nature": !!int "3"
   "Perception": !!int "4"
-"senses": "passive Perception 14"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
@@ -52,6 +52,8 @@ BookSource: "Ghosts of Saltmarsh p. 92"
     \n2nd level (3 slots): [flaming sphere](/2-Mechanics/CLI/spells/flaming-sphere.md),\
     \ [barkskin](/2-Mechanics/CLI/spells/barkskin.md)"
   "name": "Spellcasting"
+- "desc": "Krell"
+  "name": "Relentless Endurance"
 "actions":
 - "desc": "Melee Weapon Attack: +6 to hit (+4 to hit with shillelagh), reach\
     \ 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, 8 (1d8 + 4) bludgeoning\

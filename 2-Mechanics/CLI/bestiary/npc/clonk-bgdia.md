@@ -44,7 +44,7 @@ BookSource: "Baldur's Gate: Descent Into Avernus p. 83"
 "cr": "1/4"
 "traits":
 - "desc": "In the first round of a combat, Clonk has advantage on attack rolls against\
-    \ any creature it surprised."
+    \ any creature it [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Ambusher"
 - "desc": "Clonk can mimic any sounds it has heard, including voices. A creature that\
     \ hears the sounds can tell they are imitations with a successful DC 14 Wisdom\

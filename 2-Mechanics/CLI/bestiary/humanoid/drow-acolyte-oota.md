@@ -36,8 +36,8 @@ BookSource: "Out of the Abyss p. 201"
 "skillsaves":
   "Medicine": !!int "4"
   "Religion": !!int "2"
-"senses": "passive Perception 12"
-"languages": "any one language (usually Common)"
+"senses": "darkvision 120 ft., passive Perception 12"
+"languages": "any one language (usually Common), Elvish"
 "cr": "1/4"
 "traits":
 - "desc": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
@@ -47,6 +47,13 @@ BookSource: "Out of the Abyss p. 201"
     \n1st level (3 slots): [bless](/2-Mechanics/CLI/spells/bless.md), [cure wounds](/2-Mechanics/CLI/spells/cure-wounds.md),\
     \ [sanctuary](/2-Mechanics/CLI/spells/sanctuary.md)"
   "name": "Spellcasting"
+- "desc": "The drow acolyte\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
+- "desc": "The drow acolyte"
+  "name": "Fey Ancestry"
+- "desc": "the drow acolyte"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
     \ bludgeoning damage."

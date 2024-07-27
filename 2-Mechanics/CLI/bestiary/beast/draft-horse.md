@@ -49,6 +49,7 @@ BookSource: "Monster Manual p. 321, Curse of Strahd, Storm King's Thunder, Water
 - "BGDIA"
 - "PaBTSO"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Draft%20Horse.webp"
 ```
 ^statblock

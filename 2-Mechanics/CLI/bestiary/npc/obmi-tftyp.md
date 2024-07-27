@@ -44,13 +44,13 @@ BookSource: "Tales from the Yawning Portal p. 196"
   "Perception": !!int "3"
   "Acrobatics": !!int "6"
 "damage_resistances": "poison"
-"senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "Thieves' cant plus any two languages, Dwarvish"
 "cr": "8"
 "traits":
 - "desc": "During its first turn, Obmi has advantage on attack rolls against any creature\
-    \ that hasn't taken a turn. Any hit Obmi scores against a surprised creature is\
-    \ a critical hit."
+    \ that hasn't taken a turn. Any hit Obmi scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "If Obmi is subjected to an effect that allows it to make a Dexterity saving\
     \ throw to take only half damage, Obmi instead takes no damage if it succeeds\
@@ -61,6 +61,8 @@ BookSource: "Tales from the Yawning Portal p. 196"
     \ feet of an ally of Obmi that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Obmi doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Obmi"
+  "name": "Dwarven Resilience"
 "actions":
 - "desc": "Obmi makes three shortsword attacks."
   "name": "Multiattack"

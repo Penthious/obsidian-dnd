@@ -73,6 +73,7 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 - "LoX"
 - "KftGV"
 - "PaBTSO"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Hook%20Horror.webp"
 ```
 ^statblock

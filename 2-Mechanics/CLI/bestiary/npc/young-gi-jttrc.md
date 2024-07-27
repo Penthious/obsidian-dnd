@@ -39,8 +39,9 @@ BookSource: "Journeys through the Radiant Citadel p. 85"
   "Deception": !!int "5"
   "Insight": !!int "4"
   "Persuasion": !!int "5"
+"damage_resistances": "fire"
 "senses": "passive Perception 12"
-"languages": "any two languages"
+"languages": "any two languages, Draconic"
 "cr": "1/8"
 "actions":
 - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8\

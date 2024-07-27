@@ -45,8 +45,9 @@ Kadroth appreciates the wisdom of maintaining the illusion that Speaker Crannoc 
   "Deception": !!int "4"
   "Religion": !!int "2"
   "Persuasion": !!int "4"
-"senses": "passive Perception 11"
-"languages": "any one language (usually Common)"
+"damage_resistances": "fire"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "any one language (usually Common), Infernal"
 "cr": "2"
 "traits":
 - "desc": "Kadroth is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
@@ -58,6 +59,9 @@ Kadroth appreciates the wisdom of maintaining the illusion that Speaker Crannoc 
     \n2nd level (3 slots): [hold person](/2-Mechanics/CLI/spells/hold-person.md),\
     \ [spiritual weapon](/2-Mechanics/CLI/spells/spiritual-weapon.md)"
   "name": "Spellcasting"
+- "desc": "Kadroth\n\nAt will: [thaumaturgy](/2-Mechanics/CLI/spells/thaumaturgy.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [hellish rebuke](/2-Mechanics/CLI/spells/hellish-rebuke.md)"
+  "name": "Innate Spellcasting"
 - "desc": "Kadroth has advantage on saving throws against being [charmed](/2-Mechanics/CLI/rules/conditions.md#charmed)\
     \ or [frightened](/2-Mechanics/CLI/rules/conditions.md#frightened)."
   "name": "Dark Devotion"

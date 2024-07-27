@@ -59,7 +59,7 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
     \ saving throw with a DC equal to 5 + the damage taken, unless the damage is radiant\
     \ or from a critical hit. On a success, the phylaskia drops to 1 hit point instead."
   "name": "Undead Fortitude"
-- "desc": "The phylaskia can't be surprised."
+- "desc": "The phylaskia can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Vigilant"
 "actions":
 - "desc": "The phylaskia makes two longsword attacks and uses its Strength Drain once."

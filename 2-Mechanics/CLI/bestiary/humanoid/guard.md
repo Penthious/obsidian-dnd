@@ -80,6 +80,7 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 - "SatO"
 - "ToFW"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Guard.webp"
 ```
 ^statblock

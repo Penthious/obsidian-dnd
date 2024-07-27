@@ -72,9 +72,10 @@ Even though the age of archons is long past, many wonder if the few surviving ar
     \ its mount are on the same plane of existence. When it teleports, the ashen rider\
     \ appears astride the mount along with any equipment it is wearing or carrying.\n\
     \nWhile mounted and not [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated),\
-    \ the ashen rider can't be surprised, and both it and its mount have advantage\
-    \ on Dexterity saving throws. If the ashen rider is reduced to 0 hit points while\
-    \ riding its mount, the mount is reduced to 0 hit points as well."
+    \ the ashen rider can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ and both it and its mount have advantage on Dexterity saving throws. If the\
+    \ ashen rider is reduced to 0 hit points while riding its mount, the mount is\
+    \ reduced to 0 hit points as well."
   "name": "Mount"
 "actions":
 - "desc": "The ashen rider makes three attacks with its ashen blade or two attacks\

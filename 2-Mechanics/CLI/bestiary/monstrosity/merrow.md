@@ -82,6 +82,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 - "WBtW"
 - "DSotDQ"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Merrow.webp"
 ```
 ^statblock

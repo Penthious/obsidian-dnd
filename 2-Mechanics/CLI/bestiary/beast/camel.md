@@ -44,6 +44,7 @@ BookSource: "Monster Manual p. 320, Ghosts of Saltmarsh, Candlekeep Mysteries. A
 - "MM"
 - "GoS"
 - "CM"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Camel.webp"
 ```
 ^statblock

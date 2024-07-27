@@ -91,6 +91,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 - "CRCotN"
 - "PSZ"
 - "SatO"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Minotaur.webp"
 ```
 ^statblock

@@ -39,8 +39,9 @@ BookSource: "Journeys through the Radiant Citadel p. 109"
   "Medicine": !!int "7"
   "Religion": !!int "5"
   "Performance": !!int "3"
-"senses": "passive Perception 13"
-"languages": "Common, Ignan, Tletlahtolli"
+"damage_resistances": "fire"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "Common, Ignan, Tletlahtolli, Infernal"
 "cr": "2"
 "traits":
 - "desc": "Ollin is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell\
@@ -54,6 +55,9 @@ BookSource: "Journeys through the Radiant Citadel p. 109"
     \ (2 slots): [dispel magic](/2-Mechanics/CLI/spells/dispel-magic.md), [spirit\
     \ guardians](/2-Mechanics/CLI/spells/spirit-guardians.md)"
   "name": "Spellcasting"
+- "desc": "Ollin\n\nAt will: [thaumaturgy](/2-Mechanics/CLI/spells/thaumaturgy.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [hellish rebuke](/2-Mechanics/CLI/spells/hellish-rebuke.md)"
+  "name": "Innate Spellcasting"
 - "desc": "As a bonus action, Ollin can expend a spell slot to cause its melee weapon\
     \ attacks to magically deal an extra 10 (3d6) radiant damage to a target on\
     \ a hit. This benefit lasts until the end of the turn. If Ollin expends a spell\

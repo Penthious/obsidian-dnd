@@ -106,6 +106,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 - "SatO"
 - "ToFW"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Satyr.webp"
 ```
 ^statblock

@@ -42,6 +42,7 @@ BookSource: "Princes of the Apocalypse p. 180"
 "skillsaves":
   "Stealth": !!int "7"
   "Perception": !!int "11"
+"damage_resistances": "necrotic"
 "damage_immunities": "acid"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
@@ -51,12 +52,22 @@ BookSource: "Princes of the Apocalypse p. 180"
   "name": "Amphibious"
 - "desc": "If Nurvureem fails a saving throw, it can choose to succeed instead."
   "name": "Legendary Resistance (3/Day)"
+- "desc": "While in dim light or darkness, the dragon has resistance to damage that\
+    \ isn't force, psychic, or radiant."
+  "name": "Living Shadow"
+- "desc": "While in dim light or darkness, the dragon can take the [Hide](/2-Mechanics/CLI/rules/actions.md#Hide)\
+    \ action as a bonus action."
+  "name": "Shadow Stealth"
+- "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
+    \ as on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) checks\
+    \ that rely on sight."
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Nurvureem can use its Frightful Presence. It then makes three attacks:\
     \ one with its bite and two with its claws."
   "name": "Multiattack"
 - "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17\
-    \ (2d10 + 6) piercing damage plus 4 (1d8) acid damage."
+    \ (2d10 + 6) piercing damage plus 4 (1d8) necrotic damage."
   "name": "Bite"
 - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13\
     \ (2d6 + 6) slashing damage."
@@ -71,9 +82,9 @@ BookSource: "Princes of the Apocalypse p. 180"
     \ is successful or the effect ends for it, the creature is immune to Nurvureem's\
     \ Frightful Presence for the next 24 hours."
   "name": "Frightful Presence"
-- "desc": "Nurvureem exhales acid in a 60-foot line that is 5 feet wide. Each creature\
-    \ in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid\
-    \ damage on a failed save, or half as much damage on a successful one."
+- "desc": "Nurvureem exhales necrotic in a 60-foot line that is 5 feet wide. Each\
+    \ creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8)\
+    \ necrotic damage on a failed save, or half as much damage on a successful one."
   "name": "Acid Breath (Recharge 5-6)"
 "legendary_actions":
 - "desc": "Nurvureem makes a Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\

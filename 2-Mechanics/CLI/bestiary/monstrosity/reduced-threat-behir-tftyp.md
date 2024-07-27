@@ -5,7 +5,7 @@ statblock: inline
 tags:
 - compendium/src/5e/tftyp
 - monster/cr/11
-- monster/size/huge
+- monster/size/large
 - monster/type/monstrosity
 aliases: ["Reduced-Threat Behir"]
 NoteIcon: monster
@@ -18,12 +18,12 @@ BookSource: "Tales from the Yawning Portal p. 113"
 
 ```statblock
 "name": "Reduced-Threat Behir (TftYP)"
-"size": "Huge"
+"size": "Large"
 "type": "monstrosity"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
 "ac_class": "natural armor"
-"hp": !!int "168"
+"hp": !!int "84"
 "hit_dice": "16d12 + 64"
 "stats":
 - !!int "23"
@@ -34,20 +34,26 @@ BookSource: "Tales from the Yawning Portal p. 113"
 - !!int "12"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "6"
+  "Stealth": !!int "5"
+  "Perception": !!int "4"
 "damage_immunities": "lightning"
 "senses": "darkvision 90 ft., passive Perception 16"
 "languages": "Draconic"
 "cr": "11"
+"traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 "actions":
 - "desc": "The behir makes two attacks: one with its bite and one to constrict."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 22\
+- "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 22\
     \ (3d10 + 6) piercing damage."
   "name": "Bite"
 - "desc": "The behir exhales a line of lightning that is 20 feet long and 5 feet wide.\
-    \ Each creature in that line must make a DC 16 Dexterity saving throw, taking\
+    \ Each creature in that line must make a DC 14 Dexterity saving throw, taking\
     \ 66 (12d10) lightning damage on a failed save, or half as much damage on a\
     \ successful one."
   "name": "Lightning Breath (Recharge 5-6)"

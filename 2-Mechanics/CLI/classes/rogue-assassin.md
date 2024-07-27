@@ -21,7 +21,7 @@ Your archetype grants you features at 3rd level and then again at 9th, 13th, and
 
 ### Assassinate (Level 3)
 
-Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
+Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) is a critical hit.
 
 ### Bonus Proficiencies (Level 3)
 
@@ -41,4 +41,4 @@ Your ruse is indiscernible to the casual observer. If a wary creature suspects s
 
 ### Death Strike (Level 17)
 
-Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
+Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised), it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.

@@ -514,7 +514,7 @@ In general, over the course of a full adventuring day, the party will likely nee
 
 An encounter can be made easier or harder based on the choice of location and the situation. Increase the difficulty of the encounter by one step (from easy to medium, for example) if the characters have a drawback that their enemies don't. Reduce the difficulty by one step if the characters have a benefit that their enemies don't. Any additional benefit or drawback pushes the encounter one step in the appropriate direction. If the characters have both a benefit and a drawback, the two cancel each other out. Situational drawbacks include the following:
 
-- The whole party is surprised, and the enemy isn't.  
+- The whole party is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised), and the enemy isn't.  
 - The enemy has cover, and the party doesn't.  
 - The characters are unable to see the enemy.  
 - The characters are taking damage every round from some environmental effect or magical source, and the enemy isn't.  

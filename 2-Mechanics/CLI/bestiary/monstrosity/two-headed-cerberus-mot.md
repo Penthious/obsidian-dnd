@@ -51,8 +51,8 @@ Feared by the living and the dead, cerberi patrol both banks of the Tartyx River
 - "desc": "As a bonus action, the cerberus can move up to its speed toward a hostile\
     \ creature that it can see."
   "name": "Aggressive"
-- "desc": "The cerberus can't be surprised, and it has advantage on saving throws\
-    \ against being knocked [unconscious](/2-Mechanics/CLI/rules/conditions.md#unconscious)."
+- "desc": "The cerberus can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised),\
+    \ and it has advantage on saving throws against being knocked [unconscious](/2-Mechanics/CLI/rules/conditions.md#unconscious)."
   "name": "Multiheaded"
 - "desc": "The cerberus has advantage on an attack roll against a creature if at least\
     \ one of the cerberus's allies is within 5 feet of the creature and the ally isn't\

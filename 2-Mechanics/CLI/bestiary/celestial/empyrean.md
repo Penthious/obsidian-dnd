@@ -110,6 +110,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 - "SatO"
 - "ToFW"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Empyrean.webp"
 ```
 ^statblock

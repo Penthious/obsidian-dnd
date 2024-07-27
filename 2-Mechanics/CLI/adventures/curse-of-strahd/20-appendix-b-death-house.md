@@ -416,7 +416,7 @@ In the middle of the south wall is a darkened alcove (area 28). Characters who a
 
 ### 28. Larder
 
-This alcove contains a [grick](/2-Mechanics/CLI/bestiary/monstrosity/grick.md) that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score under 12 is surprised by it. The alcove is otherwise empty.
+This alcove contains a [grick](/2-Mechanics/CLI/bestiary/monstrosity/grick.md) that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score under 12 is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) by it. The alcove is otherwise empty.
 
 ### 29. Ghoulish Encounter
 

@@ -208,6 +208,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 - "BMT"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Bearded%20Devil.webp"
 ```
 ^statblock

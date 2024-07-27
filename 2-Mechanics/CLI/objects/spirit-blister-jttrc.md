@@ -25,5 +25,7 @@ title: Spirit Blister
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
+- **Damage Vulnerabilities** fire, radiant
+- **Damage Immunities** acid, necrotic, psychic
 ```
 ^statblock

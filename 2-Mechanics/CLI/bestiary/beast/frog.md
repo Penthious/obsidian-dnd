@@ -53,6 +53,7 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
 - "WBtW"
 - "PSX"
 - "KftGV"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Frog.webp"
 ```
 ^statblock

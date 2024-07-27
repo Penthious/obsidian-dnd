@@ -88,6 +88,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 - "IDRotF"
 - "JttRC"
 - "DoDk"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Griffon.webp"
 ```
 ^statblock

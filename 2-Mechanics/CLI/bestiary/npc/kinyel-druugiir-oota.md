@@ -44,12 +44,15 @@ BookSource: "Out of the Abyss p. 134"
   "Perception": !!int "3"
   "Acrobatics": !!int "6"
 "damage_resistances": "poison"
-"senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
+"senses": "darkvision 120 ft., passive Perception 13"
+"languages": "Thieves' cant plus any two languages, Elvish"
 "cr": "8"
 "traits":
+- "desc": "Kinyel\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
 - "desc": "During its first turn, Kinyel has advantage on attack rolls against any\
-    \ creature that hasn't taken a turn. Any hit Kinyel scores against a surprised\
+    \ creature that hasn't taken a turn. Any hit Kinyel scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
     \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "If Kinyel is subjected to an effect that allows it to make a Dexterity\
@@ -61,6 +64,10 @@ BookSource: "Out of the Abyss p. 134"
     \ feet of an ally of Kinyel that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Kinyel doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Kinyel"
+  "name": "Fey Ancestry"
+- "desc": "Kinyel"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Kinyel makes two shortsword attacks."
   "name": "Multiattack"

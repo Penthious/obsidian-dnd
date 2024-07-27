@@ -50,8 +50,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "skillsaves":
   "History": !!int "6"
   "Arcana": !!int "6"
-"senses": "passive Perception 11"
-"languages": "any four languages"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "any four languages, Goblin"
 "cr": "6"
 "traits":
 - "desc": "The goblin is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
@@ -73,6 +73,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     \ surge of wild magic; roll on the [Wild Magic Surge](/2-Mechanics/CLI/tables/wild-magic-surge.md)\
     \ table in the \"Player's Handbook\" to determine the wild magic effect."
   "name": "Wild Magic"
+- "desc": "The goblin"
+  "name": "Nimble Escape"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d4 + 2) piercing damage."

@@ -52,7 +52,7 @@ If you are attuned to both the hand and eye, you gain the following additional b
 
 - You are immune to disease and poison.  
 - Using the eye's X-ray vision never causes you to suffer [exhaustion](/2-Mechanics/CLI/rules/conditions.md#exhaustion).  
-- You experience premonitions of danger and, unless you are [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated), can't be surprised.  
+- You experience premonitions of danger and, unless you are [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated), can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised).  
 - If you start your turn with at least 1 hit point, you regain `1d10` hit points.  
 - If a creature has a skeleton, you can attempt to turn its bones to jelly with a touch of the [Hand of Vecna](/2-Mechanics/CLI/items/hand-of-vecna.md). You can do so by using an action to make a melee attack against a creature you can reach, using your choice of your melee attack bonus for weapons or spells. On a hit, the target must succeed on a DC 18 Constitution saving throw or drop to 0 hit points.  
 - You can use an action to cast [wish](/2-Mechanics/CLI/spells/wish.md). This property can't be used again until 30 days have passed.  

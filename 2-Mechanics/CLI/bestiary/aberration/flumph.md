@@ -61,8 +61,8 @@ Flumphs live in complex and organized groups called cloisters, within which each
 "cr": "1/8"
 "traits":
 - "desc": "The flumph can perceive the content of any telepathic communication used\
-    \ within 60 feet of it, and it can't be surprised by creatures with any form of\
-    \ telepathy."
+    \ within 60 feet of it, and it can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ by creatures with any form of telepathy."
   "name": "Advanced Telepathy"
 - "desc": "If the flumph is knocked [prone](/2-Mechanics/CLI/rules/conditions.md#prone),\
     \ roll a die. On an odd result, the flumph lands upside-down and is [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated).\

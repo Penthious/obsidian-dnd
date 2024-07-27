@@ -39,8 +39,8 @@ BookSource: "Storm King's Thunder p. 154"
   "Medicine": !!int "7"
   "Religion": !!int "5"
   "Persuasion": !!int "3"
-"senses": "passive Perception 13"
-"languages": "any two languages"
+"senses": "darkvision 60 ft., passive Perception 13"
+"languages": "any two languages, Gnomish"
 "cr": "2"
 "traits":
 - "desc": "Elister is a 5th-level spellcaster. His spellcasting ability is Wisdom\
@@ -60,6 +60,8 @@ BookSource: "Storm King's Thunder p. 154"
     \ a spell slot of 2nd level or higher, the extra damage increases by 1d6 for\
     \ each level above 1st."
   "name": "Divine Eminence"
+- "desc": "Elister"
+  "name": "Gnome Cunning"
 "actions":
 - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
     \ bludgeoning damage."

@@ -37,9 +37,13 @@ BookSource: "Journeys through the Radiant Citadel p. 94"
 "speed": "30 ft."
 "skillsaves":
   "Perception": !!int "2"
-"senses": "passive Perception 12"
-"languages": "any one language (usually Common)"
+"damage_resistances": "poison"
+"senses": "darkvision 60 ft., passive Perception 12"
+"languages": "any one language (usually Common), Dwarvish"
 "cr": "1/8"
+"traits":
+- "desc": "Uzoma"
+  "name": "Dwarven Resilience"
 "actions":
 - "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60\
     \ ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\

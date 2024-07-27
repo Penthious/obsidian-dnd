@@ -55,7 +55,8 @@ Juiblex's arrival in the Underdark has granted Glabbagool sentience and awarenes
 - "desc": "Even when Glabbagool is in plain sight, it takes a successful DC 15 Wisdom\
     \ ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) check to spot a\
     \ cube that has neither moved nor attacked. A creature that tries to enter Glabbagool's\
-    \ space while unaware of Glabbagool is surprised by Glabbagool."
+    \ space while unaware of Glabbagool is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
+    \ by Glabbagool."
   "name": "Transparent"
 "actions":
 - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10\

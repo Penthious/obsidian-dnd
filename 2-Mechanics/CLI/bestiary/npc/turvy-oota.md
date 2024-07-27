@@ -40,10 +40,15 @@ BookSource: "Out of the Abyss p. 8"
   "Perception": !!int "2"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
-"senses": "darkvision 60 ft. (rat form only), passive Perception 12"
+"senses": "darkvision 60 ft. (rat form only), darkvision 120 ft., passive Perception\
+  \ 12"
 "languages": "Gnomish, Terran, Undercommon"
 "cr": "2"
 "traits":
+- "desc": "Turvy\n\nAt will: [nondetection](/2-Mechanics/CLI/spells/nondetection.md)\
+    \ (self only)\n\n1/day each: [blindness/deafness](/2-Mechanics/CLI/spells/blindness-deafness.md),\
+    \ [blur](/2-Mechanics/CLI/spells/blur.md), [disguise self](/2-Mechanics/CLI/spells/disguise-self.md)"
+  "name": "Innate Spellcasting"
 - "desc": "Turvy can use its action to polymorph into a rat-humanoid hybrid or into\
     \ a giant rat, or back into its true form, which is humanoid. Its statistics,\
     \ other than its size, are the same in each form. Any equipment it is wearing\
@@ -52,6 +57,10 @@ BookSource: "Out of the Abyss p. 8"
 - "desc": "Turvy has advantage on Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception))\
     \ checks that rely on smell."
   "name": "Keen Smell"
+- "desc": "Turvy"
+  "name": "Gnome Cunning"
+- "desc": "Turvy"
+  "name": "Stone Camouflage"
 "actions":
 - "desc": "Turvy makes two attacks, only one of which can be a bite."
   "name": "Multiattack (Humanoid or Hybrid Form Only)"

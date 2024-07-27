@@ -103,6 +103,7 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 - "GHLoE"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Mage.webp"
 ```
 ^statblock

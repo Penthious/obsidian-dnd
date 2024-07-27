@@ -86,6 +86,7 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 - "WBtW"
 - "KftGV"
 - "PaBTSO"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Galeb%20Duhr.webp"
 ```
 ^statblock

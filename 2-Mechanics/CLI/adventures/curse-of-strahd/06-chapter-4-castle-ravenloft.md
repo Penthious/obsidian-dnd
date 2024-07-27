@@ -232,7 +232,7 @@ If more than one [shadow](/2-Mechanics/CLI/bestiary/undead/shadow.md) is present
 > A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
 ^18e
 
-Any character who has a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score lower than 19 is surprised as Strahd appears seemingly out of nowhere. The vampire prefers to attack a surprised character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
+Any character who has a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score lower than 19 is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) as Strahd appears seemingly out of nowhere. The vampire prefers to attack a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
 
 #### Swarms of Bats
 
@@ -277,7 +277,7 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 
 #### Vampire Spawn
 
-If any character has a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher, the party isn't surprised. In that case, read:
+If any character has a passive Wisdom ([Perception](/2-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher, the party isn't [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised). In that case, read:
 
 > [!readaloud] 
 > 
@@ -807,7 +807,7 @@ The balcony is 50 feet above the floor of the chapel (area K15). A staircase nor
 > This staircase is made of old wood that strains underfoot, creaking and groaning.
 ^1ee
 
-The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be surprised by anyone climbing the creaky steps.
+The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) by anyone climbing the creaky steps.
 
 ### K30. King's Accountant
 

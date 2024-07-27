@@ -53,6 +53,7 @@ BookSource: "Monster Manual p. 330, Waterdeep: Dragon Heist, Baldur's Gate: Desc
 - "CM"
 - "WBtW"
 - "JttRC"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Hawk.webp"
 ```
 ^statblock

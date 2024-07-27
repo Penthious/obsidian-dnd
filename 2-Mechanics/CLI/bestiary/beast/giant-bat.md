@@ -54,6 +54,7 @@ BookSource: "Monster Manual p. 323, Princes of the Apocalypse, Waterdeep: Dungeo
 - "MOT"
 - "TCE"
 - "PSX"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Giant%20Bat.webp"
 ```
 ^statblock

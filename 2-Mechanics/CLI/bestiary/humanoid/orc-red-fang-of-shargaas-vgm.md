@@ -71,7 +71,8 @@ Most Red Fang enclaves keep and nurture giant bats, creatures that are sacred to
   "name": "Shargaas's Sight"
 - "desc": "In the first round of a combat, the orc has advantage on attack rolls against\
     \ any creature that hasn't taken a turn yet. If the orc hits a creature that round\
-    \ who was surprised, the hit is automatically a critical hit."
+    \ who was [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised), the hit\
+    \ is automatically a critical hit."
   "name": "Slayer"
 "actions":
 - "desc": "The orc makes two scimitar or dart attacks."

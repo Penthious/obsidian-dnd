@@ -503,7 +503,7 @@ The floor here is 40 feet above of the floor of the ballroom (area Q4). The roof
 
 The ceiling here is 20 feet high, and the rubble is difficult terrain.
 
-[Vladimir Horngaard](/2-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) (see area Q36) can hear visitors climbing over the rubble and can't be surprised by them.
+[Vladimir Horngaard](/2-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) (see area Q36) can hear visitors climbing over the rubble and can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised) by them.
 
 ### Q34. Ruined Bathroom
 

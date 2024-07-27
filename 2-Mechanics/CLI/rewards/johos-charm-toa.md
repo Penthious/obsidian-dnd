@@ -30,6 +30,8 @@ title: Joho
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
+- **Damage Immunities** poison
+- **Condition Immunities** [poisoned](/2-Mechanics/CLI/rules/conditions.md#poisoned)
 ```
 ^statblock
 ````

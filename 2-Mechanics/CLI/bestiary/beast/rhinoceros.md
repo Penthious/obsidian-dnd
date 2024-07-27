@@ -53,6 +53,7 @@ BookSource: "Monster Manual p. 336, Tomb of Annihilation, Waterdeep: Dragon Heis
 - "WDH"
 - "IDRotF"
 - "ToFW"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Rhinoceros.webp"
 ```
 ^statblock

@@ -86,6 +86,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 - "GHLoE"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Noble.webp"
 ```
 ^statblock

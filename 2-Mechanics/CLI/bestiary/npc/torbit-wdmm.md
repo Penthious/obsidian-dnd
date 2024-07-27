@@ -47,11 +47,11 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
   "Acrobatics": !!int "6"
 "damage_resistances": "poison"
 "senses": "passive Perception 13"
-"languages": "Thieves' cant plus any two languages"
+"languages": "Thieves' cant plus any two languages, Bullywug"
 "cr": "8"
 "traits":
 - "desc": "During its first turn, Torbit has advantage on attack rolls against any\
-    \ creature that hasn't taken a turn. Any hit Torbit scores against a surprised\
+    \ creature that hasn't taken a turn. Any hit Torbit scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
     \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "If Torbit is subjected to an effect that allows it to make a Dexterity\
@@ -63,6 +63,12 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
     \ feet of an ally of Torbit that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Torbit doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Torbit"
+  "name": "Amphibious"
+- "desc": "Torbit"
+  "name": "Swamp Camouflage"
+- "desc": "Torbit"
+  "name": "Standing Leap"
 "actions":
 - "desc": "Torbit makes two shortsword attacks."
   "name": "Multiattack"

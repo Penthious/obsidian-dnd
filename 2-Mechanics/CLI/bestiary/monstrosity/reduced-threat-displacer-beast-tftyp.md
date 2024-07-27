@@ -23,7 +23,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
 "ac_class": "natural armor"
-"hp": !!int "85"
+"hp": !!int "42"
 "hit_dice": "10d10 + 30"
 "stats":
 - !!int "18"
@@ -37,6 +37,11 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": ""
 "cr": "3"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "If the displacer beast is subjected to an effect that allows it to make\
     \ a saving throw to take only half damage, it instead takes no damage if it succeeds\
     \ on the saving throw, and only half damage if it fails."
@@ -51,7 +56,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "actions":
 - "desc": "The displacer beast makes two attacks with its tentacles."
   "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7\
+- "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7\
     \ (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage."
   "name": "Tentacle"
 "source":

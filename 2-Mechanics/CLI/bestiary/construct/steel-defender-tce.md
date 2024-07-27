@@ -43,7 +43,7 @@ BookSource: "Tasha's Cauldron of Everything p. 19"
 "senses": "darkvision 60 ft., passive Perception 0"
 "languages": "understands the languages you speak"
 "traits":
-- "desc": "The defender can't be surprised."
+- "desc": "The defender can't be [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)."
   "name": "Vigilant"
 "actions":
 - "desc": "Melee Weapon Attack: the summoner's spell attack modifier to hit, reach\

@@ -20,7 +20,7 @@ BookSource: "Dungeon Master's Guide p. 282"
 
 ### Ambusher
 
-In the first round of a combat, you have advantage on attack rolls against any creature who is surprised.
+In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised).
 
 ### Mimicry
 

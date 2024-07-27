@@ -22,7 +22,7 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "type": "ooze"
 "alignment": "Unaligned"
 "ac": !!int "8"
-"hp": !!int "45"
+"hp": !!int "22"
 "hit_dice": "6d10 + 12"
 "stats":
 - !!int "15"
@@ -42,13 +42,18 @@ BookSource: "Tales from the Yawning Portal p. 113"
 "languages": ""
 "cr": "2"
 "traits":
+- "desc": "A reduced-threat monster takes a −2 penalty on attack rolls (included in\
+    \ the stat block), ability checks (included in the stat block for skill proficiencies),\
+    \ saving throws (included in the stat block for saving throw proficiencies), and\
+    \ saving throw DCs (included in the stat block)."
+  "name": "Reduced Threat"
 - "desc": "The jelly can move through a space as narrow as 1 inch wide without squeezing."
   "name": "Amorphous"
 - "desc": "The jelly can climb difficult surfaces, including upside down on ceilings,\
     \ without needing to make an ability check."
   "name": "Spider Climb"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6\
+- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 9 (2d6\
     \ + 2) bludgeoning damage plus 3 (1d6) acid damage."
   "name": "Pseudopod"
 "reactions":

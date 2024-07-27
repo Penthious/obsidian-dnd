@@ -53,7 +53,7 @@ Urstul is a large, heavyset man in his forties. He storms about House Gralhund l
 "cr": "8"
 "traits":
 - "desc": "During its first turn, Urstul has advantage on attack rolls against any\
-    \ creature that hasn't taken a turn. Any hit Urstul scores against a surprised\
+    \ creature that hasn't taken a turn. Any hit Urstul scores against a [surprised](/2-Mechanics/CLI/rules/conditions.md#surprised)\
     \ creature is a critical hit."
   "name": "Assassinate"
 - "desc": "If Urstul is subjected to an effect that allows him to make a Dexterity\

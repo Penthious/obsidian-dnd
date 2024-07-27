@@ -42,8 +42,8 @@ BookSource: "Journeys through the Radiant Citadel p. 68"
   "Insight": !!int "4"
   "Perception": !!int "6"
   "Persuasion": !!int "5"
-"senses": "passive Perception 16"
-"languages": "any two languages"
+"senses": "darkvision 60 ft., passive Perception 16"
+"languages": "any two languages, Elvish"
 "cr": "1"
 "traits":
 - "desc": "On each of its turns, Samira can use a bonus action to take the Dash, Disengage,\
@@ -54,6 +54,8 @@ BookSource: "Journeys through the Radiant Citadel p. 68"
     \ feet of an ally of Samira that isn't [incapacitated](/2-Mechanics/CLI/rules/conditions.md#incapacitated)\
     \ and Samira doesn't have disadvantage on the attack roll."
   "name": "Sneak Attack (1/Turn)"
+- "desc": "Samira"
+  "name": "Fey Ancestry"
 "actions":
 - "desc": "Samira makes two melee attacks."
   "name": "Multiattack"

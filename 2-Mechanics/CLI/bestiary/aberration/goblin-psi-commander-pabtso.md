@@ -82,9 +82,10 @@ Psionic goblins often struggle to handle the turbulent psychic energy within the
     \ condition until the end of the goblin's next turn. On a successful save, a creature\
     \ takes half as much damage only."
   "name": "Synaptic Rend (Recharge 5-6)"
-"reactions":
+"bonus_actions":
 - "desc": "The goblin takes the Disengage or Hide action."
   "name": "Nimble Escape"
+"reactions":
 - "desc": "When the goblin or one of its allies within 15 feet of it is hit by an\
     \ attack roll, the goblin conjures a shield of force. The target of the attack\
     \ gains a +3 bonus to its AC against the triggering attack roll, potentially causing\

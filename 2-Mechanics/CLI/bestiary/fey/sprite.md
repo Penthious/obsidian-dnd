@@ -100,6 +100,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 - "KftGV"
 - "SatO"
 - "BMT"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Sprite.webp"
 ```
 ^statblock

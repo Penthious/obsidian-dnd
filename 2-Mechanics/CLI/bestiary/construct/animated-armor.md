@@ -91,6 +91,7 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 - "SatO"
 - "DoDk"
 - "VEoR"
+- "QftIS"
 "image": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/bestiary/tokens/MM/Animated%20Armor.webp"
 ```
 ^statblock

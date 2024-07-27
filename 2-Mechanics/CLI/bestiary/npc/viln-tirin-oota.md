@@ -42,16 +42,23 @@ BookSource: "Out of the Abyss p. 202"
 "skillsaves":
   "Athletics": !!int "4"
   "Deception": !!int "4"
-"senses": "passive Perception 10"
-"languages": "any two languages"
+"senses": "darkvision 120 ft., passive Perception 10"
+"languages": "any two languages, Elvish"
 "cr": "5"
 "traits":
+- "desc": "Viln\n\nAt will: [dancing lights](/2-Mechanics/CLI/spells/dancing-lights.md)\n\
+    \n1/day each: [darkness](/2-Mechanics/CLI/spells/darkness.md), [faerie fire](/2-Mechanics/CLI/spells/faerie-fire.md)"
+  "name": "Innate Spellcasting"
 - "desc": "Viln carries a [scimitar of speed](/2-Mechanics/CLI/items/scimitar-of-speed.md)\
     \ and can make one attack with it as a bonus action on her turn. Viln also carries\
     \ four daggers coated with [purple worm poison](/2-Mechanics/CLI/items/purple-worm-poison.md).\
     \ The poison on a dagger's blade is good for one hit only, whether the poison\
     \ takes effect or not."
   "name": "Special Equipment"
+- "desc": "Viln"
+  "name": "Fey Ancestry"
+- "desc": "Viln"
+  "name": "Sunlight Sensitivity"
 "actions":
 - "desc": "Viln makes three melee attacks: two with its scimitar and one with its\
     \ dagger. Or Viln makes two ranged attacks with its daggers."
