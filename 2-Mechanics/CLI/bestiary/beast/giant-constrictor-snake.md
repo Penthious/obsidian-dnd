@@ -16,10 +16,10 @@ aliases: ["Giant Constrictor Snake"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Monster Manual p. 324, Tomb of Annihilation, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
+BookSource: "Monster Manual p. 324, Tomb of Annihilation, Ghosts of Saltmarsh, Dragon of Icespire Peak, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules."
 ---
 # [Giant Constrictor Snake](2-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md)
-*Source: Monster Manual p. 324, Tomb of Annihilation, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 324, Tomb of Annihilation, Ghosts of Saltmarsh, Dragon of Icespire Peak, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Constrictor Snake"

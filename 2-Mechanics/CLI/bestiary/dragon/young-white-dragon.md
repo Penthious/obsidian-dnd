@@ -12,10 +12,10 @@ aliases: ["Young White Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: "Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
+BookSource: "Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Dragon of Icespire Peak, Icewind Dale: Rime of the Frostmaiden. Available in the SRD."
 ---
 # [Young White Dragon](2-Mechanics/CLI/bestiary/dragon/young-white-dragon.md)
-*Source: Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
+*Source: Monster Manual p. 101, The Rise of Tiamat, Tales from the Yawning Portal, Dragon of Icespire Peak, Icewind Dale: Rime of the Frostmaiden. Available in the SRD.*  
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 

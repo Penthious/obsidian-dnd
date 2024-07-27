@@ -12,10 +12,10 @@ aliases: ["Cow"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Volo's Guide to Monsters p. 207"
+BookSource: "Volo's Guide to Monsters p. 207, Dragon of Icespire Peak"
 ---
 # [Cow](2-Mechanics/CLI/bestiary/beast/cow-vgm.md)
-*Source: Volo's Guide to Monsters p. 207*  
+*Source: Volo's Guide to Monsters p. 207, Dragon of Icespire Peak*  
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
 

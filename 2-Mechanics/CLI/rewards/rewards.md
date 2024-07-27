@@ -83,6 +83,7 @@ cssclasses: json5e-note
 - [Charm of the Mirage](charm-of-the-mirage-cm.md)
 - [Charm of the Slayer](charm-of-the-slayer.md)
 - [Charm of the Snow Walker](charm-of-the-snow-walker-idrotf.md)
+- [Charm of the Storm](charm-of-the-storm-dip.md)
 - [Charm of the Swollen Hag](charm-of-the-swollen-hag-toa.md)
 - [Charm of the Traveler's Haven](charm-of-the-travelers-haven-idrotf.md)
 - [Charm of the Water Bearer](charm-of-the-water-bearer-cm.md)

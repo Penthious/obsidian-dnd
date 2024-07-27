@@ -15,10 +15,10 @@ aliases: ["Wereboar"]
 NoteIcon: monster
 BestiaryType: humanoid (human, shapechanger)
 SourceType: Bestiary
-BookSource: "Monster Manual p. 209, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD."
+BookSource: "Monster Manual p. 209, Tomb of Annihilation, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD."
 ---
 # [Wereboar](2-Mechanics/CLI/bestiary/humanoid/wereboar.md)
-*Source: Monster Manual p. 209, Tomb of Annihilation, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.*  
+*Source: Monster Manual p. 209, Tomb of Annihilation, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD.*  
 
 Wereboars are ill-tempered and vulgar brutes. As humanoids, they are stocky and muscular, with short, stiff hair. In their humanoid and hybrid forms, they use heavy weapons, while in hybrid or animal form, they gain a devastating goring attack through which their curse is spread. A wereboar infects other creatures indiscriminately, relishing the fact that the more its victims resist the curse, the more savage and bestial they become.
 

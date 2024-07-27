@@ -13,10 +13,10 @@ aliases: ["Riding Horse"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Monster Manual p. 336, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
+BookSource: "Monster Manual p. 336, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD and the Basic Rules."
 ---
 # [Riding Horse](2-Mechanics/CLI/bestiary/beast/riding-horse.md)
-*Source: Monster Manual p. 336, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 336, Curse of Strahd, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dragon Heist, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Riding Horse"

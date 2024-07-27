@@ -12,10 +12,10 @@ aliases: ["Ancient Green Dragon"]
 NoteIcon: monster
 BestiaryType: dragon
 SourceType: Bestiary
-BookSource: "Monster Manual p. 93, Storm King's Thunder. Available in the SRD."
+BookSource: "Monster Manual p. 93, Storm King's Thunder, Dragon of Icespire Peak. Available in the SRD."
 ---
 # [Ancient Green Dragon](2-Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md)
-*Source: Monster Manual p. 93, Storm King's Thunder. Available in the SRD.*  
+*Source: Monster Manual p. 93, Storm King's Thunder, Dragon of Icespire Peak. Available in the SRD.*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 

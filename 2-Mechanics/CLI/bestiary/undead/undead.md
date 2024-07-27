@@ -102,6 +102,7 @@ cssclasses: json5e-note
 - [Skeletal Juggernaut](skeletal-juggernaut-gos.md)
 - [Skeletal Knight](skeletal-knight-dsotdq.md)
 - [Skeletal Rats](skeletal-rats-bgdia.md)
+- [Skeletal Riding Horse](skeletal-riding-horse-dip.md)
 - [Skeletal Swarm](skeletal-swarm-gos.md)
 - [Skeleton Key](skeleton-key-toa.md)
 - [Skeleton](skeleton.md)

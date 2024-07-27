@@ -12,10 +12,10 @@ aliases: ["Twig Blight"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: "Monster Manual p. 32, Curse of Strahd, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules."
+BookSource: "Monster Manual p. 32, Curse of Strahd, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk, Dragon of Icespire Peak. Available in the Basic Rules."
 ---
 # [Twig Blight](2-Mechanics/CLI/bestiary/plant/twig-blight.md)
-*Source: Monster Manual p. 32, Curse of Strahd, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk. Available in the Basic Rules.*  
+*Source: Monster Manual p. 32, Curse of Strahd, Tales from the Yawning Portal, Ghosts of Saltmarsh, The Wild Beyond the Witchlight, Phandelver and Below: The Shattered Obelisk, Dragon of Icespire Peak. Available in the Basic Rules.*  
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
 

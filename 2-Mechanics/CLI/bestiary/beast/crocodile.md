@@ -13,10 +13,10 @@ aliases: ["Crocodile"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Monster Manual p. 320, Hoard of the Dragon Queen, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
+BookSource: "Monster Manual p. 320, Hoard of the Dragon Queen, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Dragon of Icespire Peak, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules."
 ---
 # [Crocodile](2-Mechanics/CLI/bestiary/beast/crocodile.md)
-*Source: Monster Manual p. 320, Hoard of the Dragon Queen, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 320, Hoard of the Dragon Queen, Princes of the Apocalypse, Tomb of Annihilation, Ghosts of Saltmarsh, Dragon of Icespire Peak, The Wild Beyond the Witchlight. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Crocodile"

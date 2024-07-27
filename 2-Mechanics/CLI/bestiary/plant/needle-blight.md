@@ -12,10 +12,10 @@ aliases: ["Needle Blight"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: "Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk"
+BookSource: "Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk, Dragon of Icespire Peak"
 ---
 # [Needle Blight](2-Mechanics/CLI/bestiary/plant/needle-blight.md)
-*Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk*  
+*Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Icewind Dale: Rime of the Frostmaiden, Phandelver and Below: The Shattered Obelisk, Dragon of Icespire Peak*  
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 

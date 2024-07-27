@@ -15,10 +15,10 @@ aliases: ["Harpy"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: "Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules."
+BookSource: "Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Dragon of Icespire Peak, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules."
 ---
 # [Harpy](2-Mechanics/CLI/bestiary/monstrosity/harpy.md)
-*Source: Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 181, Princes of the Apocalypse, Storm King's Thunder, Ghosts of Saltmarsh, Dragon of Icespire Peak, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Dragons of Stormwreck Isle. Available in the SRD and the Basic Rules.*  
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 

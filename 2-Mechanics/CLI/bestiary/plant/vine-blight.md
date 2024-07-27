@@ -12,10 +12,10 @@ aliases: ["Vine Blight"]
 NoteIcon: monster
 BestiaryType: plant
 SourceType: Bestiary
-BookSource: "Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh"
+BookSource: "Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Dragon of Icespire Peak"
 ---
 # [Vine Blight](2-Mechanics/CLI/bestiary/plant/vine-blight.md)
-*Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh*  
+*Source: Monster Manual p. 32, Curse of Strahd, Ghosts of Saltmarsh, Dragon of Icespire Peak*  
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
 

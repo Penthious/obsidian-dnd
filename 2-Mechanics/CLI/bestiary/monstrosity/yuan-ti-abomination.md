@@ -15,10 +15,10 @@ aliases: ["Yuan-ti Abomination"]
 NoteIcon: monster
 BestiaryType: monstrosity (shapechanger, yuan-ti)
 SourceType: Bestiary
-BookSource: "Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries"
+BookSource: "Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Candlekeep Mysteries"
 ---
 # [Yuan-ti Abomination](2-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md)
-*Source: Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Candlekeep Mysteries*  
+*Source: Monster Manual p. 308, The Rise of Tiamat, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Candlekeep Mysteries*  
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
 

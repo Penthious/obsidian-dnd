@@ -16,10 +16,10 @@ aliases: ["Roc"]
 NoteIcon: monster
 BestiaryType: monstrosity
 SourceType: Bestiary
-BookSource: "Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD."
+BookSource: "Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Dragon of Icespire Peak, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Roc](2-Mechanics/CLI/bestiary/monstrosity/roc.md)
-*Source: Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.*  
+*Source: Monster Manual p. 260, Curse of Strahd, Storm King's Thunder, Ghosts of Saltmarsh, Dragon of Icespire Peak, Mythic Odysseys of Theros, Icewind Dale: Rime of the Frostmaiden, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.*  
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
 

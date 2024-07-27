@@ -13,10 +13,10 @@ aliases: ["Deer"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Monster Manual p. 321, Hoard of the Dragon Queen. Available in the SRD and the Basic Rules."
+BookSource: "Monster Manual p. 321, Hoard of the Dragon Queen, Dragon of Icespire Peak. Available in the SRD and the Basic Rules."
 ---
 # [Deer](2-Mechanics/CLI/bestiary/beast/deer.md)
-*Source: Monster Manual p. 321, Hoard of the Dragon Queen. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 321, Hoard of the Dragon Queen, Dragon of Icespire Peak. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Deer"

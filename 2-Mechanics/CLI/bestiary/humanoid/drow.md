@@ -12,10 +12,10 @@ aliases: ["Drow"]
 NoteIcon: monster
 BestiaryType: humanoid (elf)
 SourceType: Bestiary
-BookSource: "Monster Manual p. 128, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
+BookSource: "Monster Manual p. 128, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Phandelver and Below: The Shattered Obelisk. Available in the SRD."
 ---
 # [Drow](2-Mechanics/CLI/bestiary/humanoid/drow.md)
-*Source: Monster Manual p. 128, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  
+*Source: Monster Manual p. 128, Tales from the Yawning Portal, Waterdeep: Dragon Heist, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus, Candlekeep Mysteries, Phandelver and Below: The Shattered Obelisk. Available in the SRD.*  
 
 ## Drow
 

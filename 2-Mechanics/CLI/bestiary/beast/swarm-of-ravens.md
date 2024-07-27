@@ -15,10 +15,10 @@ aliases: ["Swarm of Ravens"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Monster Manual p. 339, Curse of Strahd, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
+BookSource: "Monster Manual p. 339, Curse of Strahd, The Rise of Tiamat, Dragon of Icespire Peak, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD and the Basic Rules."
 ---
 # [Swarm of Ravens](2-Mechanics/CLI/bestiary/beast/swarm-of-ravens.md)
-*Source: Monster Manual p. 339, Curse of Strahd, The Rise of Tiamat, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 339, Curse of Strahd, The Rise of Tiamat, Dragon of Icespire Peak, Icewind Dale: Rime of the Frostmaiden, Tasha's Cauldron of Everything, Candlekeep Mysteries. Available in the SRD and the Basic Rules.*  
 
 > [!note] The Nature of Swarms
 > 

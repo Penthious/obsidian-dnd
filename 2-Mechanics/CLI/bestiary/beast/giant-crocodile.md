@@ -12,10 +12,10 @@ aliases: ["Giant Crocodile"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Monster Manual p. 324, Princes of the Apocalypse, Tomb of Annihilation, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
+BookSource: "Monster Manual p. 324, Princes of the Apocalypse, Tomb of Annihilation, Dragon of Icespire Peak, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules."
 ---
 # [Giant Crocodile](2-Mechanics/CLI/bestiary/beast/giant-crocodile.md)
-*Source: Monster Manual p. 324, Princes of the Apocalypse, Tomb of Annihilation, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
+*Source: Monster Manual p. 324, Princes of the Apocalypse, Tomb of Annihilation, Dragon of Icespire Peak, Journeys through the Radiant Citadel. Available in the SRD and the Basic Rules.*  
 
 ```statblock
 "name": "Giant Crocodile"

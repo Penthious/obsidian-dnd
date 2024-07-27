@@ -13,10 +13,10 @@ aliases: ["Sahuagin"]
 NoteIcon: monster
 BestiaryType: humanoid (sahuagin)
 SourceType: Bestiary
-BookSource: "Monster Manual p. 263, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD."
+BookSource: "Monster Manual p. 263, Tales from the Yawning Portal, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 ---
 # [Sahuagin](2-Mechanics/CLI/bestiary/humanoid/sahuagin.md)
-*Source: Monster Manual p. 263, Tales from the Yawning Portal, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
+*Source: Monster Manual p. 263, Tales from the Yawning Portal, Ghosts of Saltmarsh, Dragon of Icespire Peak, Baldur's Gate: Descent Into Avernus. Available in the SRD.*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 

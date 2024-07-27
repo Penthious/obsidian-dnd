@@ -14,10 +14,10 @@ aliases: ["Boar"]
 NoteIcon: monster
 BestiaryType: beast
 SourceType: Bestiary
-BookSource: "Monster Manual p. 319, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD."
+BookSource: "Monster Manual p. 319, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD."
 ---
 # [Boar](2-Mechanics/CLI/bestiary/beast/boar.md)
-*Source: Monster Manual p. 319, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.*  
+*Source: Monster Manual p. 319, Storm King's Thunder, Tomb of Annihilation, Waterdeep: Dungeon of the Mad Mage, Dragon of Icespire Peak, Mythic Odysseys of Theros, Candlekeep Mysteries, The Wild Beyond the Witchlight. Available in the SRD.*  
 
 ```statblock
 "name": "Boar"
