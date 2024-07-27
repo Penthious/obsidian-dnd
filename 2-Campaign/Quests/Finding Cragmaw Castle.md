@@ -1,6 +1,6 @@
 ---
 questObtained: 
-questStatus: Not Started
+questStatus: In Progress
 questGiver: "[[2-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md|sildar-hallwinter-pabtso]]"
 questLocationObtained: 
 questSessionObtained: 

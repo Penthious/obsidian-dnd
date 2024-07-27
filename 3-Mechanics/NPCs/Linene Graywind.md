@@ -1,20 +1,16 @@
 ---
-AssociatedGroup: Harpers
-Gender: Male
-Race:
-  - Half-elf
+AssociatedGroup: 
+Gender: Female
+Race: 
 Age: "1"
 Class: 
 Alignment: 
 Character-Role: 
-Location: [[Lampoteuo]] 
+Location: 
 NoteIcon: npc
-Vitality: Deceased
-tags:
-  - npc
+Vitality:
 ---
 
-NewNPC
 
 
 > [!infobox]

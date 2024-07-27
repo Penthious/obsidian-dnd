@@ -1,6 +1,6 @@
 ---
 questObtained: 
-questStatus: Not Started
+questStatus: In Progress
 questGiver: 
 questLocationObtained: 
 questSessionObtained: 

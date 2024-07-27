@@ -1,6 +1,6 @@
 ---
 questObtained: 
-questStatus: In Progress
+questStatus: Complete
 questGiver: 
 questLocationObtained: 
 questSessionObtained: 
