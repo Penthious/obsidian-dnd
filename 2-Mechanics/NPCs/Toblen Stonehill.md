@@ -1,6 +1,6 @@
 ---
 AssociatedGroup: 
-Gender: Female
+Gender: Male
 Race: 
 Age: "1"
 Class: 
@@ -8,7 +8,9 @@ Alignment:
 Character-Role: 
 Location: 
 NoteIcon: npc
-Vitality:
+Vitality: Deceased
+tags:
+  - npc
 ---
 
 
@@ -36,7 +38,7 @@ Vitality:
 # `=this.file.name`
 ## Profile
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
+Local innkeeper
 
 > [!info] Statblock
 > ```statblock

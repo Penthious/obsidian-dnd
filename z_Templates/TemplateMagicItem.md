@@ -10,7 +10,7 @@ NoteIcon: magicitem
 BookSource:
 ---
 
-<% await tp.file.move("/3-Mechanics/Items/" + tp.file.title) %>
+<% await tp.file.move("/2-Mechanics/Items/" + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewMagicItem");

@@ -1,7 +1,7 @@
 ---
 questObtained: 
 questStatus: Ready for party
-questGiver: 
+questGiver: "[[2-Mechanics/NPCs/Harbin Wester.md|Harbin Wester]]"
 questLocationObtained: questBoard
 questSessionObtained: 
 questNotes: 
@@ -28,12 +28,13 @@ tags:
 > Available Loot | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Acquired Loot | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-The local midwife -- an acolyte of Chauntea named Adabra Gwynn -- lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming common, it's not safe for her to be alone. Urge Adabra to return to Phandalin. Once she's safe, visit Townmaster Harbin Wester to claim a reward of 25gp
+The local midwife -- an acolyte of Chauntea named [[Adabra Gwynn]]-- lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming common, it's not safe for her to be alone. Urge [[Adabra Gwynn]] to return to Phandalin. Once she's safe, visit Townmaster [[Harbin Wester]] to claim a reward of 25gp
 
 ### Quest Objective
 
-- List the objectives here.
+- [[14-umbrage-hill|Umbrage Hill]]
 
 ### Rewards
 
 - 25 [[gold-gp]]
+- Also 1 [[potion-of-healing]] from [[Adabra Gwynn]] when party rescues her

@@ -1,7 +1,7 @@
 ---
 questObtained: 
-questStatus: Ready for party
-questGiver: 
+questStatus: Not Started
+questGiver: "[[2-Mechanics/NPCs/Daran Edermath.md|Daran Edermath]]"
 questLocationObtained: 
 questSessionObtained: 
 questNotes: 

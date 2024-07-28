@@ -1,6 +1,6 @@
 ---
 AssociatedGroup: 
-Gender: Male
+Gender: Female
 Race: 
 Age: "1"
 Class: 
@@ -9,6 +9,8 @@ Character-Role:
 Location: 
 NoteIcon: npc
 Vitality: Deceased
+tags:
+  - npc
 ---
 
 
@@ -36,7 +38,7 @@ Vitality: Deceased
 # `=this.file.name`
 ## Profile
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
+Owns a trading post and owes money to the characters
 
 > [!info] Statblock
 > ```statblock

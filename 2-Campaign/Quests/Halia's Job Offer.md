@@ -1,7 +1,7 @@
 ---
 questObtained: 
-questStatus: Ready for party
-questGiver: 
+questStatus: Not Started
+questGiver: "[[2-Mechanics/NPCs/Halia Thornton.md|Halia Thornton]]"
 questLocationObtained: 
 questSessionObtained: 
 questNotes: 
@@ -37,7 +37,7 @@ Further, in chapter 4, Halia smuggles Nezznar the Spider out of town and into
 
 ### Quest Objective
 
-- List the objectives here.
+- 
 
 ### Rewards
 

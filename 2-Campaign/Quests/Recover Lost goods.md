@@ -1,7 +1,7 @@
 ---
 questObtained: 
-questStatus: Ready for party
-questGiver: 
+questStatus: Complete
+questGiver: "[[2-Mechanics/NPCs/Linene Graywind.md|Linene Graywind]]"
 questLocationObtained: 
 questSessionObtained: 
 questNotes: 

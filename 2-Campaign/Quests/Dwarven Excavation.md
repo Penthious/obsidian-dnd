@@ -1,8 +1,8 @@
 ---
 questObtained: 
-questStatus: Not Started
-questGiver: 
-questLocationObtained: 
+questStatus: Ready for party
+questGiver: "[[2-Mechanics/NPCs/Harbin Wester.md|Harbin Wester]]"
+questLocationObtained: questBoard
 questSessionObtained: 
 questNotes: 
 questLootAvail: 
@@ -28,12 +28,12 @@ tags:
 > Available Loot | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Acquired Loot | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-Describe the quest here. 
+"Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp." If the characters undertake this quest, see "Dwarven Excavation."
 
 ### Quest Objective
 
-- List the objectives here.
+- [[06-dwarven-excavation|Dwarven Excavation]]
 
 ### Rewards
 
-- List the rewards here.
+- 50 [[gold-gp]]

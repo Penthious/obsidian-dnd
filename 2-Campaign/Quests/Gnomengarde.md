@@ -1,8 +1,8 @@
 ---
 questObtained: 
-questStatus: Not Started
-questGiver: 
-questLocationObtained: 
+questStatus: Ready for party
+questGiver: "[[2-Mechanics/NPCs/Harbin Wester.md|Harbin Wester]]"
+questLocationObtained: questBoard
 questSessionObtained: 
 questNotes: 
 questLootAvail: 
@@ -28,12 +28,14 @@ tags:
 > Available Loot | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Acquired Loot | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-Describe the quest here. 
+ "A clan of reclusive rock gnomes resides in a small network of caves in the mountains to the southeast. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50 gp for it." 
+ 
+ If the characters undertake this quest, proceed with "[[08-gnomengarde|Gnomengarde]]."
 
 ### Quest Objective
 
-- List the objectives here.
+- [[08-gnomengarde|Gnomengarde]]
 
 ### Rewards
 
-- List the rewards here.
+- 50 [[gold-gp]]

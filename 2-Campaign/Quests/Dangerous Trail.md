@@ -1,7 +1,7 @@
 ---
 questObtained: 
 questStatus: Ready for party
-questGiver: 
+questGiver: "[[2-Mechanics/NPCs/Harbin Wester.md|Harbin Wester]]"
 questLocationObtained: questBoard
 questSessionObtained: 
 questNotes: 
@@ -28,7 +28,9 @@ tags:
 > Available Loot | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
 > Acquired Loot | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
 
-Harbin posts official notices on a board beside the door of the townmaster’s hall. He’s looking for someone to head east on the Triboar Trail, where marauders have attacked several caravans near Wyvern Tor. The most recent victims reported that at least one strange goblin accompanied the marauders, who consist of at least an ogre and some bugbears. Harbin is offering a 100 Gold Award contract to any group that can drive the marauders and any goblin companions away. If the party pursues this quest, see Wyvern Tor in chapter 3.
+Harbin posts official notices on a board beside the door of the townmaster’s hall. He’s looking for someone to head east on the Triboar Trail, where marauders have attacked several caravans near Wyvern Tor. The most recent victims reported that at least one strange goblin accompanied the marauders, who consist of at least an ogre and some bugbears. Harbin is offering a 100 Gold Award contract to any group that can drive the marauders and any goblin companions away. 
+
+If the party pursues this quest, see Wyvern Tor in chapter 3.
 
 ### Quest Objective
 
