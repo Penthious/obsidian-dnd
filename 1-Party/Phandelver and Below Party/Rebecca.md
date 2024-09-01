@@ -28,9 +28,10 @@ PlayerKnownLanguages:
 | Image                                  | Char Name         | Player Name      | Class           | Race           | Level           |
 | -------------------------------------- | ----------------- | ---------------- | --------------- | -------------- | --------------- |
 | ![[rebecca_player.jpeg\|cover hsmall]] | `=this.file.name` | `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
+|                                        |                   |                  |                 |                |                 |
 
 ```custom-frames
 frame: Rebecca
-style: height: 1100px;
+style: height: 1150px;
 ```
 

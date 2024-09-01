@@ -37,6 +37,6 @@ PlayerKnownLanguages:
 
 ```custom-frames
 frame: Sarkhaan
-style: height: 1100px;
+style: height: 1150px;
 ```
 

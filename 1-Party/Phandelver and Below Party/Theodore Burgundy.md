@@ -27,12 +27,12 @@ PlayerKnownLanguages:
 
 # `=this.file.name`
 
-| Image                                   | Char Name         | Player Name      | Class           | Race           | Level           |
-| --------------------------------------- | ----------------- | ---------------- | --------------- | -------------- | --------------- |
-| ![[ImagePlaceholder.png\|cover hsmall]] | `=this.file.name` | `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
+| Image                     | Char Name         | Player Name      | Class           | Race           | Level           |
+| ------------------------- | ----------------- | ---------------- | --------------- | -------------- | --------------- |
+| ![[theodore_player.jpeg]] | `=this.file.name` | `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
 
 ```custom-frames
 frame: Theodore
-style: height: 1100px;
+style: height: 1150px;
 ```
 
