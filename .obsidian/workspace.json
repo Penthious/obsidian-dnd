@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd2a24f5e74cd80d",
+        "id": "f420b5a744a798bc",
         "type": "tabs",
         "children": [
           {
-            "id": "41300b113c42473e",
+            "id": "bd1053262ff64bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Campaign/Quests/Quests.md",
+                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Campaign/Quests/Quests.md",
+                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Campaign/Quests/Quests.md",
+                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Campaign/Quests/Quests.md"
+                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md"
               }
             }
           },
@@ -259,36 +259,73 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "41300b113c42473e",
+  "floating": {
+    "id": "94f3d53aae6c58cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5a2a1ef629427d4b",
+        "type": "window",
+        "children": [
+          {
+            "id": "351a95f8a9f25099",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "93f7301386c33aeb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2-Campaign/Quests/Gnomengarde.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 488,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bd1053262ff64bc8",
   "lastOpenFiles": [
-    "1-Party/Phandelver and Below Party/Rebecca.md",
     "1-Party/Phandelver and Below Party/Phandelver and Below Party.md",
+    "1-Party/Phandelver and Below Party/Theodore Burgundy.md",
+    "1-DM Toolkit/Home.md",
+    "2-Campaign/Quests/Gnomengarde.md",
+    "1-Party/Phandelver and Below Party/Mighty Meg.md",
+    "1-DM Toolkit/DM Board.md",
+    "1-DM Toolkit/DnD5e-DM Screen.md",
+    "1-DM Toolkit/Vault Report.md",
+    "1-DM Toolkit/Travel Calculator.md",
+    "1-DM Toolkit/Map Calculator.md",
+    "1-DM Toolkit/Journey Board.md",
+    "1-DM Toolkit/DnD5e-SideScreen.md",
+    "2-Mechanics/CLI/books/players-handbook/08-using-ability-scores.md",
+    "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/17-creatures.md",
+    "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/01-running-the-adventure.md",
+    "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/08-gnomengarde.md",
     "2-Campaign/Quests/Quests.md",
+    "2-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/03-chapter-2-trouble-in-phandalin.md",
+    "2-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/02-chapter-1-a-dangerous-journey.md",
+    "2-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/01-welcome-to-phandalin.md",
+    "1-Session Journals/2024-06-07.md",
+    "1-Party/Phandelver and Below Party/Rebecca.md",
     "2-Campaign/Quests/Umbrage Hill.md",
     "2-Campaign/Quests/Halia's Job Offer.md",
     "2-Campaign/Quests/Daran's Suspicions.md",
-    "2-Campaign/Quests/Gnomengarde.md",
     "2-Campaign/Quests/Dangerous Trail.md",
-    "2-Campaign/Quests/Recover Lost goods.md",
-    "1-Party/Phandelver and Below Party/Valeria.md",
-    "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
-    "2-Campaign/Quests/Finding Iarno.md",
-    "2-Campaign/Quests/Finding Cragmaw Castle.md",
-    "1-Party/Phandelver and Below Party/Theodore Burgundy.md",
     "z_Assets/Player Images/valeria.jpeg",
     "z_Assets/Player Images/theodore.jpeg",
-    "2-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/03-chapter-2-trouble-in-phandalin.md",
-    "2-Mechanics/NPCs/Adabra Gwynn.md",
-    "2-Campaign/Quests/Dwarven Excavation.md",
-    "1-DM Toolkit/Home.md",
-    "1-DM Toolkit/DnD5e-DM Screen.md",
-    "1-DM Toolkit/DM Board.md",
-    "2-Mechanics/NPCs/Halia Thornton.md",
-    "2-Mechanics/NPCs/Toblen Stonehill.md",
-    "2-Mechanics/NPCs/Sister Garaele.md",
-    "2-Mechanics/NPCs/Daran Edermath.md",
-    "2-Mechanics/NPCs/Elmina Barthen.md",
-    "2-Mechanics/NPCs/Qelline Alderleaf.md",
     "2-Mechanics/CLI/rules/variant-rules",
     "2-Mechanics/CLI/books/xanathars-guide-to-everything",
     "2-Mechanics/CLI/books/volos-guide-to-monsters",

@@ -86,7 +86,7 @@ Wild magic is a kind of magic that can't be controlled, and Gnomengarde has long
 
 The following locations are keyed to the map of Gnomengarde.
 
-> [!gallery]
+
 > ![Map: Gnomengarde](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/DIP/019-map-gnomegarde-dm.webp#gallery)
 > ![Player Version](https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/adventure/DIP/020-map-gnomegarde-pc.webp#gallery)
 
