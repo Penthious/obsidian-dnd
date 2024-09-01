@@ -4,16 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "f420b5a744a798bc",
+        "id": "e8c936003425b024",
         "type": "tabs",
         "children": [
           {
-            "id": "bd1053262ff64bc8",
+            "id": "bfa1a416cc566874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
+                "file": "2-Campaign/Quests/Gnomengarde.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1803948db1867c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/08-gnomengarde.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb65759ed2a3fa87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Campaign/Quests/Dwarven Excavation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8e78423f219ef29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Party/Phandelver and Below Party/Portland.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4200e17bb5735a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "1bdd24cb80913cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/08-gnomengarde.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5ccb623d7477b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
+                "file": "2-Campaign/Quests/Gnomengarde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
+                "file": "2-Campaign/Quests/Gnomengarde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md"
+                "file": "2-Campaign/Quests/Gnomengarde.md"
               }
             }
           },
@@ -248,95 +318,52 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-gallery:Gallery": false
     }
   },
-  "floating": {
-    "id": "94f3d53aae6c58cc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5a2a1ef629427d4b",
-        "type": "window",
-        "children": [
-          {
-            "id": "351a95f8a9f25099",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "93f7301386c33aeb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-Campaign/Quests/Gnomengarde.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 488,
-        "y": 38,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bd1053262ff64bc8",
+  "active": "bfa1a416cc566874",
   "lastOpenFiles": [
-    "2-Mechanics/CLI/CLI/rules/variant-rules/wands-that-dont-recharge.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/tying-knots-xge.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/travel-at-sea-gos.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/tool-proficiencies-xge.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/survivors-vrgr.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/superior-ship-upgrades-gos.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/spellcasting-xge.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/spell-points.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/sleep-xge.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/skills-with-different-abilities.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/skill-variants.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/simultaneous-effects-xge.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/sidekicks-tce.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/ships-in-combat-gos.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/ship-stat-blocks-gos.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/shared-campaign-variant-rules-xge.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/scroll-mishaps.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/rest-variants.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/renown.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/random-ships-gos.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/proficiency-dice.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/plot-points.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/playing-on-a-grid.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/player-characters-as-vampires.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/player-characters-as-lycanthropes.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules/planar-effects.md",
-    "2-Mechanics/CLI/CLI/rules/variant-rules",
-    "2-Mechanics/CLI/CLI/books/sword-coast-adventurers-guide",
-    "2-Mechanics/CLI/CLI/books/xanathars-guide-to-everything",
-    "2-Mechanics/CLI/CLI/books/volos-guide-to-monsters",
-    "2-Mechanics/CLI/CLI/books/players-handbook",
-    "2-Mechanics/CLI/CLI/books/mordenkainens-tome-of-foes",
-    "2-Mechanics/CLI/CLI/books/monster-manual",
-    "2-Mechanics/CLI/CLI/books/dungeon-masters-guide",
-    "2-Mechanics/CLI/CLI/bestiary/undead",
-    "2-Mechanics/CLI/CLI/bestiary/plant",
-    "z_Assets/Player Images/valeria.jpeg",
-    "z_Assets/Player Images/theodore.jpeg",
+    "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/08-gnomengarde.md",
+    "2-Campaign/Quests/Dwarven Excavation.md",
+    "2-Campaign/Quests/Gnomengarde.md",
+    "2-Campaign/Quests/Quests.md",
+    "2-Mechanics/CLI/items/clockwork-amulet-xge.md",
+    "2-Mechanics/CLI/items/items.md",
+    "1-Party/Phandelver and Below Party/Valeria.md",
+    "1-Party/Phandelver and Below Party/Theodore Burgundy.md",
+    "1-Party/Phandelver and Below Party/Sarkhaan Alegruuth.md",
+    "1-Party/Phandelver and Below Party/Rebecca.md",
+    "1-Party/Phandelver and Below Party/Mighty Meg.md",
+    "2-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/03-chapter-2-trouble-in-phandalin.md",
+    "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/14-umbrage-hill.md",
+    "2-Campaign/Quests/Umbrage Hill.md",
+    "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/19-printable-assets.md",
+    "2-Campaign/Quests/Finding Cragmaw Castle.md",
+    "2-Campaign/Quests/Finding Iarno.md",
+    "2-Campaign/Quests/Sister Garaele's Bargain.md",
+    "2-Campaign/Quests/Dangerous Trail.md",
+    "2-Mechanics/CLI/rules/variant-rules/action-options.md",
+    "2-Mechanics/CLI/tables/athreoss-quests-mot.md",
+    "2-Mechanics/CLI/tables/a-dragons-curse-breaking-a-hoard-curse-ftd.md",
+    "2-Mechanics/CLI/tables/10-gp-gemstones.md",
+    "2-Mechanics/CLI/decks/deck-of-many-things.md",
+    "2-Mechanics/CLI/decks/decks.md",
+    "2-Mechanics/CLI/backgrounds/backgrounds.md",
+    "z_Assets/Player Images/valeria_player.jpeg",
+    "z_Assets/Player Images/theodore_player.jpeg",
+    "3-Mechanics/NPCs",
+    "3-Mechanics",
     "z_Assets/Player Images/sarkhaan_player.jpeg",
+    "z_Assets/Player Images/sarkhaan_player.jpeg.crdownload",
     "z_Assets/Player Images/rebecca_player.jpeg",
     "z_Assets/Decks/Business Card Dungeon/Dungeon15.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon12.png",
@@ -344,6 +371,13 @@
     "z_Assets/Decks/Business Card Dungeon/Dungeon7.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon5.png",
     "z_Assets/Decks/Business Card Dungeon/Dungeon3.png",
+    "zz_asset/Player Images",
+    "zz_asset",
+    "z_Assets/Player Images/rebecca.jpeg.crdownload",
+    "z_Assets/Player Images/Rebecca's Character Sheet - D&D Beyond_files/analytics.js.download",
+    "z_Assets/Player Images/Rebecca's Character Sheet - D&D Beyond_files/sdk.js.download",
+    "z_Assets/Player Images/Rebecca's Character Sheet - D&D Beyond_files/gtm.js.download",
+    "z_Assets/Player Images/Rebecca's Character Sheet - D&D Beyond_files/es-module-shims.js.download",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]

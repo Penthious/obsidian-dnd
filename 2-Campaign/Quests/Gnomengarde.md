@@ -37,6 +37,13 @@ tags:
 - [[08-gnomengarde|Gnomengarde]]
 To complete the Gnomengarde Quest, the characters must obtain at least one magic item from the gnomes. Of the items they can secure, only the [hat of wizardry](app://obsidian.md/2-Mechanics/CLI/items/hat-of-wizardry-xge.md) interests Townmaster Harbin Wester, who offers to buy it for 50 gp even though he knows no one who can attune to it. However, the gnomes won't hand over any magic items until the characters speak to Fibblestib and Dabbledob in area G11.
 
+G3/5/8 signs of struggle
+G4/9/12 shares info about the kings madness, DC 18 CHA/intimidation
+G7 mimic madness, dc 12 cha
+G10 Danger! lever AC 15
+G11 borrowed spellbook, DC 15 CHA
+G11 Magic items: [[hat-of-wizardry-xge|Hat of Wizardry]], [[wand-of-pyrotechnics-xge]], [[clockwork-amulet-xge|Clockwork Amulet]], [[pole-of-collapsing-xge|Pole of Collapsing]]
+
 G4
 - Joybell (female) uses a poker to stoke the fire of a hot iron stove standing against the east wall.
 - Dimble (male) uses a complicated press-like contraption to squeeze oil out of a big red mushroom and filter the liquid into four oil flasks.
