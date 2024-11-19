@@ -16,7 +16,9 @@
                 "file": "2-Campaign/Quests/Gnomengarde.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gnomengarde"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/08-gnomengarde.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "08-gnomengarde"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "2-Campaign/Quests/Dwarven Excavation.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Dwarven Excavation"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "1-Party/Phandelver and Below Party/Portland.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Portland"
             }
           },
           {
@@ -62,7 +70,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.7"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.7"
             }
           },
           {
@@ -74,7 +84,9 @@
                 "file": "2-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/08-gnomengarde.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "08-gnomengarde"
             }
           },
           {
@@ -86,7 +98,9 @@
                 "file": "1-DM Toolkit/DM Board.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DM Board"
             }
           }
         ]
@@ -109,7 +123,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -124,7 +140,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -132,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -146,7 +166,9 @@
                 "mode": "preview",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DnD5e-SideScreen"
             }
           },
           {
@@ -160,7 +182,9 @@
                 "mode": "preview",
                 "source": true
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Board"
             }
           }
         ]
@@ -191,7 +215,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gnomengarde"
             }
           },
           {
@@ -203,7 +229,9 @@
                 "file": "2-Campaign/Quests/Gnomengarde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gnomengarde"
             }
           },
           {
@@ -214,7 +242,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -224,7 +254,9 @@
               "type": "outline",
               "state": {
                 "file": "2-Campaign/Quests/Gnomengarde.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gnomengarde"
             }
           },
           {
@@ -232,7 +264,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -240,7 +274,9 @@
             "type": "leaf",
             "state": {
               "type": "help-mate",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -252,7 +288,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -260,15 +298,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b17e9d619991a46b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -276,7 +308,9 @@
             "type": "leaf",
             "state": {
               "type": "MAIN_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -284,7 +318,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-rebecca",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -292,11 +328,33 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-portland",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2c9f7da886d7c84b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cbe869a63d9b5296",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -324,9 +382,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-gallery:Gallery": false
     }
   },
